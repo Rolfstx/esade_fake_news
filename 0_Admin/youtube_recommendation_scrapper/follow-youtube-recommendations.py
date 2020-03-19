@@ -15,7 +15,7 @@ import sys
 import argparse
 import time
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup4
 
 RECOMMENDATIONS_PER_VIDEO = 1
 RESULTS_PER_SEARCH = 1
@@ -201,7 +201,7 @@ class YoutubeFollower():
                 print ('WARNING Could not get a UP NEXT RECOMMENDATION')
                 pass
 
-        for video_list in soup.findAll('li', {'class':"video-list-item related-list-item show-video-time related-list-item-compact-video"}):    
+        for video_list in soup.findAll('li', {'class':"video-list-item related-list-item show-video-time related-list-item-compact-video"}):
             try:
                 recos.append(video_list.contents[1].contents[1]['href'].replace('/watch?v=', ''))
             except IndexError:

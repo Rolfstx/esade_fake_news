@@ -6,4 +6,4 @@ python2.7 follow-youtube-recommendations.py --query="global warming" --searches=
 --searches: number of search results from the query to start with
 --branch: branching factor = number of recommendations that are followed
 --name: name under which it will be saved
---alltime: add this option if you want to start from the most viewed videos for the query (using the option filter by viewcount on youtube)
+--alltime: add this option if you want to start from the most viewed videos for the query (using the option filter by viewcount on youtube)=
