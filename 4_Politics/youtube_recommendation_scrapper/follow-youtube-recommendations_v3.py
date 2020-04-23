@@ -300,14 +300,14 @@ class YoutubeFollower():
     def like_ratio_is_computed(self, video):
         return int(video['likes']) > MIN_LIKES_FOR_LIKE_RATIO
 
-    def print_graph(self, links_per_video, only_mature_videos=True):
+    def print_graph(self, links_per_video, keyword, only_mature_videos=True):
         """
             Prints a file with a graph containing all videos.
         """
         input_links_counts = self.count_recommendation_links()
         graph = {}
         nodes = []
-        links = []
+        #links = []
         for video_id in self._video_infos:
             video = self._video_infos[video_id]
             if self.like_ratio_is_computed(video):
@@ -317,21 +317,21 @@ class YoutubeFollower():
 
             nodes.append({'id': video_id, 'size': input_links_counts.get(video_id, 0), 'popularity': popularity, 'type': 'circle',
                           'likes': video['likes'], 'dislikes': video['dislikes'], 'views': video['views'], 'depth': video['depth']})
-            link = 0
-            for reco in self._video_infos[video_id]['recommendations']:
-                if reco in self._video_infos:
-                    links.append({'source': video_id, 'target': reco, 'value': 1})
-                    link += 1
-                    if link >= links_per_video:
-                        break
+            #link = 0
+            # for reco in self._video_infos[video_id]['recommendations']:
+            #    if reco in self._video_infos:
+            #        links.append({'source': video_id, 'target': reco, 'value': 1})
+            #        link += 1
+            #        if link >= links_per_video:
+            #            break
         graph['nodes'] = nodes
-        graph['links'] = links
-        with open('./graph-' + self._name + '.json', 'w') as fp:
-            json.dump(graph, fp)
+        #graph['links'] = links
+        # with open('./graph-' + self._name + '.json', 'w') as fp:
+        #    json.dump(graph, fp)
         date = time.strftime('%Y-%m-%d')
-        with open('./graph-' + self._name + '-' + date + '.json', 'w') as fp:
+        with open('graph/' + keyword + '-' + date + '.json', 'w') as fp:
             json.dump(graph, fp)
-        print('Wrote graph as: ' + './graph-' + self._name + '-' + date + '.json')
+        print('Wrote graph as: ' + 'graph/' + keyword + '-' + date + '.json')
 
     def print_videos(self, videos, counts, max_length):
         idx = 1
@@ -387,6 +387,7 @@ def compare_keywords(query, search_results, branching, depth, name, gl, language
         top_videos[keyword] = yf.get_top_videos(top_recommended, counts, 1000)
         yf.print_videos(top_recommended, counts, 50)
         yf.save_video_infos(name + '-' + keyword)
+        yf.print_graph(10, keyword=name + '-' + keyword)
 
     with open(file_name, 'w') as fp:
         json.dump(top_videos, fp)
