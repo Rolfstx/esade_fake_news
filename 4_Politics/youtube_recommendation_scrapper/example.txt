@@ -11,7 +11,13 @@ python2.7 follow-youtube-recommendations.py --query="Joe Biden" --searches=1 --b
 # to install bs4
 sudo python2.7 -m pip install bs4
 
+***********************************
 
 time python2.7 follow-youtube-recommendations_v3.py --query="Hillary Clinton" --searches=1 --branch=10 --depth=6 --name="Clinton_v11_d6" --gl="US" --language="en" --"loopok"=True
 
 depth = 6, time = 86 minutes, videos = +4000
+
+**********************************
+
+time python2.7 follow-youtube-recommendations_v3.py --query="Joe Biden" --searches=1 --branch=5 --depth=7 --name="biden_v2_b5_d7" --gl="US" --language="en" --"loopok"=True
+
