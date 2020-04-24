@@ -13,3 +13,5 @@ sudo python2.7 -m pip install bs4
 
 
 time python2.7 follow-youtube-recommendations_v3.py --query="Hillary Clinton" --searches=1 --branch=10 --depth=6 --name="Clinton_v11_d6" --gl="US" --language="en" --"loopok"=True
+
+depth = 6, time = 86 minutes, videos = +4000
