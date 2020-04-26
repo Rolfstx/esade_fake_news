@@ -16,7 +16,7 @@ allids <- unique(allids)
 URL_base='https://www.googleapis.com/youtube/v3/videos?id=' #this is the base URL
 URL_details='&part=contentDetails&key='                     #getting contentDetail for technical metadata
 URL_key='AIzaSyDshWBYU8ibrGWh7bScYa-DCVGA9gumqI0'
-cred <- yt_oauth(app_id = "USE YOUR APP_ID", app_secret = "USE YOUR APP_SECRET", scope = "ssl", token = ".httr-oauth")
+#cred <- yt_oauth(app_id = "USE YOUR APP_ID", app_secret = "USE YOUR APP_SECRET", scope = "ssl", token = ".httr-oauth")
 allids2 <- base::as.list(allids)
 
 #Loop through URLS to retrieve basic info (duration, format)
