@@ -3,16 +3,14 @@
 #install.packages("jsonlite")
 #install.packages("tuber")
 
+
 #Load libraries
 library(RCurl)
 library(jsonlite)
 library(tuber)
 
 #Clean the list, remove the datestamps and keep unique IDs, as soom are repeated
-allids <- read.table("~/Documents/GitHub/esade_fake_news/4_Politics/youtube_recommendation_scrapper/data/csv/_old/unique_id.csv", header=TRUE)
-
-allids <- read.table("~/Documents/covid_20200426_unique_depth6_branch5.csv", header=TRUE)
-
+allids <- read.table("~/Documents/GitHub/esade_fake_news/4_Politics/youtube_recommendation_scrapper/data/csv/biden_20200427_unique_ids.csv", header=TRUE)
 
 allids <- unique(allids)
 
@@ -45,24 +43,48 @@ alldata2 = data.frame()
 URL_details2='&part=snippet&key='                     #getting snippet for general metadata
 
 for(i in 1:nrow(allids)){
-  cat('Iteracio', i, '/', nrow(allids), '\n')
-  url2 = paste(URL_base, allids[i, ], URL_details2, URL_key, sep = "")
-  dd2 <- getURL(url2)
-  result2 <- fromJSON(dd2)
-  id2 = result2$items$id[[1]]
-  publishedAt = result2$items$snippet$publishedAt
-  channelid = result2$items$snippet$channelId
-  channeltitle = result2$items$snippet$channelTitle
-  title = result2$items$snippet$title
-  description = result2$items$snippet$description
-  tag = result2$items$snippet$tags
-  category = result2$items$snippet$categoryId
-  alldata2 = rbind(alldata2, data.frame(id2, title, description, publishedAt, channelid, channeltitle, category))
+  tryCatch({
+    cat('Iteracio', i, '/', nrow(allids), '\n')
+    url2 = paste(URL_base, allids[i, ], URL_details2, URL_key, sep = "")
+    dd2 <- getURL(url2)
+    result2 <- fromJSON(dd2)
+    id2 = result2$items$id[[1]]
+    publishedAt = result2$items$snippet$publishedAt
+    channelid = result2$items$snippet$channelId
+    channeltitle = result2$items$snippet$channelTitle
+    title = result2$items$snippet$title
+    description = result2$items$snippet$description
+    tag = result2$items$snippet$tags
+    category = result2$items$snippet$categoryId
+    alldata2 = rbind(alldata2, data.frame(id2, title, description, publishedAt, channelid, channeltitle, category))
+  }, error=function(e){cat("Error at row:", i, "\n")}
+  )
 } 
+
+
 
 # Video statistics (likes, views, etc.) - Youtube API part: statistics
 alldata3 = data.frame()
+error3=0
 URL_details3='&part=statistics&key='                     #getting statistics for technical metadata
+
+for(i in 1:nrow(allids)){
+  tryCatch({
+    cat('Iteracio', i, '/', nrow(allids), '\n')
+    url3 = paste(URL_base, allids[i, ], URL_details3, URL_key, sep = "")
+    dd3 <- getURL(url3)
+    result3 <- fromJSON(dd3)
+    id3 = result3$items$id[[1]]
+    views = result3$items$statistics$viewCount
+    likes = result3$items$statistics$likeCount
+    dislikes = result3$items$statistics$dislikeCount
+    favorite = result3$items$statistics$favoriteCount
+    comments = result3$items$statistics$commentCount
+    alldata3 = rbind(alldata3, data.frame(id3, views, likes, dislikes, favorite, comments))
+  }, error=function(e){cat("Error at row:", i, "\n")
+      error3= error3 + 1}
+  )
+} 
 
 for(i in 1:nrow(allids)){
   cat('Iteracio', i, '/', nrow(allids), '\n')
@@ -76,8 +98,7 @@ for(i in 1:nrow(allids)){
   favorite = result3$items$statistics$favoriteCount
   comments = result3$items$statistics$commentCount
   alldata3 = rbind(alldata3, data.frame(id3, views, likes, dislikes, favorite, comments))
-} 
-if(hours > 100) net.price <- net.price * 0.9
+}
 
 # Save files as
 alldata4 = merge(alldata, alldata2, by.x='id', by.y="id2")
