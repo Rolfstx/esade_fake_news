@@ -10,12 +10,16 @@ library(tuber)
 
 #Clean the list, remove the datestamps and keep unique IDs, as soom are repeated
 allids <- read.table("~/Documents/GitHub/esade_fake_news/4_Politics/youtube_recommendation_scrapper/data/csv/_old/unique_id.csv", header=TRUE)
+
+allids <- read.table("~/Documents/covid_20200426_unique_depth6_branch5.csv", header=TRUE)
+
+
 allids <- unique(allids)
 
 #Build a URL to call the API
 URL_base='https://www.googleapis.com/youtube/v3/videos?id=' #this is the base URL
 URL_details='&part=contentDetails&key='                     #getting contentDetail for technical metadata
-URL_key='AIzaSyDshWBYU8ibrGWh7bScYa-DCVGA9gumqI0'
+URL_key=''
 #cred <- yt_oauth(app_id = "USE YOUR APP_ID", app_secret = "USE YOUR APP_SECRET", scope = "ssl", token = ".httr-oauth")
 allids2 <- base::as.list(allids)
 
@@ -73,6 +77,7 @@ for(i in 1:nrow(allids)){
   comments = result3$items$statistics$commentCount
   alldata3 = rbind(alldata3, data.frame(id3, views, likes, dislikes, favorite, comments))
 } 
+if(hours > 100) net.price <- net.price * 0.9
 
 # Save files as
 alldata4 = merge(alldata, alldata2, by.x='id', by.y="id2")
