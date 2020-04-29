@@ -119,6 +119,9 @@ for(i in 1:nrow(allids)){
 #write to csv in case something goes wrong.
 write.csv(alldata, "data/statistics_biden_v1.csv")
 
+#merge data
+alldata4 = merge(alldata, alldata2, by.x='id', by.y="id2")
+alldata5 = merge(alldata4, alldata3, by.x='id', by.y="id3")
 
 #### LOOP 4 ####
 
@@ -144,10 +147,7 @@ for(i in 1:nrow(unique_category)){
 
 
 # Save files as
-alldata4 = merge(alldata, alldata2, by.x='id', by.y="id2")
-alldata5 = merge(alldata4, alldata3, by.x='id', by.y="id3")
 alldata7 = merge(alldata5, alldata6, by.x='category', by.y="id4", all=TRUE)
-
 write.csv(alldata7, "data/biden_v1.csv")
 
 #Group by category to check distribution of videos against categories.
