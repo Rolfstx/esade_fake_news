@@ -26,3 +26,5 @@ time python2.7 follow-youtube-recommendations_v3.py --query="Joe Biden" --search
 npm youtube-explore-to-gexf --filename=video-infos-Clinton_v2-Hillary Clinton-20200423.json > clinton.gexf
 
 node index.js --filename=video-infos-Clinton_v2-Hillary Clinton-20200423.json > clinton_v2.gexf
+
+

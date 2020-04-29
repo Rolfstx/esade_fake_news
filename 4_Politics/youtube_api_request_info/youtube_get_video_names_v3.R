@@ -3,23 +3,33 @@
 #install.packages("jsonlite")
 #install.packages("tuber")
 
-
 #Load libraries
 library(RCurl)
 library(jsonlite)
 library(tuber)
+library(data.table)
 
-#Clean the list, remove the datestamps and keep unique IDs, as soom are repeated
+#Import only unique video IDs
 allids <- read.table("~/Documents/GitHub/esade_fake_news/4_Politics/youtube_recommendation_scrapper/data/csv/biden_20200427_unique_ids.csv", header=TRUE)
-
-allids <- unique(allids)
 
 #Build a URL to call the API
 URL_base='https://www.googleapis.com/youtube/v3/videos?id=' #this is the base URL
 URL_details='&part=contentDetails&key='                     #getting contentDetail for technical metadata
+
+###### INSERT API KEY #######
+#create API from here: https://console.developers.google.com/
+#click on "Credentials" -> "Create Credentials" -> "API KEY" -> Copy paste below in "URL_key"
+#enable youtube data api v3: https://console.developers.google.com/apis/library/youtube.googleapis.com
+#API has a 10'000 limit request per day. Checked here: https://console.developers.google.com/apis/api/youtube.googleapis.com/quotas
+
 URL_key=''
-#cred <- yt_oauth(app_id = "USE YOUR APP_ID", app_secret = "USE YOUR APP_SECRET", scope = "ssl", token = ".httr-oauth")
+
+
 allids2 <- base::as.list(allids)
+
+
+
+#### LOOP 1 ####
 
 #Loop through URLS to retrieve basic info (duration, format)
 alldata = data.frame()
@@ -38,9 +48,19 @@ for(i in 1:nrow(allids)){
   alldata = rbind(alldata, data.frame(id, duration, caption, definition))
 } 
 
+#write to csv in case something goes wrong.
+write.csv(alldata, "data/contentDetails_biden_v1.csv")
+
+
+
+#### LOOP 2 ####
+
 # Video info (title, description, etc.) - Youtube API part: snippet
 alldata2 = data.frame()
 URL_details2='&part=snippet&key='                     #getting snippet for general metadata
+
+## common error -> lexical error (problem with the text) in description field.
+## Thus, tryCatch function to skip errors
 
 for(i in 1:nrow(allids)){
   tryCatch({
@@ -62,11 +82,22 @@ for(i in 1:nrow(allids)){
 } 
 
 
+#write to csv in case something goes wrong.
+write.csv(alldata, "data/snippet_biden_v1.csv")
+
+#### LOOP 3 ####
+
+# change API key ##########
+# if you have another google account, create an API key for that account. 
+# if you don't wait 24 hours to have enough credits to start. 
+URL_key=''
 
 # Video statistics (likes, views, etc.) - Youtube API part: statistics
 alldata3 = data.frame()
-error3=0
 URL_details3='&part=statistics&key='                     #getting statistics for technical metadata
+
+## common error -> comments are disabled, which returns an error.
+## Thus, tryCatch function to skip errors
 
 for(i in 1:nrow(allids)){
   tryCatch({
@@ -81,47 +112,44 @@ for(i in 1:nrow(allids)){
     favorite = result3$items$statistics$favoriteCount
     comments = result3$items$statistics$commentCount
     alldata3 = rbind(alldata3, data.frame(id3, views, likes, dislikes, favorite, comments))
-  }, error=function(e){cat("Error at row:", i, "\n")
-      error3= error3 + 1}
+  }, error=function(e){cat("Error at row:", i, "\n")}
   )
 } 
 
-for(i in 1:nrow(allids)){
-  cat('Iteracio', i, '/', nrow(allids), '\n')
-  url3 = paste(URL_base, allids[i, ], URL_details3, URL_key, sep = "")
-  dd3 <- getURL(url3)
-  result3 <- fromJSON(dd3)
-  id3 = result3$items$id[[1]]
-  views = result3$items$statistics$viewCount
-  likes = result3$items$statistics$likeCount
-  dislikes = result3$items$statistics$dislikeCount
-  favorite = result3$items$statistics$favoriteCount
-  comments = result3$items$statistics$commentCount
-  alldata3 = rbind(alldata3, data.frame(id3, views, likes, dislikes, favorite, comments))
+#write to csv in case something goes wrong.
+write.csv(alldata, "data/statistics_biden_v1.csv")
+
+
+#### LOOP 4 ####
+
+#retrieve category of each video
+unique_category = data.frame(unique(alldata5$category))
+write.csv(unique_category, "data/biden_category_list.csv")
+alldata6 = data.frame()
+URL_base2='https://www.googleapis.com/youtube/v3/videoCategories?id='
+URL_details4='&part=snippet&key='  
+
+for(i in 1:nrow(unique_category)){
+  tryCatch({
+    cat('Iteracio', i, '/', nrow(unique_category), '\n')
+    url4 = paste(URL_base2, unique_category[i, ], URL_details4, URL_key, sep = "")
+    dd4 <- getURL(url4)
+    result4 <- fromJSON(dd4)
+    id4 = result4$items$id[[1]]
+    category = result4$items$snippet$title
+    alldata6 = rbind(alldata6, data.frame(id4, category))
+  }, error=function(e){cat("Error at row:", i, "\n")}
+  )
 }
+
 
 # Save files as
 alldata4 = merge(alldata, alldata2, by.x='id', by.y="id2")
 alldata5 = merge(alldata4, alldata3, by.x='id', by.y="id3")
+alldata7 = merge(alldata5, alldata6, by.x='category', by.y="id4", all=TRUE)
 
-write.csv(alldata5, "data/test.csv")
+write.csv(alldata7, "data/biden_v1.csv")
 
-# Visualize some variables
-youtube_likes_comments_v1 <- read_excel("~/Dropbox (IESE)/PhD/PhD Thesis/Algorithm Youtube/Datasets Test/youtube_likes_comments_v1.xlsx")
-dataset <- youtube_likes_comments_v1
-
-# Views
-ggplot(dataset,aes(views)) + geom_histogram(colour="darkblue", size=1, fill="blue") + scale_x_continuous(labels = comma)
-
-# Likes
-ggplot(dataset,aes(likes)) + geom_histogram(colour="darkred", size=1, fill="red") + scale_x_continuous(labels = comma)
-
-# Comments
-ggplot(dataset,aes(comments)) + geom_histogram(colour="darkgreen", size=1, fill="green") + scale_x_continuous(labels = comma)
-
-
-'https://www.googleapis.com/youtube/v3/videoCategories?part=snippet&id=25&key=AIzaSyDshWBYU8ibrGWh7bScYa-DCVGA9gumqI0
-
-https://www.googleapis.com/youtube/v3/videoCategories?part=snippet&id=25&key=AIzaSyDshWBYU8ibrGWh7bScYa-DCVGA9gumqI0
-
-https://www.googleapis.com/youtube/v3/guideCategories
+#Group by category to check distribution of videos against categories.
+alldata8 = setDT(alldata7)
+alldata8[, .N, by='category.y']
