@@ -1,0 +1,922 @@
+pubdate,views,dislikes,likes,duration,id,mult,title,nb_recommendations,depth,channel,key
+2018-04-01,2778930,24533,40596,450,e5ACN9iF8Jw,0.12301425661914402,5 Facts That Prove The Earth Is Flat,2,6,Engineering Explained,1
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1a
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,1aa
+2017-07-17,12367365,8272,266001,1591,mxhxL1LzKww,2.460285132382892,How Much of the Earth Can You See at Once?,40,1,Vsauce,1aaa
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,1aaaa
+2017-07-17,12367365,8272,266001,1591,mxhxL1LzKww,2.460285132382892,How Much of the Earth Can You See at Once?,40,1,Vsauce,1aaaaa
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,1aaaab
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,1aaaac
+2015-09-15,15796582,4402,415226,1265,fCn8zs912OE,2.214256619144603,The Zipf Mystery,36,1,Vsauce,1aaab
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,1aaaba
+2017-01-21,10465853,4031,349530,1557,skvnj67YGmw,2.029735234215886,The Brachistochrone,33,1,Vsauce,1aaabb
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,1aaabc
+2016-11-10,10484828,4642,277673,1117,KUddy8RGwns,1.045621181262729,Is It Okay to Touch Mars?,17,1,Vsauce,1aaac
+2017-07-17,12367365,8272,266001,1591,mxhxL1LzKww,2.460285132382892,How Much of the Earth Can You See at Once?,40,1,Vsauce,1aaaca
+2019-01-02,-1,-1,-1,1567,xna-kdXZQHQ,1.845213849287169,How to Talk to Aliens,30,1,Vsauce,1aaacb
+2017-11-02,15399351,7941,429229,1571,Xc4xYacTu-E,0.79959266802444,Which Way Is Down?,13,1,Vsauce,1aaacc
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,1aab
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,1aaba
+2017-07-17,12367365,8272,266001,1591,mxhxL1LzKww,2.460285132382892,How Much of the Earth Can You See at Once?,40,1,Vsauce,1aabaa
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,1aabab
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,1aabac
+2017-01-21,10465853,4031,349530,1557,skvnj67YGmw,2.029735234215886,The Brachistochrone,33,1,Vsauce,1aabb
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,1aabba
+2017-11-02,15399351,7941,429229,1571,Xc4xYacTu-E,0.79959266802444,Which Way Is Down?,13,1,Vsauce,1aabbb
+2016-12-10,8179703,4053,235480,1051,XHGKIzCcVa0,0.49205702647657806,Spinning,8,1,Vsauce,1aabbc
+2015-09-15,15796582,4402,415226,1265,fCn8zs912OE,2.214256619144603,The Zipf Mystery,36,1,Vsauce,1aabc
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,1aabca
+2017-01-21,10465853,4031,349530,1557,skvnj67YGmw,2.029735234215886,The Brachistochrone,33,1,Vsauce,1aabcb
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,1aabcc
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,1aac
+2011-07-05,4467994,1833,13200,4844,SvaG0xDdP8g,2.39877800407332,The Space Shuttle (Narrated by William Shatner),39,1,NASA,1aaca
+2012-08-25,4619131,3343,9420,5230,3TrNN_eTau0,0.6765784114052951,Armstrong Hosts NASA 50th Anniversary Documentary,11,1,NASA,1aacaa
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,1aacab
+2014-07-16,4887202,3460,10888,3465,GNJpoP642wc,1.968228105906313,The Journeys of Apollo,32,1,NASA,1aacac
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,1aacb
+2015-01-26,6399770,3921,87034,1521,7zpojhD4hpI,1.414663951120162,The Curious Life of a Mars Rover | Nat Geo Live,23,1,National Geographic,1aacba
+2012-11-19,5254310,1600,36467,1505,doN4t5NKW-k,1.722199592668024,Departing Space Station Commander Provides Tour of Orbital Laboratory,28,1,NASA,1aacbb
+2013-09-18,28924176,17674,145484,1320,5KygwcZ545U,1.3531568228105901,Shuttle Atlantis STS-132 - Amazing Shuttle Launch Experience,22,1,Jonathan Mickelson,1aacbc
+2014-07-16,4887202,3460,10888,3465,GNJpoP642wc,1.968228105906313,The Journeys of Apollo,32,1,NASA,1aacc
+2011-07-05,4467994,1833,13200,4844,SvaG0xDdP8g,2.39877800407332,The Space Shuttle (Narrated by William Shatner),39,1,NASA,1aacca
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,1aaccb
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,1aaccc
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,1ab
+2013-06-03,14712421,4378,359146,692,L45Q1_psDqk,1.845213849287169,Is Anything Real?,30,1,Vsauce,1aba
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,1abaa
+2013-06-03,14712421,4378,359146,692,L45Q1_psDqk,1.845213849287169,Is Anything Real?,30,1,Vsauce,1abaaa
+2015-09-23,15834707,5494,355417,1332,GDrBIKOR01c,2.39877800407332,Messages For The Future,39,1,Vsauce,1abaab
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,1abaac
+2014-09-10,20760229,7464,429785,885,sHCHEykUxP4,1.045621181262729,Spooky Coincidences?,17,1,Vsauce,1abab
+2019-10-24,5319176,4043,227533,2441,9Vmwsg8Eabo,1.230142566191446,What Is The Scariest Thing?,20,1,Vsauce,1ababa
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,1ababb
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,1ababc
+2019-01-02,-1,-1,-1,1567,xna-kdXZQHQ,1.845213849287169,How to Talk to Aliens,30,1,Vsauce,1abac
+2019-01-09,-1,-1,-1,1707,BR-eMMCp7tg,0.49205702647657806,Behavior and Belief,8,1,Vsauce,1abaca
+2013-02-01,12616817,3312,184982,770,lD08CuUi_Ek,0.79959266802444,Will We Ever Visit Other Stars?,13,1,Vsauce,1abacb
+2018-12-26,-1,-1,-1,1865,zRxI0DaQrag,1.4761710794297351,Should I Die?,24,1,Vsauce,1abacc
+2015-09-23,15834707,5494,355417,1332,GDrBIKOR01c,2.39877800407332,Messages For The Future,39,1,Vsauce,1abb
+2013-07-12,11810294,2997,188210,637,gCBlAAtJA54,0.9226069246435841,Are We Ready For Aliens?,15,1,Vsauce,1abba
+2013-02-01,12616817,3312,184982,770,lD08CuUi_Ek,0.79959266802444,Will We Ever Visit Other Stars?,13,1,Vsauce,1abbaa
+2015-09-23,15834707,5494,355417,1332,GDrBIKOR01c,2.39877800407332,Messages For The Future,39,1,Vsauce,1abbab
+2014-09-10,20760229,7464,429785,885,sHCHEykUxP4,1.045621181262729,Spooky Coincidences?,17,1,Vsauce,1abbac
+2019-10-24,5319176,4043,227533,2441,9Vmwsg8Eabo,1.230142566191446,What Is The Scariest Thing?,20,1,Vsauce,1abbb
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,1abbba
+2017-12-06,-1,-1,-1,1998,U3lWVLuc6CE,0.430549898167006,The Psychedelic Experience - Mind Field S2 (Ep 2),7,1,Vsauce,1abbbb
+2019-01-02,-1,-1,-1,1567,xna-kdXZQHQ,1.845213849287169,How to Talk to Aliens,30,1,Vsauce,1abbbc
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,1abbc
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,1abbca
+2017-01-21,10465853,4031,349530,1557,skvnj67YGmw,2.029735234215886,The Brachistochrone,33,1,Vsauce,1abbcb
+2015-09-15,15796582,4402,415226,1265,fCn8zs912OE,2.214256619144603,The Zipf Mystery,36,1,Vsauce,1abbcc
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,1abc
+2018-12-26,-1,-1,-1,1865,zRxI0DaQrag,1.4761710794297351,Should I Die?,24,1,Vsauce,1abca
+2019-01-02,-1,-1,-1,1567,xna-kdXZQHQ,1.845213849287169,How to Talk to Aliens,30,1,Vsauce,1abcaa
+2017-12-27,-1,-1,-1,1573,wcPzTr-BbAA,0.5535641547861501,Divergent Minds - Mind Field S2 (Ep 7),9,1,Vsauce,1abcab
+2017-01-25,-1,-1,-1,1535,zD68reVP0Ek,0.738085539714867,Destruction - Mind Field (Ep 3),12,1,Vsauce,1abcac
+2017-01-18,27553406,27502,547756,2086,iqKdEhx-dD4,0.9841140529531561,Isolation - Mind Field (Ep 1),16,1,Vsauce,1abcb
+2017-01-18,-1,-1,-1,1391,fbyIYXEu-nQ,0.307535641547861,Conformity - Mind Field (Ep 2),5,1,Vsauce,1abcba
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,1abcbb
+2017-01-25,-1,-1,-1,1535,zD68reVP0Ek,0.738085539714867,Destruction - Mind Field (Ep 3),12,1,Vsauce,1abcbc
+2016-11-12,21103309,11796,325668,906,1KgSp94nCZw,0.9841140529531561,The Chilling Exorcism Of Anneliese Michel,16,1,BuzzFeed Multiplayer,1abcc
+2016-10-26,24616501,9350,399337,2778,Mx8JkGHaGUI,0.307535641547861,3 Horrifying Cases Of Ghosts And Demons,5,1,BuzzFeed Multiplayer,1abcca
+2016-07-29,20969683,19876,287813,898,3C9wZf88y4Q,0.369042769857433,The Secret Society Of The Illuminati,6,1,BuzzFeed Multiplayer,1abccb
+2016-12-03,13700406,3928,221625,894,6U_avfWqwf4,0.307535641547861,The Bizarre Toxic Death Of Gloria Ramirez,5,1,BuzzFeed Multiplayer,1abccc
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,1ac
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,1aca
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,1acaa
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,1acaaa
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,1acaab
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,1acaac
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,1acab
+2014-07-17,10107622,9064,40040,10951,S9HdPi9Ikhk,1.3531568228105901,Restored Apollo 11 Moonwalk - Original NASA EVA Mission Video - Walking on the Moon,22,1,NASA,1acaba
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,1acabb
+2018-12-02,487980,1114,13561,3433,3lBpuBqxDVA,1.5376782077393072,Meeting & Interviewing A Flat-Earther!,25,1,Alfie Deyes,1acabc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1acac
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,1acaca
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,1acacb
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,1acacc
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,1acb
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,1acba
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,1acbaa
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,1acbab
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1acbac
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,1acbb
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1acbba
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,1acbbb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,1acbbc
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,1acbc
+2019-11-20,3063506,2498,134982,839,K-Fc08X56R0,1.845213849287169,3 Perplexing Physics Problems,30,1,Veritasium,1acbca
+2014-06-04,3589556,1735,47286,4942,0g8lANs6zpQ,2.644806517311609,The Magic of Chemistry - with Andrew Szydlo,43,1,The Royal Institution,1acbcb
+2019-10-04,4144300,940,105936,1102,ThwuT3_AG6w,1.845213849287169,Engineering with Origami,30,1,Veritasium,1acbcc
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,1acc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1acca
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,1accaa
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,1accab
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,1accac
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,1accb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,1accc
+2020-03-16,4348849,1771,108616,1589,tCqwT2MqLxI,2.767820773930753,Survivalist Les Stroud Breaks Down Survival Scenes from Movies | GQ,45,1,GQ,1accca
+2020-01-17,18350581,7797,363344,1608,-L7o6HtX8Vg,2.583299389002036,Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ,42,1,GQ,1acccb
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,1acccc
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,1b
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,1ba
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,1baa
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,1baaa
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,1baaaa
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,1baaab
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1baaac
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,1baab
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1baaba
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,1baabb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,1baabc
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,1baac
+2019-11-20,3063506,2498,134982,839,K-Fc08X56R0,1.845213849287169,3 Perplexing Physics Problems,30,1,Veritasium,1baaca
+2014-06-04,3589556,1735,47286,4942,0g8lANs6zpQ,2.644806517311609,The Magic of Chemistry - with Andrew Szydlo,43,1,The Royal Institution,1baacb
+2019-10-04,4144300,940,105936,1102,ThwuT3_AG6w,1.845213849287169,Engineering with Origami,30,1,Veritasium,1baacc
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,1bab
+2014-07-17,10107622,9064,40040,10951,S9HdPi9Ikhk,1.3531568228105901,Restored Apollo 11 Moonwalk - Original NASA EVA Mission Video - Walking on the Moon,22,1,NASA,1baba
+2019-07-20,3214956,3056,20295,11770,iR3oXFFISI0,1.107128309572301,Historic Apollo 11 Moonwalk Footage,18,1,NASA,1babaa
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,1babab
+2008-01-16,1757977,662,6493,3373,xwpgmEvlRpM,0.9226069246435841,The Moment in Time: The Manhattan Project,15,1,University of California Television (UCTV),1babac
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,1babb
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,1babba
+2020-03-13,897039,332,29618,2388,t93UCj1hzu8,1.230142566191446,Astronaut Chris Hadfield Answers the Web's Most Searched Questions | WIRED,20,1,WIRED,1babbb
+2019-09-18,3170703,1216,54552,994,TZkuQUCUYgM,1.414663951120162,Former NASA Astronaut Explains How Hygiene Is Different in Space | WIRED,23,1,WIRED,1babbc
+2018-12-02,487980,1114,13561,3433,3lBpuBqxDVA,1.5376782077393072,Meeting & Interviewing A Flat-Earther!,25,1,Alfie Deyes,1babc
+2018-12-09,271728,644,9894,3223,JLKIUnApa5o,0.861099796334012,Is The Earth Flat??? (Ft A Flat-Earther),14,1,Alfie Deyes,1babca
+2017-05-10,2640212,1630,23158,4962,AyAK3QBnMGQ,1.230142566191446,A mind-expanding tour of the cosmos with Neil deGrasse Tyson and Robert Krulwich,20,1,92nd Street Y,1babcb
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1babcc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1bac
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,1baca
+2017-07-17,12367365,8272,266001,1591,mxhxL1LzKww,2.460285132382892,How Much of the Earth Can You See at Once?,40,1,Vsauce,1bacaa
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,1bacab
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,1bacac
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,1bacb
+2013-06-03,14712421,4378,359146,692,L45Q1_psDqk,1.845213849287169,Is Anything Real?,30,1,Vsauce,1bacba
+2015-09-23,15834707,5494,355417,1332,GDrBIKOR01c,2.39877800407332,Messages For The Future,39,1,Vsauce,1bacbb
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,1bacbc
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,1bacc
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,1bacca
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,1baccb
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,1baccc
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,1bb
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1bba
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,1bbaa
+2017-07-17,12367365,8272,266001,1591,mxhxL1LzKww,2.460285132382892,How Much of the Earth Can You See at Once?,40,1,Vsauce,1bbaaa
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,1bbaab
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,1bbaac
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,1bbab
+2013-06-03,14712421,4378,359146,692,L45Q1_psDqk,1.845213849287169,Is Anything Real?,30,1,Vsauce,1bbaba
+2015-09-23,15834707,5494,355417,1332,GDrBIKOR01c,2.39877800407332,Messages For The Future,39,1,Vsauce,1bbabb
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,1bbabc
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,1bbac
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,1bbaca
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,1bbacb
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,1bbacc
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,1bbb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,1bbc
+2020-03-16,4348849,1771,108616,1589,tCqwT2MqLxI,2.767820773930753,Survivalist Les Stroud Breaks Down Survival Scenes from Movies | GQ,45,1,GQ,1bbca
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,1bbcaa
+2020-01-17,18350581,7797,363344,1608,-L7o6HtX8Vg,2.583299389002036,Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ,42,1,GQ,1bbcab
+2020-02-04,1361445,756,24743,1622,u2ivR5B1PVs,0.6765784114052951,Astrobiologist Breaks Down Apocalypse Scenes from Movies | GQ,11,1,GQ,1bbcac
+2020-01-17,18350581,7797,363344,1608,-L7o6HtX8Vg,2.583299389002036,Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ,42,1,GQ,1bbcb
+2019-10-24,10623577,6110,180064,1093,-C3CjOkF-jY,0.6765784114052951,US Marine Breaks Down Military Movies | GQ,11,1,GQ,1bbcba
+2017-02-02,3722172,2279,91931,830,ljqra3BcqWM,0.6765784114052951,Extreme Ownership | Jocko Willink | TEDxUniversityofNevada,11,1,TEDx Talks,1bbcbb
+2020-03-16,4348849,1771,108616,1589,tCqwT2MqLxI,2.767820773930753,Survivalist Les Stroud Breaks Down Survival Scenes from Movies | GQ,45,1,GQ,1bbcbc
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,1bbcc
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,1bbcca
+2016-04-06,27487925,9825,956543,844,arj7oStGLkU,1.3531568228105901,Inside the mind of a master procrastinator | Tim Urban,22,1,TED,1bbccb
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,1bbccc
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,1bc
+2019-11-20,3063506,2498,134982,839,K-Fc08X56R0,1.845213849287169,3 Perplexing Physics Problems,30,1,Veritasium,1bca
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,1bcaa
+2019-11-20,3063506,2498,134982,839,K-Fc08X56R0,1.845213849287169,3 Perplexing Physics Problems,30,1,Veritasium,1bcaaa
+2014-06-04,3589556,1735,47286,4942,0g8lANs6zpQ,2.644806517311609,The Magic of Chemistry - with Andrew Szydlo,43,1,The Royal Institution,1bcaab
+2019-10-04,4144300,940,105936,1102,ThwuT3_AG6w,1.845213849287169,Engineering with Origami,30,1,Veritasium,1bcaac
+2019-02-06,1941504,1017,81613,991,ZQ--scjcAZ4,1.045621181262729,Are Negative Ions Good For You?,17,1,Veritasium,1bcab
+2019-03-18,1704879,716,55882,833,dg3pza4y2ws,0.369042769857433,Can Humans Sense Magnetic Fields?,6,1,Veritasium,1bcaba
+2013-02-06,4442442,1977,63857,700,myh94hpFmJY,0.369042769857433,Why Do Venomous Animals Live In Warm Climates?,6,1,Veritasium,1bcabb
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,1bcabc
+2019-08-16,5790841,2955,61259,823,dCXkaQa53QQ,0.738085539714867,Making Liquid Nitrogen From Scratch!,12,1,Veritasium,1bcac
+2019-02-06,1941504,1017,81613,991,ZQ--scjcAZ4,1.045621181262729,Are Negative Ions Good For You?,17,1,Veritasium,1bcaca
+2017-05-31,3922486,1889,63330,736,YJqvN4_2rxE,0.307535641547861,How To Make Liquid OXYGEN,5,1,The King of Random,1bcacb
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,1bcacc
+2014-06-04,3589556,1735,47286,4942,0g8lANs6zpQ,2.644806517311609,The Magic of Chemistry - with Andrew Szydlo,43,1,The Royal Institution,1bcb
+2015-03-11,2682422,1832,17631,7003,Na7Bp4frYGw,0.861099796334012,Blaze of Steel: Explosive Chemistry - with Andrew Szydlo,14,1,The Royal Institution,1bcba
+2014-06-04,3589556,1735,47286,4942,0g8lANs6zpQ,2.644806517311609,The Magic of Chemistry - with Andrew Szydlo,43,1,The Royal Institution,1bcbaa
+2019-03-02,5683904,4355,102241,2271,-_qpzFlpgpo,0.307535641547861,Making metal crystals from Pepto-Bismol,5,1,NileRed,1bcbab
+2015-01-15,2552580,1351,19398,5236,h9MS9i-CdfY,0.307535641547861,Hidden Dimensions: Exploring Hyperspace,5,1,World Science Festival,1bcbac
+2014-07-03,1274258,524,21634,3484,HESOat2iPzU,0.861099796334012,It's Rocket Science! with Professor Chris Bishop,14,1,The Royal Institution,1bcbb
+2012-02-16,1750556,474,21008,4147,ti_E2ZKZpC4,0.307535641547861,Chemical Curiosities: Surprising Science and Dramatic Demonstrations - with Chris Bishop,5,1,The Royal Institution,1bcbba
+2015-02-25,1945687,1053,34089,3700,1wAaI_6b9JE,1.5376782077393072,Four Dimensional Maths: Things to See and Hear in the Fourth Dimension - with Matt Parker,25,1,The Royal Institution,1bcbbb
+2013-11-26,186327,203,2834,737,uWjdnvYok4I,0.307535641547861,The tyranny of the rocket equation | Don Pettit | TEDxHouston 2013,5,1,TEDx Talks,1bcbbc
+2015-02-25,1945687,1053,34089,3700,1wAaI_6b9JE,1.5376782077393072,Four Dimensional Maths: Things to See and Hear in the Fourth Dimension - with Matt Parker,25,1,The Royal Institution,1bcbc
+2014-06-04,3589556,1735,47286,4942,0g8lANs6zpQ,2.644806517311609,The Magic of Chemistry - with Andrew Szydlo,43,1,The Royal Institution,1bcbca
+2019-03-07,1471359,1118,29456,4054,6JwEYamjXpA,0.430549898167006,What Happens When Maths Goes Wrong? - with Matt Parker,7,1,The Royal Institution,1bcbcb
+,-1,-1,-1,-1,vsMydMDi3rI,0.430549898167006,,7,1,,1bcbcc
+2019-10-04,4144300,940,105936,1102,ThwuT3_AG6w,1.845213849287169,Engineering with Origami,30,1,Veritasium,1bcc
+2019-08-10,1697975,1049,63399,961,GhsZUZmJvaM,0.6765784114052951,First Flight on Another Planet!,11,1,Veritasium,1bcca
+2019-08-03,1424278,854,33084,920,wJuWuJBbc1s,0.369042769857433,NASA's Dragonfly Mission to Titan,6,1,Real Engineering,1bccaa
+2019-07-19,2749228,1560,89630,789,E7uGvsT_nnM,0.307535641547861,Why Apollo Astronauts Trained at a Nuclear Test Site,5,1,Veritasium,1bccab
+2017-05-18,1536047,1143,35337,538,iZCRFRgSgas,0.307535641547861,Mars 2020: The Next Mission to Mars,5,1,Veritasium,1bccac
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,1bccb
+2019-11-20,3063506,2498,134982,839,K-Fc08X56R0,1.845213849287169,3 Perplexing Physics Problems,30,1,Veritasium,1bccba
+2014-06-04,3589556,1735,47286,4942,0g8lANs6zpQ,2.644806517311609,The Magic of Chemistry - with Andrew Szydlo,43,1,The Royal Institution,1bccbb
+2019-10-04,4144300,940,105936,1102,ThwuT3_AG6w,1.845213849287169,Engineering with Origami,30,1,Veritasium,1bccbc
+2008-07-31,580988,133,8686,1084,NYKcOFQCeno,0.738085539714867,The math and magic of origami | Robert Lang,12,1,TED,1bccc
+2019-11-20,2613803,944,78534,971,MDwPXRy9IFc,0.307535641547861,11 Levels of Origami: Easy to Complex | WIRED,5,1,WIRED,1bccca
+2016-04-06,27487925,9825,956543,844,arj7oStGLkU,1.3531568228105901,Inside the mind of a master procrastinator | Tim Urban,22,1,TED,1bcccb
+2015-02-25,1945687,1053,34089,3700,1wAaI_6b9JE,1.5376782077393072,Four Dimensional Maths: Things to See and Hear in the Fourth Dimension - with Matt Parker,25,1,The Royal Institution,1bcccc
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,1c
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,1ca
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,1caa
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,1caaa
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,1caaaa
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,1caaab
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,1caaac
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,1caab
+2014-07-17,10107622,9064,40040,10951,S9HdPi9Ikhk,1.3531568228105901,Restored Apollo 11 Moonwalk - Original NASA EVA Mission Video - Walking on the Moon,22,1,NASA,1caaba
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,1caabb
+2018-12-02,487980,1114,13561,3433,3lBpuBqxDVA,1.5376782077393072,Meeting & Interviewing A Flat-Earther!,25,1,Alfie Deyes,1caabc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1caac
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,1caaca
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,1caacb
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,1caacc
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,1cab
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1caba
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,1cabaa
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,1cabab
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,1cabac
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,1cabb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,1cabc
+2020-03-16,4348849,1771,108616,1589,tCqwT2MqLxI,2.767820773930753,Survivalist Les Stroud Breaks Down Survival Scenes from Movies | GQ,45,1,GQ,1cabca
+2020-01-17,18350581,7797,363344,1608,-L7o6HtX8Vg,2.583299389002036,Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ,42,1,GQ,1cabcb
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,1cabcc
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,1cac
+2019-11-20,3063506,2498,134982,839,K-Fc08X56R0,1.845213849287169,3 Perplexing Physics Problems,30,1,Veritasium,1caca
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,1cacaa
+2019-02-06,1941504,1017,81613,991,ZQ--scjcAZ4,1.045621181262729,Are Negative Ions Good For You?,17,1,Veritasium,1cacab
+2019-08-16,5790841,2955,61259,823,dCXkaQa53QQ,0.738085539714867,Making Liquid Nitrogen From Scratch!,12,1,Veritasium,1cacac
+2014-06-04,3589556,1735,47286,4942,0g8lANs6zpQ,2.644806517311609,The Magic of Chemistry - with Andrew Szydlo,43,1,The Royal Institution,1cacb
+2015-03-11,2682422,1832,17631,7003,Na7Bp4frYGw,0.861099796334012,Blaze of Steel: Explosive Chemistry - with Andrew Szydlo,14,1,The Royal Institution,1cacba
+2014-07-03,1274258,524,21634,3484,HESOat2iPzU,0.861099796334012,It's Rocket Science! with Professor Chris Bishop,14,1,The Royal Institution,1cacbb
+2015-02-25,1945687,1053,34089,3700,1wAaI_6b9JE,1.5376782077393072,Four Dimensional Maths: Things to See and Hear in the Fourth Dimension - with Matt Parker,25,1,The Royal Institution,1cacbc
+2019-10-04,4144300,940,105936,1102,ThwuT3_AG6w,1.845213849287169,Engineering with Origami,30,1,Veritasium,1cacc
+2019-08-10,1697975,1049,63399,961,GhsZUZmJvaM,0.6765784114052951,First Flight on Another Planet!,11,1,Veritasium,1cacca
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,1caccb
+2008-07-31,580988,133,8686,1084,NYKcOFQCeno,0.738085539714867,The math and magic of origami | Robert Lang,12,1,TED,1caccc
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,1cb
+2014-07-17,10107622,9064,40040,10951,S9HdPi9Ikhk,1.3531568228105901,Restored Apollo 11 Moonwalk - Original NASA EVA Mission Video - Walking on the Moon,22,1,NASA,1cba
+2019-07-20,3214956,3056,20295,11770,iR3oXFFISI0,1.107128309572301,Historic Apollo 11 Moonwalk Footage,18,1,NASA,1cbaa
+2019-07-19,2129525,1298,5304,9285,n9xyMaUAyYI,0.430549898167006,"NASA’s Giant Leaps, Past and Future: Saluting Apollo Heroes and Looking Forward to Artemis Missions",7,1,NASA,1cbaaa
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,1cbaab
+2019-07-20,1103603,874,15727,4388,yN75W5AIQ2w,0.430549898167006,July 2019 Expedition 60 Crew Launch to the International Space Station,7,1,NASA,1cbaac
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,1cbab
+2015-01-26,6399770,3921,87034,1521,7zpojhD4hpI,1.414663951120162,The Curious Life of a Mars Rover | Nat Geo Live,23,1,National Geographic,1cbaba
+2012-11-19,5254310,1600,36467,1505,doN4t5NKW-k,1.722199592668024,Departing Space Station Commander Provides Tour of Orbital Laboratory,28,1,NASA,1cbabb
+2013-09-18,28924176,17674,145484,1320,5KygwcZ545U,1.3531568228105901,Shuttle Atlantis STS-132 - Amazing Shuttle Launch Experience,22,1,Jonathan Mickelson,1cbabc
+2008-01-16,1757977,662,6493,3373,xwpgmEvlRpM,0.9226069246435841,The Moment in Time: The Manhattan Project,15,1,University of California Television (UCTV),1cbac
+2018-10-12,2154385,1120,6353,12419,46DEVQ8UacA,0.369042769857433,The Romanovs. The Real History of the Russian Dynasty. Episodes 1-4. StarMediaEN,6,1,StarMediaEN,1cbaca
+2015-08-21,2093801,1297,12402,3067,iv5JNAuGcJU,0.369042769857433,"ATOMIC BOMBING OF HIROSHIMA DOCUMENTARY ""TEN SECONDS THAT SHOOK THE WORLD""  75794",6,1,PeriscopeFilm,1cbacb
+,-1,-1,-1,-1,Xw3SFOfbR84,0.369042769857433,,6,1,,1cbacc
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,1cbb
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,1cbba
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,1cbbaa
+2016-04-06,27487925,9825,956543,844,arj7oStGLkU,1.3531568228105901,Inside the mind of a master procrastinator | Tim Urban,22,1,TED,1cbbab
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,1cbbac
+2020-03-13,897039,332,29618,2388,t93UCj1hzu8,1.230142566191446,Astronaut Chris Hadfield Answers the Web's Most Searched Questions | WIRED,20,1,WIRED,1cbbb
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,1cbbba
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,1cbbbb
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,1cbbbc
+2019-09-18,3170703,1216,54552,994,TZkuQUCUYgM,1.414663951120162,Former NASA Astronaut Explains How Hygiene Is Different in Space | WIRED,23,1,WIRED,1cbbc
+2019-07-16,2699021,978,51409,1034,E36F4XG5zcY,0.369042769857433,Former NASA Astronaut Explains How Food Is Different in Space | WIRED,6,1,WIRED,1cbbca
+2019-08-08,2809163,1131,53742,922,gJBt92DHyFI,0.369042769857433,Former NASA Astronaut Explains How Sleep Is Different in Space | WIRED,6,1,WIRED,1cbbcb
+2012-11-19,5254310,1600,36467,1505,doN4t5NKW-k,1.722199592668024,Departing Space Station Commander Provides Tour of Orbital Laboratory,28,1,NASA,1cbbcc
+2018-12-02,487980,1114,13561,3433,3lBpuBqxDVA,1.5376782077393072,Meeting & Interviewing A Flat-Earther!,25,1,Alfie Deyes,1cbc
+2018-12-09,271728,644,9894,3223,JLKIUnApa5o,0.861099796334012,Is The Earth Flat??? (Ft A Flat-Earther),14,1,Alfie Deyes,1cbca
+2018-12-02,487980,1114,13561,3433,3lBpuBqxDVA,1.5376782077393072,Meeting & Interviewing A Flat-Earther!,25,1,Alfie Deyes,1cbcaa
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,1cbcab
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,1cbcac
+2017-05-10,2640212,1630,23158,4962,AyAK3QBnMGQ,1.230142566191446,A mind-expanding tour of the cosmos with Neil deGrasse Tyson and Robert Krulwich,20,1,92nd Street Y,1cbcb
+2013-02-21,1432745,836,10809,6017,rYzBxo3hbYQ,0.369042769857433,Neil DeGrasse Tyson: Blackholes and Other Cosmic Quandries,6,1,92nd Street Y,1cbcba
+2018-11-09,434227,279,7743,5761,6_-jtyhAVTc,0.369042769857433,"Carl Sagan's 1994 ""Lost"" Lecture: The Age of Exploration",6,1,Carl Sagan Institute,1cbcbb
+,-1,-1,-1,-1,R1XyqaFuX1o,0.369042769857433,,6,1,,1cbcbc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1cbcc
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,1cbcca
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,1cbccb
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,1cbccc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1cc
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,1cca
+2017-07-17,12367365,8272,266001,1591,mxhxL1LzKww,2.460285132382892,How Much of the Earth Can You See at Once?,40,1,Vsauce,1ccaa
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,1ccaaa
+2015-09-15,15796582,4402,415226,1265,fCn8zs912OE,2.214256619144603,The Zipf Mystery,36,1,Vsauce,1ccaab
+2016-11-10,10484828,4642,277673,1117,KUddy8RGwns,1.045621181262729,Is It Okay to Touch Mars?,17,1,Vsauce,1ccaac
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,1ccab
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,1ccaba
+2017-01-21,10465853,4031,349530,1557,skvnj67YGmw,2.029735234215886,The Brachistochrone,33,1,Vsauce,1ccabb
+2015-09-15,15796582,4402,415226,1265,fCn8zs912OE,2.214256619144603,The Zipf Mystery,36,1,Vsauce,1ccabc
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,1ccac
+2011-07-05,4467994,1833,13200,4844,SvaG0xDdP8g,2.39877800407332,The Space Shuttle (Narrated by William Shatner),39,1,NASA,1ccaca
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,1ccacb
+2014-07-16,4887202,3460,10888,3465,GNJpoP642wc,1.968228105906313,The Journeys of Apollo,32,1,NASA,1ccacc
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,1ccb
+2013-06-03,14712421,4378,359146,692,L45Q1_psDqk,1.845213849287169,Is Anything Real?,30,1,Vsauce,1ccba
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,1ccbaa
+2014-09-10,20760229,7464,429785,885,sHCHEykUxP4,1.045621181262729,Spooky Coincidences?,17,1,Vsauce,1ccbab
+2019-01-02,-1,-1,-1,1567,xna-kdXZQHQ,1.845213849287169,How to Talk to Aliens,30,1,Vsauce,1ccbac
+2015-09-23,15834707,5494,355417,1332,GDrBIKOR01c,2.39877800407332,Messages For The Future,39,1,Vsauce,1ccbb
+2013-07-12,11810294,2997,188210,637,gCBlAAtJA54,0.9226069246435841,Are We Ready For Aliens?,15,1,Vsauce,1ccbba
+2019-10-24,5319176,4043,227533,2441,9Vmwsg8Eabo,1.230142566191446,What Is The Scariest Thing?,20,1,Vsauce,1ccbbb
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,1ccbbc
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,1ccbc
+2018-12-26,-1,-1,-1,1865,zRxI0DaQrag,1.4761710794297351,Should I Die?,24,1,Vsauce,1ccbca
+2017-01-18,27553406,27502,547756,2086,iqKdEhx-dD4,0.9841140529531561,Isolation - Mind Field (Ep 1),16,1,Vsauce,1ccbcb
+2016-11-12,21103309,11796,325668,906,1KgSp94nCZw,0.9841140529531561,The Chilling Exorcism Of Anneliese Michel,16,1,BuzzFeed Multiplayer,1ccbcc
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,1ccc
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,1ccca
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,1cccaa
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,1cccab
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1cccac
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,1cccb
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,1cccba
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,1cccbb
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,1cccbc
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,1cccc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,1cccca
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,1ccccb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,1ccccc
+2017-11-15,1553511,4227,10705,188,x3vcSab13Sk,0.12301425661914402,Why do people still think the Earth is flat? - BBC News,2,6,BBC News,2
+2019-02-05,1924327,4240,16254,863,m4kM5zwxThE,0.06150712830957201,"Flat Earth rising: meet the people casting aside 2,500 years of science",1,5,The Guardian,2a
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2aa
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2aaa
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2aaaa
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2aaaaa
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,2aaaab
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2aaaac
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2aaab
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2aaaba
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,2aaabb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,2aaabc
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,2aaac
+2019-11-20,3063506,2498,134982,839,K-Fc08X56R0,1.845213849287169,3 Perplexing Physics Problems,30,1,Veritasium,2aaaca
+2014-06-04,3589556,1735,47286,4942,0g8lANs6zpQ,2.644806517311609,The Magic of Chemistry - with Andrew Szydlo,43,1,The Royal Institution,2aaacb
+2019-10-04,4144300,940,105936,1102,ThwuT3_AG6w,1.845213849287169,Engineering with Origami,30,1,Veritasium,2aaacc
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,2aab
+2014-07-17,10107622,9064,40040,10951,S9HdPi9Ikhk,1.3531568228105901,Restored Apollo 11 Moonwalk - Original NASA EVA Mission Video - Walking on the Moon,22,1,NASA,2aaba
+2019-07-20,3214956,3056,20295,11770,iR3oXFFISI0,1.107128309572301,Historic Apollo 11 Moonwalk Footage,18,1,NASA,2aabaa
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,2aabab
+2008-01-16,1757977,662,6493,3373,xwpgmEvlRpM,0.9226069246435841,The Moment in Time: The Manhattan Project,15,1,University of California Television (UCTV),2aabac
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,2aabb
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,2aabba
+2020-03-13,897039,332,29618,2388,t93UCj1hzu8,1.230142566191446,Astronaut Chris Hadfield Answers the Web's Most Searched Questions | WIRED,20,1,WIRED,2aabbb
+2019-09-18,3170703,1216,54552,994,TZkuQUCUYgM,1.414663951120162,Former NASA Astronaut Explains How Hygiene Is Different in Space | WIRED,23,1,WIRED,2aabbc
+2018-12-02,487980,1114,13561,3433,3lBpuBqxDVA,1.5376782077393072,Meeting & Interviewing A Flat-Earther!,25,1,Alfie Deyes,2aabc
+2018-12-09,271728,644,9894,3223,JLKIUnApa5o,0.861099796334012,Is The Earth Flat??? (Ft A Flat-Earther),14,1,Alfie Deyes,2aabca
+2017-05-10,2640212,1630,23158,4962,AyAK3QBnMGQ,1.230142566191446,A mind-expanding tour of the cosmos with Neil deGrasse Tyson and Robert Krulwich,20,1,92nd Street Y,2aabcb
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2aabcc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2aac
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,2aaca
+2017-07-17,12367365,8272,266001,1591,mxhxL1LzKww,2.460285132382892,How Much of the Earth Can You See at Once?,40,1,Vsauce,2aacaa
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,2aacab
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,2aacac
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,2aacb
+2013-06-03,14712421,4378,359146,692,L45Q1_psDqk,1.845213849287169,Is Anything Real?,30,1,Vsauce,2aacba
+2015-09-23,15834707,5494,355417,1332,GDrBIKOR01c,2.39877800407332,Messages For The Future,39,1,Vsauce,2aacbb
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,2aacbc
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,2aacc
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2aacca
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2aaccb
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2aaccc
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2ab
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2aba
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,2abaa
+2017-07-17,12367365,8272,266001,1591,mxhxL1LzKww,2.460285132382892,How Much of the Earth Can You See at Once?,40,1,Vsauce,2abaaa
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,2abaab
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,2abaac
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,2abab
+2013-06-03,14712421,4378,359146,692,L45Q1_psDqk,1.845213849287169,Is Anything Real?,30,1,Vsauce,2ababa
+2015-09-23,15834707,5494,355417,1332,GDrBIKOR01c,2.39877800407332,Messages For The Future,39,1,Vsauce,2ababb
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,2ababc
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,2abac
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2abaca
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2abacb
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2abacc
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,2abb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,2abc
+2020-03-16,4348849,1771,108616,1589,tCqwT2MqLxI,2.767820773930753,Survivalist Les Stroud Breaks Down Survival Scenes from Movies | GQ,45,1,GQ,2abca
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,2abcaa
+2020-01-17,18350581,7797,363344,1608,-L7o6HtX8Vg,2.583299389002036,Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ,42,1,GQ,2abcab
+2020-02-04,1361445,756,24743,1622,u2ivR5B1PVs,0.6765784114052951,Astrobiologist Breaks Down Apocalypse Scenes from Movies | GQ,11,1,GQ,2abcac
+2020-01-17,18350581,7797,363344,1608,-L7o6HtX8Vg,2.583299389002036,Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ,42,1,GQ,2abcb
+2019-10-24,10623577,6110,180064,1093,-C3CjOkF-jY,0.6765784114052951,US Marine Breaks Down Military Movies | GQ,11,1,GQ,2abcba
+2017-02-02,3722172,2279,91931,830,ljqra3BcqWM,0.6765784114052951,Extreme Ownership | Jocko Willink | TEDxUniversityofNevada,11,1,TEDx Talks,2abcbb
+2020-03-16,4348849,1771,108616,1589,tCqwT2MqLxI,2.767820773930753,Survivalist Les Stroud Breaks Down Survival Scenes from Movies | GQ,45,1,GQ,2abcbc
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,2abcc
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,2abcca
+2016-04-06,27487925,9825,956543,844,arj7oStGLkU,1.3531568228105901,Inside the mind of a master procrastinator | Tim Urban,22,1,TED,2abccb
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,2abccc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2ac
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,2aca
+2017-07-17,12367365,8272,266001,1591,mxhxL1LzKww,2.460285132382892,How Much of the Earth Can You See at Once?,40,1,Vsauce,2acaa
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,2acaaa
+2015-09-15,15796582,4402,415226,1265,fCn8zs912OE,2.214256619144603,The Zipf Mystery,36,1,Vsauce,2acaab
+2016-11-10,10484828,4642,277673,1117,KUddy8RGwns,1.045621181262729,Is It Okay to Touch Mars?,17,1,Vsauce,2acaac
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,2acab
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,2acaba
+2017-01-21,10465853,4031,349530,1557,skvnj67YGmw,2.029735234215886,The Brachistochrone,33,1,Vsauce,2acabb
+2015-09-15,15796582,4402,415226,1265,fCn8zs912OE,2.214256619144603,The Zipf Mystery,36,1,Vsauce,2acabc
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,2acac
+2011-07-05,4467994,1833,13200,4844,SvaG0xDdP8g,2.39877800407332,The Space Shuttle (Narrated by William Shatner),39,1,NASA,2acaca
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,2acacb
+2014-07-16,4887202,3460,10888,3465,GNJpoP642wc,1.968228105906313,The Journeys of Apollo,32,1,NASA,2acacc
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,2acb
+2013-06-03,14712421,4378,359146,692,L45Q1_psDqk,1.845213849287169,Is Anything Real?,30,1,Vsauce,2acba
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,2acbaa
+2014-09-10,20760229,7464,429785,885,sHCHEykUxP4,1.045621181262729,Spooky Coincidences?,17,1,Vsauce,2acbab
+2019-01-02,-1,-1,-1,1567,xna-kdXZQHQ,1.845213849287169,How to Talk to Aliens,30,1,Vsauce,2acbac
+2015-09-23,15834707,5494,355417,1332,GDrBIKOR01c,2.39877800407332,Messages For The Future,39,1,Vsauce,2acbb
+2013-07-12,11810294,2997,188210,637,gCBlAAtJA54,0.9226069246435841,Are We Ready For Aliens?,15,1,Vsauce,2acbba
+2019-10-24,5319176,4043,227533,2441,9Vmwsg8Eabo,1.230142566191446,What Is The Scariest Thing?,20,1,Vsauce,2acbbb
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,2acbbc
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,2acbc
+2018-12-26,-1,-1,-1,1865,zRxI0DaQrag,1.4761710794297351,Should I Die?,24,1,Vsauce,2acbca
+2017-01-18,27553406,27502,547756,2086,iqKdEhx-dD4,0.9841140529531561,Isolation - Mind Field (Ep 1),16,1,Vsauce,2acbcb
+2016-11-12,21103309,11796,325668,906,1KgSp94nCZw,0.9841140529531561,The Chilling Exorcism Of Anneliese Michel,16,1,BuzzFeed Multiplayer,2acbcc
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,2acc
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2acca
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2accaa
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,2accab
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2accac
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2accb
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2accba
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2accbb
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,2accbc
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2accc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2accca
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,2acccb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,2acccc
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2b
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2ba
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2baa
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2baaa
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2baaaa
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2baaab
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,2baaac
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,2baab
+2014-07-17,10107622,9064,40040,10951,S9HdPi9Ikhk,1.3531568228105901,Restored Apollo 11 Moonwalk - Original NASA EVA Mission Video - Walking on the Moon,22,1,NASA,2baaba
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,2baabb
+2018-12-02,487980,1114,13561,3433,3lBpuBqxDVA,1.5376782077393072,Meeting & Interviewing A Flat-Earther!,25,1,Alfie Deyes,2baabc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2baac
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,2baaca
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,2baacb
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,2baacc
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2bab
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2baba
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,2babaa
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,2babab
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,2babac
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,2babb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,2babc
+2020-03-16,4348849,1771,108616,1589,tCqwT2MqLxI,2.767820773930753,Survivalist Les Stroud Breaks Down Survival Scenes from Movies | GQ,45,1,GQ,2babca
+2020-01-17,18350581,7797,363344,1608,-L7o6HtX8Vg,2.583299389002036,Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ,42,1,GQ,2babcb
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,2babcc
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,2bac
+2019-11-20,3063506,2498,134982,839,K-Fc08X56R0,1.845213849287169,3 Perplexing Physics Problems,30,1,Veritasium,2baca
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,2bacaa
+2019-02-06,1941504,1017,81613,991,ZQ--scjcAZ4,1.045621181262729,Are Negative Ions Good For You?,17,1,Veritasium,2bacab
+2019-08-16,5790841,2955,61259,823,dCXkaQa53QQ,0.738085539714867,Making Liquid Nitrogen From Scratch!,12,1,Veritasium,2bacac
+2014-06-04,3589556,1735,47286,4942,0g8lANs6zpQ,2.644806517311609,The Magic of Chemistry - with Andrew Szydlo,43,1,The Royal Institution,2bacb
+2015-03-11,2682422,1832,17631,7003,Na7Bp4frYGw,0.861099796334012,Blaze of Steel: Explosive Chemistry - with Andrew Szydlo,14,1,The Royal Institution,2bacba
+2014-07-03,1274258,524,21634,3484,HESOat2iPzU,0.861099796334012,It's Rocket Science! with Professor Chris Bishop,14,1,The Royal Institution,2bacbb
+2015-02-25,1945687,1053,34089,3700,1wAaI_6b9JE,1.5376782077393072,Four Dimensional Maths: Things to See and Hear in the Fourth Dimension - with Matt Parker,25,1,The Royal Institution,2bacbc
+2019-10-04,4144300,940,105936,1102,ThwuT3_AG6w,1.845213849287169,Engineering with Origami,30,1,Veritasium,2bacc
+2019-08-10,1697975,1049,63399,961,GhsZUZmJvaM,0.6765784114052951,First Flight on Another Planet!,11,1,Veritasium,2bacca
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,2baccb
+2008-07-31,580988,133,8686,1084,NYKcOFQCeno,0.738085539714867,The math and magic of origami | Robert Lang,12,1,TED,2baccc
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,2bb
+2014-07-17,10107622,9064,40040,10951,S9HdPi9Ikhk,1.3531568228105901,Restored Apollo 11 Moonwalk - Original NASA EVA Mission Video - Walking on the Moon,22,1,NASA,2bba
+2019-07-20,3214956,3056,20295,11770,iR3oXFFISI0,1.107128309572301,Historic Apollo 11 Moonwalk Footage,18,1,NASA,2bbaa
+2019-07-19,2129525,1298,5304,9285,n9xyMaUAyYI,0.430549898167006,"NASA’s Giant Leaps, Past and Future: Saluting Apollo Heroes and Looking Forward to Artemis Missions",7,1,NASA,2bbaaa
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,2bbaab
+2019-07-20,1103603,874,15727,4388,yN75W5AIQ2w,0.430549898167006,July 2019 Expedition 60 Crew Launch to the International Space Station,7,1,NASA,2bbaac
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,2bbab
+2015-01-26,6399770,3921,87034,1521,7zpojhD4hpI,1.414663951120162,The Curious Life of a Mars Rover | Nat Geo Live,23,1,National Geographic,2bbaba
+2012-11-19,5254310,1600,36467,1505,doN4t5NKW-k,1.722199592668024,Departing Space Station Commander Provides Tour of Orbital Laboratory,28,1,NASA,2bbabb
+2013-09-18,28924176,17674,145484,1320,5KygwcZ545U,1.3531568228105901,Shuttle Atlantis STS-132 - Amazing Shuttle Launch Experience,22,1,Jonathan Mickelson,2bbabc
+2008-01-16,1757977,662,6493,3373,xwpgmEvlRpM,0.9226069246435841,The Moment in Time: The Manhattan Project,15,1,University of California Television (UCTV),2bbac
+2018-10-12,2154385,1120,6353,12419,46DEVQ8UacA,0.369042769857433,The Romanovs. The Real History of the Russian Dynasty. Episodes 1-4. StarMediaEN,6,1,StarMediaEN,2bbaca
+2015-08-21,2093801,1297,12402,3067,iv5JNAuGcJU,0.369042769857433,"ATOMIC BOMBING OF HIROSHIMA DOCUMENTARY ""TEN SECONDS THAT SHOOK THE WORLD""  75794",6,1,PeriscopeFilm,2bbacb
+,-1,-1,-1,-1,Xw3SFOfbR84,0.369042769857433,,6,1,,2bbacc
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,2bbb
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,2bbba
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,2bbbaa
+2016-04-06,27487925,9825,956543,844,arj7oStGLkU,1.3531568228105901,Inside the mind of a master procrastinator | Tim Urban,22,1,TED,2bbbab
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,2bbbac
+2020-03-13,897039,332,29618,2388,t93UCj1hzu8,1.230142566191446,Astronaut Chris Hadfield Answers the Web's Most Searched Questions | WIRED,20,1,WIRED,2bbbb
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,2bbbba
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,2bbbbb
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,2bbbbc
+2019-09-18,3170703,1216,54552,994,TZkuQUCUYgM,1.414663951120162,Former NASA Astronaut Explains How Hygiene Is Different in Space | WIRED,23,1,WIRED,2bbbc
+2019-07-16,2699021,978,51409,1034,E36F4XG5zcY,0.369042769857433,Former NASA Astronaut Explains How Food Is Different in Space | WIRED,6,1,WIRED,2bbbca
+2019-08-08,2809163,1131,53742,922,gJBt92DHyFI,0.369042769857433,Former NASA Astronaut Explains How Sleep Is Different in Space | WIRED,6,1,WIRED,2bbbcb
+2012-11-19,5254310,1600,36467,1505,doN4t5NKW-k,1.722199592668024,Departing Space Station Commander Provides Tour of Orbital Laboratory,28,1,NASA,2bbbcc
+2018-12-02,487980,1114,13561,3433,3lBpuBqxDVA,1.5376782077393072,Meeting & Interviewing A Flat-Earther!,25,1,Alfie Deyes,2bbc
+2018-12-09,271728,644,9894,3223,JLKIUnApa5o,0.861099796334012,Is The Earth Flat??? (Ft A Flat-Earther),14,1,Alfie Deyes,2bbca
+2018-12-02,487980,1114,13561,3433,3lBpuBqxDVA,1.5376782077393072,Meeting & Interviewing A Flat-Earther!,25,1,Alfie Deyes,2bbcaa
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2bbcab
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2bbcac
+2017-05-10,2640212,1630,23158,4962,AyAK3QBnMGQ,1.230142566191446,A mind-expanding tour of the cosmos with Neil deGrasse Tyson and Robert Krulwich,20,1,92nd Street Y,2bbcb
+2013-02-21,1432745,836,10809,6017,rYzBxo3hbYQ,0.369042769857433,Neil DeGrasse Tyson: Blackholes and Other Cosmic Quandries,6,1,92nd Street Y,2bbcba
+2018-11-09,434227,279,7743,5761,6_-jtyhAVTc,0.369042769857433,"Carl Sagan's 1994 ""Lost"" Lecture: The Age of Exploration",6,1,Carl Sagan Institute,2bbcbb
+,-1,-1,-1,-1,R1XyqaFuX1o,0.369042769857433,,6,1,,2bbcbc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2bbcc
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,2bbcca
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,2bbccb
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,2bbccc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2bc
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,2bca
+2017-07-17,12367365,8272,266001,1591,mxhxL1LzKww,2.460285132382892,How Much of the Earth Can You See at Once?,40,1,Vsauce,2bcaa
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,2bcaaa
+2015-09-15,15796582,4402,415226,1265,fCn8zs912OE,2.214256619144603,The Zipf Mystery,36,1,Vsauce,2bcaab
+2016-11-10,10484828,4642,277673,1117,KUddy8RGwns,1.045621181262729,Is It Okay to Touch Mars?,17,1,Vsauce,2bcaac
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,2bcab
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,2bcaba
+2017-01-21,10465853,4031,349530,1557,skvnj67YGmw,2.029735234215886,The Brachistochrone,33,1,Vsauce,2bcabb
+2015-09-15,15796582,4402,415226,1265,fCn8zs912OE,2.214256619144603,The Zipf Mystery,36,1,Vsauce,2bcabc
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,2bcac
+2011-07-05,4467994,1833,13200,4844,SvaG0xDdP8g,2.39877800407332,The Space Shuttle (Narrated by William Shatner),39,1,NASA,2bcaca
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,2bcacb
+2014-07-16,4887202,3460,10888,3465,GNJpoP642wc,1.968228105906313,The Journeys of Apollo,32,1,NASA,2bcacc
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,2bcb
+2013-06-03,14712421,4378,359146,692,L45Q1_psDqk,1.845213849287169,Is Anything Real?,30,1,Vsauce,2bcba
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,2bcbaa
+2014-09-10,20760229,7464,429785,885,sHCHEykUxP4,1.045621181262729,Spooky Coincidences?,17,1,Vsauce,2bcbab
+2019-01-02,-1,-1,-1,1567,xna-kdXZQHQ,1.845213849287169,How to Talk to Aliens,30,1,Vsauce,2bcbac
+2015-09-23,15834707,5494,355417,1332,GDrBIKOR01c,2.39877800407332,Messages For The Future,39,1,Vsauce,2bcbb
+2013-07-12,11810294,2997,188210,637,gCBlAAtJA54,0.9226069246435841,Are We Ready For Aliens?,15,1,Vsauce,2bcbba
+2019-10-24,5319176,4043,227533,2441,9Vmwsg8Eabo,1.230142566191446,What Is The Scariest Thing?,20,1,Vsauce,2bcbbb
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,2bcbbc
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,2bcbc
+2018-12-26,-1,-1,-1,1865,zRxI0DaQrag,1.4761710794297351,Should I Die?,24,1,Vsauce,2bcbca
+2017-01-18,27553406,27502,547756,2086,iqKdEhx-dD4,0.9841140529531561,Isolation - Mind Field (Ep 1),16,1,Vsauce,2bcbcb
+2016-11-12,21103309,11796,325668,906,1KgSp94nCZw,0.9841140529531561,The Chilling Exorcism Of Anneliese Michel,16,1,BuzzFeed Multiplayer,2bcbcc
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,2bcc
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2bcca
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2bccaa
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,2bccab
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2bccac
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2bccb
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2bccba
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2bccbb
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,2bccbc
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2bccc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2bccca
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,2bcccb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,2bcccc
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,2c
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2ca
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2caa
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2caaa
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2caaaa
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,2caaab
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2caaac
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2caab
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2caaba
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,2caabb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,2caabc
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,2caac
+2019-11-20,3063506,2498,134982,839,K-Fc08X56R0,1.845213849287169,3 Perplexing Physics Problems,30,1,Veritasium,2caaca
+2014-06-04,3589556,1735,47286,4942,0g8lANs6zpQ,2.644806517311609,The Magic of Chemistry - with Andrew Szydlo,43,1,The Royal Institution,2caacb
+2019-10-04,4144300,940,105936,1102,ThwuT3_AG6w,1.845213849287169,Engineering with Origami,30,1,Veritasium,2caacc
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,2cab
+2014-07-17,10107622,9064,40040,10951,S9HdPi9Ikhk,1.3531568228105901,Restored Apollo 11 Moonwalk - Original NASA EVA Mission Video - Walking on the Moon,22,1,NASA,2caba
+2019-07-20,3214956,3056,20295,11770,iR3oXFFISI0,1.107128309572301,Historic Apollo 11 Moonwalk Footage,18,1,NASA,2cabaa
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,2cabab
+2008-01-16,1757977,662,6493,3373,xwpgmEvlRpM,0.9226069246435841,The Moment in Time: The Manhattan Project,15,1,University of California Television (UCTV),2cabac
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,2cabb
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,2cabba
+2020-03-13,897039,332,29618,2388,t93UCj1hzu8,1.230142566191446,Astronaut Chris Hadfield Answers the Web's Most Searched Questions | WIRED,20,1,WIRED,2cabbb
+2019-09-18,3170703,1216,54552,994,TZkuQUCUYgM,1.414663951120162,Former NASA Astronaut Explains How Hygiene Is Different in Space | WIRED,23,1,WIRED,2cabbc
+2018-12-02,487980,1114,13561,3433,3lBpuBqxDVA,1.5376782077393072,Meeting & Interviewing A Flat-Earther!,25,1,Alfie Deyes,2cabc
+2018-12-09,271728,644,9894,3223,JLKIUnApa5o,0.861099796334012,Is The Earth Flat??? (Ft A Flat-Earther),14,1,Alfie Deyes,2cabca
+2017-05-10,2640212,1630,23158,4962,AyAK3QBnMGQ,1.230142566191446,A mind-expanding tour of the cosmos with Neil deGrasse Tyson and Robert Krulwich,20,1,92nd Street Y,2cabcb
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2cabcc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2cac
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,2caca
+2017-07-17,12367365,8272,266001,1591,mxhxL1LzKww,2.460285132382892,How Much of the Earth Can You See at Once?,40,1,Vsauce,2cacaa
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,2cacab
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,2cacac
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,2cacb
+2013-06-03,14712421,4378,359146,692,L45Q1_psDqk,1.845213849287169,Is Anything Real?,30,1,Vsauce,2cacba
+2015-09-23,15834707,5494,355417,1332,GDrBIKOR01c,2.39877800407332,Messages For The Future,39,1,Vsauce,2cacbb
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,2cacbc
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,2cacc
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2cacca
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2caccb
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2caccc
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2cb
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2cba
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2cbaa
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2cbaaa
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2cbaab
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,2cbaac
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,2cbab
+2014-07-17,10107622,9064,40040,10951,S9HdPi9Ikhk,1.3531568228105901,Restored Apollo 11 Moonwalk - Original NASA EVA Mission Video - Walking on the Moon,22,1,NASA,2cbaba
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,2cbabb
+2018-12-02,487980,1114,13561,3433,3lBpuBqxDVA,1.5376782077393072,Meeting & Interviewing A Flat-Earther!,25,1,Alfie Deyes,2cbabc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2cbac
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,2cbaca
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,2cbacb
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,2cbacc
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2cbb
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2cbba
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,2cbbaa
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,2cbbab
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,2cbbac
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,2cbbb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,2cbbc
+2020-03-16,4348849,1771,108616,1589,tCqwT2MqLxI,2.767820773930753,Survivalist Les Stroud Breaks Down Survival Scenes from Movies | GQ,45,1,GQ,2cbbca
+2020-01-17,18350581,7797,363344,1608,-L7o6HtX8Vg,2.583299389002036,Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ,42,1,GQ,2cbbcb
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,2cbbcc
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,2cbc
+2019-11-20,3063506,2498,134982,839,K-Fc08X56R0,1.845213849287169,3 Perplexing Physics Problems,30,1,Veritasium,2cbca
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,2cbcaa
+2019-02-06,1941504,1017,81613,991,ZQ--scjcAZ4,1.045621181262729,Are Negative Ions Good For You?,17,1,Veritasium,2cbcab
+2019-08-16,5790841,2955,61259,823,dCXkaQa53QQ,0.738085539714867,Making Liquid Nitrogen From Scratch!,12,1,Veritasium,2cbcac
+2014-06-04,3589556,1735,47286,4942,0g8lANs6zpQ,2.644806517311609,The Magic of Chemistry - with Andrew Szydlo,43,1,The Royal Institution,2cbcb
+2015-03-11,2682422,1832,17631,7003,Na7Bp4frYGw,0.861099796334012,Blaze of Steel: Explosive Chemistry - with Andrew Szydlo,14,1,The Royal Institution,2cbcba
+2014-07-03,1274258,524,21634,3484,HESOat2iPzU,0.861099796334012,It's Rocket Science! with Professor Chris Bishop,14,1,The Royal Institution,2cbcbb
+2015-02-25,1945687,1053,34089,3700,1wAaI_6b9JE,1.5376782077393072,Four Dimensional Maths: Things to See and Hear in the Fourth Dimension - with Matt Parker,25,1,The Royal Institution,2cbcbc
+2019-10-04,4144300,940,105936,1102,ThwuT3_AG6w,1.845213849287169,Engineering with Origami,30,1,Veritasium,2cbcc
+2019-08-10,1697975,1049,63399,961,GhsZUZmJvaM,0.6765784114052951,First Flight on Another Planet!,11,1,Veritasium,2cbcca
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,2cbccb
+2008-07-31,580988,133,8686,1084,NYKcOFQCeno,0.738085539714867,The math and magic of origami | Robert Lang,12,1,TED,2cbccc
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2cc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,2cca
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,2ccaa
+2017-07-17,12367365,8272,266001,1591,mxhxL1LzKww,2.460285132382892,How Much of the Earth Can You See at Once?,40,1,Vsauce,2ccaaa
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,2ccaab
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,2ccaac
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,2ccab
+2013-06-03,14712421,4378,359146,692,L45Q1_psDqk,1.845213849287169,Is Anything Real?,30,1,Vsauce,2ccaba
+2015-09-23,15834707,5494,355417,1332,GDrBIKOR01c,2.39877800407332,Messages For The Future,39,1,Vsauce,2ccabb
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,2ccabc
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,2ccac
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,2ccaca
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,2ccacb
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,2ccacc
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,2ccb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,2ccc
+2020-03-16,4348849,1771,108616,1589,tCqwT2MqLxI,2.767820773930753,Survivalist Les Stroud Breaks Down Survival Scenes from Movies | GQ,45,1,GQ,2ccca
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,2cccaa
+2020-01-17,18350581,7797,363344,1608,-L7o6HtX8Vg,2.583299389002036,Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ,42,1,GQ,2cccab
+2020-02-04,1361445,756,24743,1622,u2ivR5B1PVs,0.6765784114052951,Astrobiologist Breaks Down Apocalypse Scenes from Movies | GQ,11,1,GQ,2cccac
+2020-01-17,18350581,7797,363344,1608,-L7o6HtX8Vg,2.583299389002036,Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ,42,1,GQ,2cccb
+2019-10-24,10623577,6110,180064,1093,-C3CjOkF-jY,0.6765784114052951,US Marine Breaks Down Military Movies | GQ,11,1,GQ,2cccba
+2017-02-02,3722172,2279,91931,830,ljqra3BcqWM,0.6765784114052951,Extreme Ownership | Jocko Willink | TEDxUniversityofNevada,11,1,TEDx Talks,2cccbb
+2020-03-16,4348849,1771,108616,1589,tCqwT2MqLxI,2.767820773930753,Survivalist Les Stroud Breaks Down Survival Scenes from Movies | GQ,45,1,GQ,2cccbc
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,2cccc
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,2cccca
+2016-04-06,27487925,9825,956543,844,arj7oStGLkU,1.3531568228105901,Inside the mind of a master procrastinator | Tim Urban,22,1,TED,2ccccb
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,2ccccc
+2019-01-16,3897906,10750,40764,611,06bvdFK3vVU,0.12301425661914402,Flat Earth vs. Round Earth | Explorer,2,6,National Geographic,3
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,3a
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,3aa
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,3aaa
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,3aaaa
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,3aaaaa
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,3aaaab
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,3aaaac
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,3aaab
+2014-07-17,10107622,9064,40040,10951,S9HdPi9Ikhk,1.3531568228105901,Restored Apollo 11 Moonwalk - Original NASA EVA Mission Video - Walking on the Moon,22,1,NASA,3aaaba
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,3aaabb
+2018-12-02,487980,1114,13561,3433,3lBpuBqxDVA,1.5376782077393072,Meeting & Interviewing A Flat-Earther!,25,1,Alfie Deyes,3aaabc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,3aaac
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,3aaaca
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,3aaacb
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,3aaacc
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,3aab
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,3aaba
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,3aabaa
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,3aabab
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,3aabac
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,3aabb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,3aabc
+2020-03-16,4348849,1771,108616,1589,tCqwT2MqLxI,2.767820773930753,Survivalist Les Stroud Breaks Down Survival Scenes from Movies | GQ,45,1,GQ,3aabca
+2020-01-17,18350581,7797,363344,1608,-L7o6HtX8Vg,2.583299389002036,Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ,42,1,GQ,3aabcb
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,3aabcc
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,3aac
+2019-11-20,3063506,2498,134982,839,K-Fc08X56R0,1.845213849287169,3 Perplexing Physics Problems,30,1,Veritasium,3aaca
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,3aacaa
+2019-02-06,1941504,1017,81613,991,ZQ--scjcAZ4,1.045621181262729,Are Negative Ions Good For You?,17,1,Veritasium,3aacab
+2019-08-16,5790841,2955,61259,823,dCXkaQa53QQ,0.738085539714867,Making Liquid Nitrogen From Scratch!,12,1,Veritasium,3aacac
+2014-06-04,3589556,1735,47286,4942,0g8lANs6zpQ,2.644806517311609,The Magic of Chemistry - with Andrew Szydlo,43,1,The Royal Institution,3aacb
+2015-03-11,2682422,1832,17631,7003,Na7Bp4frYGw,0.861099796334012,Blaze of Steel: Explosive Chemistry - with Andrew Szydlo,14,1,The Royal Institution,3aacba
+2014-07-03,1274258,524,21634,3484,HESOat2iPzU,0.861099796334012,It's Rocket Science! with Professor Chris Bishop,14,1,The Royal Institution,3aacbb
+2015-02-25,1945687,1053,34089,3700,1wAaI_6b9JE,1.5376782077393072,Four Dimensional Maths: Things to See and Hear in the Fourth Dimension - with Matt Parker,25,1,The Royal Institution,3aacbc
+2019-10-04,4144300,940,105936,1102,ThwuT3_AG6w,1.845213849287169,Engineering with Origami,30,1,Veritasium,3aacc
+2019-08-10,1697975,1049,63399,961,GhsZUZmJvaM,0.6765784114052951,First Flight on Another Planet!,11,1,Veritasium,3aacca
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,3aaccb
+2008-07-31,580988,133,8686,1084,NYKcOFQCeno,0.738085539714867,The math and magic of origami | Robert Lang,12,1,TED,3aaccc
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,3ab
+2014-07-17,10107622,9064,40040,10951,S9HdPi9Ikhk,1.3531568228105901,Restored Apollo 11 Moonwalk - Original NASA EVA Mission Video - Walking on the Moon,22,1,NASA,3aba
+2019-07-20,3214956,3056,20295,11770,iR3oXFFISI0,1.107128309572301,Historic Apollo 11 Moonwalk Footage,18,1,NASA,3abaa
+2019-07-19,2129525,1298,5304,9285,n9xyMaUAyYI,0.430549898167006,"NASA’s Giant Leaps, Past and Future: Saluting Apollo Heroes and Looking Forward to Artemis Missions",7,1,NASA,3abaaa
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,3abaab
+2019-07-20,1103603,874,15727,4388,yN75W5AIQ2w,0.430549898167006,July 2019 Expedition 60 Crew Launch to the International Space Station,7,1,NASA,3abaac
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,3abab
+2015-01-26,6399770,3921,87034,1521,7zpojhD4hpI,1.414663951120162,The Curious Life of a Mars Rover | Nat Geo Live,23,1,National Geographic,3ababa
+2012-11-19,5254310,1600,36467,1505,doN4t5NKW-k,1.722199592668024,Departing Space Station Commander Provides Tour of Orbital Laboratory,28,1,NASA,3ababb
+2013-09-18,28924176,17674,145484,1320,5KygwcZ545U,1.3531568228105901,Shuttle Atlantis STS-132 - Amazing Shuttle Launch Experience,22,1,Jonathan Mickelson,3ababc
+2008-01-16,1757977,662,6493,3373,xwpgmEvlRpM,0.9226069246435841,The Moment in Time: The Manhattan Project,15,1,University of California Television (UCTV),3abac
+2018-10-12,2154385,1120,6353,12419,46DEVQ8UacA,0.369042769857433,The Romanovs. The Real History of the Russian Dynasty. Episodes 1-4. StarMediaEN,6,1,StarMediaEN,3abaca
+2015-08-21,2093801,1297,12402,3067,iv5JNAuGcJU,0.369042769857433,"ATOMIC BOMBING OF HIROSHIMA DOCUMENTARY ""TEN SECONDS THAT SHOOK THE WORLD""  75794",6,1,PeriscopeFilm,3abacb
+,-1,-1,-1,-1,Xw3SFOfbR84,0.369042769857433,,6,1,,3abacc
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,3abb
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,3abba
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,3abbaa
+2016-04-06,27487925,9825,956543,844,arj7oStGLkU,1.3531568228105901,Inside the mind of a master procrastinator | Tim Urban,22,1,TED,3abbab
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,3abbac
+2020-03-13,897039,332,29618,2388,t93UCj1hzu8,1.230142566191446,Astronaut Chris Hadfield Answers the Web's Most Searched Questions | WIRED,20,1,WIRED,3abbb
+2018-04-23,21713175,12515,550247,693,t6rHHnABoT8,2.583299389002036,Astronaut Chris Hadfield Debunks Space Myths | WIRED,42,1,WIRED,3abbba
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,3abbbb
+2014-03-19,6879974,2454,185664,1103,Zo62S0ulqhA,3.321384928716904,What I learned from going blind in space | Chris Hadfield,54,1,TED,3abbbc
+2019-09-18,3170703,1216,54552,994,TZkuQUCUYgM,1.414663951120162,Former NASA Astronaut Explains How Hygiene Is Different in Space | WIRED,23,1,WIRED,3abbc
+2019-07-16,2699021,978,51409,1034,E36F4XG5zcY,0.369042769857433,Former NASA Astronaut Explains How Food Is Different in Space | WIRED,6,1,WIRED,3abbca
+2019-08-08,2809163,1131,53742,922,gJBt92DHyFI,0.369042769857433,Former NASA Astronaut Explains How Sleep Is Different in Space | WIRED,6,1,WIRED,3abbcb
+2012-11-19,5254310,1600,36467,1505,doN4t5NKW-k,1.722199592668024,Departing Space Station Commander Provides Tour of Orbital Laboratory,28,1,NASA,3abbcc
+2018-12-02,487980,1114,13561,3433,3lBpuBqxDVA,1.5376782077393072,Meeting & Interviewing A Flat-Earther!,25,1,Alfie Deyes,3abc
+2018-12-09,271728,644,9894,3223,JLKIUnApa5o,0.861099796334012,Is The Earth Flat??? (Ft A Flat-Earther),14,1,Alfie Deyes,3abca
+2018-12-02,487980,1114,13561,3433,3lBpuBqxDVA,1.5376782077393072,Meeting & Interviewing A Flat-Earther!,25,1,Alfie Deyes,3abcaa
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,3abcab
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,3abcac
+2017-05-10,2640212,1630,23158,4962,AyAK3QBnMGQ,1.230142566191446,A mind-expanding tour of the cosmos with Neil deGrasse Tyson and Robert Krulwich,20,1,92nd Street Y,3abcb
+2013-02-21,1432745,836,10809,6017,rYzBxo3hbYQ,0.369042769857433,Neil DeGrasse Tyson: Blackholes and Other Cosmic Quandries,6,1,92nd Street Y,3abcba
+2018-11-09,434227,279,7743,5761,6_-jtyhAVTc,0.369042769857433,"Carl Sagan's 1994 ""Lost"" Lecture: The Age of Exploration",6,1,Carl Sagan Institute,3abcbb
+,-1,-1,-1,-1,R1XyqaFuX1o,0.369042769857433,,6,1,,3abcbc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,3abcc
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,3abcca
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,3abccb
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,3abccc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,3ac
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,3aca
+2017-07-17,12367365,8272,266001,1591,mxhxL1LzKww,2.460285132382892,How Much of the Earth Can You See at Once?,40,1,Vsauce,3acaa
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,3acaaa
+2015-09-15,15796582,4402,415226,1265,fCn8zs912OE,2.214256619144603,The Zipf Mystery,36,1,Vsauce,3acaab
+2016-11-10,10484828,4642,277673,1117,KUddy8RGwns,1.045621181262729,Is It Okay to Touch Mars?,17,1,Vsauce,3acaac
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,3acab
+2016-06-13,19554190,13570,453034,1297,IJhgZBn-LHg,4.9820773930753575,How Earth Moves,81,1,Vsauce,3acaba
+2017-01-21,10465853,4031,349530,1557,skvnj67YGmw,2.029735234215886,The Brachistochrone,33,1,Vsauce,3acabb
+2015-09-15,15796582,4402,415226,1265,fCn8zs912OE,2.214256619144603,The Zipf Mystery,36,1,Vsauce,3acabc
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,3acac
+2011-07-05,4467994,1833,13200,4844,SvaG0xDdP8g,2.39877800407332,The Space Shuttle (Narrated by William Shatner),39,1,NASA,3acaca
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,3acacb
+2014-07-16,4887202,3460,10888,3465,GNJpoP642wc,1.968228105906313,The Journeys of Apollo,32,1,NASA,3acacc
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,3acb
+2013-06-03,14712421,4378,359146,692,L45Q1_psDqk,1.845213849287169,Is Anything Real?,30,1,Vsauce,3acba
+2015-02-06,12486927,5156,288408,716,O2jkV4BsN6U,3.813441955193482,Did The Past Really Happen?,62,1,Vsauce,3acbaa
+2014-09-10,20760229,7464,429785,885,sHCHEykUxP4,1.045621181262729,Spooky Coincidences?,17,1,Vsauce,3acbab
+2019-01-02,-1,-1,-1,1567,xna-kdXZQHQ,1.845213849287169,How to Talk to Aliens,30,1,Vsauce,3acbac
+2015-09-23,15834707,5494,355417,1332,GDrBIKOR01c,2.39877800407332,Messages For The Future,39,1,Vsauce,3acbb
+2013-07-12,11810294,2997,188210,637,gCBlAAtJA54,0.9226069246435841,Are We Ready For Aliens?,15,1,Vsauce,3acbba
+2019-10-24,5319176,4043,227533,2441,9Vmwsg8Eabo,1.230142566191446,What Is The Scariest Thing?,20,1,Vsauce,3acbbb
+2015-07-31,27714160,17867,612854,1454,s86-Z-CbaHA,4.490020366598778,The Banach–Tarski Paradox,73,1,Vsauce,3acbbc
+2018-12-19,-1,6482,172505,2068,KND_bBDE8RQ,3.321384928716904,The Stanford Prison Experiment,54,1,Vsauce,3acbc
+2018-12-26,-1,-1,-1,1865,zRxI0DaQrag,1.4761710794297351,Should I Die?,24,1,Vsauce,3acbca
+2017-01-18,27553406,27502,547756,2086,iqKdEhx-dD4,0.9841140529531561,Isolation - Mind Field (Ep 1),16,1,Vsauce,3acbcb
+2016-11-12,21103309,11796,325668,906,1KgSp94nCZw,0.9841140529531561,The Chilling Exorcism Of Anneliese Michel,16,1,BuzzFeed Multiplayer,3acbcc
+2020-02-18,1010399,3169,32953,1123,IwJzsE8CvzQ,2.706313645621181,Why People Think the World is Flat,44,1,Johnny Harris,3acc
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,3acca
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,3accaa
+2013-01-29,1110805,5457,27019,789,_loUDS4c3Cs,2.275763747454175,Moon Landings Faked? Filmmaker Says Not!,37,1,VideoFromSpace,3accab
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,3accac
+2019-07-02,1130929,4607,48879,1111,KyD8VIK032o,3.874949083503055,The 10 Things That All Flat Earthers Say,63,1,Professor Dave Explains,3accb
+2019-05-22,2111005,8533,65947,2714,JDy95_eNPzM,4.182484725050917,Response to Globebusters - The Earth Still Isn't Flat,68,1,Professor Dave Explains,3accba
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,3accbb
+2019-09-19,4618294,2595,164870,889,1VPfZ_XzisU,4.182484725050917,"The Bizarre Behavior of Rotating Bodies, Explained",68,1,Veritasium,3accbc
+2019-10-11,11426178,14603,360520,2069,Q7yvvq-9ytE,3.936456211812627,Flat Earthers vs Scientists: Can We Trust Science?,64,1,Jubilee,3accc
+2014-12-04,29921541,45974,557247,631,VNqNnUJVcVs,5.351120162932791,Is Earth Actually Flat?,87,1,Vsauce,3accca
+,-1,-1,-1,-1,G3fBWRol7Fs,2.091242362525458,,34,1,,3acccb
+2020-03-24,2264626,1614,86014,2157,3RkhZgRNC1k,4.182484725050917,"Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",68,1,Vanity Fair,3acccc
+2019-05-06,3220961,2504,34073,313,M7vt5paORIc,0.06150712830957201,Ancient Aliens: The Hollow Earth Theory (Season 10) | History,1,5,HISTORY,3b
+2019-02-27,1167305,387,6919,301,3bUUXFuOvfo,0.184521384928716,Ancient Aliens: The Hollow Moon (Season 11) | History,3,2,HISTORY,3ba
+2014-07-16,4887202,3460,10888,3465,GNJpoP642wc,1.968228105906313,The Journeys of Apollo,32,1,NASA,3baa
+2011-07-05,4467994,1833,13200,4844,SvaG0xDdP8g,2.39877800407332,The Space Shuttle (Narrated by William Shatner),39,1,NASA,3baaa
+2012-08-25,4619131,3343,9420,5230,3TrNN_eTau0,0.6765784114052951,Armstrong Hosts NASA 50th Anniversary Documentary,11,1,NASA,3baaaa
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,3baaab
+2014-07-16,4887202,3460,10888,3465,GNJpoP642wc,1.968228105906313,The Journeys of Apollo,32,1,NASA,3baaac
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,3baab
+2015-01-26,6399770,3921,87034,1521,7zpojhD4hpI,1.414663951120162,The Curious Life of a Mars Rover | Nat Geo Live,23,1,National Geographic,3baaba
+2012-11-19,5254310,1600,36467,1505,doN4t5NKW-k,1.722199592668024,Departing Space Station Commander Provides Tour of Orbital Laboratory,28,1,NASA,3baabb
+2013-09-18,28924176,17674,145484,1320,5KygwcZ545U,1.3531568228105901,Shuttle Atlantis STS-132 - Amazing Shuttle Launch Experience,22,1,Jonathan Mickelson,3baabc
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,3baac
+2011-07-05,4467994,1833,13200,4844,SvaG0xDdP8g,2.39877800407332,The Space Shuttle (Narrated by William Shatner),39,1,NASA,3baaca
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,3baacb
+2014-07-16,4887202,3460,10888,3465,GNJpoP642wc,1.968228105906313,The Journeys of Apollo,32,1,NASA,3baacc
+2015-08-12,550870,332,3123,345,wxMg96dkc-c,0.12301425661914402,10 Most MYSTERIOUS Photos Ever Taken From Space,2,1,Tech Planet,3bab
+2019-06-13,3732150,3397,20250,2585,seJSm-vD9OA,0.12301425661914402,The Strangest Encounters in Space | NASA's Unexplained Files (Full Episode),2,2,Science Channel,3baba
+2014-07-16,4887202,3460,10888,3465,GNJpoP642wc,1.968228105906313,The Journeys of Apollo,32,1,NASA,3babaa
+2019-06-20,719451,776,4720,2586,uwP7UT4ewJA,0.06150712830957201,Mysterious Lights Interrupt Astronaut's Spacewalk | NASA's Unexplained Files (Full Episode),1,1,Science Channel,3babab
+2015-09-09,710233,700,9959,1382,5W2y6uVTvtk,0.06150712830957201,Non-Human Skulls in Peru By Brien Foerster,1,1,ideacity,3babac
+2018-01-07,7138658,7428,36247,3159,Lrfr06Sj3vQ,0.24602851323828903,World War A - When Aliens Attack | Full Documentary,4,2,space and astronomy,3babb
+2014-07-16,4887202,3460,10888,3465,GNJpoP642wc,1.968228105906313,The Journeys of Apollo,32,1,NASA,3babba
+2019-10-04,845478,935,6977,2585,wM00s5q6wJQ,0.12301425661914402,If Aliens Invaded Earth | Alien Encounters (Full Episode),2,1,Science Channel,3babbb
+,-1,-1,-1,-1,9mK93gHFWXs,0.12301425661914402,,2,1,,3babbc
+2018-01-12,561757,443,3178,603,toboSUt1LKQ,0.12301425661914402,Top 5 Mysterious & Unexplained Dashcam Footages,2,2,Top Fives,3babc
+2020-01-31,306896,164,3822,977,gAD-9xXWqzk,0.06150712830957201,7 DISTURBING Mysteries That Remain UNSOLVED - Haunting Disappearances,1,1,MostAmazingTop7,3babca
+2020-04-05,258195,271,4849,807,UzTrYxG8kLQ,0.06150712830957201,Scary Tik Tok Videos You Can NEVER Watch Alone,1,1,KingFrostmare,3babcb
+2018-08-30,130172,100,649,394,DLifC2Lmxlg,0.06150712830957201,10 People That Claim They're Time Travelers With Convincing Stories,1,1,NerdVid,3babcc
+2019-02-23,1019175,465,10172,310,cSLHGbK4jXk,0.12301425661914402,Ancient Aliens: The Origin of the Moon (Season 11) | History,2,1,HISTORY,3bac
+2019-02-27,1167305,387,6919,301,3bUUXFuOvfo,0.184521384928716,Ancient Aliens: The Hollow Moon (Season 11) | History,3,2,HISTORY,3baca
+2014-07-16,4887202,3460,10888,3465,GNJpoP642wc,1.968228105906313,The Journeys of Apollo,32,1,NASA,3bacaa
+2015-08-12,550870,332,3123,345,wxMg96dkc-c,0.12301425661914402,10 Most MYSTERIOUS Photos Ever Taken From Space,2,1,Tech Planet,3bacab
+2019-02-23,1019175,465,10172,310,cSLHGbK4jXk,0.12301425661914402,Ancient Aliens: The Origin of the Moon (Season 11) | History,2,1,HISTORY,3bacac
+2014-08-26,6314694,3648,28542,2031,tRPu5u_Pizk,0.307535641547861,The Day the Mesozoic Died: The Asteroid That Killed the Dinosaurs — HHMI BioInteractive Video,5,1,biointeractive,3bacb
+2011-07-05,4467994,1833,13200,4844,SvaG0xDdP8g,2.39877800407332,The Space Shuttle (Narrated by William Shatner),39,1,NASA,3bacba
+2018-10-01,8503553,4613,135598,2376,UDY5COg2P2c,1.107128309572301,1918 Spanish Flu historical documentary | Swine Flu Pandemic | Deadly plague of 1918,18,1,Chromosome8,3bacbb
+2017-07-28,3326046,1044,21885,3421,gl6Iz4dXGdg,0.307535641547861,Storm of the Century - the Blizzard of '49,5,1,Wyoming PBS,3bacbc
+2018-01-07,7138658,7428,36247,3159,Lrfr06Sj3vQ,0.24602851323828903,World War A - When Aliens Attack | Full Documentary,4,2,space and astronomy,3bacc
+2014-07-16,4887202,3460,10888,3465,GNJpoP642wc,1.968228105906313,The Journeys of Apollo,32,1,NASA,3bacca
+2019-10-04,845478,935,6977,2585,wM00s5q6wJQ,0.12301425661914402,If Aliens Invaded Earth | Alien Encounters (Full Episode),2,1,Science Channel,3baccb
+,-1,-1,-1,-1,9mK93gHFWXs,0.12301425661914402,,2,1,,3baccc
+2014-08-26,6314694,3648,28542,2031,tRPu5u_Pizk,0.307535641547861,The Day the Mesozoic Died: The Asteroid That Killed the Dinosaurs — HHMI BioInteractive Video,5,1,biointeractive,3bb
+2011-07-05,4467994,1833,13200,4844,SvaG0xDdP8g,2.39877800407332,The Space Shuttle (Narrated by William Shatner),39,1,NASA,3bba
+2012-08-25,4619131,3343,9420,5230,3TrNN_eTau0,0.6765784114052951,Armstrong Hosts NASA 50th Anniversary Documentary,11,1,NASA,3bbaa
+2014-07-17,10107622,9064,40040,10951,S9HdPi9Ikhk,1.3531568228105901,Restored Apollo 11 Moonwalk - Original NASA EVA Mission Video - Walking on the Moon,22,1,NASA,3bbaaa
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,3bbaab
+2019-07-20,3214956,3056,20295,11770,iR3oXFFISI0,1.107128309572301,Historic Apollo 11 Moonwalk Footage,18,1,NASA,3bbaac
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,3bbab
+2015-01-26,6399770,3921,87034,1521,7zpojhD4hpI,1.414663951120162,The Curious Life of a Mars Rover | Nat Geo Live,23,1,National Geographic,3bbaba
+2012-11-19,5254310,1600,36467,1505,doN4t5NKW-k,1.722199592668024,Departing Space Station Commander Provides Tour of Orbital Laboratory,28,1,NASA,3bbabb
+2013-09-18,28924176,17674,145484,1320,5KygwcZ545U,1.3531568228105901,Shuttle Atlantis STS-132 - Amazing Shuttle Launch Experience,22,1,Jonathan Mickelson,3bbabc
+2014-07-16,4887202,3460,10888,3465,GNJpoP642wc,1.968228105906313,The Journeys of Apollo,32,1,NASA,3bbac
+2011-07-05,4467994,1833,13200,4844,SvaG0xDdP8g,2.39877800407332,The Space Shuttle (Narrated by William Shatner),39,1,NASA,3bbaca
+2018-12-28,-1,18641,333782,0,21X5lGlDOfg,4.79755600814664,NASA Live: Official Stream of NASA TV,78,1,NASA,3bbacb
+2015-06-12,7506417,3550,22760,3514,EJxwWpaGoJs,3.444399185336049,The Year of Pluto - New Horizons Documentary Brings Humanity Closer to the Edge of the Solar System,56,1,NASA,3bbacc
+2018-10-01,8503553,4613,135598,2376,UDY5COg2P2c,1.107128309572301,1918 Spanish Flu historical documentary | Swine Flu Pandemic | Deadly plague of 1918,18,1,Chromosome8,3bbb
+2017-04-19,855138,404,5147,3397,FQsCQQEG-JA,0.49205702647657806,After Ebola: Nebraska and the Next Pandemic,8,1,NETNebraska,3bbba
+2018-10-01,8503553,4613,135598,2376,UDY5COg2P2c,1.107128309572301,1918 Spanish Flu historical documentary | Swine Flu Pandemic | Deadly plague of 1918,18,1,Chromosome8,3bbbaa
+2015-09-14,323358,-1,-1,5709,xi29GJZllts,0.184521384928716,Ebola Survivor - Dr. Ian Crozier,3,1,U.S. Food and Drug Administration,3bbbab
+2015-12-02,3179996,2698,44809,3690,BwyDCHf5iCY,0.184521384928716,"""The truth about mobile phone and wireless radiation"" -- Dr Devra Davis",3,1,The University of Melbourne,3bbbac
+2018-11-30,4046382,1491,46103,663,3x1aLAw_xkY,0.369042769857433,Spanish Flu: a warning from history,6,1,Cambridge University,3bbbb
+2018-10-01,8503553,4613,135598,2376,UDY5COg2P2c,1.107128309572301,1918 Spanish Flu historical documentary | Swine Flu Pandemic | Deadly plague of 1918,18,1,Chromosome8,3bbbba
+2017-04-19,855138,404,5147,3397,FQsCQQEG-JA,0.49205702647657806,After Ebola: Nebraska and the Next Pandemic,8,1,NETNebraska,3bbbbb
+2018-07-07,2466550,1235,42292,561,XQ9WX4qVxEo,0.12301425661914402,The 1918 Flu Pandemic - Emergence - Extra History - #1,2,1,Extra Credits,3bbbbc
+2018-07-06,2636954,1518,21092,3516,qlSxPouPCIM,0.49205702647657806,1929 Stock Market Crash and the Great Depression - Documentary,8,1,TradingCoachUK,3bbbc
+2019-05-01,1498616,1930,11753,5754,QozGSS7QY_U,0.12301425661914402,Panic: The Untold Story of the 2008 Financial Crisis | Full VICE Special Report | HBO,2,1,Council on Foreign Relations,3bbbca
+2015-08-19,636632,334,5023,2599,jLfjEMDJubg,0.12301425661914402,The Stock Market Crash of 1987 | Cancel Crash,2,1,tastytrade,3bbbcb
+2018-10-01,8503553,4613,135598,2376,UDY5COg2P2c,1.107128309572301,1918 Spanish Flu historical documentary | Swine Flu Pandemic | Deadly plague of 1918,18,1,Chromosome8,3bbbcc
+2017-07-28,3326046,1044,21885,3421,gl6Iz4dXGdg,0.307535641547861,Storm of the Century - the Blizzard of '49,5,1,Wyoming PBS,3bbc
+2017-06-01,2041319,511,11452,3419,SIW2-bH84u4,0.430549898167006,100 Years on the Lincoln Highway,7,1,Wyoming PBS,3bbca
+2020-03-07,852855,343,8310,7255,H0bA72fjHMQ,0.184521384928716,Route 66 Road Trip: 14 Days Driving the Main Street of America,3,1,Through My Lens,3bbcaa
+2019-05-16,1412103,-1,-1,4499,czyMm5DdqAY,0.12301425661914402,The City of Las Vegas: The Early Years,2,1,KCLV Channel 2,3bbcab
+2017-07-28,3326046,1044,21885,3421,gl6Iz4dXGdg,0.307535641547861,Storm of the Century - the Blizzard of '49,5,1,Wyoming PBS,3bbcac
+2018-10-01,8503553,4613,135598,2376,UDY5COg2P2c,1.107128309572301,1918 Spanish Flu historical documentary | Swine Flu Pandemic | Deadly plague of 1918,18,1,Chromosome8,3bbcb
+2017-04-19,855138,404,5147,3397,FQsCQQEG-JA,0.49205702647657806,After Ebola: Nebraska and the Next Pandemic,8,1,NETNebraska,3bbcba
+2018-11-30,4046382,1491,46103,663,3x1aLAw_xkY,0.369042769857433,Spanish Flu: a warning from history,6,1,Cambridge University,3bbcbb
+2018-07-06,2636954,1518,21092,3516,qlSxPouPCIM,0.49205702647657806,1929 Stock Market Crash and the Great Depression - Documentary,8,1,TradingCoachUK,3bbcbc
+2017-06-13,991254,458,5540,3427,cRyjmHe8z-4,0.184521384928716,"Risky Business: The Ghost Town of Kirwin - Main Street, Wyoming",3,2,Wyoming PBS,3bbcc
+2017-06-01,2041319,511,11452,3419,SIW2-bH84u4,0.430549898167006,100 Years on the Lincoln Highway,7,1,Wyoming PBS,3bbcca
+2020-03-07,852855,343,8310,7255,H0bA72fjHMQ,0.184521384928716,Route 66 Road Trip: 14 Days Driving the Main Street of America,3,1,Through My Lens,3bbccb
+2020-03-15,1250986,1384,13506,2227,Sqn-QmoXK4M,0.06150712830957201,Canada’s Famous Abandoned City. Remote and Untouched. Adventure #48,1,1,Destination Adventure,3bbccc
+2017-04-21,12259996,9752,175849,752,BmUrJaOo1Lw,0.06150712830957201,3 Creepy Cases For Ancient Aliens,1,4,BuzzFeed Multiplayer,3bc
+2017-10-20,9912037,5918,159840,1317,JuYYsmQ2ulI,0.79959266802444,Three Bizarre Cases Of Alien Abductions,13,1,BuzzFeed Multiplayer,3bca
+2017-11-17,10194178,4516,153798,1730,o1RS7D_szJo,0.861099796334012,Roswell's Bizarre UFO Crash,14,1,BuzzFeed Multiplayer,3bcaa
+2018-05-18,7493599,3257,128828,1482,npeCDLsyJwE,0.738085539714867,The Unexplained Phoenix Lights Phenomenon,12,1,BuzzFeed Multiplayer,3bcaaa
+2017-10-20,9912037,5918,159840,1317,JuYYsmQ2ulI,0.79959266802444,Three Bizarre Cases Of Alien Abductions,13,1,BuzzFeed Multiplayer,3bcaab
+2017-09-29,14872772,7237,209783,1912,cDZweMXXY6Y,0.738085539714867,The Suspicious Assassination of JFK,12,1,BuzzFeed Multiplayer,3bcaac
+2017-06-22,303388,1308,4731,534,hGK3LmUU-V4,0.307535641547861,Could Human Beings Be Living On Other Planets Right Now?..in 3D - 360°,5,1,Strange Mysteries,3bcab
+2017-06-24,4745188,3123,24736,3001,VzWTyufdkug,0.12301425661914402,Monster BLACK HOLE | Full Documentary,2,1,space and astronomy,3bcaba
+2014-08-26,6314694,3648,28542,2031,tRPu5u_Pizk,0.307535641547861,The Day the Mesozoic Died: The Asteroid That Killed the Dinosaurs — HHMI BioInteractive Video,5,1,biointeractive,3bcabb
+2019-11-20,3260226,2902,126005,1826,SUelbSa-OkA,0.12301425661914402,"LIFE BEYOND:  Chapter 1. Alien life, deep time, and our place in cosmic history (4K)",2,1,melodysheep,3bcabc
+2018-05-18,7493599,3257,128828,1482,npeCDLsyJwE,0.738085539714867,The Unexplained Phoenix Lights Phenomenon,12,1,BuzzFeed Multiplayer,3bcac
+2017-11-17,10194178,4516,153798,1730,o1RS7D_szJo,0.861099796334012,Roswell's Bizarre UFO Crash,14,1,BuzzFeed Multiplayer,3bcaca
+2017-10-20,9912037,5918,159840,1317,JuYYsmQ2ulI,0.79959266802444,Three Bizarre Cases Of Alien Abductions,13,1,BuzzFeed Multiplayer,3bcacb
+2017-09-29,14872772,7237,209783,1912,cDZweMXXY6Y,0.738085539714867,The Suspicious Assassination of JFK,12,1,BuzzFeed Multiplayer,3bcacc
+2017-11-17,10194178,4516,153798,1730,o1RS7D_szJo,0.861099796334012,Roswell's Bizarre UFO Crash,14,1,BuzzFeed Multiplayer,3bcb
+2018-05-18,7493599,3257,128828,1482,npeCDLsyJwE,0.738085539714867,The Unexplained Phoenix Lights Phenomenon,12,1,BuzzFeed Multiplayer,3bcba
+2017-11-17,10194178,4516,153798,1730,o1RS7D_szJo,0.861099796334012,Roswell's Bizarre UFO Crash,14,1,BuzzFeed Multiplayer,3bcbaa
+2017-10-20,9912037,5918,159840,1317,JuYYsmQ2ulI,0.79959266802444,Three Bizarre Cases Of Alien Abductions,13,1,BuzzFeed Multiplayer,3bcbab
+2017-09-29,14872772,7237,209783,1912,cDZweMXXY6Y,0.738085539714867,The Suspicious Assassination of JFK,12,1,BuzzFeed Multiplayer,3bcbac
+2017-10-20,9912037,5918,159840,1317,JuYYsmQ2ulI,0.79959266802444,Three Bizarre Cases Of Alien Abductions,13,1,BuzzFeed Multiplayer,3bcbb
+2017-11-17,10194178,4516,153798,1730,o1RS7D_szJo,0.861099796334012,Roswell's Bizarre UFO Crash,14,1,BuzzFeed Multiplayer,3bcbba
+2017-06-22,303388,1308,4731,534,hGK3LmUU-V4,0.307535641547861,Could Human Beings Be Living On Other Planets Right Now?..in 3D - 360°,5,1,Strange Mysteries,3bcbbb
+2018-05-18,7493599,3257,128828,1482,npeCDLsyJwE,0.738085539714867,The Unexplained Phoenix Lights Phenomenon,12,1,BuzzFeed Multiplayer,3bcbbc
+2017-09-29,14872772,7237,209783,1912,cDZweMXXY6Y,0.738085539714867,The Suspicious Assassination of JFK,12,1,BuzzFeed Multiplayer,3bcbc
+2017-11-17,10194178,4516,153798,1730,o1RS7D_szJo,0.861099796334012,Roswell's Bizarre UFO Crash,14,1,BuzzFeed Multiplayer,3bcbca
+2018-01-26,12352713,3881,255694,2238,qg2nGY1aqlg,0.307535641547861,The Grisly Murders Of Jack The Ripper,5,1,BuzzFeed Multiplayer,3bcbcb
+2017-08-25,10180304,3775,187610,1254,y__v0aEgzO0,0.24602851323828903,The Odd Vanishing of Amelia Earhart,4,1,BuzzFeed Multiplayer,3bcbcc
+2017-11-24,10621892,3691,178162,1339,xjmXzYdxuTQ,0.06150712830957201,The Mysterious Disappearance of Roanoke Colony,1,3,BuzzFeed Multiplayer,3bcc
+2018-03-16,11290701,3499,176948,1380,4Q1FzhMY8FQ,0.06150712830957201,The Disturbing Mystery of the Jamison Family,1,2,BuzzFeed Multiplayer,3bcca
+2018-03-02,7619307,1959,129198,1787,runjda4La_4,0.12301425661914402,The Scandalous Murder of William Desmond Taylor,2,1,BuzzFeed Multiplayer,3bccaa
+2018-08-24,9493235,2740,176566,1504,LYUdnsIn5OU,0.184521384928716,The Bizarre Disappearance of Bobby Dunbar,3,1,BuzzFeed Unsolved Network,3bccab
+2018-02-16,8300941,2027,148615,1652,H-Ar93KL2V0,0.06150712830957201,The Enigmatic Death of the Isdal Woman,1,1,BuzzFeed Multiplayer,3bccac
+2018-08-24,9493235,2740,176566,1504,LYUdnsIn5OU,0.184521384928716,The Bizarre Disappearance of Bobby Dunbar,3,1,BuzzFeed Unsolved Network,3bccb
+2019-09-26,5909356,2242,169939,1312,s_2QTY0V3Yc,0.12301425661914402,The Impossible Disappearance Of Dorothy Arnold,2,1,BuzzFeed Unsolved Network,3bccba
+2018-09-07,6810710,2267,168589,1856,SsuWS6yE478,0.12301425661914402,The Treacherous Treasure Hunt of Forrest Fenn,2,1,BuzzFeed Unsolved Network,3bccbb
+,-1,-1,-1,-1,qr4MSVxfYBE,0.184521384928716,,3,1,,3bccbc
+2017-12-15,9076530,2532,173615,1737,UCcGmo4pp7I,0.12301425661914402,The Subterranean Terrors Of The London Tombs,2,2,BuzzFeed Multiplayer,3bccc
+2017-12-08,8193121,1862,158034,1375,Nu1mCFToXxU,0.06150712830957201,The Chilling Chambers of Colchester Castle,1,1,BuzzFeed Multiplayer,3bccca
+2018-04-27,8466962,1887,168296,1592,ejFccNmL15g,0.12301425661914402,The Shadowy Spirits of Rolling Hills Asylum,2,1,BuzzFeed Multiplayer,3bcccb
+2018-04-20,9586245,3707,212637,1897,CupbRr2m_sM,0.06150712830957201,The Search for the Mysterious Mothman,1,1,BuzzFeed Multiplayer,3bcccc
+,-1,-1,-1,-1,1nZZtKuWY5E,0.06150712830957201,,1,5,,3c
