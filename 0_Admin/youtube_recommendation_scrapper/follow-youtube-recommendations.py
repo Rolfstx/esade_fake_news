@@ -14,11 +14,14 @@ import json
 import sys
 import argparse
 import time
+import win_unicode_console
 
 from bs4 import BeautifulSoup
 
 RECOMMENDATIONS_PER_VIDEO = 1
 RESULTS_PER_SEARCH = 1
+
+win_unicode_console.enable()
 
 # NUMBER OF MIN LIKES ON A VIDEO TO COMPUTE A LIKE RATIO
 MIN_LIKES_FOR_LIKE_RATIO = 5
@@ -201,7 +204,7 @@ class YoutubeFollower():
                 print ('WARNING Could not get a UP NEXT RECOMMENDATION')
                 pass
 
-        for video_list in soup.findAll('li', {'class':"video-list-item related-list-item show-video-time related-list-item-compact-video"}):    
+        for video_list in soup.findAll('li', {'class':"video-list-item related-list-item show-video-time related-list-item-compact-video"}):
             try:
                 recos.append(video_list.contents[1].contents[1]['href'].replace('/watch?v=', ''))
             except IndexError:
