@@ -8,7 +8,6 @@ import traceback
 import pandas as pd
 from tqdm import tqdm
 from datetime import datetime
-
 from bs4 import BeautifulSoup
 
 class YouTube:
