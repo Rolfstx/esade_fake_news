@@ -1,7 +1,7 @@
 #Install libraries
-install.packages("RCurl")
-install.packages("jsonlite")
-install.packages("tuber")
+#install.packages("RCurl")
+#install.packages("jsonlite")
+#install.packages("tuber")
 
 #Load libraries
 library(RCurl)
@@ -9,14 +9,18 @@ library(jsonlite)
 library(tuber)
 
 #Clean the list, remove the datestamps and keep unique IDs, as soom are repeated
-allids <- read_csv("~/Dropbox (IESE)/PhD/PhD Thesis/Algorithm Youtube/vid_id_list_science_vertical.csv", col_names = FALSE)
+allids <- read.table("~/Documents/GitHub/esade_fake_news/4_Politics/youtube_recommendation_scrapper/data/csv/_old/unique_id.csv", header=TRUE)
+
+allids <- read.table("~/Documents/covid_20200426_unique_depth6_branch5.csv", header=TRUE)
+
+
 allids <- unique(allids)
 
 #Build a URL to call the API
 URL_base='https://www.googleapis.com/youtube/v3/videos?id=' #this is the base URL
 URL_details='&part=contentDetails&key='                     #getting contentDetail for technical metadata
-URL_key='AIzaSyDR7gW29gCGg_KD1jPioOPbD3Jso0diC4w'
-cred <- yt_oauth(app_id = "USE YOUR APP_ID", app_secret = "USE YOUR APP_SECRET", scope = "ssl", token = ".httr-oauth")
+URL_key=''
+#cred <- yt_oauth(app_id = "USE YOUR APP_ID", app_secret = "USE YOUR APP_SECRET", scope = "ssl", token = ".httr-oauth")
 allids2 <- base::as.list(allids)
 
 #Loop through URLS to retrieve basic info (duration, format)
@@ -52,7 +56,8 @@ for(i in 1:nrow(allids)){
   title = result2$items$snippet$title
   description = result2$items$snippet$description
   tag = result2$items$snippet$tags
-  alldata2 = rbind(alldata2, data.frame(id2, title, description, publishedAt, channelid, channeltitle))
+  category = result2$items$snippet$categoryId
+  alldata2 = rbind(alldata2, data.frame(id2, title, description, publishedAt, channelid, channeltitle, category))
 } 
 
 # Video statistics (likes, views, etc.) - Youtube API part: statistics
@@ -72,11 +77,13 @@ for(i in 1:nrow(allids)){
   comments = result3$items$statistics$commentCount
   alldata3 = rbind(alldata3, data.frame(id3, views, likes, dislikes, favorite, comments))
 } 
+if(hours > 100) net.price <- net.price * 0.9
 
 # Save files as
-#alldata = 
-#alldata2 =
-#alldata3 =
+alldata4 = merge(alldata, alldata2, by.x='id', by.y="id2")
+alldata5 = merge(alldata4, alldata3, by.x='id', by.y="id3")
+
+write.csv(alldata5, "data/test.csv")
 
 # Visualize some variables
 youtube_likes_comments_v1 <- read_excel("~/Dropbox (IESE)/PhD/PhD Thesis/Algorithm Youtube/Datasets Test/youtube_likes_comments_v1.xlsx")
@@ -92,5 +99,8 @@ ggplot(dataset,aes(likes)) + geom_histogram(colour="darkred", size=1, fill="red"
 ggplot(dataset,aes(comments)) + geom_histogram(colour="darkgreen", size=1, fill="green") + scale_x_continuous(labels = comma)
 
 
+'https://www.googleapis.com/youtube/v3/videoCategories?part=snippet&id=25&key=AIzaSyDshWBYU8ibrGWh7bScYa-DCVGA9gumqI0
 
+https://www.googleapis.com/youtube/v3/videoCategories?part=snippet&id=25&key=AIzaSyDshWBYU8ibrGWh7bScYa-DCVGA9gumqI0
 
+https://www.googleapis.com/youtube/v3/guideCategories

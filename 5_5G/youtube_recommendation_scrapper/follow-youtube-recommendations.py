@@ -8,6 +8,7 @@ __author__ = 'Guillaume Chaslot'
         4) stores the results in a json file
 """
 
+import os
 import urllib2
 import re
 import json
@@ -15,7 +16,7 @@ import sys
 import argparse
 import time
 
-from bs4 import BeautifulSoup4
+from bs4 import BeautifulSoup
 
 RECOMMENDATIONS_PER_VIDEO = 1
 RESULTS_PER_SEARCH = 1
@@ -276,8 +277,10 @@ class YoutubeFollower():
     def save_video_infos(self, keyword):
         print ('Wrote file:')
         date = time.strftime('%Y%m%d')
+        if not os.path.exists('data'):
+            os.mkdir('data')
         with open('data/video-infos-' + keyword + '-' + date + '.json', 'w') as fp:
-            json.dump(self._video_infos, fp)
+            json.dump(self._video_infos, fp, indent=4)
 
     def try_to_load_video_infos(self):
         try:
@@ -411,6 +414,12 @@ def main():
 
     compare_keywords(args.query, args.searches, args.branch, args.depth, args.name, args.gl, args.language, args.recent, args.loopok, args.alltime)
     return 0
+
+def getNumVideos(depth, branch, searches):
+    res = 0
+    for i in range(depth):
+        res += branch**(i+1)
+    return res * (searches/branch)
 
 if __name__ == "__main__":
     sys.exit(main())
