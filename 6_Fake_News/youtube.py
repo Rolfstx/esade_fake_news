@@ -66,7 +66,8 @@ class YouTube:
             self.current_key = str(e+1)
             data, status_code, title = self.get_video_recommendations(video, self.current_key)
             self.print(video, 1, status_code, self.current_key, title)
-            self.loop_recursive(data, current_depth=1, current_key=self.current_key)
+            self.current_depth = 1
+            self.loop_recursive(data, current_depth=self.current_depth, current_key=self.current_key)
 
     def loop_recursive(self, data, current_depth, current_key):
         if current_depth < self.depth:
