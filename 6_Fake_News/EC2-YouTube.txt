@@ -10,3 +10,6 @@ curl -O https://raw.githubusercontent.com/Rolfstx/esade_fake_news/master/6_Fake_
 curl -O https://raw.githubusercontent.com/Rolfstx/esade_fake_news/master/6_Fake_News/requirements.txt
 sudo yum install python37 -y
 sudo pip3 install -r requirements.txt
+
+
+scp -i <Local .pem PATH> ec2-user@<ENTER Public DNS (IPv4) HERE>:/home/ec2-user/youtube/data/<FILE NAME> <LOCAL PATH WHERE YOU WANT IT DOWNLOADED TO>
