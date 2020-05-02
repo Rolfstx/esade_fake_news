@@ -52,10 +52,13 @@ class YouTube:
         try:
             if videos[0].a.text == 'Wikipedia':
                 videos = videos[1:]
+            elif videos[0].a.text == 'See more resources on Google':
+                videos = videos[1:]
         except:
             if attempts > 3:
                 print("AN ERROR HAPPENED")
             else:
+                time.sleep(30)
                 self.get_search_results(attempts=attempts+1)
         return [video.a['href'][9:] for video in videos[:self.searches]]
 
@@ -75,7 +78,7 @@ class YouTube:
                 self.current_key = current_key + str(e+1)
                 data, status_code, title = self.get_video_recommendations(video, self.current_key)
                 self.current_iteration += 1
-                self.print(video, current_depth, status_code, self.current_key, title)
+                self.print(video, current_depth+1, status_code, self.current_key, title)
                 self.loop_recursive(data, current_depth+1, self.current_key)
 
     def print(self, video, current_depth, status_code, current_key, title):

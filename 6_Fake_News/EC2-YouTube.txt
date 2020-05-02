@@ -1,0 +1,9 @@
+chmod 400 Capstone.pem
+ssh -i "Capstone.pem" ec2-user@ec2-54-161-190-81.compute-1.amazonaws.com
+mkdir youtube
+cd youtube
+nano > youtube.py
+nano > launch.sh
+nano > requirements.txt
+sudo yum install python37
+sudo pip3 install -r requirements.txt
