@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 class YouTube:
     baseURL = 'https://www.youtube.com/'
 
-    def __init__(self, query, searches=5, branch=3, depth=5, country='US', language='en-US', delay=0.5, name=None, fetch_channels=False, key=None):
+    def __init__(self, query, searches=5, branch=3, depth=5, country='US', language='en-US', delay=0.5, name=None, channels=False, key=None):
         self.query = query
         self.country = country
         self.header = {"Accept-Language": language}
@@ -28,7 +28,7 @@ class YouTube:
         self.current_key = ''
         self.delay = delay
         self.name = name
-        self.fetch_channels = fetch_channels
+        self.channels = channels
         self.key = key
 
     def run(self):
@@ -36,11 +36,11 @@ class YouTube:
             self.loop_searches()
         except Exception as e:
             print(traceback.format_exc())
-            print('AN ERROR HAPPENED - TRY AGAIN!', e)
+            print('\nAN ERROR HAPPENED - TRY AGAIN!', e)
         finally:
             self.save_results()
             self.save_csv()
-            if self.fetch_channels:
+            if self.channels == True:
                 print('\n\n########## FETCHING CHANNEL INFO! ##########')
                 self.get_channels()
 
@@ -80,7 +80,7 @@ class YouTube:
 
     def print(self, video, current_depth, status_code, current_key, title):
         extra_spacing = (len(str(self.iterations))-len(str(self.current_iteration)))-2
-        print(f"({' '*extra_spacing}{self.current_iteration} / {int(self.iterations)}): Fetching {video} | Status Code {str(status_code):4s} | Depth {current_depth} | Key {self.current_key:{self.depth}s} | {str(title)[:60]:60s}")
+        print(f"\n({' '*extra_spacing}{self.current_iteration} / {int(self.iterations)}): Fetching {video} | Status Code {str(status_code):4s} | Depth {current_depth} | Key {self.current_key:{self.depth}s} | {str(title)[:60]:60s}", end="")
 
     def get_video_recommendations(self, id, key, attempt=0):
         ids = [list(d.keys())[0] for d in self.data]
@@ -93,7 +93,14 @@ class YouTube:
         run, attempts = True, 0
         while run:
             if attempts >= 1:
-                time.sleep(15)
+                print(f' | CONTENT ERROR: {attempt+1} | WAITING 30 SECONDS', end="\r")
+                if not os.path.exists('data'):
+                    os.mkdir('data')
+                if not os.path.exists('data/logs'):
+                    os.mkdir('data/logs')
+                with open(f'data/logs/{id}_{attempts}.html', 'w', encoding='utf-8') as file:
+                    file.write(soup.prettify())
+                time.sleep(30)
             attempts += 1
             soup, status_code = self.get_soup(id)
             try:
@@ -132,7 +139,7 @@ class YouTube:
         URL = f"{self.baseURL}watch?v={id}"
         r = requests.get(URL, headers=self.header)
         if r.status_code != 200 and attempt < 5:
-            print(f'ATTEMPTING URL: {attempt+1}')
+            print(f' ATTEMPTING URL: {attempt+1} | Status Code {r.status_code}', end="\r")
             time.sleep(5)
             self.get_soup(id, attempt+1)
         else: 
@@ -171,7 +178,7 @@ class YouTube:
         file_path = f'data/videos/{time}_{file_name}.json'
         with open(file_path, 'w') as file:
             json.dump(self.data, file, indent=4)
-        print(f'########## FETCHING COMPLETED | FILE SAVED TO {file_path} VIDEOS ##########')
+        print(f'\n\n########## FETCHING COMPLETED | FILE SAVED TO {file_path} VIDEOS ##########')
 
     def save_csv(self):
         ids = [list(d.keys())[0] for d in self.data]
@@ -224,9 +231,13 @@ def main():
     parser.add_argument('--language', default='en-US', help='Languaged passed to HTML header, en, fr, en-US, ...')
     parser.add_argument('--delay', default='0.5', type=float, help='Adds a delay between requests.')
     parser.add_argument('--name', default=None, help='Name given to the file')
-    parser.add_argument('--channels', default=False, type=bool, help='If channel info should be fetched (requires Google API Key)')
+    parser.add_argument('--channels', default=False, help='If channel info should be fetched (requires Google API Key)')
     parser.add_argument('--key', default=None, help='Your Google API Key')
     args = parser.parse_args()
+    if args.channels == "False":
+        args.channels = False
+    else:
+        args.channels = True
     youtube = YouTube(args.query, args.searches, args.branch, args.depth, args.country, args.language, args.delay, args.name, args.channels, args.key)
     user_input = True
     if youtube.iterations > 9999:
