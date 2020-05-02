@@ -139,8 +139,8 @@ class YouTube:
         URL = f"{self.baseURL}watch?v={id}"
         r = requests.get(URL, headers=self.header)
         if r.status_code != 200 and attempt < 5:
-            print(f' ATTEMPTING URL: {attempt+1} | Status Code {r.status_code}', end="\r")
-            time.sleep(5)
+            print(f' ATTEMPTING URL: {attempt+1} | Status Code {r.status_code} | WAITING 1 MINUTE', end="\r")
+            time.sleep(60)
             self.get_soup(id, attempt+1)
         else: 
             pass
