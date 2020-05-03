@@ -1,0 +1,1 @@
+python3 youtube.py --query="the earth is flat" --searches=3 --branch=3 --depth=3 --channels="False" --key='ENTER_YOU_GOOGLE_API_KEY_HERE'
