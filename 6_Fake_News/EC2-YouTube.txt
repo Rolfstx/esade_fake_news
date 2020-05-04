@@ -1,0 +1,15 @@
+// Change directory (cd) into the folder where you .pem key is located
+// Follow these steps:
+
+chmod 400 Capstone.pem
+ssh -i "Capstone.pem" ec2-user@<ENTER Public DNS (IPv4) HERE>
+mkdir youtube
+cd youtube
+curl -O https://raw.githubusercontent.com/Rolfstx/esade_fake_news/master/6_Fake_News/youtube.py
+curl -O https://raw.githubusercontent.com/Rolfstx/esade_fake_news/master/6_Fake_News/launch.sh
+curl -O https://raw.githubusercontent.com/Rolfstx/esade_fake_news/master/6_Fake_News/requirements.txt
+sudo yum install python37 -y
+sudo pip3 install -r requirements.txt
+
+// To save a specific file from your EC2 instance to your local computer
+scp -i <Local .pem PATH> ec2-user@<ENTER Public DNS (IPv4) HERE>:/home/ec2-user/youtube/data/<FILE NAME> <LOCAL PATH WHERE YOU WANT IT DOWNLOADED TO>
