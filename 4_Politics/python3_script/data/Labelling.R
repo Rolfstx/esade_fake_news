@@ -14,6 +14,7 @@ df = fread("~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/20
 #create relevant column equals 1 if it contains keywords
 #115 videos contain keywords in title or description columns
 df$relevant = ifelse(grepl('biden|trump|democrat|republican|politics|president', paste(df$title, df$description), ignore.case=TRUE), 1, 0)
+sum(df$relevant)
 
 #number of videos that contain keywords in title column
 #59 videos
@@ -27,6 +28,10 @@ sum(ifelse(grepl('biden|trump|democrat|republican|politics|president', df$descri
 df2 = df[relevant==1, .(title, description, channel)]
 
 #huckabee is fake: The DEEP STATE vs General Flynn
+df[, .N, by='channel'][order(-N)][1:10]
+genre = df[, .N, by='genre'][order(-N)]
+
+write.csv(genre, "~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/genre/20200501-200819_joe_biden.csv")
 
 channel_unique = data.table()
 channel_unique$channel = unique(df$channel)
