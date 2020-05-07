@@ -50,9 +50,7 @@ class YouTube:
         soup = BeautifulSoup(r.text, 'html.parser')
         videos = soup.findAll('div', {'class': 'yt-lockup-content'})
         try:
-            if videos[0].a.text == 'Wikipedia':
-                videos = videos[1:]
-            elif videos[0].a.text == 'See more resources on Google':
+            if videos[0].a.text in ['Wikipedia', 'See more resources on Google']:
                 videos = videos[1:]
         except:
             if attempts > 3:
@@ -85,7 +83,7 @@ class YouTube:
         extra_spacing = (len(str(self.iterations))-len(str(self.current_iteration)))-2
         print(f"\n({' '*extra_spacing}{self.current_iteration} / {int(self.iterations)}): Fetching {video} | Status Code {str(status_code):4s} | Depth {current_depth} | Key {self.current_key:{self.depth}s} | {str(title)[:60]:60s}", end="")
 
-    def get_video_recommendations(self, id, key, attempt=0):
+    def get_video_recommendations(self, id, key):
         ids = [list(d.keys())[0] for d in self.data]
         if id in ids:
             existing_data = dict(self.data[ids.index(id)][id])
@@ -96,42 +94,93 @@ class YouTube:
         run, attempts = True, 0
         while run:
             if attempts >= 1:
-                print(f' | CONTENT ERROR: {attempt+1} | WAITING 30 SECONDS', end="\r")
-                if not os.path.exists('data'):
-                    os.mkdir('data')
-                if not os.path.exists('data/logs'):
-                    os.mkdir('data/logs')
-                with open(f'data/logs/{id}_{attempts}.html', 'w', encoding='utf-8') as file:
-                    file.write(soup.prettify())
-                time.sleep(30)
+                if attempts > 5:
+                    print(f' | CONTENT ERROR: FAILED | INFORMATION LOST')
+                    run = False
+                else:
+                    print(f' | CONTENT ERROR: {attempts} | WAITING 30 SECONDS', end="\r")
+                    if not os.path.exists('data'):
+                        os.mkdir('data')
+                    if not os.path.exists('data/logs'):
+                        os.mkdir('data/logs')
+                    with open(f'data/logs/{id}_{attempts}.html', 'w', encoding='utf-8') as file:
+                        file.write(soup.prettify())
+                    time.sleep(30)
             attempts += 1
             soup, status_code = self.get_soup(id)
-            try:
-                data = self.get_video_info(soup, id, key)
+            data = self.get_video_info(soup, id, key)
+            results = [data[id][key] for key in data[id]]
+            if None not in results:
                 run = False
-            except Exception as e:
-                pass
         self.data.append(data)
         return (data, status_code, data[id]['title'])
 
-    def get_video_info(self, soup, id, key):
+    def get_video_info(self, soup, id, key, skip=False):
         recommendations = soup.findAll('div', {'class': 'content-wrapper'})
         recommendations = [recommendation.a['href'][9:] for recommendation in recommendations]
+        try:
+            title = soup.title.text[:-10]
+        except:
+            title = None
+        try:
+            genre = soup.find('meta', itemprop='genre')['content']
+        except:
+            genre = None
+        try:
+            views = soup.find('meta', itemprop='interactionCount')['content']
+        except:
+            views = None
+        try:
+            likes = soup.find('button', {'title': 'I like this'}).text
+        except: 
+            likes = None
+        try:
+            dislikes = soup.find('button', {'title': 'I dislike this'}).text
+        except:
+            dislikes = None
+        try:
+            description = soup.find('div', {'id': 'watch-description-text'}).text
+        except:
+            description = None
+        try:
+            duration = soup.find('meta', itemprop='duration')['content']
+        except: 
+            duration = None
+        try:
+            datePublished = soup.find('meta', itemprop='datePublished')['content']
+        except:
+            datePublished = None
+        try:
+            uploadDate = soup.find('meta', itemprop='uploadDate')['content']
+        except: 
+            uploadDate = None
+        try:
+            channel = soup.find('a', {'class': 'yt-uix-sessionlink spf-link'}).text
+        except:
+            channel = None
+        try:
+            channel_url = soup.find('a', {'class': 'yt-uix-sessionlink spf-link'})['href']
+        except:
+            channel_url = None
+        try:
+            channel_id = soup.find('meta', {'itemprop': 'channelId'})['content']
+        except:
+            channel_id = None
         data = {
             id: {
-                'title': soup.title.text[:-10],
-                'genre': soup.find('meta', itemprop='genre')['content'],
-                'views': soup.find('meta', itemprop='interactionCount')['content'],
-                'likes': soup.find('button', {'title': 'I like this'}).text,
-                'dislikes': soup.find('button', {'title': 'I dislike this'}).text,
-                'description': soup.find('div', {'id': 'watch-description-text'}).text,
-                'duration': soup.find('meta', itemprop='duration')['content'],
-                'datePublished': soup.find('meta', itemprop='datePublished')['content'],
-                'uploadDate': soup.find('meta', itemprop='uploadDate')['content'],
+                'title': title,
+                'genre': genre,
+                'views': views,
+                'likes': likes,
+                'dislikes': dislikes,
+                'description': description,
+                'duration': duration,
+                'datePublished': datePublished,
+                'uploadDate': uploadDate,
                 'key': key,
-                'channel': soup.find('a', {'class': 'yt-uix-sessionlink spf-link'}).text,
-                'channel_url': soup.find('a', {'class': 'yt-uix-sessionlink spf-link'})['href'],
-                'channel_id': soup.find('meta', {'itemprop': 'channelId'})['content'], 
+                'channel': channel,
+                'channel_url': channel_url,
+                'channel_id': channel_id, 
                 'recommendations': recommendations
             }
         }
