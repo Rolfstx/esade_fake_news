@@ -13,3 +13,9 @@ sudo pip3 install -r requirements.txt
 
 // To save a specific file from your EC2 instance to your local computer
 scp -i <Local .pem PATH> ec2-user@<ENTER Public DNS (IPv4) HERE>:/home/ec2-user/youtube/data/<FILE NAME> <LOCAL PATH WHERE YOU WANT IT DOWNLOADED TO>
+
+scp -i "Capstone.pem" ec2-user@ec2-54-161-190-81.compute-1.amazonaws.com:/home/ec2-user/youtube/data/channels/20200502-111326_coronavirus.json /Users/mikkelduif/desktop/youtube
+
+
+20200502-111326_coronavirus.json
+20200502-111326_coronavirus.json
