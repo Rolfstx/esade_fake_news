@@ -10,11 +10,10 @@ from tqdm import tqdm
 from datetime import datetime
 from bs4 import BeautifulSoup
 
-
 class YouTube:
     baseURL = 'https://www.youtube.com/'
 
-    def __init__(self, query, searches=1, branch=5, depth=6, country='US', language='en-US', delay=0.5, name=None, fetch_channels=False, key=None):
+    def __init__(self, query, searches=5, branch=3, depth=5, country='US', language='en-US', delay=0.5, name=None, channels=False, key=None):
         self.query = query
         self.country = country
         self.header = {"Accept-Language": language}
@@ -29,7 +28,7 @@ class YouTube:
         self.current_key = ''
         self.delay = delay
         self.name = name
-        self.fetch_channels = fetch_channels
+        self.channels = channels
         self.key = key
 
     def run(self):
@@ -37,11 +36,11 @@ class YouTube:
             self.loop_searches()
         except Exception as e:
             print(traceback.format_exc())
-            print('AN ERROR HAPPENED - TRY AGAIN!', e)
+            print('\nAN ERROR HAPPENED - TRY AGAIN!', e)
         finally:
             self.save_results()
             self.save_csv()
-            if self.fetch_channels:
+            if self.channels == True:
                 print('\n\n########## FETCHING CHANNEL INFO! ##########')
                 self.get_channels()
 
@@ -51,12 +50,13 @@ class YouTube:
         soup = BeautifulSoup(r.text, 'html.parser')
         videos = soup.findAll('div', {'class': 'yt-lockup-content'})
         try:
-            if videos[0].a.text == 'Wikipedia':
+            if videos[0].a.text in ['Wikipedia', 'See more resources on Google']:
                 videos = videos[1:]
         except:
             if attempts > 3:
                 print("AN ERROR HAPPENED")
             else:
+                time.sleep(30)
                 self.get_search_results(attempts=attempts+1)
         return [video.a['href'][9:] for video in videos[:self.searches]]
 
@@ -67,8 +67,7 @@ class YouTube:
             data, status_code, title = self.get_video_recommendations(video, self.current_key)
             self.print(video, 1, status_code, self.current_key, title)
             self.current_depth = 1
-            self.loop_recursive(data, current_depth=self.current_depth,
-                                current_key=self.current_key)
+            self.loop_recursive(data, current_depth=self.current_depth, current_key=self.current_key)
 
     def loop_recursive(self, data, current_depth, current_key):
         if current_depth < self.depth:
@@ -77,15 +76,14 @@ class YouTube:
                 self.current_key = current_key + str(e+1)
                 data, status_code, title = self.get_video_recommendations(video, self.current_key)
                 self.current_iteration += 1
-                self.print(video, current_depth, status_code, self.current_key, title)
+                self.print(video, current_depth+1, status_code, self.current_key, title)
                 self.loop_recursive(data, current_depth+1, self.current_key)
 
     def print(self, video, current_depth, status_code, current_key, title):
         extra_spacing = (len(str(self.iterations))-len(str(self.current_iteration)))-2
-        print(
-            f"({' '*extra_spacing}{self.current_iteration} / {int(self.iterations)}): Fetching {video} | Status Code {str(status_code):4s} | Depth {current_depth} | Key {self.current_key:{self.depth}s} | {str(title)[:60]:60s}")
+        print(f"\n({' '*extra_spacing}{self.current_iteration} / {int(self.iterations)}): Fetching {video} | Status Code {str(status_code):4s} | Depth {current_depth} | Key {self.current_key:{self.depth}s} | {str(title)[:60]:60s}", end="")
 
-    def get_video_recommendations(self, id, key, attempt=0):
+    def get_video_recommendations(self, id, key):
         ids = [list(d.keys())[0] for d in self.data]
         if id in ids:
             existing_data = dict(self.data[ids.index(id)][id])
@@ -96,35 +94,93 @@ class YouTube:
         run, attempts = True, 0
         while run:
             if attempts >= 1:
-                time.sleep(15)
+                if attempts > 5:
+                    print(f' | CONTENT ERROR: FAILED | INFORMATION LOST')
+                    run = False
+                else:
+                    print(f' | CONTENT ERROR: {attempts} | WAITING 30 SECONDS', end="\r")
+                    if not os.path.exists('data'):
+                        os.mkdir('data')
+                    if not os.path.exists('data/logs'):
+                        os.mkdir('data/logs')
+                    with open(f'data/logs/{id}_{attempts}.html', 'w', encoding='utf-8') as file:
+                        file.write(soup.prettify())
+                    time.sleep(30)
             attempts += 1
             soup, status_code = self.get_soup(id)
-            try:
-                data = self.get_video_info(soup, id, key)
+            data = self.get_video_info(soup, id, key)
+            results = [data[id][key] for key in data[id]]
+            if None not in results:
                 run = False
-            except Exception as e:
-                pass
         self.data.append(data)
         return (data, status_code, data[id]['title'])
 
-    def get_video_info(self, soup, id, key):
+    def get_video_info(self, soup, id, key, skip=False):
         recommendations = soup.findAll('div', {'class': 'content-wrapper'})
         recommendations = [recommendation.a['href'][9:] for recommendation in recommendations]
+        try:
+            title = soup.title.text[:-10]
+        except:
+            title = None
+        try:
+            genre = soup.find('meta', itemprop='genre')['content']
+        except:
+            genre = None
+        try:
+            views = soup.find('meta', itemprop='interactionCount')['content']
+        except:
+            views = None
+        try:
+            likes = soup.find('button', {'title': 'I like this'}).text
+        except: 
+            likes = None
+        try:
+            dislikes = soup.find('button', {'title': 'I dislike this'}).text
+        except:
+            dislikes = None
+        try:
+            description = soup.find('div', {'id': 'watch-description-text'}).text
+        except:
+            description = None
+        try:
+            duration = soup.find('meta', itemprop='duration')['content']
+        except: 
+            duration = None
+        try:
+            datePublished = soup.find('meta', itemprop='datePublished')['content']
+        except:
+            datePublished = None
+        try:
+            uploadDate = soup.find('meta', itemprop='uploadDate')['content']
+        except: 
+            uploadDate = None
+        try:
+            channel = soup.find('a', {'class': 'yt-uix-sessionlink spf-link'}).text
+        except:
+            channel = None
+        try:
+            channel_url = soup.find('a', {'class': 'yt-uix-sessionlink spf-link'})['href']
+        except:
+            channel_url = None
+        try:
+            channel_id = soup.find('meta', {'itemprop': 'channelId'})['content']
+        except:
+            channel_id = None
         data = {
             id: {
-                'title': soup.title.text[:-10],
-                'genre': soup.find('meta', itemprop='genre')['content'],
-                'views': soup.find('meta', itemprop='interactionCount')['content'],
-                'likes': soup.find('button', {'title': 'I like this'}).text,
-                'dislikes': soup.find('button', {'title': 'I dislike this'}).text,
-                'description': soup.find('div', {'id': 'watch-description-text'}).text,
-                'duration': soup.find('meta', itemprop='duration')['content'],
-                'datePublished': soup.find('meta', itemprop='datePublished')['content'],
-                'uploadDate': soup.find('meta', itemprop='uploadDate')['content'],
+                'title': title,
+                'genre': genre,
+                'views': views,
+                'likes': likes,
+                'dislikes': dislikes,
+                'description': description,
+                'duration': duration,
+                'datePublished': datePublished,
+                'uploadDate': uploadDate,
                 'key': key,
-                'channel': soup.find('a', {'class': 'yt-uix-sessionlink spf-link'}).text,
-                'channel_url': soup.find('a', {'class': 'yt-uix-sessionlink spf-link'})['href'],
-                'channel_id': soup.find('meta', {'itemprop': 'channelId'})['content'],
+                'channel': channel,
+                'channel_url': channel_url,
+                'channel_id': channel_id, 
                 'recommendations': recommendations
             }
         }
@@ -135,10 +191,10 @@ class YouTube:
         URL = f"{self.baseURL}watch?v={id}"
         r = requests.get(URL, headers=self.header)
         if r.status_code != 200 and attempt < 5:
-            print(f'ATTEMPTING URL: {attempt+1}')
-            time.sleep(5)
+            print(f' ATTEMPTING URL: {attempt+1} | Status Code {r.status_code} | WAITING 1 MINUTE', end="\r")
+            time.sleep(60)
             self.get_soup(id, attempt+1)
-        else:
+        else: 
             pass
         soup = BeautifulSoup(r.text, 'html.parser')
         return soup, r.status_code
@@ -174,7 +230,7 @@ class YouTube:
         file_path = f'data/videos/{time}_{file_name}.json'
         with open(file_path, 'w') as file:
             json.dump(self.data, file, indent=4)
-        print(f'########## FETCHING COMPLETED | FILE SAVED TO {file_path} VIDEOS ##########')
+        print(f'\n\n########## FETCHING COMPLETED | FILE SAVED TO {file_path} VIDEOS ##########')
 
     def save_csv(self):
         ids = [list(d.keys())[0] for d in self.data]
@@ -203,18 +259,12 @@ class YouTube:
             r = requests.get(URL)
             r.encoding = 'UTF-8'
             data = json.loads(r.text)
-            videos.loc[videos['channel_id'] == channel,
-                       'channelDescription'] = data['items'][0]['snippet']['description']
-            videos.loc[videos['channel_id'] == channel,
-                       'viewCount'] = data['items'][0]['statistics']['viewCount']
-            videos.loc[videos['channel_id'] == channel,
-                       'commentCount'] = data['items'][0]['statistics']['commentCount']
-            videos.loc[videos['channel_id'] == channel,
-                       'subscriberCount'] = data['items'][0]['statistics']['subscriberCount']
-            videos.loc[videos['channel_id'] == channel,
-                       'hiddenSubscriberCount'] = data['items'][0]['statistics']['hiddenSubscriberCount']
-            videos.loc[videos['channel_id'] == channel,
-                       'videoCount'] = data['items'][0]['statistics']['videoCount']
+            videos.loc[videos['channel_id'] == channel, 'channelDescription'] = data['items'][0]['snippet']['description']
+            videos.loc[videos['channel_id'] == channel, 'viewCount'] = data['items'][0]['statistics']['viewCount']
+            videos.loc[videos['channel_id'] == channel, 'commentCount'] = data['items'][0]['statistics']['commentCount']
+            videos.loc[videos['channel_id'] == channel, 'subscriberCount'] = data['items'][0]['statistics']['subscriberCount']
+            videos.loc[videos['channel_id'] == channel, 'hiddenSubscriberCount'] = data['items'][0]['statistics']['hiddenSubscriberCount']
+            videos.loc[videos['channel_id'] == channel, 'videoCount'] = data['items'][0]['statistics']['videoCount']
             channel_data.append(data)
         if not os.path.exists('data/channels'):
             os.mkdir('data/channels')
@@ -222,39 +272,33 @@ class YouTube:
             json.dump(channel_data, file, indent=4)
         videos.to_csv(f'data/{file_path_csv[5:]}', index=False)
 
-
 def main():
     global parser
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--query', help='The start search query')
-    parser.add_argument('--searches', default='5', type=int,
-                        help='The number of search results to start the exploration')
-    parser.add_argument('--branch', default='3', type=int,
-                        help='The branching factor of the exploration')
+    parser.add_argument('--searches', default='5', type=int, help='The number of search results to start the exploration')
+    parser.add_argument('--branch', default='3', type=int, help='The branching factor of the exploration')
     parser.add_argument('--depth', default='5', type=int, help='The depth of the exploration')
-    parser.add_argument('--country', default='US',
-                        help='Country passed to YouTube e.g. US, FR, GB, DE...')
-    parser.add_argument('--language', default='en-US',
-                        help='Languaged passed to HTML header, en, fr, en-US, ...')
+    parser.add_argument('--country', default='US', help='Country passed to YouTube e.g. US, FR, GB, DE...')
+    parser.add_argument('--language', default='en-US', help='Languaged passed to HTML header, en, fr, en-US, ...')
     parser.add_argument('--delay', default='0.5', type=float, help='Adds a delay between requests.')
     parser.add_argument('--name', default=None, help='Name given to the file')
-    parser.add_argument('--channels', default=False, type=bool,
-                        help='If channel info should be fetched (requires Google API Key)')
+    parser.add_argument('--channels', default=False, help='If channel info should be fetched (requires Google API Key)')
     parser.add_argument('--key', default=None, help='Your Google API Key')
     args = parser.parse_args()
-    youtube = YouTube(args.query, args.searches, args.branch, args.depth, args.country,
-                      args.language, args.delay, args.name, args.channels, args.key)
+    if args.channels == "False":
+        args.channels = False
+    else:
+        args.channels = True
+    youtube = YouTube(args.query, args.searches, args.branch, args.depth, args.country, args.language, args.delay, args.name, args.channels, args.key)
     user_input = True
     if youtube.iterations > 9999:
-        user_input = input(
-            f"You will make {int(youtube.iterations)} iterations. Are you sure you want to continue [y/n]\n\n>>> ").lower()
+        user_input = input(f"You will make {int(youtube.iterations)} iterations. Are you sure you want to continue [y/n]\n\n>>> ").lower()
     if user_input in [True, 'yes', 'y', 'yes', 'ok']:
-        print(
-            f'########## INITIALIZING YOUTUBE CRAWLER | FETCHING {int(youtube.iterations)} VIDEOS ##########')
+        print(f'########## INITIALIZING YOUTUBE CRAWLER | FETCHING {int(youtube.iterations)} VIDEOS ##########')
         youtube.run()
     else:
         print(f'########## INTERRUPTED ##########')
-
 
 if __name__ == "__main__":
     sys.exit(main())
