@@ -50,15 +50,7 @@ df_merged2 = merge(df_relevant,
                    df_merged,
                    by='channel')
 
-#stats
-df_merged2[, .N, by=c('Bias','channel')][order(Bias, -N)]
-
-df_merged2[Bias=='Right-Center', .N, by='Bias']
-
-mytable = table(df_merged2$Bias)
-prop.table(mytable)
-
-
+#table with count and percentage
 tblFun <- function(x){
   tbl <- table(x)
   res <- cbind(tbl,round(prop.table(tbl)*100,2))
