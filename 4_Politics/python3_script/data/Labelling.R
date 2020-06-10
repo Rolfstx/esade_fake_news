@@ -59,3 +59,20 @@ tblFun <- function(x){
 }
 
 do.call(rbind,lapply(df_merged2[, 'Bias'],tblFun))
+
+#export dataset with channel bias
+write.csv(df_merged2, "~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/nlp/20200504-193926_joe_biden_bias.csv")
+
+#convert Bias into binary
+#right = 1
+#left = 0
+mapping <- c("Left" = 0, "Left-Center" = 0, 
+             "Least Biased" = 1, "Right" = 1, "Right-Center" = 1)
+
+df_merged2$Bias_num <- mapping[df_merged2$Bias]
+
+#keep columns title, description and Bias_num for NLP dataset
+df_nlp = df_merged2[, c('Bias_num' ,'title', 'description')]
+
+#export NLP dataset
+write.csv(df_nlp, "~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/nlp/20200504-193926_joe_biden_nlp.csv")
