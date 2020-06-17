@@ -1,9 +1,28 @@
 library(data.table)
 
 #load dataset
+#unique video dataset or all videos dataset
 df = fread("~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/20200504-193926_joe_biden.csv")
+#df = fread("~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/videos/20200504-193926_joe_biden.csv")
 
-genre_relevant = fread("~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/genre/20200504-193926_joe_biden_genre.csv")
+#groupby genre and count number of videos
+genre = df[, .N, by='genre']
+
+#groupby channel and count number of channels
+channel = df[, unique(channel), by='genre']
+channel2 = channel[, .N, by='genre']
+
+#merge genre and channel2
+genre_channel = merge(genre,
+                      channel2,
+                      by='genre',
+                      suffixes= c('.video', '.channel'))[order(-N.video)]
+
+#export genre_channel. Then label relevant genres with 1 in excel
+#write.csv(genre_channel, "~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/genre/20200504-193926_joe_biden_genre_channel.csv", row.names=FALSE)
+
+#import genre_channel with added relevant column
+genre_relevant = fread("~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/genre/20200504-193926_joe_biden_genre_channel.csv")
 
 #merge datasets to obtain relevant videos.
 df2 = merge(df, 
@@ -16,13 +35,12 @@ mean(df2$relevant)
 #create new dataset with only relevant videos
 df_relevant = df2[relevant==1]
 
-df_relevant_channel = genre = df_relevant[, .N, by='channel'][order(channel)]
+#create dataset with only channel and count.
+df_relevant_channel = df_relevant[, .N, by='channel'][order(channel)]
 
-#export df_relevant and edit channels
+#export df_relevant. Match channels with media bias rating in Excel.
+#the channel names are not exact matches. thus, mannually prepare in Excel.
 #write.csv(df_relevant_channel, "~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/channels/20200504-193926_joe_biden_channels_relevant.csv")
-
-#export df_relevant and edit channels
-#write.csv(allsides, "~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/channels/allsides_bias.csv")
 
 #load cleaned channel dataset
 df_updated = fread("~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/channels/20200504-193926_joe_biden_channels_relevant.csv", na.strings=c("","NA"), drop=c('Column1'))
@@ -36,12 +54,6 @@ df_merged = merge(df_updated,
                   by.x='media_bias',
                   by.y='News Source')
 
-# 55% of all videos have a media bias
-sum(df_merged$N) / nrow(df)
-
-# 75% of relevant videos have a media bias 
-sum(df_merged$N) / nrow(df_relevant)
-
 #remove N column
 df_merged[, 'N':=NULL]
 
@@ -49,6 +61,9 @@ df_merged[, 'N':=NULL]
 df_merged2 = merge(df_relevant,
                    df_merged,
                    by='channel')
+
+# % of videos still present in raw dataset.
+nrow(df_merged2) / nrow(df)
 
 #table with count and percentage
 tblFun <- function(x){
@@ -58,7 +73,11 @@ tblFun <- function(x){
   res
 }
 
-do.call(rbind,lapply(df_merged2[, 'Bias'],tblFun))
+#
+group_by_bias = do.call(rbind,lapply(df_merged2[, 'Bias'],tblFun))
+group_by_bias
+
+#write.csv(group_by_bias, "~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/nlp/20200504-193926_joe_biden_group_bias.csv")
 
 #export dataset with channel bias
 #write.csv(df_merged2, "~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/nlp/20200504-193926_joe_biden_bias.csv")
@@ -75,9 +94,7 @@ df_merged2$Bias_num <- mapping[df_merged2$Bias]
 df_nlp = df_merged2[, c('Bias_num' ,'title', 'description', 'channel','id')]
 
 #export NLP dataset
-write.csv(df_nlp, "~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/nlp/20200504-193926_joe_biden_nlp.csv")
+#write.csv(df_nlp, "~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/nlp/20200504-193926_joe_biden_nlp.csv")
 
 # 32% Bias_num is 1, 68% is 0
 sum(df_nlp$Bias_num) / nrow(df_nlp)
-
-
