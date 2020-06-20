@@ -1,0 +1,694 @@
+[
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/82ytG5SAggWRy8ViizdB2WMbrIE\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/U0MzEW3SQ7D73Web3cSFVMZ0Wio\"",
+                "id": "UCuFFtHWoLl5fauMMD5Ww2jA",
+                "snippet": {
+                    "title": "CBC News",
+                    "description": "As Canada's national public news and information service, the CBC is committed to a set of values that include accuracy, fairness, balance, impartiality and integrity.\nSince the 1930s, CBC News services have kept Canadians at home and abroad informed about their communities, their country and the world. CBC/Radio-Canada is the country\u2019s largest news organization, employing several hundred journalists in Canada and around the globe. Our stories appear on CBC Television, CBC Radio, the CBC News Network, CBCNews.ca and other digital platforms.",
+                    "customUrl": "cbcnews",
+                    "publishedAt": "2014-07-25T13:46:46.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJz89LT_GdTW7pgfjVMESEqanU6zmpbnfd5TTw=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJz89LT_GdTW7pgfjVMESEqanU6zmpbnfd5TTw=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJz89LT_GdTW7pgfjVMESEqanU6zmpbnfd5TTw=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "CBC News",
+                        "description": "As Canada's national public news and information service, the CBC is committed to a set of values that include accuracy, fairness, balance, impartiality and integrity.\nSince the 1930s, CBC News services have kept Canadians at home and abroad informed about their communities, their country and the world. CBC/Radio-Canada is the country\u2019s largest news organization, employing several hundred journalists in Canada and around the globe. Our stories appear on CBC Television, CBC Radio, the CBC News Network, CBCNews.ca and other digital platforms."
+                    },
+                    "country": "CA"
+                },
+                "statistics": {
+                    "viewCount": "948805918",
+                    "commentCount": "0",
+                    "subscriberCount": "2060000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "16363"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jyw2lpdlrRY1WUzpcRGZHGInWsg\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/K52JePy__hr3ApikF_-TSNw8gmM\"",
+                "id": "UCaXkIU1QidjPwiAYu6GcHjg",
+                "snippet": {
+                    "title": "MSNBC",
+                    "description": "The official MSNBC YouTube Channel. MSNBC  is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC  offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.\n\nSign up for newsletters!: MSNBC.com/NewslettersYouTube",
+                    "customUrl": "msnbc",
+                    "publishedAt": "2011-12-01T19:16:09.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyaxa5q8kn48AoLpxWxrIZMJmhNzx5LHZRPIw=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyaxa5q8kn48AoLpxWxrIZMJmhNzx5LHZRPIw=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyaxa5q8kn48AoLpxWxrIZMJmhNzx5LHZRPIw=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "MSNBC",
+                        "description": "The official MSNBC YouTube Channel. MSNBC  is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC  offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.\n\nSign up for newsletters!: MSNBC.com/NewslettersYouTube"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "3389976323",
+                    "commentCount": "0",
+                    "subscriberCount": "2940000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "29099"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/lQXz_zWRcV1NQ-UclGIWO-hul-w\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/PUbFkgM_xJSfaYprzYPAYlsF0Kg\"",
+                "id": "UCupvZG-5ko_eiXAupbDfxWw",
+                "snippet": {
+                    "title": "CNN",
+                    "description": "CNN operates as a division of Turner Broadcasting System, which is a subsidiary of Warner Media. CNN identifies itself as -- and is widely known to be - the most trusted source for news and information. The CNN umbrella includes nine cable and satellite television networks, two radio networks, the CNN Digital Network, which is the top network of news Web sites in the United States, and CNN Newsource, the world's most extensively syndicated news service. CNN is proud of our ability to bring you up-to-the-minute news from around the world, as a result of our many extensions.",
+                    "publishedAt": "2005-10-02T16:06:36.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJznzSNrmnTRuztnCP2a9v411RliZMyL9lg4ig=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJznzSNrmnTRuztnCP2a9v411RliZMyL9lg4ig=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJznzSNrmnTRuztnCP2a9v411RliZMyL9lg4ig=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "CNN",
+                        "description": "CNN operates as a division of Turner Broadcasting System, which is a subsidiary of Warner Media. CNN identifies itself as -- and is widely known to be - the most trusted source for news and information. The CNN umbrella includes nine cable and satellite television networks, two radio networks, the CNN Digital Network, which is the top network of news Web sites in the United States, and CNN Newsource, the world's most extensively syndicated news service. CNN is proud of our ability to bring you up-to-the-minute news from around the world, as a result of our many extensions."
+                    }
+                },
+                "statistics": {
+                    "viewCount": "6618732707",
+                    "commentCount": "0",
+                    "subscriberCount": "9510000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "148192"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QYn9K4l3nc-q0hcVbJqufEL_crw\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Wy0JUjkOOMV3lwc-zrLt7Fq4VZs\"",
+                "id": "UCn4sPeUomNGIr26bElVdDYg",
+                "snippet": {
+                    "title": "NowThis News",
+                    "description": "NowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we\u2019re delivering all you need to know straight to your social feeds. We live where you live.",
+                    "customUrl": "nowthisnews",
+                    "publishedAt": "2012-09-05T12:09:54.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzQQPcsZEw7VjvMY6EFx0PYZGzI5MRyzixrLA=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzQQPcsZEw7VjvMY6EFx0PYZGzI5MRyzixrLA=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzQQPcsZEw7VjvMY6EFx0PYZGzI5MRyzixrLA=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "NowThis News",
+                        "description": "NowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we\u2019re delivering all you need to know straight to your social feeds. We live where you live."
+                    }
+                },
+                "statistics": {
+                    "viewCount": "340703262",
+                    "commentCount": "0",
+                    "subscriberCount": "700000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "4956"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/W_es2BF0jsJ-xUEqJh8RSPBs5YY\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/oaL70s7ZQY2nxa-Q0gdwARtbYEc\"",
+                "id": "UChLtXXpo4Ge1ReTEboVvTDg",
+                "snippet": {
+                    "title": "Global News",
+                    "description": "Welcome to the official Global News channel on YouTube. Please subscribe and join us at our website: http://globalnews.ca.\n\nCommenting Policy:\nPlease keep your comments and posts clean, constructive and on topic. Unlawful, disrespectful, slanderous, defamatory, malicious, threatening, profane, obscene, tasteless or pornographic remarks will not be tolerated, and will be deleted without notice. Spam, graffiti, campaigning and advertising are also strictly prohibited. While we encourage free speech and debate, harassment and attacks on fellow YouTube users are unacceptable. Repeated abusers of this policy will be reported, and may be banned.\n\nSchedule of Original Content:\nWednesday - Living In Colour\nThursday - Global News Explains\nFriday - The West Block, The Global Good\nSunday - The West Block",
+                    "customUrl": "globalnews",
+                    "publishedAt": "2009-11-04T20:46:32.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwKMWH8PeHSx3d5e8XLgcduxzjHX0DbjsXs6A=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwKMWH8PeHSx3d5e8XLgcduxzjHX0DbjsXs6A=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwKMWH8PeHSx3d5e8XLgcduxzjHX0DbjsXs6A=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Global News",
+                        "description": "Welcome to the official Global News channel on YouTube. Please subscribe and join us at our website: http://globalnews.ca.\n\nCommenting Policy:\nPlease keep your comments and posts clean, constructive and on topic. Unlawful, disrespectful, slanderous, defamatory, malicious, threatening, profane, obscene, tasteless or pornographic remarks will not be tolerated, and will be deleted without notice. Spam, graffiti, campaigning and advertising are also strictly prohibited. While we encourage free speech and debate, harassment and attacks on fellow YouTube users are unacceptable. Repeated abusers of this policy will be reported, and may be banned.\n\nSchedule of Original Content:\nWednesday - Living In Colour\nThursday - Global News Explains\nFriday - The West Block, The Global Good\nSunday - The West Block"
+                    },
+                    "country": "CA"
+                },
+                "statistics": {
+                    "viewCount": "765121638",
+                    "commentCount": "0",
+                    "subscriberCount": "1620000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "16908"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/leD8b8pazPfY8pFY09IAtrbRj3M\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/EliNjNhHctyG6SP4HXumOqjpFCk\"",
+                "id": "UCCj956IF62FbT7Gouszaj9w",
+                "snippet": {
+                    "title": "BBC",
+                    "description": "The BBC is the world\u2019s leading public service broadcaster.\n\nWe\u2019re impartial and independent, and every day we create distinctive, world-class programmes and content which inform, educate and entertain millions of people in the UK and around the world.\n\nSUBSCRIBE to our YouTube channel to get the best of BBC entertainment and comedy programmes, stories from science and nature documentaries, and much more! \ud83d\udc49 https://bit.ly/2IXqEIn\n\nGet ALL your fresh TV, and sofa-hugging box sets on BBC iPlayer \ud83d\udc49 https://bbc.in/2J18jYJ",
+                    "publishedAt": "2005-11-12T02:36:31.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzXDQ3hvrzeftE9WFIEmEeYzE_ua3N7nwMeMQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzXDQ3hvrzeftE9WFIEmEeYzE_ua3N7nwMeMQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzXDQ3hvrzeftE9WFIEmEeYzE_ua3N7nwMeMQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "BBC",
+                        "description": "The BBC is the world\u2019s leading public service broadcaster.\n\nWe\u2019re impartial and independent, and every day we create distinctive, world-class programmes and content which inform, educate and entertain millions of people in the UK and around the world.\n\nSUBSCRIBE to our YouTube channel to get the best of BBC entertainment and comedy programmes, stories from science and nature documentaries, and much more! \ud83d\udc49 https://bit.ly/2IXqEIn\n\nGet ALL your fresh TV, and sofa-hugging box sets on BBC iPlayer \ud83d\udc49 https://bbc.in/2J18jYJ"
+                    },
+                    "country": "GB"
+                },
+                "statistics": {
+                    "viewCount": "6642988469",
+                    "commentCount": "0",
+                    "subscriberCount": "8640000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "12167"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "XPZF1NCF0x9XFDtADpxhQA-hkkM",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "6hjAhSCfdiM9kj9DUe2vl20KUgI",
+                "id": "UC4BOzQel6tvJm7OEDd3vZlw",
+                "snippet": {
+                    "title": "Prairie Public",
+                    "description": "Discover the history, culture, and interests of people in the prairie region through our award-winning documentaries and short films.\n\nSubscribe today to explore the surprising corners of our history; examine our rich blend of arts, music, and culture; learn about the challenges we face and the victories we have achieved.",
+                    "customUrl": "prairiepublic",
+                    "publishedAt": "2008-10-02T15:10:46Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwurTFJoP6s0pr4z-xiGajeqN9ITKlXNsPYrg=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwurTFJoP6s0pr4z-xiGajeqN9ITKlXNsPYrg=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwurTFJoP6s0pr4z-xiGajeqN9ITKlXNsPYrg=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Prairie Public",
+                        "description": "Discover the history, culture, and interests of people in the prairie region through our award-winning documentaries and short films.\n\nSubscribe today to explore the surprising corners of our history; examine our rich blend of arts, music, and culture; learn about the challenges we face and the victories we have achieved."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "3829991",
+                    "commentCount": "0",
+                    "subscriberCount": "12200",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1453"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ythv_tIBCX3Wm73q78MHgmi8jWI\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/l1ESSmOexmnPZFX1CgOGoRNx2EQ\"",
+                "id": "UCuVPpxrm2VAgpH3Ktln4HXg",
+                "snippet": {
+                    "title": "YouTube Movies",
+                    "description": "",
+                    "publishedAt": "2018-08-13T17:35:03.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/VsXLdhByrRG_ysLXC1fYH_BaImohF9uyL_WP0uCguFydF9_5v4CdJ2ex7CFE2XCFEwvc5vTv=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/VsXLdhByrRG_ysLXC1fYH_BaImohF9uyL_WP0uCguFydF9_5v4CdJ2ex7CFE2XCFEwvc5vTv=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/VsXLdhByrRG_ysLXC1fYH_BaImohF9uyL_WP0uCguFydF9_5v4CdJ2ex7CFE2XCFEwvc5vTv=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "YouTube Movies",
+                        "description": ""
+                    }
+                },
+                "statistics": {
+                    "viewCount": "326946611",
+                    "commentCount": "0",
+                    "subscriberCount": "271000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "416"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/LkMVcJ8WXKefYlk1PRehvPvh0WA\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wQJ7BtwtrVQMjvRJIpR5WEjG5JM\"",
+                "id": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
+                "snippet": {
+                    "title": "PBS NewsHour",
+                    "description": "PBS NewsHour is one of the most trusted news programs in television and online.",
+                    "customUrl": "pbsnewshour",
+                    "publishedAt": "2009-11-30T16:50:12.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyXOf6VjLe8MwJVxHBPu7tSCKHj9415xPzwnA=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyXOf6VjLe8MwJVxHBPu7tSCKHj9415xPzwnA=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyXOf6VjLe8MwJVxHBPu7tSCKHj9415xPzwnA=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "PBS NewsHour",
+                        "description": "PBS NewsHour is one of the most trusted news programs in television and online."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "873917127",
+                    "commentCount": "0",
+                    "subscriberCount": "1800000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "29860"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/warz_Ou7W6wD_ldeivhDR3HCmGA\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/HY7TB0Ee6loQBhzudbnHRRWcT8A\"",
+                "id": "UC0p5jTq6Xx_DosDFxVXnWaQ",
+                "snippet": {
+                    "title": "The Economist",
+                    "description": "Every Thursday The Economist posts videos that give authoritative insight and opinion on international news, politics, business, finance, science, technology and the connections between them.\n\nWe're also producing full films such as The Disrupters, an original series exploring how major industries\u2014from music and cars to hospitality\u2014are currently being disrupted by the latest wave of digital innovation. As well as enjoying privileged access into the world biggest tech start ups we show how industry giants respond when faced with such tech-driven innovation\u2014do they adapt\u2014or die?\n\nSubscribe to our channel to be among the first to see the new films in the series when we post them.",
+                    "customUrl": "theeconomist",
+                    "publishedAt": "2009-03-23T18:16:22.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzh29mdXpYLGqi-Ry1AQ8l6Ib6CbMCo-8gsmQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzh29mdXpYLGqi-Ry1AQ8l6Ib6CbMCo-8gsmQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzh29mdXpYLGqi-Ry1AQ8l6Ib6CbMCo-8gsmQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "The Economist",
+                        "description": "Every Thursday The Economist posts videos that give authoritative insight and opinion on international news, politics, business, finance, science, technology and the connections between them.\n\nWe're also producing full films such as The Disrupters, an original series exploring how major industries\u2014from music and cars to hospitality\u2014are currently being disrupted by the latest wave of digital innovation. As well as enjoying privileged access into the world biggest tech start ups we show how industry giants respond when faced with such tech-driven innovation\u2014do they adapt\u2014or die?\n\nSubscribe to our channel to be among the first to see the new films in the series when we post them."
+                    },
+                    "country": "GB"
+                },
+                "statistics": {
+                    "viewCount": "135999606",
+                    "commentCount": "0",
+                    "subscriberCount": "1300000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1865"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/B0TYzsXfALJbS2Y8XicJHjxTOL8\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/K5IaR0NXjxMOpnJKUcqsmqg1bWw\"",
+                "id": "UCbmNph6atAoGfqLoCL_duAg",
+                "snippet": {
+                    "title": "Talks at Google",
+                    "description": "The Talks at Google program brings authors, musicians, innovators, and speakers of all stripes to Google for talks centering on their recently published books and capturing the popular and intellectual zeitgeist of the day.\n\nSubscribe to our audio-only \"Talks at Google\" podcast everywhere podcasts are found, listen on the web via talksatgoogle.libsyn.com, or add the rss feed directly to your player via talksatgoogle.libsyn.com/rss. \n\nDISCLAIMER: The views or opinions expressed by the guest speakers are solely their own and do not necessarily represent the views or opinions of Google, Inc. The comments on this channel belong only to the person who posted them. We do, however, reserve the right to remove off-topic or inappropriate comments.",
+                    "customUrl": "talksatgoogle",
+                    "publishedAt": "2006-12-19T19:49:14.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwYgu3_9fjHMssbTXb7QNUy721cAGggNghTbw=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwYgu3_9fjHMssbTXb7QNUy721cAGggNghTbw=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwYgu3_9fjHMssbTXb7QNUy721cAGggNghTbw=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Talks at Google",
+                        "description": "The Talks at Google program brings authors, musicians, innovators, and speakers of all stripes to Google for talks centering on their recently published books and capturing the popular and intellectual zeitgeist of the day.\n\nSubscribe to our audio-only \"Talks at Google\" podcast everywhere podcasts are found, listen on the web via talksatgoogle.libsyn.com, or add the rss feed directly to your player via talksatgoogle.libsyn.com/rss. \n\nDISCLAIMER: The views or opinions expressed by the guest speakers are solely their own and do not necessarily represent the views or opinions of Google, Inc. The comments on this channel belong only to the person who posted them. We do, however, reserve the right to remove off-topic or inappropriate comments."
+                    }
+                },
+                "statistics": {
+                    "viewCount": "179155984",
+                    "commentCount": "0",
+                    "subscriberCount": "1190000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "4829"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/3-1MoTARsGXRGewo6j5Vl5ADuw4\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/NNTuasa0gddQ8SLQM6tmgjdEYdY\"",
+                "id": "UC2s0uKOc2WgB9eGta7cUUEA",
+                "snippet": {
+                    "title": "Washington Week",
+                    "description": "For more than 45 years, Washington Week has been the most intelligent and up to date conversation about the the most important news stories of the week.  Washington Week is the longest-running primetime news & public affairs program on television.  Online at pbs.org/washingtonweek or on Twitter @washingtonweek.",
+                    "customUrl": "washingtonweekpbs",
+                    "publishedAt": "2013-10-22T16:20:27.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJykLHUKf57bx6Ewsstwr3CD14ADo82eRLxUhQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJykLHUKf57bx6Ewsstwr3CD14ADo82eRLxUhQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJykLHUKf57bx6Ewsstwr3CD14ADo82eRLxUhQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Washington Week",
+                        "description": "For more than 45 years, Washington Week has been the most intelligent and up to date conversation about the the most important news stories of the week.  Washington Week is the longest-running primetime news & public affairs program on television.  Online at pbs.org/washingtonweek or on Twitter @washingtonweek."
+                    }
+                },
+                "statistics": {
+                    "viewCount": "10320935",
+                    "commentCount": "0",
+                    "subscriberCount": "44100",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1478"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/s3ZQuSnOn3KB_pVQmAQBIRDM5_c\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/PaLHEWEy6-i6AKggG3S6pbjcG8E\"",
+                "id": "UCetr7LZbLFZbznSsPMw2ssw",
+                "snippet": {
+                    "title": "Digiday",
+                    "description": "Digiday is a leading modern media publication and events company, a daily must-read among influencers obsessed with the bleeding edge of media and marketing. Visit us at: http://www.digiday.com\n\nIn our daily coverage, Digiday\u2019s high-quality journalism mixes deep industry knowledge and experience with an emphasis on honesty over spin and quality over quantity. Our growing international staff of reporters covers the publishing, advertising and digital platform industries with an expertise, depth and a wry tone unparallaled in their beats. \n\n-Our events bring together the top tier elite in the publishing, branding, agency and retail industries for multi-day summits at some of the world\u2019s most beautiful places.\n-Our awards programs honor overall excellence and breakthrough achievement in publishing, video, content marketing and mobile.",
+                    "customUrl": "digidayvideo",
+                    "publishedAt": "2013-01-03T16:57:27.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwHcYRv2uYb5THBA1AsFNV_-lqpN_fIlxdujQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwHcYRv2uYb5THBA1AsFNV_-lqpN_fIlxdujQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwHcYRv2uYb5THBA1AsFNV_-lqpN_fIlxdujQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Digiday",
+                        "description": "Digiday is a leading modern media publication and events company, a daily must-read among influencers obsessed with the bleeding edge of media and marketing. Visit us at: http://www.digiday.com\n\nIn our daily coverage, Digiday\u2019s high-quality journalism mixes deep industry knowledge and experience with an emphasis on honesty over spin and quality over quantity. Our growing international staff of reporters covers the publishing, advertising and digital platform industries with an expertise, depth and a wry tone unparallaled in their beats. \n\n-Our events bring together the top tier elite in the publishing, branding, agency and retail industries for multi-day summits at some of the world\u2019s most beautiful places.\n-Our awards programs honor overall excellence and breakthrough achievement in publishing, video, content marketing and mobile."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "8151056",
+                    "commentCount": "0",
+                    "subscriberCount": "41600",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "634"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/DJZVu6AlltzHrmZwdwc_Yagl2NE\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/71WaEf7c6dSowOelh6C7pm_ynYU\"",
+                "id": "UCeY0bbntWzzVIaj2z3QigXg",
+                "snippet": {
+                    "title": "NBC News",
+                    "description": "\u00bb Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n\u00bb Watch more NBC video: http://bit.ly/MoreNBCNews\n\nNBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.\n\n\nConnect with NBC News:\nNBC News App: https://smart.link/5d0cd9df61b80\nBreaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621\nVisit NBCNews.Com: http://nbcnews.to/ReadNBC\nFind NBC News on Facebook: http://nbcnews.to/LikeNBC\nFollow NBC News on Twitter: http://nbcnews.to/FollowNBC\nFollow NBC News on Instagram: http://nbcnews.to/InstaNBC",
+                    "customUrl": "nbcnews",
+                    "publishedAt": "2006-07-19T20:46:03.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJw7sCgTchsLPRZprROiWyklMTYvnYtx1REtxg=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJw7sCgTchsLPRZprROiWyklMTYvnYtx1REtxg=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJw7sCgTchsLPRZprROiWyklMTYvnYtx1REtxg=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "NBC News",
+                        "description": "\u00bb Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n\u00bb Watch more NBC video: http://bit.ly/MoreNBCNews\n\nNBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.\n\n\nConnect with NBC News:\nNBC News App: https://smart.link/5d0cd9df61b80\nBreaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621\nVisit NBCNews.Com: http://nbcnews.to/ReadNBC\nFind NBC News on Facebook: http://nbcnews.to/LikeNBC\nFollow NBC News on Twitter: http://nbcnews.to/FollowNBC\nFollow NBC News on Instagram: http://nbcnews.to/InstaNBC"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "1380562898",
+                    "commentCount": "0",
+                    "subscriberCount": "2950000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "23368"
+                }
+            }
+        ]
+    }
+]

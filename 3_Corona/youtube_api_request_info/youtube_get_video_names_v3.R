@@ -10,7 +10,7 @@ library(tuber)
 library(data.table)
 
 #Import only unique video IDs
-allids <- read.table("GitHub/esade_fake_news/3_Corona/youtube_recommendation_scrapper/data/csv/id_only_corona_2020_04_30.csv", header=TRUE)
+allids <- read.table("C:/Users/asf/Documents/GitHub/esade_fake_news/3_Corona/youtube_recommendation_scrapper/data/csv/id_only_corona.csv", header=TRUE)
 
 #Build a URL to call the API
 URL_base='https://www.googleapis.com/youtube/v3/videos?id=' #this is the base URL
@@ -49,9 +49,11 @@ for(i in 1:nrow(allids)){
 } 
 
 #write to csv in case something goes wrong.
-write.csv(alldata, "GitHub/esade_fake_news/3_Corona/youtube_recommendation_scrapper/data/csv/contentDetails_covid_v1.csv")
+write.csv(alldata, "~/GitHub/esade_fake_news/3_Corona/youtube_recommendation_scrapper/contentDetails_covid_v2.csv")
 
 
+#Key 2:
+URL_key='AIzaSyB61wkkzvcAraGmnT1dRz0l-BN6ctDwX1c'
 
 #### LOOP 2 ####
 
