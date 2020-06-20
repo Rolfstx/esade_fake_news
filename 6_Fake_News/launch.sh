@@ -1,1 +1,1 @@
-python3 youtube.py --query="covid 19 conspiracy" --searches=2 --branch=5 --depth=6 --channels="False" --key='ENTER_YOU_GOOGLE_API_KEY_HERE'
+python3 youtube.py --query="George Floyd" --searches=2 --branch=5 --depth=6 --channels=True --key='Insert KEY here'

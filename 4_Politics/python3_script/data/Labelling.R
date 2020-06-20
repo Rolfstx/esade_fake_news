@@ -2,7 +2,9 @@ library(data.table)
 
 #load dataset
 #unique video dataset or all videos dataset
-df = fread("~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/20200504-193926_joe_biden.csv")
+df = fread("~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/videos/20200504-193926_joe_biden_recommendations.csv")
+df[, 'V1':=NULL]
+
 #df = fread("~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/videos/20200504-193926_joe_biden.csv")
 
 #groupby genre and count number of videos
@@ -62,6 +64,16 @@ df_merged2 = merge(df_relevant,
                    df_merged,
                    by='channel')
 
+#complete dataset with all videos
+#all 19'000 videos, used for graph/network analysis
+df_all =merge(df,
+              df_merged,
+              by='channel',
+              all.x=TRUE)
+
+#ensure compelte_cases in views
+df_all = df_all[complete.cases(views), ]
+
 # % of videos still present in raw dataset.
 nrow(df_merged2) / nrow(df)
 
@@ -74,7 +86,7 @@ tblFun <- function(x){
 }
 
 #
-group_by_bias = do.call(rbind,lapply(df_merged2[, 'Bias'],tblFun))
+group_by_bias = do.call(rbind,lapply(df_all[, 'Bias'],tblFun))
 group_by_bias
 
 #write.csv(group_by_bias, "~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/nlp/20200504-193926_joe_biden_group_bias.csv")
@@ -89,12 +101,16 @@ mapping <- c("Left" = 0, "Left-Center" = 0,
              "Least Biased" = 1, "Right" = 1, "Right-Center" = 1)
 
 df_merged2$Bias_num <- mapping[df_merged2$Bias]
+#df_all$Bias_num <- mapping[df_all$Bias]
 
 #keep columns title, description and Bias_num for NLP dataset
 df_nlp = df_merged2[, c('Bias_num' ,'title', 'description', 'channel','id')]
 
 #export NLP dataset
 #write.csv(df_nlp, "~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/nlp/20200504-193926_joe_biden_nlp.csv")
+
+#export all videos dataset with media bias
+write.csv(df_all, "~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/videos/20200504-193926_joe_biden_all.csv")
 
 # 32% Bias_num is 1, 68% is 0
 sum(df_nlp$Bias_num) / nrow(df_nlp)

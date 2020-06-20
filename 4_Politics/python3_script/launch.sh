@@ -1,1 +1,1 @@
-python youtube.py --query="plandemic" --searches=20 --branch=5 --depth=4 --channels=True, --key='AIzaSyBpIPMAow4TmfAAw7GaMwX2Bru_S8P2ndc'
+python3 youtube.py --query="George Floyd" --searches=1 --branch=8 --depth=6 --channels=True --key='AIzaSyBpIPMAow4TmfAAw7GaMwX2Bru_S8P2ndc'
