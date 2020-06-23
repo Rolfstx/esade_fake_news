@@ -136,9 +136,9 @@ relevant_videos$channel <- str_replace_all(relevant_videos$channel, "PBS News Ho
 
 
 #merge relevant videos and bias:
-merged <- c()
-merged <- merge(relevant_videos,media_bias, by.x = 'channel', by.y = 'News.Source', all=FALSE)
-merged <- merged[, .(channel, title, Bias)]
+merged_unique <- c()
+merged_unique <- merge(relevant_videos,media_bias, by.x = 'channel', by.y = 'News.Source', all=FALSE)
+merged_unique <- merged_unique[, .(channel, title, Bias)]
 
 #Identify Channels that have not been classified:
 
@@ -220,12 +220,21 @@ classified_unique <- classified[!duplicated(classified[,c('title')]),]
 
 write.csv(classified_unique, "~/GitHub/esade_fake_news/3_Corona/mikkel's scrapper/George_Floyd_classified_bias_data.csv")
 
+# Binarize left & left-centered = 0:
 
+#df$colC <- ifelse(df$colA == 0, 1, 0)
 
+#First only include Left, Left-Center, Right and Right-Center
 
+merged_unique <- merged_unique[Bias== "Left" | Bias == "Left-Center" | Bias == "Right" | Bias == "Right-Center",]
+#
+merged_unique$binary <- ifelse(merged_unique$Bias == "Left"|merged_unique$Bias == "Left-Center", 0, 1)
 
+final_df <- merged_unique[, .(binary,title, description,channel, id)]
 
+#Write csv:
 
+write.csv(final_df, "~/GitHub/esade_fake_news/3_Corona/mikkel's scrapper/George_Floyd_nlp_data.csv")
 
 
 ##################################### REPEAT ON FULL DATASET ############################################
@@ -347,10 +356,8 @@ frequency
 write.xlsx(frequency, "~/GitHub/esade_fake_news/3_Corona/mikkel's scrapper/bias_distribution_table.xlsx")
 
 
-
-
-
 # LEFT TO DO:
+
 
 #CREATE CHARTS ETC:
 
