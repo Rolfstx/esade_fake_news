@@ -1,0 +1,4259 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.130 --> 00:00:02.330
+- Hi it's me, Tim Dodd,
+the Everyday Astronaut.
+
+00:00:02.330 --> 00:00:05.050
+I'm here at SpaceX's
+brand new launch facility
+
+00:00:05.050 --> 00:00:06.234
+in Boca Chica, Texas
+
+00:00:06.234 --> 00:00:10.010
+to check out the holy
+grail of rocket engines
+
+00:00:10.010 --> 00:00:13.150
+and that SpaceX's upcoming Raptor engine.
+
+00:00:13.150 --> 00:00:15.730
+An engine like this has
+never actually been used
+
+00:00:15.730 --> 00:00:16.760
+on a rocket before.
+
+00:00:16.760 --> 00:00:19.580
+Now this is a methane powered full flow
+
+00:00:19.580 --> 00:00:22.020
+staged combustion cycle engine.
+
+00:00:22.020 --> 00:00:24.290
+Talking about a rocket
+engine that's this complex
+
+00:00:24.290 --> 00:00:25.990
+can be really intimidating.
+
+00:00:25.990 --> 00:00:28.487
+And in order to put it into
+context against other engines
+
+00:00:28.487 --> 00:00:30.140
+and other engine cycles
+
+00:00:30.140 --> 00:00:32.330
+we're gonna do a full
+comparison of the Raptor engine
+
+00:00:32.330 --> 00:00:33.570
+versus a bunch of other engines
+
+00:00:33.570 --> 00:00:35.460
+including SpaceX's current workhorse
+
+00:00:35.460 --> 00:00:38.010
+the Merlin engine against the RS-25,
+
+00:00:38.010 --> 00:00:39.970
+the space shuttle main engine.
+
+00:00:39.970 --> 00:00:41.380
+the F-1 engine that powered the Saturn 5.
+
+00:00:41.380 --> 00:00:42.740
+The RD-180
+
+00:00:42.740 --> 00:00:46.290
+and Blue Origin's BE-4
+that also runs on methane.
+
+00:00:46.290 --> 00:00:48.990
+And as if the full flow
+of staged combustion cycle
+
+00:00:48.990 --> 00:00:52.230
+wasn't enough, SpaceX is also
+doing something else unique.
+
+00:00:52.230 --> 00:00:54.400
+They're powering that
+thing with liquid methane
+
+00:00:54.400 --> 00:00:56.380
+and that's something that's
+actually never been done
+
+00:00:56.380 --> 00:00:58.110
+on an orbital class rocket.
+
+00:00:58.110 --> 00:01:00.055
+So we're gonna take a look at
+the characteristics of methane
+
+00:01:00.055 --> 00:01:01.435
+and see if we can figure out
+
+00:01:01.435 --> 00:01:03.833
+why SpaceX chose methane
+
+00:01:03.833 --> 00:01:06.260
+instead of any other common propellant.
+
+00:01:06.260 --> 00:01:09.140
+Now this engine isn't
+really the best at anything.
+
+00:01:09.140 --> 00:01:10.730
+It's not the most powerful.
+
+00:01:10.730 --> 00:01:12.870
+It's not the highest thrust
+to weight ratio of any engine.
+
+00:01:12.870 --> 00:01:14.630
+It's not even the most efficient
+
+00:01:14.630 --> 00:01:18.540
+but it does a lot of
+things really really well.
+
+00:01:18.540 --> 00:01:19.880
+So by the end of this video
+
+00:01:19.880 --> 00:01:21.580
+hopefully we have all
+the context understand
+
+00:01:21.580 --> 00:01:23.260
+why the Raptor engine is special
+
+00:01:23.260 --> 00:01:24.970
+how it compares to other rockets
+
+00:01:24.970 --> 00:01:26.860
+why it's using liquid methane
+
+00:01:26.860 --> 00:01:29.180
+and then hopefully we'll
+know if it really is
+
+00:01:29.180 --> 00:01:30.920
+the king of rocket engines.
+
+00:01:30.920 --> 00:01:31.753
+Let's get started.
+
+00:01:31.753 --> 00:01:32.586
+(electronic music)
+
+00:01:32.586 --> 00:01:37.585
+- [Voice over] Three, two,
+one, blastoff. (mumbles)
+
+00:01:43.070 --> 00:01:45.220
+- In case you didn't notice
+when you clicked on this video,
+
+00:01:45.220 --> 00:01:48.624
+this is a very, very long video.
+
+00:01:48.624 --> 00:01:50.670
+Sorry, not sorry,
+
+00:01:50.670 --> 00:01:51.900
+but if you're anything like me
+
+00:01:51.900 --> 00:01:54.460
+you keep hearing a lot of
+hype about the Raptor engine
+
+00:01:54.460 --> 00:01:56.020
+and you want to appreciate it
+
+00:01:56.020 --> 00:01:58.270
+but you don't even know where to start.
+
+00:01:58.270 --> 00:02:00.880
+Well, I've spent quite a
+while really studying up
+
+00:02:00.880 --> 00:02:03.280
+on the subject so I can
+lay down a good foundation
+
+00:02:03.280 --> 00:02:06.030
+in order to help us really
+truly fully appreciate
+
+00:02:06.030 --> 00:02:07.120
+the Raptor engine.
+
+00:02:07.120 --> 00:02:10.580
+Well, and quite frankly
+all rocket engines.
+
+00:02:10.580 --> 00:02:11.810
+And if you're anything like me
+
+00:02:11.810 --> 00:02:15.890
+maybe you've stared at
+diagrams like this or like this
+
+00:02:15.890 --> 00:02:17.970
+or like this one for hours until
+
+00:02:17.970 --> 00:02:19.970
+you feel like your
+head's going to explode.
+
+00:02:19.970 --> 00:02:21.131
+So in order to avoid that
+
+00:02:21.131 --> 00:02:24.080
+I've actually whipped up
+some really simple versions
+
+00:02:24.080 --> 00:02:27.010
+of rocket engine cycles
+for all of us to enjoy
+
+00:02:27.010 --> 00:02:30.810
+which will hopefully help us
+grasp these crazy concepts.
+
+00:02:30.810 --> 00:02:32.342
+But in case this isn't your first rodeo
+
+00:02:32.342 --> 00:02:33.670
+here's the timestamps
+
+00:02:33.670 --> 00:02:35.600
+if you want to jump to a certain section.
+
+00:02:35.600 --> 00:02:37.760
+There's also links in the
+description to each section
+
+00:02:37.760 --> 00:02:40.140
+as well as an article
+version of this entire video
+
+00:02:40.140 --> 00:02:42.450
+at my website, Everydayastronaut.com
+
+00:02:42.450 --> 00:02:44.170
+in case you want to
+study some of the numbers
+
+00:02:44.170 --> 00:02:45.510
+a little more in depth
+
+00:02:45.510 --> 00:02:47.810
+or see sources of some of the material.
+
+00:02:47.810 --> 00:02:50.720
+Now we're gonna start off with
+a super quick physics lesson
+
+00:02:50.720 --> 00:02:51.820
+but bear with me.
+
+00:02:51.820 --> 00:02:54.360
+We're gonna dive in and get
+plenty of nitty gritty details.
+
+00:02:54.360 --> 00:02:55.193
+Okay.
+
+00:02:55.193 --> 00:02:56.290
+Let's start off with this.
+
+00:02:56.290 --> 00:02:58.150
+Rockets are basically just propellant
+
+00:02:58.150 --> 00:03:00.372
+with some skin around
+it to keep it in place
+
+00:03:00.372 --> 00:03:02.090
+and they have a thing on the back
+
+00:03:02.090 --> 00:03:05.293
+that can throw said
+propellant really, really fast
+
+00:03:05.293 --> 00:03:07.609
+and to way oversimplify it even more,
+
+00:03:07.609 --> 00:03:11.210
+the faster you can throw
+that propellant the better.
+
+00:03:11.210 --> 00:03:12.470
+Now the easiest way to do this
+
+00:03:12.470 --> 00:03:14.520
+is by storing all the
+propellant in your tanks
+
+00:03:14.520 --> 00:03:17.190
+under really high
+pressure then put a valve
+
+00:03:17.190 --> 00:03:18.150
+on one end of the tank
+
+00:03:18.150 --> 00:03:20.910
+and a propelling nozzle that
+accelerates the propellant
+
+00:03:20.910 --> 00:03:22.780
+into workable thrust.
+
+00:03:22.780 --> 00:03:23.710
+Done.
+
+00:03:23.710 --> 00:03:25.840
+No crazy pumps or complicated systems
+
+00:03:25.840 --> 00:03:28.810
+just open a valve and let her rip.
+
+00:03:28.810 --> 00:03:30.870
+This is called a pressure
+fed rocket engine
+
+00:03:30.870 --> 00:03:32.420
+and there's a few main types:
+
+00:03:32.420 --> 00:03:36.120
+cold gas, monoprop and
+bipropellant pressure fed engines.
+
+00:03:36.120 --> 00:03:38.620
+You'll often find these used
+in reaction control systems
+
+00:03:38.620 --> 00:03:41.880
+because they're simple,
+reliable, and they react quickly.
+
+00:03:41.880 --> 00:03:44.930
+But pressure fed engines
+have one big limiting factor.
+
+00:03:44.930 --> 00:03:47.652
+Pressure always flows from high to low
+
+00:03:47.652 --> 00:03:50.630
+so the engine can never be higher pressure
+
+00:03:50.630 --> 00:03:51.860
+than the propellant tanks.
+
+00:03:51.860 --> 00:03:53.773
+In order to store propellant
+under high pressure,
+
+00:03:53.773 --> 00:03:55.319
+your tanks will need to be strong
+
+00:03:55.319 --> 00:03:57.690
+and therefore thicker, and thicker,
+
+00:03:57.690 --> 00:03:59.290
+and heavier, and heavier.
+
+00:03:59.290 --> 00:04:02.504
+Look at composite overwrapped
+pressure vessels or COPDs.
+
+00:04:02.504 --> 00:04:06.530
+They're capable of storing
+gases at almost 10000 PSI
+
+00:04:06.530 --> 00:04:08.560
+or 700 bar.
+
+00:04:08.560 --> 00:04:09.950
+And despite this there's still
+
+00:04:09.950 --> 00:04:11.340
+a limited amount of propellant
+
+00:04:11.340 --> 00:04:12.960
+and pressure they can store.
+
+00:04:12.960 --> 00:04:14.770
+And this does not scale up very well
+
+00:04:14.770 --> 00:04:17.901
+when you're trying to
+deliver a payload to orbit.
+
+00:04:17.901 --> 00:04:19.030
+So smart rocket scientists
+quickly realized
+
+00:04:19.030 --> 00:04:21.830
+in order to make the rocket
+as lightweight as possible
+
+00:04:21.830 --> 00:04:24.725
+there's really only one
+thing they could do:
+
+00:04:24.725 --> 00:04:26.718
+increase the enthalpy.
+
+00:04:26.718 --> 00:04:29.158
+That would be a great metal band name.
+
+00:04:29.158 --> 00:04:30.600
+You're welcome Internet.
+
+00:04:30.600 --> 00:04:32.330
+Enthalpy is basically the relationship
+
+00:04:32.330 --> 00:04:35.190
+between volume pressure and temperature.
+
+00:04:35.190 --> 00:04:36.600
+A higher pressure and temperature
+
+00:04:36.600 --> 00:04:39.204
+inside the combustion chamber
+equals higher efficiency
+
+00:04:39.204 --> 00:04:41.710
+and more mass shoved
+through the rocket engine
+
+00:04:41.710 --> 00:04:43.040
+equals more thrust.
+
+00:04:43.040 --> 00:04:45.300
+So in order to shove more
+propellant into the engine
+
+00:04:45.300 --> 00:04:47.850
+you could either increase
+the pressure in the tanks
+
+00:04:47.850 --> 00:04:50.470
+or just shoot the propellant
+into the combustion chamber
+
+00:04:50.470 --> 00:04:52.577
+with a really high powered pump.
+
+00:04:52.577 --> 00:04:55.990
+The second option sounds
+like a pretty good idea.
+
+00:04:55.990 --> 00:04:58.720
+But pumps moving hundreds
+of liters of fuel per second
+
+00:04:58.720 --> 00:05:01.540
+require a lot, and boy do I mean,
+
+00:05:01.540 --> 00:05:03.640
+a lot of energy to power them.
+
+00:05:03.640 --> 00:05:06.220
+So what if you took a tiny rocket engine,
+
+00:05:06.220 --> 00:05:08.047
+and aimed it right a turbine
+
+00:05:08.047 --> 00:05:10.930
+to spin it up really, really fast?
+
+00:05:10.930 --> 00:05:12.960
+You can exchange some of
+the rocket propellant's
+
+00:05:12.960 --> 00:05:15.495
+chemical energy for kinetic energy
+
+00:05:15.495 --> 00:05:18.468
+which could then be used to
+spin these powerful pumps.
+
+00:05:18.468 --> 00:05:20.150
+Welcome to turbo pumps
+
+00:05:20.150 --> 00:05:22.100
+and the staged combustion cycle.
+
+00:05:22.100 --> 00:05:24.580
+But you've still got some
+limiting factors here
+
+00:05:24.580 --> 00:05:26.812
+like how high pressure always
+wants to go to low pressure
+
+00:05:26.812 --> 00:05:30.723
+and how heat has that
+habit of melting stuff.
+
+00:05:30.723 --> 00:05:33.490
+So you've got to keep
+all these things in check
+
+00:05:33.490 --> 00:05:35.750
+while trying to squeeze every bit of power
+
+00:05:35.750 --> 00:05:36.583
+out of your engine.
+
+00:05:36.583 --> 00:05:38.450
+There's actually a lot
+of different variations
+
+00:05:38.450 --> 00:05:40.350
+of the cycles that we could talk about
+
+00:05:40.350 --> 00:05:42.330
+but I'm going to stick
+with the three most common
+
+00:05:42.330 --> 00:05:44.120
+or at least the three that matter the most
+
+00:05:44.120 --> 00:05:45.930
+when putting the Raptor into context.
+
+00:05:45.930 --> 00:05:47.031
+We have the gas generator cycle
+
+00:05:47.031 --> 00:05:49.580
+the partial flow staged combustion cycle
+
+00:05:49.580 --> 00:05:50.800
+and lastly we'll look at
+
+00:05:50.800 --> 00:05:53.320
+the full flow staged combustion cycle
+
+00:05:53.320 --> 00:05:55.190
+and perhaps in a future video
+
+00:05:55.190 --> 00:05:56.810
+I'll try and do a full rundown
+
+00:05:56.810 --> 00:05:59.070
+of all liquid fueled rocket engines
+
+00:05:59.070 --> 00:06:00.720
+including fun new alternatives
+
+00:06:00.720 --> 00:06:02.680
+like the electric pump fed engine
+
+00:06:02.680 --> 00:06:05.068
+seen on Rocket Lab's Electron rocket.
+
+00:06:05.068 --> 00:06:07.485
+(slow music)
+
+00:06:12.560 --> 00:06:14.200
+Let's start with the gas generator cycle
+
+00:06:14.200 --> 00:06:16.100
+known as the open cycle.
+
+00:06:16.100 --> 00:06:17.730
+This is probably one of
+the most common types
+
+00:06:17.730 --> 00:06:20.850
+of liquid fueled rocket engine
+used on orbital rockets.
+
+00:06:20.850 --> 00:06:22.270
+It's definitely more complicated
+
+00:06:22.270 --> 00:06:24.860
+than a pressure fed system
+but it's fairly simple,
+
+00:06:24.860 --> 00:06:28.160
+well at least compared to their
+closed cycle counterparts.
+
+00:06:28.160 --> 00:06:30.610
+Now I'm gonna way, way oversimplify this
+
+00:06:30.610 --> 00:06:33.260
+so it's as easy to grasp
+as humanly possible.
+
+00:06:33.260 --> 00:06:35.990
+In real life, there's
+literally dozens of valves,
+
+00:06:35.990 --> 00:06:37.090
+a hive of wires,
+
+00:06:37.090 --> 00:06:39.260
+and extra tiny little pipes everywhere,
+
+00:06:39.260 --> 00:06:41.570
+helium to back pressure the tanks
+
+00:06:41.570 --> 00:06:43.340
+fuel flowing through the nozzle
+
+00:06:43.340 --> 00:06:44.940
+and the combustion chamber to cool it
+
+00:06:44.940 --> 00:06:47.510
+and there is an ignition
+source for the preburner
+
+00:06:47.510 --> 00:06:48.670
+and the combustion chamber.
+
+00:06:48.670 --> 00:06:51.530
+But again for the purpose
+of making this as simple
+
+00:06:51.530 --> 00:06:52.970
+and as digestible as possible,
+
+00:06:52.970 --> 00:06:55.180
+just know there's a lot of stuff missing
+
+00:06:55.180 --> 00:06:56.370
+from these diagrams.
+
+00:06:56.370 --> 00:06:57.770
+But for now we're going to focus
+
+00:06:57.770 --> 00:06:59.000
+on the flow of these engines
+
+00:06:59.000 --> 00:07:01.410
+so we can grasp that concept first.
+
+00:07:01.410 --> 00:07:03.500
+The gas generator cycle works by pumping
+
+00:07:03.500 --> 00:07:05.890
+the fuel and oxidizer into
+the combustion chamber
+
+00:07:05.890 --> 00:07:07.580
+using a turbo pump.
+
+00:07:07.580 --> 00:07:09.750
+The turbo pump has a few main parts
+
+00:07:09.750 --> 00:07:12.220
+a mini rocket engine called the preburner,
+
+00:07:12.220 --> 00:07:14.400
+a turbine connected to a shaft
+
+00:07:14.400 --> 00:07:17.150
+and then a pump or two
+that push propellant
+
+00:07:17.150 --> 00:07:18.790
+into the combustion chamber.
+
+00:07:18.790 --> 00:07:20.590
+Now you might hear the turbo pump assembly
+
+00:07:20.590 --> 00:07:22.684
+called the power pack because it really is
+
+00:07:22.684 --> 00:07:24.710
+what powers the engine.
+
+00:07:24.710 --> 00:07:25.890
+In the open cycle system,
+
+00:07:25.890 --> 00:07:27.610
+the spent propellant from the preburner
+
+00:07:27.610 --> 00:07:29.070
+is simply dumped overboard
+
+00:07:29.070 --> 00:07:31.720
+and does not contribute
+any significant thrust.
+
+00:07:31.720 --> 00:07:33.767
+This makes it less
+efficient since the fuel
+
+00:07:33.767 --> 00:07:37.940
+and oxidizer used to spin the
+pumps is basically wasted.
+
+00:07:37.940 --> 00:07:39.440
+Now the funny thing about a turbo pump
+
+00:07:39.440 --> 00:07:40.840
+is that it kind of has a chicken
+
+00:07:40.840 --> 00:07:42.510
+and egg syndrome situation
+
+00:07:42.510 --> 00:07:44.440
+that makes it pretty difficult to start up
+
+00:07:44.440 --> 00:07:47.042
+since the preburner that
+powers the turbo pump
+
+00:07:47.042 --> 00:07:51.200
+needs high pressure fuel
+and oxidizer to operate.
+
+00:07:51.200 --> 00:07:54.600
+So the preburner requires
+the turbo pumps to spin
+
+00:07:54.600 --> 00:07:57.240
+before it can get up to full
+operational pressure itself
+
+00:07:57.240 --> 00:08:00.330
+but the turbo pumps need
+the preburner to fire
+
+00:08:00.330 --> 00:08:01.813
+in order to spin the turbo pumps.
+
+00:08:01.813 --> 00:08:04.960
+But the preburner needs
+the turbo pumps to ...
+
+00:08:04.960 --> 00:08:05.810
+Yeah.
+
+00:08:05.810 --> 00:08:06.880
+You can see where this is going.
+
+00:08:06.880 --> 00:08:09.300
+This makes starting a gas
+generator pretty tricky.
+
+00:08:09.300 --> 00:08:10.370
+There's a few ways to do this
+
+00:08:10.370 --> 00:08:12.360
+but we don't need to get
+into all that in this video.
+
+00:08:12.360 --> 00:08:14.840
+That sounds like a fun topic
+for future videos though.
+
+00:08:14.840 --> 00:08:16.320
+So back to the turbo pumps.
+
+00:08:16.320 --> 00:08:19.231
+Remember pressure always
+flows from high to low
+
+00:08:19.231 --> 00:08:22.210
+so the turbo pumps need
+to be a higher pressure
+
+00:08:22.210 --> 00:08:23.620
+than the chamber pressure.
+
+00:08:23.620 --> 00:08:26.400
+And this means the inlets
+leading to the preburner
+
+00:08:26.400 --> 00:08:28.300
+is actually the highest pressure point
+
+00:08:28.300 --> 00:08:30.110
+in the entire rocket engine.
+
+00:08:30.110 --> 00:08:32.970
+Everything else downstream
+is lower pressure
+
+00:08:32.970 --> 00:08:34.480
+but notice something here.
+
+00:08:34.480 --> 00:08:36.310
+Take a look at SpaceX's Merlin engine
+
+00:08:36.310 --> 00:08:39.102
+which runs on RP-1 or rocket propellant 1
+
+00:08:39.102 --> 00:08:40.567
+and liquid oxygen.
+
+00:08:40.567 --> 00:08:42.810
+Notice how black the smoke is
+
+00:08:42.810 --> 00:08:44.690
+coming out of the preburner exhaust.
+
+00:08:44.690 --> 00:08:46.020
+Why would it be so sooty
+
+00:08:46.020 --> 00:08:47.750
+compared to the main combustion chamber
+
+00:08:47.750 --> 00:08:49.923
+which leaves almost no visible exhaust?
+
+00:08:49.923 --> 00:08:52.290
+Well that's because rocket propellant
+
+00:08:52.290 --> 00:08:54.918
+can get super hot like thousands
+
+00:08:54.918 --> 00:08:57.370
+and thousands of degrees Celsius.
+
+00:08:57.370 --> 00:08:59.360
+So to make sure the
+temperature isn't so hot
+
+00:08:59.360 --> 00:09:00.580
+that it melts the turbine
+
+00:09:00.580 --> 00:09:01.909
+and the entire turbo pump assembly,
+
+00:09:01.909 --> 00:09:04.030
+they need to make sure it's cool enough
+
+00:09:04.030 --> 00:09:05.630
+to continually operate.
+
+00:09:05.630 --> 00:09:06.830
+Running at the perfect fuel
+
+00:09:06.830 --> 00:09:08.980
+and oxidizer ratio is the most efficient
+
+00:09:08.980 --> 00:09:10.495
+and releases the most energy
+
+00:09:10.495 --> 00:09:13.690
+but it also produces a
+crazy amount of heat.
+
+00:09:13.690 --> 00:09:15.330
+So in order to keep the temperatures low
+
+00:09:15.330 --> 00:09:18.140
+you can run the preburner at
+a less than optimal ratio.
+
+00:09:18.140 --> 00:09:20.367
+So either too much fuel known as fuel rich
+
+00:09:20.367 --> 00:09:23.380
+or too much oxidizer or oxygen rich.
+
+00:09:23.380 --> 00:09:25.680
+Running an RP-1 engine fuel rich means
+
+00:09:25.680 --> 00:09:27.040
+you'll see some unburned fuel
+
+00:09:27.040 --> 00:09:29.310
+appearing as dark clouds of soot.
+
+00:09:29.310 --> 00:09:32.340
+the highly pressurized
+unburned carbon molecules bond
+
+00:09:32.340 --> 00:09:35.578
+and form polymers which is
+a process known as coking.
+
+00:09:35.578 --> 00:09:38.320
+This soot starts to stick
+to everything it touches
+
+00:09:38.320 --> 00:09:41.140
+and can block injectors or even do damage
+
+00:09:41.140 --> 00:09:42.430
+to the turbine itself.
+
+00:09:42.430 --> 00:09:43.810
+So what if you didn't want to waste
+
+00:09:43.810 --> 00:09:45.710
+all that highly pressurized propellant?
+
+00:09:45.710 --> 00:09:47.440
+I mean after all since it's running cooler
+
+00:09:47.440 --> 00:09:49.550
+by being fuel rich doesn't that mean
+
+00:09:49.550 --> 00:09:53.181
+there's a bunch of unburned
+fuel literally being wasted?
+
+00:09:53.181 --> 00:09:56.200
+What if you could just
+pipe that hot exhaust gas
+
+00:09:56.200 --> 00:09:58.356
+and put it into the combustion chamber?
+
+00:09:58.356 --> 00:10:01.280
+Welcome to the closed cycle.
+
+00:10:01.280 --> 00:10:03.460
+The closed cycle or
+staged combustion cycle
+
+00:10:03.460 --> 00:10:05.480
+increases engine efficiency by using
+
+00:10:05.480 --> 00:10:07.500
+what would normally be lost exhausts
+
+00:10:07.500 --> 00:10:09.177
+and connects it to the combustion chamber
+
+00:10:09.177 --> 00:10:10.720
+to help increase pressure
+
+00:10:10.720 --> 00:10:12.600
+and also increase efficiency.
+
+00:10:12.600 --> 00:10:13.780
+So let's take the Merlin engine
+
+00:10:13.780 --> 00:10:14.908
+and try closing the loop.
+
+00:10:14.908 --> 00:10:16.520
+Let's take the exhaust
+
+00:10:16.520 --> 00:10:18.856
+and just pipe it straight
+into the combustion chamber.
+
+00:10:18.856 --> 00:10:21.500
+Uh-oh, oh no!
+
+00:10:21.500 --> 00:10:24.710
+We just put a bunch of soot
+and clogged all the injectors.
+
+00:10:24.710 --> 00:10:27.330
+You do not go to space today my friend.
+
+00:10:27.330 --> 00:10:29.420
+But there's a few
+solutions to this problem
+
+00:10:29.420 --> 00:10:31.280
+so let's see how the Soviets solved it.
+
+00:10:31.280 --> 00:10:33.810
+The first operational closed
+cycle engine they made
+
+00:10:33.810 --> 00:10:37.420
+was the NK-15 design for
+their N-1 moon rocket.
+
+00:10:37.420 --> 00:10:39.760
+They later upgraded it to the NK-33
+
+00:10:39.760 --> 00:10:41.880
+and then many versions
+from there stemmed out
+
+00:10:41.880 --> 00:10:43.520
+including the RD-180
+
+00:10:43.520 --> 00:10:45.950
+which is what is used
+on the Atlas 5 today.
+
+00:10:45.950 --> 00:10:50.366
+Since the NK-15 and NK-33
+runs on RP-1 like the Merlin
+
+00:10:50.366 --> 00:10:52.790
+you can't run your preburners fuel rich
+
+00:10:52.790 --> 00:10:54.450
+because of the coking problem.
+
+00:10:54.450 --> 00:10:58.030
+So if you want to create a
+closed cycle engine with RP-1,
+
+00:10:58.030 --> 00:11:01.060
+the answer is running the
+preburner oxygen rich.
+
+00:11:01.060 --> 00:11:02.900
+Easy as that, right?
+
+00:11:02.900 --> 00:11:05.167
+Well now you're blasting superheated
+
+00:11:05.167 --> 00:11:07.648
+highly pressurized gaseous oxygen
+
+00:11:07.648 --> 00:11:10.590
+which will turn just
+about anything into soup
+
+00:11:10.590 --> 00:11:12.280
+right at your precision machine
+
+00:11:12.280 --> 00:11:15.280
+crazy low tolerance turbine blade.
+
+00:11:15.280 --> 00:11:17.710
+Doing so is actually considered impossible
+
+00:11:17.710 --> 00:11:18.640
+by the United States,
+
+00:11:18.640 --> 00:11:20.950
+and they basically gave up on trying.
+
+00:11:20.950 --> 00:11:23.070
+They didn't think a metal alloy existed
+
+00:11:23.070 --> 00:11:26.280
+that could withstand these
+crazy crazy conditions,
+
+00:11:26.280 --> 00:11:27.690
+and they didn't believe the Soviets
+
+00:11:27.690 --> 00:11:28.880
+had made such an efficient
+
+00:11:28.880 --> 00:11:30.770
+and powerful RP-1-powered engine
+
+00:11:30.770 --> 00:11:33.230
+until after the collapse
+of the Soviet Union
+
+00:11:33.230 --> 00:11:35.120
+and the US engineers got to see them
+
+00:11:35.120 --> 00:11:36.810
+and test them out firsthand.
+
+00:11:36.810 --> 00:11:39.210
+But the Soviets had indeed
+worked their butts off,
+
+00:11:39.210 --> 00:11:41.790
+and they had made a special
+alloy that can magically
+
+00:11:41.790 --> 00:11:44.660
+with science withstand
+the crazy conditions
+
+00:11:44.660 --> 00:11:46.540
+of an oxygen rich preburner.
+
+00:11:46.540 --> 00:11:47.560
+With a closed cycle engine,
+
+00:11:47.560 --> 00:11:50.800
+you don't just use some
+fuel and some oxidizer
+
+00:11:50.800 --> 00:11:53.150
+and burn that in the
+preburner to spin the turbine.
+
+00:11:53.150 --> 00:11:55.850
+You actually shoot all
+of the rich propellant
+
+00:11:55.850 --> 00:11:56.860
+through the turbine.
+
+00:11:56.860 --> 00:11:58.322
+So with an oxygen rich cycle
+
+00:11:58.322 --> 00:12:00.830
+all of the oxygen actually
+goes through the preburner
+
+00:12:00.830 --> 00:12:04.210
+and just the right amount of
+fuel goes to the preburner.
+
+00:12:04.210 --> 00:12:06.340
+You only need enough to give the turbine
+
+00:12:06.340 --> 00:12:08.787
+the right amount of energy
+to spin the pumps fast enough
+
+00:12:08.787 --> 00:12:11.050
+to get the right pressures
+for the preburner
+
+00:12:11.050 --> 00:12:12.076
+and the combustion chamber
+
+00:12:12.076 --> 00:12:13.661
+to make the right amount of power
+
+00:12:13.661 --> 00:12:15.450
+to shoot the thing into space.
+
+00:12:15.450 --> 00:12:17.130
+Just crazy.
+
+00:12:17.130 --> 00:12:19.395
+So back to this oxygen rich preburner.
+
+00:12:19.395 --> 00:12:22.810
+That now hot gaseous oxygen is forced
+
+00:12:22.810 --> 00:12:25.900
+into the combustion chamber
+where it meets liquid fuel.
+
+00:12:25.900 --> 00:12:27.180
+They meet and go boom
+
+00:12:27.180 --> 00:12:29.290
+and we get a nice clean and efficient burn
+
+00:12:29.290 --> 00:12:32.040
+without really wasting any propellant.
+
+00:12:32.040 --> 00:12:34.890
+But still like all engines
+the chamber pressure
+
+00:12:34.890 --> 00:12:37.630
+can not be higher than the pump pressure
+
+00:12:37.630 --> 00:12:40.070
+so the pumps actually have a lot of weight
+
+00:12:40.070 --> 00:12:42.500
+on their tiny little metal shoulders.
+
+00:12:42.500 --> 00:12:43.720
+Now if you're sitting there thinking
+
+00:12:43.720 --> 00:12:45.180
+that the United States just sat back
+
+00:12:45.180 --> 00:12:47.924
+and let the Soviets have
+all the closed cycle glory,
+
+00:12:47.924 --> 00:12:49.370
+you'd be wrong.
+
+00:12:49.370 --> 00:12:51.620
+It took the United States
+a little bit longer
+
+00:12:51.620 --> 00:12:54.149
+but they eventually figured
+out a closed cycle engine.
+
+00:12:54.149 --> 00:12:57.810
+But it was very different
+from the oxygen rich cycle.
+
+00:12:57.810 --> 00:13:00.010
+The United States pursued
+a closed loop cycle
+
+00:13:00.010 --> 00:13:02.787
+but they went with a fuel rich preburner.
+
+00:13:02.787 --> 00:13:06.087
+But wait, we just learned
+that fuel rich preburners'
+
+00:13:06.087 --> 00:13:08.330
+exhaust is so sooty
+
+00:13:08.330 --> 00:13:11.440
+that it pretty much ruins anything, right?
+
+00:13:11.440 --> 00:13:13.350
+Well sure if you're using RP-1
+
+00:13:13.350 --> 00:13:15.227
+or any other carbon heavy fuel
+
+00:13:15.227 --> 00:13:17.910
+that's definitely going to be the outcome.
+
+00:13:17.910 --> 00:13:21.850
+So the United States went with
+a different fuel: hydrogen.
+
+00:13:21.850 --> 00:13:23.740
+Okay, so now we've avoided the problem
+
+00:13:23.740 --> 00:13:26.000
+of blasting crazy hot high pressure oxygen
+
+00:13:26.000 --> 00:13:27.769
+at anything dear and precious
+
+00:13:27.769 --> 00:13:30.860
+but now we've opened
+up a new can of worms.
+
+00:13:30.860 --> 00:13:33.960
+Hydrogen is significantly
+less dense than RP-1
+
+00:13:33.960 --> 00:13:35.340
+or liquid oxygen.
+
+00:13:35.340 --> 00:13:37.070
+It's so much less dense,
+
+00:13:37.070 --> 00:13:39.856
+it takes a huge and
+really complex turbo pump
+
+00:13:39.856 --> 00:13:41.990
+to flow the right amount of hydrogen
+
+00:13:41.990 --> 00:13:43.280
+into the combustion chamber.
+
+00:13:43.280 --> 00:13:46.670
+Since RP-1 and LOX are
+relatively similar in density
+
+00:13:46.670 --> 00:13:49.980
+and in the ratios they can
+be run on a single shaft
+
+00:13:49.980 --> 00:13:51.520
+using a single preburner.
+
+00:13:51.520 --> 00:13:53.370
+Because of this the
+engineers at Rocketdyne
+
+00:13:53.370 --> 00:13:56.210
+pursued an engine known as the RS-25
+
+00:13:56.210 --> 00:13:58.540
+which would go on to
+power the space shuttle.
+
+00:13:58.540 --> 00:14:00.580
+They realized that because
+of the large difference
+
+00:14:00.580 --> 00:14:02.460
+between the pumps they might as well have
+
+00:14:02.460 --> 00:14:03.721
+two different preburners,
+
+00:14:03.721 --> 00:14:05.560
+one for the hydrogen pump
+
+00:14:05.560 --> 00:14:06.990
+and one for the oxygen pump.
+
+00:14:06.990 --> 00:14:08.290
+So that's what they did.
+
+00:14:08.290 --> 00:14:11.550
+But having two separate shafts
+created another new problem.
+
+00:14:11.550 --> 00:14:13.750
+Now engineers were putting high pressure
+
+00:14:13.750 --> 00:14:17.060
+hot gaseous hydrogen on the same shaft
+
+00:14:17.060 --> 00:14:20.180
+right next door to the liquid oxygen pump.
+
+00:14:20.180 --> 00:14:22.881
+If some of that hydrogen would
+leak out of the preburner
+
+00:14:22.881 --> 00:14:25.620
+it would start a fire in the LOX pump
+
+00:14:25.620 --> 00:14:28.080
+which is catastrophically bad.
+
+00:14:28.080 --> 00:14:30.210
+Hydrogen is also very hard to contain
+
+00:14:30.210 --> 00:14:35.210
+because it's so not dense,
+un-dense, lightweight
+
+00:14:35.500 --> 00:14:36.780
+it likes to sneak through cracks
+
+00:14:36.780 --> 00:14:38.270
+and get out anywhere it can.
+
+00:14:38.270 --> 00:14:40.340
+So engineers had to make an elaborate seal
+
+00:14:40.340 --> 00:14:42.870
+to keep the hot hydrogen
+from sneaking out.
+
+00:14:42.870 --> 00:14:45.470
+The seal required for this
+is called a purge seal
+
+00:14:45.470 --> 00:14:47.740
+and it's actually pressurized by helium
+
+00:14:47.740 --> 00:14:50.070
+so that it's the highest
+point of pressure.
+
+00:14:50.070 --> 00:14:53.720
+So if the seal leaks it
+just leaks inert helium.
+
+00:14:53.720 --> 00:14:55.320
+It's genius but take a look at
+
+00:14:55.320 --> 00:14:57.160
+how different the LOX turbo pump
+
+00:14:57.160 --> 00:14:59.173
+and the hydrogen turbo pump seals look.
+
+00:14:59.173 --> 00:15:01.730
+You can tell how much
+more engineering time
+
+00:15:01.730 --> 00:15:04.183
+and effort had to go
+into the hydrogen seals.
+
+00:15:04.183 --> 00:15:07.490
+I mean the people that think
+of this stuff are nuts.
+
+00:15:07.490 --> 00:15:09.410
+The RS-25 is still considered to be
+
+00:15:09.410 --> 00:15:10.498
+about the best engine ever made
+
+00:15:10.498 --> 00:15:12.980
+with a fairly high thrust to weight ratio
+
+00:15:12.980 --> 00:15:14.760
+and unmatched efficiency.
+
+00:15:14.760 --> 00:15:16.200
+Okay now that we've talked all about
+
+00:15:16.200 --> 00:15:18.500
+the dual preburner fuel rich RS-25,
+
+00:15:18.500 --> 00:15:20.560
+here's a simplified diagram of that.
+
+00:15:20.560 --> 00:15:23.250
+Now I didn't bother making
+the fuel pumps different sizes
+
+00:15:23.250 --> 00:15:25.214
+and I just want to focus on the flow here
+
+00:15:25.214 --> 00:15:27.880
+and help make that as simple as possible.
+
+00:15:27.880 --> 00:15:32.344
+But do note both preburners
+of the RS-25 run fuel rich
+
+00:15:32.344 --> 00:15:34.900
+so although they might look the same
+
+00:15:34.900 --> 00:15:36.668
+they power different pumps
+
+00:15:36.668 --> 00:15:38.376
+and I'll just let this
+run here for a few seconds
+
+00:15:38.376 --> 00:15:40.410
+so you can study it for a bit
+
+00:15:40.410 --> 00:15:43.240
+but don't worry we'll also
+put all these up on screen
+
+00:15:43.240 --> 00:15:45.340
+at the same time once we cover them all.
+
+00:15:45.340 --> 00:15:46.900
+So the closed cycle improves
+
+00:15:46.900 --> 00:15:48.244
+the overall performance of the engine
+
+00:15:48.244 --> 00:15:50.361
+and is highly advantageous.
+
+00:15:50.361 --> 00:15:53.350
+So how can it get any better than this?
+
+00:15:53.350 --> 00:15:55.220
+We're finally ready to talk about
+
+00:15:55.220 --> 00:15:57.430
+the full flow staged combustion cycle
+
+00:15:57.430 --> 00:16:00.020
+which basically just combines
+the two cycle methods
+
+00:16:00.020 --> 00:16:01.260
+we just talked about.
+
+00:16:01.260 --> 00:16:02.706
+With the full flow
+staged combustion cycle,
+
+00:16:02.706 --> 00:16:05.670
+you take two preburners
+one that runs fuel rich
+
+00:16:05.670 --> 00:16:08.130
+and one that runs oxygen rich.
+
+00:16:08.130 --> 00:16:10.730
+The fuel rich preburner
+powers the fuel pump
+
+00:16:10.730 --> 00:16:13.960
+and the oxygen rich preburner
+powers the LOX pump.
+
+00:16:13.960 --> 00:16:16.490
+This means the full flow
+staged combustion cycle
+
+00:16:16.490 --> 00:16:18.840
+needs to tackle the oxygen rich problems
+
+00:16:18.840 --> 00:16:21.014
+which again is solved by developing
+
+00:16:21.014 --> 00:16:23.770
+very strong metal alloys.
+
+00:16:23.770 --> 00:16:26.650
+So SpaceX developed their
+own super alloys in house
+
+00:16:26.650 --> 00:16:28.800
+that they named SX500.
+
+00:16:28.800 --> 00:16:32.270
+According to Elon Musk it's
+capable of over 800 bar
+
+00:16:32.270 --> 00:16:34.360
+of hot oxygen rich gas.
+
+00:16:34.360 --> 00:16:36.450
+That may have been one
+of the biggest hurdles
+
+00:16:36.450 --> 00:16:37.930
+in developing the Raptor engine.
+
+00:16:37.930 --> 00:16:40.670
+Luckily the fuel rich side only pumps fuel
+
+00:16:40.670 --> 00:16:43.060
+so if some of that hot
+fuel leaks through the seal
+
+00:16:43.060 --> 00:16:45.616
+on the shaft it just comes
+in contact with more fuel
+
+00:16:45.616 --> 00:16:48.260
+which is kind of no big deal.
+
+00:16:48.260 --> 00:16:51.022
+So no need for one of those
+really really elaborate seals.
+
+00:16:51.022 --> 00:16:53.730
+Full flow likely wouldn't work with RP-1
+
+00:16:53.730 --> 00:16:56.640
+due to the coking problems
+with a fuel rich preburner
+
+00:16:56.640 --> 00:16:59.620
+but other fuels are still
+valid to use this design.
+
+00:16:59.620 --> 00:17:01.140
+But more on that in a minute.
+
+00:17:01.140 --> 00:17:03.940
+The advantage of the system
+is that since both the fuel
+
+00:17:03.940 --> 00:17:06.170
+and the oxidizer arrive
+in the combustion chamber
+
+00:17:06.170 --> 00:17:08.308
+as a hot gas there's better combustion
+
+00:17:08.308 --> 00:17:10.610
+and hotter temperatures can be achieved.
+
+00:17:10.610 --> 00:17:13.290
+There's also less of a need
+for that crazy ceiling system
+
+00:17:13.290 --> 00:17:14.297
+as we mentioned earlier
+
+00:17:14.297 --> 00:17:16.470
+and that's definitely a good thing
+
+00:17:16.470 --> 00:17:17.880
+when you plan to reuse your engine
+
+00:17:17.880 --> 00:17:20.510
+over and over with little
+to no refurbishment
+
+00:17:20.510 --> 00:17:21.380
+between flights.
+
+00:17:21.380 --> 00:17:24.384
+And lastly because there's an
+inherent increase in mass flow
+
+00:17:24.384 --> 00:17:26.140
+or how quickly all the propellant
+
+00:17:26.140 --> 00:17:27.710
+is shooting into the preburner
+
+00:17:27.710 --> 00:17:28.975
+the turbines can run cooler
+
+00:17:28.975 --> 00:17:30.850
+and at lower pressures
+
+00:17:30.850 --> 00:17:33.920
+because the ratio of
+fuel an oxidizer needed
+
+00:17:33.920 --> 00:17:36.070
+to spin the turbo pumps is much lower.
+
+00:17:36.070 --> 00:17:37.360
+And think of it this way
+
+00:17:37.360 --> 00:17:39.650
+in an open cycle you only want to use
+
+00:17:39.650 --> 00:17:42.240
+as little fuel and oxidizer as possible
+
+00:17:42.240 --> 00:17:44.730
+in the preburner since it's all wasted
+
+00:17:44.730 --> 00:17:47.003
+and you want it to be
+as hot as withstandable
+
+00:17:47.003 --> 00:17:48.700
+to make it more efficient
+
+00:17:48.700 --> 00:17:50.870
+but with the full flow
+cycle all of the fuel
+
+00:17:50.870 --> 00:17:53.598
+and all of the oxidizer
+goes through the preburners
+
+00:17:53.598 --> 00:17:57.820
+so you can burn just exactly
+as much propellant as necessary
+
+00:17:57.820 --> 00:17:59.130
+to power the turbo pumps.
+
+00:17:59.130 --> 00:18:02.160
+But the cool thing is your
+fuel to oxidizer ratios
+
+00:18:02.160 --> 00:18:03.933
+will be so crazy fuel rich
+
+00:18:03.933 --> 00:18:06.360
+and crazy oxygen rich
+
+00:18:06.360 --> 00:18:08.950
+that the temperatures at the
+turbines will be much lower
+
+00:18:08.950 --> 00:18:12.360
+and this means longer lifespans
+for the turbo pump assembly.
+
+00:18:12.360 --> 00:18:14.290
+It also means more combustion happens
+
+00:18:14.290 --> 00:18:15.780
+in the combustion chamber
+
+00:18:15.780 --> 00:18:17.120
+and less in the preburner.
+
+00:18:17.120 --> 00:18:18.670
+Now here's the crazy part.
+
+00:18:18.670 --> 00:18:20.510
+Only three engines have demonstrated
+
+00:18:20.510 --> 00:18:24.180
+the full flow staged
+combustion cycle ever.
+
+00:18:24.180 --> 00:18:26.220
+In the 60s the Soviets developed an engine
+
+00:18:26.220 --> 00:18:29.260
+called the RD-270 which never flew
+
+00:18:29.260 --> 00:18:32.100
+and in the early 2000s
+Aerojet and Rocketdyne
+
+00:18:32.100 --> 00:18:35.080
+worked on an integrated
+powerhead demonstrator called
+
+00:18:35.080 --> 00:18:38.920
+wait for it, the Integrated
+Powerhead Demonstrator,
+
+00:18:38.920 --> 00:18:41.700
+which again never made
+it past the test stand.
+
+00:18:41.700 --> 00:18:43.200
+And the third attempt to developing
+
+00:18:43.200 --> 00:18:45.440
+a full flow staged combustion cycle engine
+
+00:18:45.440 --> 00:18:48.252
+is SpaceX's Raptor engine.
+
+00:18:48.252 --> 00:18:50.600
+Ta-da, that's right.
+
+00:18:50.600 --> 00:18:52.790
+The Raptor engine is
+only the third attempt
+
+00:18:52.790 --> 00:18:54.652
+at making this crazy type of engine.
+
+00:18:54.652 --> 00:18:56.970
+It's the first to ever do any type of work
+
+00:18:56.970 --> 00:18:58.470
+and leave a test stand
+
+00:18:58.470 --> 00:18:59.570
+and fingers crossed,
+
+00:18:59.570 --> 00:19:02.600
+it'll be the first full flow
+staged combustion cycle engine
+
+00:19:02.600 --> 00:19:03.625
+to reach orbit.
+
+00:19:03.625 --> 00:19:06.260
+Well actually just about
+anything this engine does
+
+00:19:06.260 --> 00:19:07.150
+will be a first.
+
+00:19:07.150 --> 00:19:10.330
+This means SpaceX had to tackle
+some crazy crazy problems.
+
+00:19:10.330 --> 00:19:12.560
+I mean not only that
+same problem that plagues
+
+00:19:12.560 --> 00:19:13.866
+oxidizer rich cycles
+
+00:19:13.866 --> 00:19:17.082
+like having to have a really
+really strong metal alloy.
+
+00:19:17.082 --> 00:19:19.073
+They also had to learn how to control
+
+00:19:19.073 --> 00:19:20.840
+two different preburners
+
+00:19:20.840 --> 00:19:22.390
+and two different cycles
+
+00:19:22.390 --> 00:19:24.020
+to create the highest pressures
+
+00:19:24.020 --> 00:19:26.210
+of any chamber pressure ever.
+
+00:19:26.210 --> 00:19:29.444
+They just beat the RD-180's
+record of about 265 bar
+
+00:19:29.444 --> 00:19:31.800
+when they hit 270 bar
+
+00:19:31.800 --> 00:19:32.860
+and they're not even done.
+
+00:19:32.860 --> 00:19:36.656
+They're hoping for 300 bar
+inside the combustion chamber.
+
+00:19:36.656 --> 00:19:39.710
+That's nuts and we'll talk
+more about that in a second
+
+00:19:39.710 --> 00:19:41.980
+but before we move on now
+that we've done a rundown
+
+00:19:41.980 --> 00:19:43.520
+on all these engines cycle types
+
+00:19:43.520 --> 00:19:44.840
+let's put them all up on screen
+
+00:19:44.840 --> 00:19:47.330
+and let them run for a bit
+so you can watch each one
+
+00:19:47.330 --> 00:19:48.880
+and compare them side by side.
+
+00:19:48.880 --> 00:19:50.380
+I know for myself it helps a lot
+
+00:19:50.380 --> 00:19:52.120
+to see them all together
+on the same screen
+
+00:19:52.120 --> 00:19:52.953
+at the same time.
+
+00:19:52.953 --> 00:19:55.236
+(slow music)
+
+00:20:00.490 --> 00:20:01.880
+Since the Raptor engine can't run
+
+00:20:01.880 --> 00:20:03.820
+a fuel rich preburner using RP-1,
+
+00:20:03.820 --> 00:20:07.700
+you'd think the next most
+logical choice would be hydrogen.
+
+00:20:07.700 --> 00:20:11.090
+Well SpaceX didn't opt for
+either RP-1 or hydrogen.
+
+00:20:11.090 --> 00:20:13.000
+They went with liquid methane.
+
+00:20:13.000 --> 00:20:15.720
+So now we finally have
+another topic to touch on.
+
+00:20:15.720 --> 00:20:17.650
+Why did SpaceX choose liquid methane
+
+00:20:17.650 --> 00:20:18.990
+for the Raptor engine?
+
+00:20:18.990 --> 00:20:20.850
+What are the qualities
+that make it advantageous
+
+00:20:20.850 --> 00:20:23.096
+over hydrogen or RP-1?
+
+00:20:23.096 --> 00:20:25.929
+(dramatic music)
+
+00:20:30.520 --> 00:20:32.260
+Today no liquid methane
+
+00:20:32.260 --> 00:20:34.220
+or otherwise known as methylox engine
+
+00:20:34.220 --> 00:20:35.660
+has gone to orbit.
+
+00:20:35.660 --> 00:20:38.810
+So what qualities does it
+have that make it desirable?
+
+00:20:38.810 --> 00:20:39.940
+Let's take a look at methane
+
+00:20:39.940 --> 00:20:42.330
+compared to RP-1 and hydrogen.
+
+00:20:42.330 --> 00:20:44.801
+Let's put methane in
+between RP-1 and hydrogen.
+
+00:20:44.801 --> 00:20:47.050
+You'll see why here really quickly.
+
+00:20:47.050 --> 00:20:49.670
+So let's start off with
+perhaps the biggest factor
+
+00:20:49.670 --> 00:20:51.500
+when designing your first stage,
+
+00:20:51.500 --> 00:20:53.360
+the density of the propellant.
+
+00:20:53.360 --> 00:20:56.030
+Having a denser fuel means
+that tanks are smaller
+
+00:20:56.030 --> 00:20:58.680
+and lighter for a given mass of fuel.
+
+00:20:58.680 --> 00:21:01.240
+A smaller tank equals a lighter rocket.
+
+00:21:01.240 --> 00:21:03.350
+So here's the density of these three fuels
+
+00:21:03.350 --> 00:21:05.400
+measured in grams per liter.
+
+00:21:05.400 --> 00:21:08.680
+In other words how much does
+one liter of this stuff weigh
+
+00:21:08.680 --> 00:21:10.920
+or really what's its mass.
+
+00:21:10.920 --> 00:21:15.877
+Starting off with RP-1, one
+liter is around 813 grams.
+
+00:21:15.877 --> 00:21:19.270
+RP-1 is 11 times more dense than hydrogen
+
+00:21:19.270 --> 00:21:21.900
+which is only 70 grams per liter
+
+00:21:21.900 --> 00:21:26.030
+and methylox is right in the
+middle at 422 grams per liter.
+
+00:21:26.030 --> 00:21:27.760
+Remember how airships or zeppelins
+
+00:21:27.760 --> 00:21:29.340
+used to be filled with hydrogen
+
+00:21:29.340 --> 00:21:31.770
+to make them lighter than air?
+
+00:21:31.770 --> 00:21:33.110
+Well, that's because hydrogen
+
+00:21:33.110 --> 00:21:35.780
+is so much less dense in our atmosphere
+
+00:21:35.780 --> 00:21:37.180
+it makes for an excellent
+
+00:21:37.180 --> 00:21:40.520
+albeit really flammable gas for a balloon.
+
+00:21:40.520 --> 00:21:44.010
+I mean we all remember
+the Hindenburg, right?
+
+00:21:44.010 --> 00:21:46.990
+It should also be noted
+that 813 grams per liter
+
+00:21:46.990 --> 00:21:49.000
+is an average for RP-1
+
+00:21:49.000 --> 00:21:51.870
+but SpaceX chills their
+RP-1 in their Falcon 9
+
+00:21:51.870 --> 00:21:56.010
+and Falcon Heavy for about a
+2 to 4% increase in density.
+
+00:21:56.010 --> 00:21:58.200
+But historically RP-1's density
+
+00:21:58.200 --> 00:22:01.420
+is right around that 813 grams per liter.
+
+00:22:01.420 --> 00:22:02.520
+So in the case of density
+
+00:22:02.520 --> 00:22:05.210
+methane is kind of right in
+the middle of the two others
+
+00:22:05.210 --> 00:22:07.440
+but there's more to it than just density.
+
+00:22:07.440 --> 00:22:09.190
+We also need to take into consideration
+
+00:22:09.190 --> 00:22:10.992
+the ratio of how much fuel is burned
+
+00:22:10.992 --> 00:22:13.640
+compared to how much oxidizer is burned.
+
+00:22:13.640 --> 00:22:15.950
+This is the oxidizer to fuel ratio.
+
+00:22:15.950 --> 00:22:18.120
+So here's where things get
+a little more interesting
+
+00:22:18.120 --> 00:22:20.640
+and the tables turn just a little bit.
+
+00:22:20.640 --> 00:22:22.370
+Rocket engineers have to take into account
+
+00:22:22.370 --> 00:22:23.600
+the mass of the fuel
+
+00:22:23.600 --> 00:22:25.545
+and the corresponding weight of the tanks
+
+00:22:25.545 --> 00:22:27.800
+so they don't actually burn propellant
+
+00:22:27.800 --> 00:22:29.978
+at the perfect stoichiometric
+combustion ratio.
+
+00:22:29.978 --> 00:22:32.430
+They find the perfect happy medium
+
+00:22:32.430 --> 00:22:35.450
+that balances tank size with thrust output
+
+00:22:35.450 --> 00:22:36.810
+and specific impulse.
+
+00:22:36.810 --> 00:22:38.047
+Let's look at the mass ratios for fuel
+
+00:22:38.047 --> 00:22:40.311
+and oxidizer that the
+engineers have come up with.
+
+00:22:40.311 --> 00:22:44.584
+So for these numbers RP-1 is
+burned at 2.7 grams of oxygen
+
+00:22:44.584 --> 00:22:46.822
+to one gram of RP-one.
+
+00:22:46.822 --> 00:22:50.690
+Hydrogen burns at 6 grams of
+oxygen to 1 gram of hydrogen
+
+00:22:50.690 --> 00:22:53.980
+and methane burns at 3.7 grams of oxygen
+
+00:22:53.980 --> 00:22:55.290
+to one gram of methane.
+
+00:22:55.290 --> 00:22:57.390
+These numbers can now help offset a little
+
+00:22:57.390 --> 00:22:59.350
+the massive difference in density.
+
+00:22:59.350 --> 00:23:02.640
+So let's visualize this to
+help make it easier to digest.
+
+00:23:02.640 --> 00:23:05.955
+Liquid oxygen is 1141 grams per liter.
+
+00:23:05.955 --> 00:23:08.590
+It's a little more dense than RP-1.
+
+00:23:08.590 --> 00:23:12.141
+So burning LOX and RP-1
+at a 2.7 to one ratio
+
+00:23:12.141 --> 00:23:14.800
+for every liter of LOX you'd need
+
+00:23:14.800 --> 00:23:17.530
+a little over half a liter of RP-1.
+
+00:23:17.530 --> 00:23:18.970
+Next up let's do hydrogen.
+
+00:23:18.970 --> 00:23:22.750
+Now with hydrogen being 11
+times less dense than RP-1
+
+00:23:22.750 --> 00:23:26.290
+you'd think it'd need a
+tank that's 11 times bigger.
+
+00:23:26.290 --> 00:23:29.750
+But luckily engineers have
+found that it pays to burn LOX
+
+00:23:29.750 --> 00:23:32.930
+and hydrogen at a 6 to 1
+ratio for a good compromise.
+
+00:23:32.930 --> 00:23:34.720
+This means for each liter of LOX
+
+00:23:34.720 --> 00:23:37.030
+you'd need 2.7 liters of hydrogen
+
+00:23:37.030 --> 00:23:39.330
+so your fuel tank needs
+to be approximately
+
+00:23:39.330 --> 00:23:42.020
+five times larger compared to RP-1.
+
+00:23:42.020 --> 00:23:43.130
+So yeah that helps.
+
+00:23:43.130 --> 00:23:45.780
+That's why when we look at
+a hydrogen powered Delta IV
+
+00:23:45.780 --> 00:23:48.350
+versus an RP-1 powered Falcon 9
+
+00:23:48.350 --> 00:23:51.610
+you can see the fuel tank is
+much smaller than the LOX tank
+
+00:23:51.610 --> 00:23:55.510
+on the Falcon 9 but the Delta
+IV is about the opposite.
+
+00:23:55.510 --> 00:23:58.670
+The LOX tank is much
+smaller than its fuel tank.
+
+00:23:58.670 --> 00:24:00.430
+So now let's take a look at methane.
+
+00:24:00.430 --> 00:24:02.270
+And this one gets kind of interesting.
+
+00:24:02.270 --> 00:24:05.624
+LOX is 2.7 times more
+dense than liquid methane
+
+00:24:05.624 --> 00:24:09.127
+but the burn ratio is 3.7 grams of oxygen
+
+00:24:09.127 --> 00:24:10.915
+to one gram of methane.
+
+00:24:10.915 --> 00:24:15.915
+So you need 0.73 liters of
+methane for every liter of LOX.
+
+00:24:16.100 --> 00:24:17.270
+In other words your fuel tank
+
+00:24:17.270 --> 00:24:20.150
+would need to be about
+40% bigger for methylox
+
+00:24:20.150 --> 00:24:21.900
+than it would need to be for RP-1
+
+00:24:21.900 --> 00:24:25.460
+despite RP-1 actually
+being almost twice as dense
+
+00:24:25.460 --> 00:24:27.090
+and compared to hydrogen
+
+00:24:27.090 --> 00:24:30.410
+its fuel tank would be
+about 3.7 times smaller.
+
+00:24:30.410 --> 00:24:31.920
+So the fuel to oxidizer ratio
+
+00:24:31.920 --> 00:24:35.180
+helps make a methane fuel
+tank a lot closer to an RP-1
+
+00:24:35.180 --> 00:24:37.470
+tank than it is to a hydrogen tank.
+
+00:24:37.470 --> 00:24:39.520
+Another huge variable
+with any rocket engine
+
+00:24:39.520 --> 00:24:41.000
+is how efficient it is.
+
+00:24:41.000 --> 00:24:43.675
+This is measured in
+specific impulse or ISP
+
+00:24:43.675 --> 00:24:44.790
+but you can think of it
+
+00:24:44.790 --> 00:24:48.000
+kind of like a fuel economy
+of a gas powered car.
+
+00:24:48.000 --> 00:24:50.280
+So a high specific
+impulse would be similar
+
+00:24:50.280 --> 00:24:52.750
+to a high mile per gallon
+or kilometer per liter.
+
+00:24:52.750 --> 00:24:54.310
+The best way to think of specific impulse
+
+00:24:54.310 --> 00:24:56.990
+is to imagine you had one
+kilogram of propellant
+
+00:24:56.990 --> 00:25:00.130
+for how many seconds can the engine push
+
+00:25:00.130 --> 00:25:02.590
+with 9.8 newtons of force.
+
+00:25:02.590 --> 00:25:04.144
+The longer it can sip on that fuel
+
+00:25:04.144 --> 00:25:06.056
+while still pushing that hard
+
+00:25:06.056 --> 00:25:08.440
+the higher its specific impulse
+
+00:25:08.440 --> 00:25:10.260
+and therefore the more work
+
+00:25:10.260 --> 00:25:12.430
+it can do with the same amount of fuel.
+
+00:25:12.430 --> 00:25:14.810
+So again kind of like its fuel economy.
+
+00:25:14.810 --> 00:25:16.700
+So the higher the specific impulse
+
+00:25:16.700 --> 00:25:18.940
+the less fuel it takes to
+do the same amount of work
+
+00:25:18.940 --> 00:25:20.382
+which is a good thing.
+
+00:25:20.382 --> 00:25:23.436
+A fuel efficient engine
+is extremely important
+
+00:25:23.436 --> 00:25:26.130
+and now due to the
+molecular way of each fuel
+
+00:25:26.130 --> 00:25:28.130
+and their energy released when burned
+
+00:25:28.130 --> 00:25:29.550
+there's a different potential
+
+00:25:29.550 --> 00:25:32.170
+for how quickly the
+exhaust gas can be expelled
+
+00:25:32.170 --> 00:25:33.400
+out the nozzle.
+
+00:25:33.400 --> 00:25:34.820
+This means each fuel has
+
+00:25:34.820 --> 00:25:37.010
+a different theoretical specific impulse.
+
+00:25:37.010 --> 00:25:39.440
+In ideal and perfect world
+an RP-1 powered engine
+
+00:25:39.440 --> 00:25:42.000
+could achieve about 370 seconds.
+
+00:25:42.000 --> 00:25:45.636
+An ideal hydrogen powered
+engine could get 532 seconds
+
+00:25:45.636 --> 00:25:46.895
+and guess what?
+
+00:25:46.895 --> 00:25:49.440
+A methane powered engine
+is right in the middle
+
+00:25:49.440 --> 00:25:51.390
+with 459 seconds.
+
+00:25:51.390 --> 00:25:53.760
+Real world examples of this are much lower
+
+00:25:53.760 --> 00:25:56.640
+with RP-1 engine seeing around 350 seconds
+
+00:25:56.640 --> 00:25:59.960
+like the Merlin 1D Vacuum run 380 seconds
+
+00:25:59.960 --> 00:26:01.170
+for a methane powered engine
+
+00:26:01.170 --> 00:26:03.310
+like the Raptor vacuum might be someday
+
+00:26:03.310 --> 00:26:06.610
+and about 465 seconds for
+a hydrogen powered engine
+
+00:26:06.610 --> 00:26:08.580
+like the RL-10B-2.
+
+00:26:08.580 --> 00:26:11.616
+Next, let's talk about
+how hot each fuel burns.
+
+00:26:11.616 --> 00:26:14.260
+A fuel that burns cooler
+is easier on the engine
+
+00:26:14.260 --> 00:26:16.610
+and potentially makes
+for a longer lifespan.
+
+00:26:16.610 --> 00:26:19.259
+RP-1 can burn up to 3670 Kelvin,
+
+00:26:19.259 --> 00:26:22.340
+hydrogen 3070 Kelvin,
+
+00:26:22.340 --> 00:26:23.766
+and if you haven't guessed it by now,
+
+00:26:23.766 --> 00:26:28.530
+methane is again between
+the two at 3550 Kelvin.
+
+00:26:28.530 --> 00:26:30.440
+Speaking of thermal considerations
+
+00:26:30.440 --> 00:26:32.790
+let's look at the boiling
+point for each of these fuels
+
+00:26:32.790 --> 00:26:35.700
+or at what point does
+the liquid fuel boil off
+
+00:26:35.700 --> 00:26:37.370
+and turn into a gas.
+
+00:26:37.370 --> 00:26:39.130
+Since all of these fuels need to remain
+
+00:26:39.130 --> 00:26:41.311
+in their liquid state
+in order to stay dense
+
+00:26:41.311 --> 00:26:42.980
+the higher the temperature
+
+00:26:42.980 --> 00:26:44.850
+the easier it is to store the fuel.
+
+00:26:44.850 --> 00:26:46.880
+A higher boiling point also means less
+
+00:26:46.880 --> 00:26:48.513
+or even no insulation on the tanks
+
+00:26:48.513 --> 00:26:51.150
+to keep the propellant from boiling off.
+
+00:26:51.150 --> 00:26:54.685
+And of course less insulation
+means lighter tanks.
+
+00:26:54.685 --> 00:26:57.288
+RB1 has a very high boiling point
+
+00:26:57.288 --> 00:27:01.240
+even higher than water at 490 Kelvin.
+
+00:27:01.240 --> 00:27:04.210
+Hydrogen on the other
+hand is near absolute zero
+
+00:27:04.210 --> 00:27:07.300
+at a crazy cold 20 Kelvin.
+
+00:27:07.300 --> 00:27:10.120
+That's insanely cold and it
+takes serious consideration
+
+00:27:10.120 --> 00:27:12.470
+to keep anything at that temperature
+
+00:27:12.470 --> 00:27:14.020
+and like the Goldilocks it is
+
+00:27:14.020 --> 00:27:16.729
+methane is between the two at 111 Kelvin
+
+00:27:16.729 --> 00:27:19.560
+which although that's still very cold
+
+00:27:19.560 --> 00:27:21.290
+and requires thermal considerations
+
+00:27:21.290 --> 00:27:24.680
+it at least boils off at a
+temperature similar to LOX
+
+00:27:24.680 --> 00:27:25.990
+so there is that
+
+00:27:25.990 --> 00:27:28.160
+and because it's so close
+to the temperature of LOX
+
+00:27:28.160 --> 00:27:30.160
+the tanks can share a common dome
+
+00:27:30.160 --> 00:27:32.100
+which makes the vehicle lighter.
+
+00:27:32.100 --> 00:27:35.120
+LOX and hydrogen's
+temperatures very so wildly
+
+00:27:35.120 --> 00:27:37.000
+that LOX will boil off hydrogen
+
+00:27:37.000 --> 00:27:39.370
+and the hydrogen will freeze LOX solid.
+
+00:27:39.370 --> 00:27:40.980
+Now, on to the exhausts.
+
+00:27:40.980 --> 00:27:43.700
+What are the byproducts of
+combustion with these engines?
+
+00:27:43.700 --> 00:27:46.240
+RP-1 is really the only one of these three
+
+00:27:46.240 --> 00:27:48.590
+that really pollutes
+with any unburned carbons
+
+00:27:48.590 --> 00:27:51.940
+being left in our atmosphere
+alongside with some water vapor
+
+00:27:51.940 --> 00:27:54.030
+but hydrogen only produces water vapor
+
+00:27:54.030 --> 00:27:56.220
+and methane produces some carbon dioxide
+
+00:27:56.220 --> 00:27:57.420
+and water vapor as well.
+
+00:27:57.420 --> 00:28:00.185
+But an interesting note
+now believe it or not
+
+00:28:00.185 --> 00:28:01.160
+as far as greenhouse gases go,
+
+00:28:01.160 --> 00:28:04.250
+water in the upper
+atmosphere can be pretty bad
+
+00:28:04.250 --> 00:28:05.820
+but I'll be doing a video in the future
+
+00:28:05.820 --> 00:28:07.370
+all about how much rockets pollute
+
+00:28:07.370 --> 00:28:09.130
+talking about their air pollution,
+
+00:28:09.130 --> 00:28:10.680
+also their ocean pollution
+
+00:28:10.680 --> 00:28:11.752
+and even space debris is a consideration.
+
+00:28:11.752 --> 00:28:15.160
+So stand by because I think that video
+
+00:28:15.160 --> 00:28:15.993
+is going to be awesome.
+
+00:28:15.993 --> 00:28:17.470
+Now one metric that we're just kind of
+
+00:28:17.470 --> 00:28:19.240
+going to gloss over really quick
+
+00:28:20.380 --> 00:28:21.490
+and talk about it generally is the cost.
+
+00:28:21.490 --> 00:28:23.760
+And these tend to vary considerably
+
+00:28:23.760 --> 00:28:25.460
+and it's actually really hard to pin down
+
+00:28:25.460 --> 00:28:27.090
+the exact prices reliably.
+
+00:28:27.090 --> 00:28:29.690
+So for the considerations RP-1
+
+00:28:29.690 --> 00:28:31.782
+is basically just a
+highly refined jet fuel
+
+00:28:31.782 --> 00:28:34.266
+which jet fuel is a
+highly refined kerosene
+
+00:28:34.266 --> 00:28:36.713
+which kerosene is a highly refined diesel.
+
+00:28:36.713 --> 00:28:39.220
+So it's safe to assume it's going to be
+
+00:28:39.220 --> 00:28:40.660
+more expensive than diesel.
+
+00:28:40.660 --> 00:28:42.470
+Hydrogen is also relatively expensive
+
+00:28:42.470 --> 00:28:43.889
+despite being abundant.
+
+00:28:43.889 --> 00:28:45.410
+Refining it storing it
+
+00:28:45.410 --> 00:28:47.340
+and transporting it can be hard
+
+00:28:47.340 --> 00:28:50.120
+but methane on the other hand
+is basically the same thing
+
+00:28:50.120 --> 00:28:52.814
+as natural gas and can
+be relatively cheap.
+
+00:28:52.814 --> 00:28:55.440
+Now when you're talking about
+buying literally tons of fuel
+
+00:28:55.440 --> 00:28:57.100
+the fuel costs can add up quickly
+
+00:28:57.100 --> 00:29:00.250
+so although the cost of fuel
+shouldn't factor in too much
+
+00:29:00.250 --> 00:29:02.570
+it certainly is a consideration
+
+00:29:02.570 --> 00:29:04.890
+but without hard data on this one
+
+00:29:04.890 --> 00:29:06.470
+I don't even want to put it on our chart.
+
+00:29:06.470 --> 00:29:08.600
+So instead let's talk about
+
+00:29:08.600 --> 00:29:10.570
+the more important aspect of the fuel
+
+00:29:10.570 --> 00:29:12.670
+that's manufacturing it.
+
+00:29:12.670 --> 00:29:14.660
+And here's where we get into specifically
+
+00:29:14.660 --> 00:29:16.825
+why SpaceX sees methane as an important
+
+00:29:16.825 --> 00:29:20.670
+or even a necessary part
+of the company's future.
+
+00:29:20.670 --> 00:29:23.040
+SpaceX's ultimate goals
+are to develop a system
+
+00:29:23.040 --> 00:29:25.265
+capable of taking humans
+out to Mars and back
+
+00:29:25.265 --> 00:29:26.690
+over and over.
+
+00:29:26.690 --> 00:29:28.780
+The Martian atmosphere is CO2 rich.
+
+00:29:28.780 --> 00:29:31.090
+Now combine that with water
+mining from the surface
+
+00:29:31.090 --> 00:29:32.654
+and subsurface water on Mars
+
+00:29:32.654 --> 00:29:35.515
+through electrolysis
+and the Sabatier process
+
+00:29:35.515 --> 00:29:38.690
+the Martian atmosphere can
+be made into methane fuel
+
+00:29:38.690 --> 00:29:40.670
+so you don't have to take
+all the fuel you need
+
+00:29:40.670 --> 00:29:41.776
+to get home with you.
+
+00:29:41.776 --> 00:29:45.000
+You can make it right there
+using Mars's resources.
+
+00:29:45.000 --> 00:29:48.967
+This is called in situ
+resource utilization or ISRU.
+
+00:29:48.967 --> 00:29:50.188
+Now you might be thinking,
+
+00:29:50.188 --> 00:29:53.290
+"Well, if there is water
+can't you just make hydrogen
+
+00:29:53.290 --> 00:29:55.822
+on the surface of Mars for your fuel?"
+
+00:29:55.822 --> 00:29:57.390
+Well, yes but one of the
+biggest problems with hydrogen
+
+00:29:57.390 --> 00:30:00.690
+and long duration missions is
+the boiling point of hydrogen.
+
+00:30:00.690 --> 00:30:02.870
+Remember, it takes serious considerations
+
+00:30:02.870 --> 00:30:05.323
+to maintain hydrogen in a liquid state
+
+00:30:05.323 --> 00:30:08.340
+and that's necessary
+to be useful as a fuel
+
+00:30:08.340 --> 00:30:11.770
+so for SpaceX methane
+makes a lot of sense.
+
+00:30:11.770 --> 00:30:14.080
+It's fairly dense meaning the rocket sizes
+
+00:30:14.080 --> 00:30:15.660
+are pretty reasonable.
+
+00:30:15.660 --> 00:30:17.890
+It's fairly efficient, it burns clean
+
+00:30:17.890 --> 00:30:20.500
+and it makes for a highly reusable engine.
+
+00:30:20.500 --> 00:30:21.870
+It burns relatively cool
+
+00:30:21.870 --> 00:30:23.690
+helping expand the lifespan of an engine
+
+00:30:23.690 --> 00:30:26.110
+which again is good for usability.
+
+00:30:26.110 --> 00:30:27.642
+It's cheap and easy to produce
+
+00:30:27.642 --> 00:30:31.106
+and can be easily reproduced
+on the surface of Mars.
+
+00:30:31.106 --> 00:30:33.523
+(slow music)
+
+00:30:43.383 --> 00:30:44.216
+Okay.
+
+00:30:44.216 --> 00:30:45.049
+Yeah.
+
+00:30:45.049 --> 00:30:47.050
+We finally made it this far.
+
+00:30:47.050 --> 00:30:48.900
+and now that we have a strong grasp
+
+00:30:48.900 --> 00:30:50.980
+of how different engine cycles operate
+
+00:30:50.980 --> 00:30:52.650
+and the fuels they use
+
+00:30:52.650 --> 00:30:54.900
+we can finally line
+them all up side by side
+
+00:30:54.900 --> 00:30:56.020
+and compare their metrics
+
+00:30:56.020 --> 00:30:58.770
+to help us appreciate
+where each engine sits.
+
+00:30:58.770 --> 00:31:00.560
+So now we're going to lineup each engine
+
+00:31:00.560 --> 00:31:02.570
+by their fuel type and their cycles.
+
+00:31:02.570 --> 00:31:04.160
+So let's start off with SpaceX's
+
+00:31:04.160 --> 00:31:06.623
+open cycle Merlin engine
+that powers their Falcon 9
+
+00:31:06.623 --> 00:31:08.280
+and Falcon Heavy rockets.
+
+00:31:08.280 --> 00:31:09.680
+NPO Energomash's
+
+00:31:09.680 --> 00:31:12.243
+oxygen rich closed cycle RD-180
+
+00:31:12.243 --> 00:31:15.040
+that we see power the Atlas 5 rocket
+
+00:31:15.040 --> 00:31:17.584
+and Rocketdyne's open cycle F-1
+
+00:31:17.584 --> 00:31:19.330
+that powers a Saturn 5
+
+00:31:19.330 --> 00:31:22.080
+which all three of these
+engines run on RP-1.
+
+00:31:22.080 --> 00:31:24.200
+Then we have SpaceX's full flow
+
+00:31:24.200 --> 00:31:26.370
+staged combustion cycle Raptor engine
+
+00:31:26.370 --> 00:31:29.070
+that will power the Starship
+and Super Heavy booster
+
+00:31:29.070 --> 00:31:31.440
+and then we have Blue
+Origin's closed cycle
+
+00:31:31.440 --> 00:31:34.022
+oxygen rich methane powered BE-4 engine
+
+00:31:34.022 --> 00:31:36.400
+that will power their New Glenn rocket
+
+00:31:36.400 --> 00:31:38.610
+and ULA's upcoming Vulcan rocket
+
+00:31:38.610 --> 00:31:41.830
+and then we have Aerojet
+Rocketdyne's closed cycle
+
+00:31:41.830 --> 00:31:45.270
+fuel rich RS-25 engine that
+powered the space shuttle
+
+00:31:45.270 --> 00:31:47.510
+and will power the upcoming SLS rocket
+
+00:31:47.510 --> 00:31:48.893
+which runs on hydrogen.
+
+00:31:49.994 --> 00:31:50.929
+A few quick notes here.
+
+00:31:50.929 --> 00:31:52.840
+The Raptor and the BE-4 as
+of the making of this video
+
+00:31:52.840 --> 00:31:55.291
+are still in development
+so the numbers we have here
+
+00:31:55.291 --> 00:31:58.000
+are either their current state of progress
+
+00:31:58.000 --> 00:32:00.860
+like the Raptor which
+is constantly improving
+
+00:32:00.860 --> 00:32:02.260
+literally every day
+
+00:32:02.260 --> 00:32:03.516
+and in the case of the BE-4,
+
+00:32:03.516 --> 00:32:05.510
+those are the target goals for the engine
+
+00:32:05.510 --> 00:32:07.500
+which Blue Origin has yet to hit.
+
+00:32:07.500 --> 00:32:10.270
+So just keep that in
+mind that these numbers
+
+00:32:10.270 --> 00:32:12.370
+are definitely subject to change
+
+00:32:12.370 --> 00:32:14.130
+and now because of this
+don't forget to check in
+
+00:32:14.130 --> 00:32:15.150
+with the article version
+
+00:32:15.150 --> 00:32:17.360
+attached in the description of this video.
+
+00:32:17.360 --> 00:32:18.962
+This video will likely date itself
+
+00:32:18.962 --> 00:32:20.330
+with some of these numbers
+
+00:32:20.330 --> 00:32:21.848
+and I can't update this video
+
+00:32:21.848 --> 00:32:25.770
+but I can update the website
+when more info comes through.
+
+00:32:25.770 --> 00:32:29.252
+So if you're looking to use any
+of these numbers as a source
+
+00:32:29.252 --> 00:32:31.930
+please, please, please
+double check the website
+
+00:32:31.930 --> 00:32:32.820
+for any updates.
+
+00:32:32.820 --> 00:32:36.335
+Another fun note quick
+is look at the RD-180.
+
+00:32:36.335 --> 00:32:37.168
+Now don't be confused.
+
+00:32:37.168 --> 00:32:38.650
+This is a single engine
+
+00:32:38.650 --> 00:32:41.210
+it just has two combustion chambers.
+
+00:32:41.210 --> 00:32:43.200
+There's only a single turbo pump
+
+00:32:43.200 --> 00:32:46.050
+that splits its power into
+two combustion chambers.
+
+00:32:46.050 --> 00:32:47.650
+The Soviet Union was able to solve
+
+00:32:47.650 --> 00:32:50.510
+the crazy hot oxygen
+rich closed cycle problem
+
+00:32:50.510 --> 00:32:53.040
+but they were unable to
+solve combustion instability
+
+00:32:53.040 --> 00:32:54.250
+of large engines.
+
+00:32:54.250 --> 00:32:56.154
+So instead of one large combustion chamber
+
+00:32:56.154 --> 00:32:58.460
+they made multiple small ones.
+
+00:32:58.460 --> 00:32:59.293
+So first up
+
+00:32:59.293 --> 00:33:01.810
+let's take a look at their total
+thrust output at sea level.
+
+00:33:01.810 --> 00:33:03.709
+Since all these engines run at sea level
+
+00:33:03.709 --> 00:33:06.147
+that's probably a fair
+place to compare them.
+
+00:33:06.147 --> 00:33:08.218
+Let's go from the least amount of thrust
+
+00:33:08.218 --> 00:33:10.560
+to the most for fun.
+
+00:33:10.560 --> 00:33:13.457
+The Merlin produces 0.84
+meganewtons of thrust.
+
+00:33:13.457 --> 00:33:16.671
+The RS-25 produces 1.86 meganewtons.
+
+00:33:16.671 --> 00:33:19.237
+The Raptor currently is at 2 meganewtons.
+
+00:33:19.237 --> 00:33:21.837
+The BE-4 is hoping to hit 2.4 meganewtons.
+
+00:33:21.837 --> 00:33:25.540
+The RD-180 3.83 meganewtons
+
+00:33:25.540 --> 00:33:27.800
+and the F-1 is still the king out of these
+
+00:33:27.800 --> 00:33:30.420
+at 6.77 meganewtons.
+
+00:33:30.420 --> 00:33:32.300
+Now there was an engine called the RD-170
+
+00:33:32.300 --> 00:33:34.950
+which actually produced
+more thrust than the F-1
+
+00:33:34.950 --> 00:33:36.400
+but since it barely flew
+
+00:33:36.400 --> 00:33:38.840
+I figured it wasn't as
+relevant in this lineup.
+
+00:33:38.840 --> 00:33:40.960
+I thought it'd probably a
+good idea to go with engines
+
+00:33:40.960 --> 00:33:42.910
+that have actually been used a lot.
+
+00:33:42.910 --> 00:33:46.070
+Thrust is great but what's
+maybe just as important
+
+00:33:46.070 --> 00:33:49.330
+when designing rocket is
+the thrust to weight ratio
+
+00:33:49.330 --> 00:33:51.210
+or how heavy the engine is
+
+00:33:51.210 --> 00:33:53.710
+compared to how much thrust it produces.
+
+00:33:53.710 --> 00:33:55.339
+A higher thrust to weight ratio engine
+
+00:33:55.339 --> 00:33:57.530
+ultimately means less dead weight
+
+00:33:57.530 --> 00:33:59.040
+the rocket needs to lug around.
+
+00:33:59.040 --> 00:34:01.350
+Let's start from the
+lowest to highest here.
+
+00:34:01.350 --> 00:34:06.350
+The lowest is actually the
+space shuttles RS-25 at 73 to 1.
+
+00:34:06.520 --> 00:34:09.461
+Then there is the RD-180 which is 78 to 1.
+
+00:34:09.461 --> 00:34:13.090
+Then we have the BE-4
+at around 80 to 1 but
+
+00:34:13.090 --> 00:34:14.720
+keep in mind we don't actually have
+
+00:34:14.720 --> 00:34:16.250
+a really good number on this.
+
+00:34:16.250 --> 00:34:18.370
+So there might be some wiggle room there.
+
+00:34:18.370 --> 00:34:20.970
+Then the F-1 is 94 to 1,
+
+00:34:20.970 --> 00:34:25.040
+then we have the Raptor which
+is at about 107 to 1 for now.
+
+00:34:25.040 --> 00:34:28.240
+And lastly the Merlin is
+actually the leader here
+
+00:34:28.240 --> 00:34:32.442
+with an astonishing 198 to
+1 thrust to weight ratio.
+
+00:34:32.442 --> 00:34:35.730
+Yeah, that thing is a powerhouse.
+
+00:34:35.730 --> 00:34:36.563
+Okay.
+
+00:34:36.563 --> 00:34:37.396
+Thrust is great and all
+
+00:34:37.396 --> 00:34:39.330
+but who cares how powerful an engine is
+
+00:34:39.330 --> 00:34:41.250
+if it's terribly inefficient.
+
+00:34:41.250 --> 00:34:44.340
+So next up let's check
+out their specific impulse
+
+00:34:44.340 --> 00:34:46.690
+which again is measured in seconds.
+
+00:34:46.690 --> 00:34:48.580
+So starting with the
+least efficient engine
+
+00:34:48.580 --> 00:34:53.191
+which is the F-1 engine
+at 263 to 304 seconds
+
+00:34:53.191 --> 00:34:57.292
+then the Merlin engine
+at 282 to 311 seconds.
+
+00:34:57.292 --> 00:35:02.292
+Then we get the RD-180 at
+311 seconds to 338 seconds
+
+00:35:02.816 --> 00:35:06.680
+and somewhere in that
+same ballpark is the BE-4
+
+00:35:06.680 --> 00:35:10.760
+which is around 310 to 340 seconds.
+
+00:35:10.760 --> 00:35:12.166
+Next up is the Raptor engine
+
+00:35:12.166 --> 00:35:16.030
+which is 330 seconds
+to around 350 seconds,
+
+00:35:16.030 --> 00:35:20.621
+and lastly the king
+here by far is the RS-25
+
+00:35:20.621 --> 00:35:25.621
+which is 366 to 452 seconds.
+
+00:35:26.670 --> 00:35:27.630
+Wow.
+
+00:35:27.630 --> 00:35:30.060
+Now one of the factors
+that affect both the thrust
+
+00:35:30.060 --> 00:35:32.310
+and specific impulse is chamber pressure.
+
+00:35:32.310 --> 00:35:33.390
+Now generally
+
+00:35:33.390 --> 00:35:35.760
+the higher the chamber
+pressure the more thrust
+
+00:35:35.760 --> 00:35:39.470
+and potentially more
+efficient the engine can be
+
+00:35:39.470 --> 00:35:41.540
+so higher chamber pressures
+
+00:35:41.540 --> 00:35:44.230
+let an engine be smaller
+for a given thrust level
+
+00:35:44.230 --> 00:35:46.370
+also improving their
+thrust to weight ratio.
+
+00:35:46.370 --> 00:35:48.230
+The baby here is actually the F-1
+
+00:35:48.230 --> 00:35:51.210
+which only had 70 bar in
+this chamber pressure.
+
+00:35:51.210 --> 00:35:52.900
+Now, I do need to pause here for a second
+
+00:35:52.900 --> 00:35:55.910
+and remind you that 70
+bar is still 70 times
+
+00:35:55.910 --> 00:35:58.700
+the atmospheric pressure or
+the same amount of pressure
+
+00:35:58.700 --> 00:36:02.740
+you'd experience at 700 meters underwater.
+
+00:36:02.740 --> 00:36:03.573
+Yikes.
+
+00:36:03.573 --> 00:36:05.470
+Okay so even the lowest chamber pressure
+
+00:36:05.470 --> 00:36:07.720
+is still mind-bogglingly high.
+
+00:36:07.720 --> 00:36:09.310
+So next up is the Merlin engine
+
+00:36:09.310 --> 00:36:14.310
+at 97 bar then the BE-4
+will be around 135-ish bar
+
+00:36:14.660 --> 00:36:17.675
+then the RS-25 which is 206 bar
+
+00:36:17.675 --> 00:36:20.930
+then the RD-180 which has been considered
+
+00:36:20.930 --> 00:36:24.630
+the king of operational
+engines at about 257 bar
+
+00:36:24.630 --> 00:36:26.260
+that is until the Raptor engine
+
+00:36:26.260 --> 00:36:27.816
+which is now kind of online
+
+00:36:27.816 --> 00:36:30.430
+which is considered the new
+king of chamber pressure
+
+00:36:30.430 --> 00:36:34.070
+at 270 bars currently and
+they hope to get that thing
+
+00:36:34.070 --> 00:36:35.382
+up to 300 bar.
+
+00:36:35.382 --> 00:36:38.370
+Again, 300 bar is like being
+
+00:36:38.370 --> 00:36:41.040
+three kilometers deep in the ocean.
+
+00:36:41.040 --> 00:36:42.253
+I can't even fathom.
+
+00:36:44.980 --> 00:36:47.160
+Okay, that's enough of the
+specs of these engines.
+
+00:36:47.160 --> 00:36:49.360
+Now, let's look at their
+operational considerations
+
+00:36:49.360 --> 00:36:51.530
+starting with their approximate cost.
+
+00:36:51.530 --> 00:36:53.912
+Now again this can be
+kind of hard to nail down,
+
+00:36:53.912 --> 00:36:55.840
+so these are the best estimates
+
+00:36:55.840 --> 00:36:57.000
+that I could come up with.
+
+00:36:57.000 --> 00:36:58.910
+These numbers do factor in inflation
+
+00:36:58.910 --> 00:37:00.830
+to make them all in
+today's dollars though.
+
+00:37:00.830 --> 00:37:02.440
+Let's go with the most expensive,
+
+00:37:02.440 --> 00:37:04.940
+and work our way down to
+the least expensive engine.
+
+00:37:04.940 --> 00:37:07.680
+The most expensive engine
+in the lineup is the RS-25
+
+00:37:07.680 --> 00:37:11.428
+which has a sticker price of
+over $50 million per engine.
+
+00:37:11.428 --> 00:37:12.960
+Yikes.
+
+00:37:12.960 --> 00:37:17.110
+Then we have the F-1 which was
+about $30 million per engine
+
+00:37:17.110 --> 00:37:20.490
+then the RD-180 which is
+$25 million per engine
+
+00:37:20.490 --> 00:37:24.150
+then the BE-4 which is
+around $8 million per engine.
+
+00:37:24.150 --> 00:37:26.540
+and for the Raptor Elan has mentioned
+
+00:37:26.540 --> 00:37:28.740
+he thinks he can produce
+the Raptor for cheaper than
+
+00:37:28.740 --> 00:37:30.610
+or close to the Merlin engine
+
+00:37:30.610 --> 00:37:32.351
+if they can remove a lot of the complexity
+
+00:37:32.351 --> 00:37:34.250
+that the current engine has.
+
+00:37:34.250 --> 00:37:36.780
+So for now we're gonna say $2 million
+
+00:37:36.780 --> 00:37:38.630
+is a pretty decent ballpark.
+
+00:37:38.630 --> 00:37:39.960
+Then we have the Merlin engine
+
+00:37:39.960 --> 00:37:42.860
+which is less than a million I think.
+
+00:37:42.860 --> 00:37:44.700
+Okay, well cost is one thing
+
+00:37:44.700 --> 00:37:47.380
+but another strong consideration
+for the cost of the engine
+
+00:37:47.380 --> 00:37:49.380
+is whether or not it's reusable.
+
+00:37:49.380 --> 00:37:53.625
+And here only the RD-180 and
+the F-1 were not reusable
+
+00:37:53.625 --> 00:37:55.900
+or at least never reused
+
+00:37:55.900 --> 00:37:57.808
+which is different than
+all these other engines
+
+00:37:57.808 --> 00:38:00.760
+which will all be reused multiple times.
+
+00:38:00.760 --> 00:38:03.000
+The RS-25 was reused over and over
+
+00:38:03.000 --> 00:38:05.900
+with the record being 19
+flights out of a single engine.
+
+00:38:05.900 --> 00:38:09.155
+Well then again that's after
+a few months of refurbishment.
+
+00:38:09.155 --> 00:38:11.890
+The Merlin is hoping
+to see up to 10 flights
+
+00:38:11.890 --> 00:38:13.220
+without major refurbishment.
+
+00:38:13.220 --> 00:38:16.860
+We know a design goal for
+the BE-4 is to be reused
+
+00:38:16.860 --> 00:38:18.120
+up to 25 times.
+
+00:38:18.120 --> 00:38:20.050
+And I think the Raptor engine hopes to see
+
+00:38:20.050 --> 00:38:24.400
+up to 50 flights but again
+aspirations are one thing.
+
+00:38:24.400 --> 00:38:26.770
+We'll see how history tweets its claims.
+
+00:38:26.770 --> 00:38:28.750
+But one quick fun little story here is
+
+00:38:28.750 --> 00:38:29.790
+don't forget the Merlin engine
+
+00:38:29.790 --> 00:38:31.050
+which SpaceX currently uses
+
+00:38:31.050 --> 00:38:32.700
+on the Falcon 9 and Falcon Heavy rockets
+
+00:38:32.700 --> 00:38:34.470
+are already fired a bunch of times
+
+00:38:34.470 --> 00:38:36.330
+before they even make it to the pad.
+
+00:38:36.330 --> 00:38:39.340
+Each engine that is built goes
+from Hawthorne, California
+
+00:38:39.340 --> 00:38:41.480
+to their test stand at McGregor, Texas,
+
+00:38:41.480 --> 00:38:43.400
+where it does a full duration burn
+
+00:38:43.400 --> 00:38:45.920
+then those engines go back to California
+
+00:38:45.920 --> 00:38:47.640
+where they're integrated onto the Octaweb
+
+00:38:47.640 --> 00:38:49.300
+which is at the base of the vehicle.
+
+00:38:49.300 --> 00:38:50.860
+Then they take the entire stage
+
+00:38:50.860 --> 00:38:52.420
+and they take it back out to McGregor
+
+00:38:52.420 --> 00:38:54.340
+for a full duration static fire.
+
+00:38:54.340 --> 00:38:57.390
+So it goes through the whole
+mission basically again.
+
+00:38:57.390 --> 00:38:58.800
+Then they ship it to the launch pad
+
+00:38:58.800 --> 00:39:00.400
+where does a short static fire
+
+00:39:00.400 --> 00:39:01.970
+and then it flies the mission.
+
+00:39:01.970 --> 00:39:04.270
+So it's already done like three missions
+
+00:39:04.270 --> 00:39:05.690
+in duration of firing
+
+00:39:05.690 --> 00:39:07.370
+by the time it flies for the first time
+
+00:39:07.370 --> 00:39:09.870
+so I'm not entirely
+sure what the most times
+
+00:39:09.870 --> 00:39:12.250
+a single engine has done
+a full duration burn.
+
+00:39:12.250 --> 00:39:14.610
+We know that some of the
+cores were set out on the pad
+
+00:39:14.610 --> 00:39:17.200
+and fired for a really
+really really long time
+
+00:39:17.200 --> 00:39:18.360
+multiple times over and over
+
+00:39:18.360 --> 00:39:21.380
+so I think they've probably
+done almost 10 flight
+
+00:39:21.380 --> 00:39:24.168
+full duration burns
+out of a single engine.
+
+00:39:24.168 --> 00:39:26.570
+But you know I have no doubt
+
+00:39:26.570 --> 00:39:27.750
+they can probably do that if they say.
+
+00:39:27.750 --> 00:39:29.190
+I mean they have more experience in this
+
+00:39:29.190 --> 00:39:30.480
+than anybody already
+
+00:39:30.480 --> 00:39:32.970
+reusing engines without
+really refurbishing them.
+
+00:39:32.970 --> 00:39:35.990
+So I'm gonna definitely
+take their word for it.
+
+00:39:35.990 --> 00:39:36.980
+On the topic of price
+
+00:39:36.980 --> 00:39:38.150
+there's actually some things here
+
+00:39:38.150 --> 00:39:39.480
+that start to get really interesting
+
+00:39:39.480 --> 00:39:40.990
+when we start looking at these numbers.
+
+00:39:40.990 --> 00:39:42.340
+The first is an interesting metric
+
+00:39:42.340 --> 00:39:44.943
+that Elan talked about once
+in a tweet in February of 2019
+
+00:39:44.943 --> 00:39:47.628
+saying they hope to make
+the Raptor get better
+
+00:39:47.628 --> 00:39:49.986
+at their thrust to dollar ratio.
+
+00:39:49.986 --> 00:39:52.130
+Now this is a really interesting concept
+
+00:39:52.130 --> 00:39:53.100
+when you think about it.
+
+00:39:53.100 --> 00:39:54.810
+Who cares how much an engine costs
+
+00:39:54.810 --> 00:39:57.414
+if one big engine is cheaper
+than two smaller ones
+
+00:39:57.414 --> 00:39:59.650
+for the same thrust or vice versa.
+
+00:39:59.650 --> 00:40:01.960
+So let's actually take a look
+
+00:40:01.960 --> 00:40:04.840
+at the dollar to kilonewton
+ratio of these engines.
+
+00:40:04.840 --> 00:40:06.060
+Starting with the most expensive
+
+00:40:06.060 --> 00:40:08.600
+dollar to kilonewton
+engine which is the RS-25
+
+00:40:08.600 --> 00:40:13.490
+at a crazy $26,881 to kilonewton of thrust
+
+00:40:13.490 --> 00:40:18.490
+then the RD-180 which is
+$6527 to one kilonewton
+
+00:40:19.170 --> 00:40:24.170
+followed by the F-1 at
+$4431 per kilonewton
+
+00:40:24.230 --> 00:40:29.080
+and then we get to the BE-4 which is $3333
+
+00:40:29.080 --> 00:40:30.040
+to one kilonewton,
+
+00:40:30.040 --> 00:40:33.180
+the Merlin engine at $1170 per kilonewton
+
+00:40:33.180 --> 00:40:36.640
+and the Raptor at around
+$1000 per kilonewton
+
+00:40:36.640 --> 00:40:39.220
+but now we can go even
+another step further
+
+00:40:39.220 --> 00:40:41.900
+since we know their
+dollar to kilonewton ratio
+
+00:40:41.900 --> 00:40:45.210
+but we also know their
+reusability potential.
+
+00:40:45.210 --> 00:40:46.150
+Now we can predict
+
+00:40:46.150 --> 00:40:48.863
+their potential costs
+per kilonewton per flight
+
+00:40:48.863 --> 00:40:51.160
+which changes based on how reusable
+
+00:40:51.160 --> 00:40:52.640
+these engines actually are.
+
+00:40:52.640 --> 00:40:53.897
+For start the RD-180
+
+00:40:53.897 --> 00:40:55.820
+and the F-1 aren't reusable.
+
+00:40:55.820 --> 00:40:57.400
+Their price stays the same
+
+00:40:57.400 --> 00:40:58.470
+but for the rest of the engines,
+
+00:40:58.470 --> 00:41:00.310
+if we take into account how many flights
+
+00:41:00.310 --> 00:41:01.923
+they have/will have
+
+00:41:01.923 --> 00:41:05.183
+now we start to see the
+RS-25 reusability pay off
+
+00:41:05.183 --> 00:41:08.810
+and kind of close the gap
+bringing its potential cost
+
+00:41:08.810 --> 00:41:13.243
+down to just $1414 per
+kilonewton per flight.
+
+00:41:13.243 --> 00:41:15.490
+But here's where things get crazy.
+
+00:41:15.490 --> 00:41:19.250
+Blue Origin's BE-4 has potential
+to truly be game changing
+
+00:41:19.250 --> 00:41:23.621
+at around $133 per
+kilonewton over 25 flights
+
+00:41:23.621 --> 00:41:26.010
+which could make it
+about as cheap to operate
+
+00:41:26.010 --> 00:41:30.160
+as the Merlin at $117 per
+kilonewton per flight.
+
+00:41:30.160 --> 00:41:33.150
+But if the Raptor engine
+truly lives up to its hype
+
+00:41:33.150 --> 00:41:34.470
+it could bring this number
+
+00:41:34.470 --> 00:41:38.395
+all the way down to $20 dollars
+per kilonewton per flight.
+
+00:41:38.395 --> 00:41:41.760
+Now that is absolutely game changing.
+
+00:41:41.760 --> 00:41:45.810
+Sure, money and reuseability
+is a 21st focus for spaceflight
+
+00:41:45.810 --> 00:41:48.642
+but whatever happened to
+good old proven reliability?
+
+00:41:48.642 --> 00:41:52.270
+For this let's first look at
+how many operational flights
+
+00:41:52.270 --> 00:41:53.550
+each engine has had.
+
+00:41:53.550 --> 00:41:55.800
+Now at the moment of shooting
+this video the Raptor
+
+00:41:55.800 --> 00:41:58.487
+and BE-4 haven't seen
+any operational flights
+
+00:41:58.487 --> 00:42:01.560
+although the Raptor is starting
+to leave the test stand
+
+00:42:01.560 --> 00:42:04.820
+and is being used on test
+vehicles like the Starhopper.
+
+00:42:04.820 --> 00:42:08.340
+But for now, neither engine
+has a real flight record.
+
+00:42:08.340 --> 00:42:09.770
+So let's look at the other engines.
+
+00:42:09.770 --> 00:42:13.410
+First we have the F-1 engine
+which was used on 17 flights.
+
+00:42:13.410 --> 00:42:16.490
+Next up is the Merlin engine
+which is at 71 flights
+
+00:42:16.490 --> 00:42:18.860
+and catching up quickly to the RD-180
+
+00:42:18.860 --> 00:42:20.740
+which is at 79 flights
+
+00:42:20.740 --> 00:42:23.040
+but the king out of these was the RS-25
+
+00:42:23.040 --> 00:42:25.530
+which saw 135 flights.
+
+00:42:25.530 --> 00:42:28.840
+Now lastly, how about
+reliability and service?
+
+00:42:28.840 --> 00:42:31.300
+Between the number of
+flights and this number
+
+00:42:31.300 --> 00:42:32.530
+we can get a pretty good sense
+
+00:42:32.530 --> 00:42:34.932
+of how truly reliable an engine is.
+
+00:42:34.932 --> 00:42:37.670
+This number is really
+hard to just pin down
+
+00:42:37.670 --> 00:42:40.410
+since some of the engines
+may have shut down early
+
+00:42:40.410 --> 00:42:42.700
+but the mission was still a
+success on a few of these.
+
+00:42:42.700 --> 00:42:45.780
+So take a few of these
+with a grain of salt.
+
+00:42:45.780 --> 00:42:48.680
+Again the BE-4 and Raptor
+engine haven't flown yet.
+
+00:42:48.680 --> 00:42:50.794
+So those numbers are unavailable.
+
+00:42:50.794 --> 00:42:52.970
+Then we have the space shuttle main engine
+
+00:42:52.970 --> 00:42:56.201
+which is over 99.5% reliable
+
+00:42:56.201 --> 00:42:58.010
+but that gets hard to define
+
+00:42:58.010 --> 00:43:00.305
+when an engine doesn't fully shut down.
+
+00:43:00.305 --> 00:43:04.047
+And then we have the
+Merlin at 99.9% reliable.
+
+00:43:04.047 --> 00:43:06.440
+It sure helps when you have 10 engines
+
+00:43:06.440 --> 00:43:07.800
+on each flight of the vehicle
+
+00:43:07.800 --> 00:43:10.600
+and with only one engine ever failing
+
+00:43:10.600 --> 00:43:12.250
+early on in its career,
+
+00:43:12.250 --> 00:43:14.951
+and despite that that
+mission was still a success.
+
+00:43:14.951 --> 00:43:17.613
+The Merlin is a very reliable engine.
+
+00:43:17.613 --> 00:43:20.640
+Now to end this technically the RD-180
+
+00:43:20.640 --> 00:43:23.494
+and the F-1 are 100% reliable
+
+00:43:23.494 --> 00:43:27.070
+but with the F-1 never
+having shut down at all
+
+00:43:27.070 --> 00:43:29.324
+in any flight, it gets the bold here.
+
+00:43:29.324 --> 00:43:32.789
+And depending on how you
+define success and reliability
+
+00:43:32.789 --> 00:43:37.789
+technically the RD-180 is
+only kind of 100% reliable
+
+00:43:38.100 --> 00:43:40.370
+because it got really lucky ones.
+
+00:43:40.370 --> 00:43:42.960
+One time it shut down six seconds early
+
+00:43:42.960 --> 00:43:45.710
+on an Atlas 5 mission in 2016.
+
+00:43:45.710 --> 00:43:47.680
+This was due to a faulty valve
+
+00:43:47.680 --> 00:43:49.730
+but the mission went on to be a success
+
+00:43:49.730 --> 00:43:52.960
+because of some pure luck
+with the center upper stage
+
+00:43:52.960 --> 00:43:54.810
+having enough spare Delta V
+
+00:43:54.810 --> 00:43:56.070
+to carry out the mission.
+
+00:43:56.070 --> 00:43:58.962
+Had that valve failed
+even a second earlier
+
+00:43:58.962 --> 00:44:01.809
+that mission would have failed.
+
+00:44:01.809 --> 00:44:04.559
+(dramatic music)
+
+00:44:08.220 --> 00:44:10.160
+Seeing all these numbers
+and considerations,
+
+00:44:10.160 --> 00:44:12.590
+it makes you realize
+just how many variables
+
+00:44:12.590 --> 00:44:14.580
+go into designing a rocket.
+
+00:44:14.580 --> 00:44:16.180
+Change any one little thing
+
+00:44:16.180 --> 00:44:18.160
+and it can have this massive ripple effect
+
+00:44:18.160 --> 00:44:19.740
+on the entire design
+
+00:44:19.740 --> 00:44:21.840
+and the implementation of
+the vehicle as a whole.
+
+00:44:21.840 --> 00:44:23.570
+So let's go back over all of this.
+
+00:44:23.570 --> 00:44:25.860
+Now that we know all
+the cycles, the fuels,
+
+00:44:25.860 --> 00:44:28.610
+the aspirations of SpaceX
+to see if we can figure out
+
+00:44:28.610 --> 00:44:30.860
+why the Raptor engine exists
+
+00:44:30.860 --> 00:44:33.020
+and figure out if it's
+worth all the effort.
+
+00:44:33.020 --> 00:44:35.510
+Let's look at SpaceX's ultimate plan.
+
+00:44:35.510 --> 00:44:38.380
+Make a rapidly and fully reusable vehicle
+
+00:44:38.380 --> 00:44:40.250
+capable of sending humans to the Moon
+
+00:44:40.250 --> 00:44:42.130
+and Mars as inexpensively
+
+00:44:42.130 --> 00:44:43.543
+and routinely as possible.
+
+00:44:44.450 --> 00:44:46.865
+Not exactly your everyday
+goal for a rocket, huh?
+
+00:44:46.865 --> 00:44:48.520
+In order to be rapidly
+
+00:44:48.520 --> 00:44:51.210
+and fully reusable the
+engine needs to run clean
+
+00:44:51.210 --> 00:44:54.291
+and require low maintenance
+with simple turbo pump seals
+
+00:44:54.291 --> 00:44:56.932
+and low preburner temperatures.
+
+00:44:56.932 --> 00:45:01.080
+A methane fueled full flow
+staged combustion cycle engine
+
+00:45:01.080 --> 00:45:02.250
+sounds like a good fit.
+
+00:45:02.250 --> 00:45:04.000
+For reliability, redundancy,
+
+00:45:04.000 --> 00:45:06.010
+and scale of manufacturing considerations
+
+00:45:06.010 --> 00:45:08.930
+it makes sense to employ a lot of engines.
+
+00:45:08.930 --> 00:45:10.680
+In order to scale an engine down
+
+00:45:10.680 --> 00:45:12.470
+but maintain a high output
+
+00:45:12.470 --> 00:45:14.433
+chamber pressure needs to be high.
+
+00:45:15.330 --> 00:45:17.620
+Sounds like a methane fueled full flow
+
+00:45:17.620 --> 00:45:19.220
+staged combustion cycle engine
+
+00:45:19.220 --> 00:45:20.160
+is a good fit.
+
+00:45:20.160 --> 00:45:21.510
+For interplanetary trips
+
+00:45:21.510 --> 00:45:22.760
+methane makes the most sense
+
+00:45:22.760 --> 00:45:24.880
+because its boiling point makes it usable
+
+00:45:24.880 --> 00:45:26.730
+on long duration trips to Mars
+
+00:45:26.730 --> 00:45:27.900
+which guess what?
+
+00:45:27.900 --> 00:45:29.670
+You can produce methane on Mars.
+
+00:45:29.670 --> 00:45:33.710
+So for interplanetary trips
+a methane fueled full flow
+
+00:45:33.710 --> 00:45:36.520
+staged combustion cycle
+engine sounds like a good fit.
+
+00:45:36.520 --> 00:45:37.990
+Methane is fairly dense
+
+00:45:37.990 --> 00:45:40.060
+meaning the tank size remains reasonable.
+
+00:45:40.060 --> 00:45:42.240
+Which again is good for
+interplanetary trips
+
+00:45:42.240 --> 00:45:45.510
+not needing to lug around
+a lot of dead weight
+
+00:45:45.510 --> 00:45:48.641
+making a methane fueled full
+flow staged combustion cycle
+
+00:45:48.641 --> 00:45:50.320
+a pretty good fit.
+
+00:45:50.320 --> 00:45:52.871
+Okay so let's bring this
+all back around now.
+
+00:45:52.871 --> 00:45:57.300
+Is the Raptor engine really
+the king of rocket engines?
+
+00:45:57.300 --> 00:46:00.040
+Well rocket science like all things
+
+00:46:00.040 --> 00:46:02.219
+is a complex series of compromises.
+
+00:46:02.219 --> 00:46:04.329
+Is it the most efficient engine?
+
+00:46:04.329 --> 00:46:05.640
+No.
+
+00:46:05.640 --> 00:46:07.730
+Is it the most powerful engine?
+
+00:46:07.730 --> 00:46:08.563
+No.
+
+00:46:08.563 --> 00:46:09.630
+Is it the cheapest engine?
+
+00:46:09.630 --> 00:46:10.700
+Probably not.
+
+00:46:10.700 --> 00:46:12.480
+Is it the most reusable engine?
+
+00:46:12.480 --> 00:46:13.313
+Maybe.
+
+00:46:13.313 --> 00:46:15.560
+But does it do everything really well?
+
+00:46:15.560 --> 00:46:18.340
+Yeah it is truly a Goldilocks engine
+
+00:46:18.340 --> 00:46:21.520
+doing everything it needs
+to do very very well.
+
+00:46:21.520 --> 00:46:24.990
+It is the perfect fit for
+your interplanetary spaceship
+
+00:46:24.990 --> 00:46:26.424
+and despite its complexity
+
+00:46:26.424 --> 00:46:29.600
+SpaceX is developing this
+engine at a rapid pace.
+
+00:46:29.600 --> 00:46:31.790
+I mean knowing how much
+tweaking SpaceX did
+
+00:46:31.790 --> 00:46:33.800
+to their Merlin engine over a decade,
+
+00:46:33.800 --> 00:46:36.193
+we're just at the infancy
+of the Raptor engine.
+
+00:46:36.193 --> 00:46:38.420
+It's only gonna get
+better from here on out,
+
+00:46:38.420 --> 00:46:40.320
+which is crazy.
+
+00:46:40.320 --> 00:46:42.410
+So all in all the Raptor engine
+
+00:46:42.410 --> 00:46:45.380
+is the king of this application.
+
+00:46:45.380 --> 00:46:48.140
+It's a fantastic engine
+to fulfill SpaceX's goals
+
+00:46:48.140 --> 00:46:49.740
+for their starship vehicle.
+
+00:46:49.740 --> 00:46:52.119
+Would it be the king
+of other applications?
+
+00:46:52.119 --> 00:46:54.160
+Maybe, maybe not.
+
+00:46:54.160 --> 00:46:55.730
+And only that decision for the
+
+00:46:55.730 --> 00:46:58.080
+rocket scientists and
+engineers who get to make
+
+00:46:58.080 --> 00:47:00.360
+all those crazy decisions
+every single day.
+
+00:47:00.360 --> 00:47:01.610
+So what do you think?
+
+00:47:01.610 --> 00:47:03.010
+Is it worth all this hassle
+
+00:47:03.010 --> 00:47:05.142
+to develop such a crazy
+and complex engine?
+
+00:47:05.142 --> 00:47:07.946
+Is this just the beginning
+for the Raptor engine?
+
+00:47:07.946 --> 00:47:09.248
+And most importantly,
+
+00:47:09.248 --> 00:47:12.948
+is the Raptor engine really
+the king of rocket engines?
+
+00:47:12.948 --> 00:47:15.140
+Let me know your thoughts
+in the comments below.
+
+00:47:15.140 --> 00:47:16.530
+Okay I know I say this every video,
+
+00:47:16.530 --> 00:47:18.410
+but I honestly could
+not have done this video
+
+00:47:18.410 --> 00:47:20.237
+without the help of my Patreon supporters.
+
+00:47:20.237 --> 00:47:23.550
+They not only kept me sane
+for the past five months
+
+00:47:23.550 --> 00:47:24.383
+as I worked on this video
+
+00:47:24.383 --> 00:47:26.262
+but they also went over
+all the data with me.
+
+00:47:26.262 --> 00:47:28.190
+They give me great feedback
+
+00:47:28.190 --> 00:47:29.926
+and suggestions in the
+edits of this video.
+
+00:47:29.926 --> 00:47:32.460
+I you want to help support what I do
+
+00:47:32.460 --> 00:47:34.210
+or provide feedback in videos
+
+00:47:34.210 --> 00:47:35.610
+or help scripting research
+
+00:47:35.610 --> 00:47:36.500
+or if you just want to hang out
+
+00:47:36.500 --> 00:47:37.333
+and talk space
+
+00:47:37.333 --> 00:47:39.120
+consider joining our
+exclusive Discord channel
+
+00:47:39.120 --> 00:47:40.050
+and our exclusive subreddit
+
+00:47:40.050 --> 00:47:41.560
+by becoming a Patreon member
+
+00:47:41.560 --> 00:47:44.233
+by going to Patreon.com/everydayastronaut.
+
+00:47:45.220 --> 00:47:46.053
+Thank you guys.
+
+00:47:46.053 --> 00:47:47.670
+Seriously, I couldn't have made this video
+
+00:47:47.670 --> 00:47:48.503
+without you.
+
+00:47:48.503 --> 00:47:49.336
+And while you're online,
+
+00:47:49.336 --> 00:47:50.470
+be sure and check out my web store.
+
+00:47:50.470 --> 00:47:52.210
+Seriously, I have really cool things
+
+00:47:52.210 --> 00:47:53.399
+like these F-1 T-shirts,
+
+00:47:53.399 --> 00:47:55.022
+tons of other shirts.
+
+00:47:55.022 --> 00:47:56.770
+There's lots of new merchandise
+
+00:47:56.770 --> 00:47:58.180
+popping up in there all the time
+
+00:47:58.180 --> 00:47:59.500
+so check back often.
+
+00:47:59.500 --> 00:48:00.333
+We have things like
+
+00:48:00.333 --> 00:48:01.360
+grid fin not-a-coasters
+
+00:48:01.360 --> 00:48:03.405
+and hats and shirts and mugs and prints,
+
+00:48:03.405 --> 00:48:06.390
+just literally tons of cool rocket stuff.
+
+00:48:06.390 --> 00:48:07.690
+So if that's your type of thing,
+
+00:48:07.690 --> 00:48:08.816
+be sure and check out my web store
+
+00:48:08.816 --> 00:48:10.850
+everydayastronaut.com/shop
+
+00:48:10.850 --> 00:48:12.230
+and then click on the music tab
+
+00:48:12.230 --> 00:48:13.720
+if you want to check out any of the songs
+
+00:48:13.720 --> 00:48:14.580
+used in this video.
+
+00:48:14.580 --> 00:48:16.463
+It's all music that I've
+written over the years
+
+00:48:16.463 --> 00:48:19.103
+(mumbles) Apple, iTunes and Spotify
+
+00:48:19.103 --> 00:48:20.889
+and Google Music, all that stuff,
+
+00:48:20.889 --> 00:48:23.411
+and also there's a playlist
+right here on YouTube
+
+00:48:23.411 --> 00:48:25.700
+for music video versions
+of it too as well,
+
+00:48:25.700 --> 00:48:27.643
+which is a fun way to watch and listen.
+
+00:48:27.643 --> 00:48:28.984
+So show it to a friend.
+
+00:48:28.984 --> 00:48:30.410
+Thanks everybody.
+
+00:48:30.410 --> 00:48:31.370
+That's gonna do it for me.
+
+00:48:31.370 --> 00:48:33.200
+I'm Tim Dodd, the Everyday Astronaut
+
+00:48:33.200 --> 00:48:34.916
+bringing space down to
+earth for everyday people.
+
+00:48:34.916 --> 00:48:37.333
+(exit music)
+

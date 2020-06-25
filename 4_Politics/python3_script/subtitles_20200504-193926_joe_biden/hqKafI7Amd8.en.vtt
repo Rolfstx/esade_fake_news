@@ -1,0 +1,1126 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:07.000
+ Translated by: Rik Delaet Checked by: Christel Foncke 
+
+00:00:11.861 --> 00:00:15.587
+ So this is a hotel room, just like the one I stay in. 
+
+00:00:15.587 --> 00:00:17.731
+ Sometimes I get bored. 
+
+00:00:17.731 --> 00:00:21.158
+ Such a room does not offer much entertainment. 
+
+00:00:21.158 --> 00:00:25.687
+ But for a hacker, she's a bit interesting, 
+
+00:00:25.687 --> 00:00:28.136
+ because that television is different from the home, 
+
+00:00:28.136 --> 00:00:31.058
+ it is a node on a network. 
+
+00:00:31.058 --> 00:00:33.442
+ That means I can mess with it. 
+
+00:00:33.442 --> 00:00:37.024
+ I plug a small device like this into my computer. 
+
+00:00:37.024 --> 00:00:40.359
+ It is an infrared transmitter-receiver with which I can send the codes 
+
+00:00:40.359 --> 00:00:43.524
+ that the TV remote can transmit and some other codes. 
+
+00:00:43.524 --> 00:00:47.128
+ Well, then I can watch movies for free. 
+
+00:00:47.277 --> 00:00:49.275
+ (Laughter) 
+
+00:00:49.275 --> 00:00:53.681
+ That doesn't really matter to me, but I can also play video games. 
+
+00:00:54.749 --> 00:00:57.734
+ Hey, but what is this? 
+
+00:00:57.935 --> 00:01:01.010
+ Not only can I do this for my TV in my hotel room, 
+
+00:01:01.010 --> 00:01:03.822
+ I can also control the TV in your hotel room. 
+
+00:01:03.822 --> 00:01:05.006
+ (Laughter) 
+
+00:01:05.006 --> 00:01:07.906
+ So I can see what you are looking at, 
+
+00:01:07.906 --> 00:01:10.892
+ you know, that data on your TV 
+
+00:01:10.892 --> 00:01:13.512
+ when you surf the web on your hotel TV. 
+
+00:01:13.512 --> 00:01:16.224
+ I can see you doing it. 
+
+00:01:17.182 --> 00:01:19.983
+ Sometimes it is very interesting. 
+
+00:01:19.983 --> 00:01:22.374
+ Transfer of funds. 
+
+00:01:22.712 --> 00:01:25.830
+ Really large payment traffic. 
+
+00:01:25.830 --> 00:01:28.041
+ You never know what people want to do 
+
+00:01:28.041 --> 00:01:31.528
+ while surfing the web from their hotel room. 
+
+00:01:31.892 --> 00:01:34.633
+ (Laughter) 
+
+00:01:34.633 --> 00:01:38.122
+ The point is I can tell if you're watching Disney or porn tonight. 
+
+00:01:38.122 --> 00:01:40.451
+ Is there anyone else in the Affinia hotel here? 
+
+00:01:40.451 --> 00:01:42.614
+ (Laughter) 
+
+00:01:42.614 --> 00:01:46.502
+ This is a project I worked on when we were trying to figure it out 
+
+00:01:46.502 --> 00:01:49.292
+ what about the security of wireless networks. 
+
+00:01:49.292 --> 00:01:50.446
+ It is called the 'Hackerbot'. 
+
+00:01:50.446 --> 00:01:54.007
+ This is a robot we built to find WiFi users. 
+
+00:01:54.007 --> 00:01:57.358
+ He drives over to them and shows them their passwords on the screen. 
+
+00:01:57.358 --> 00:02:00.621
+ (Laughter) 
+
+00:02:00.621 --> 00:02:02.572
+ We just wanted to build a robot, 
+
+00:02:02.572 --> 00:02:05.143
+ but we didn't know what to let him do, so - 
+
+00:02:05.143 --> 00:02:07.338
+ we made it a gun version. 
+
+00:02:07.338 --> 00:02:09.131
+ This is called the 'Sniper Yagi'. 
+
+00:02:09.131 --> 00:02:11.890
+ He sniffs long-distance passwords. 
+
+00:02:11.890 --> 00:02:14.669
+ I can see your wireless network from a mile away. 
+
+00:02:14.669 --> 00:02:16.728
+ This is a project I did with Ben Laurie 
+
+00:02:16.728 --> 00:02:19.308
+ worked to demonstrate passive surveillance. 
+
+00:02:19.308 --> 00:02:22.171
+ This is a map of the conference 
+
+00:02:22.171 --> 00:02:24.427
+ Computers, Freedom and Privacy. 
+
+00:02:24.427 --> 00:02:28.774
+ This conference took place in a hotel, and we placed 
+
+00:02:28.774 --> 00:02:31.346
+ a computer in every room 
+
+00:02:31.346 --> 00:02:33.284
+ which recorded all bluetooth traffic. 
+
+00:02:33.284 --> 00:02:36.376
+ We were able to hear telephone and laptop traffic from everyone 
+
+00:02:36.376 --> 00:02:38.667
+ record and correlate, 
+
+00:02:38.667 --> 00:02:42.198
+ and then I could make such a card for everyone at the conference. 
+
+00:02:42.198 --> 00:02:45.541
+ This is Kim Cameron, the Chief Privacy Architect at Microsoft. 
+
+00:02:45.541 --> 00:02:46.468
+ (Laughter) 
+
+00:02:46.468 --> 00:02:49.139
+ Without knowing it, 
+
+00:02:49.139 --> 00:02:52.880
+ I could see where he went everywhere 
+
+00:02:52.880 --> 00:02:55.220
+ and correlate with who he was, 
+
+00:02:55.220 --> 00:02:56.023
+ (dial phone) 
+
+00:02:56.023 --> 00:02:57.522
+ when he was bored, 
+
+00:02:57.522 --> 00:02:59.210
+ (dial phone) 
+
+00:02:59.210 --> 00:03:00.521
+ hangs out in the lobby. 
+
+00:03:00.521 --> 00:03:02.964
+ Does anyone here use a cell phone? 
+
+00:03:02.964 --> 00:03:04.616
+ (Laughter) 
+
+00:03:04.616 --> 00:03:08.488
+ (Telephone rings) 
+
+00:03:08.488 --> 00:03:12.459
+ My phone is ringing - 
+
+00:03:12.459 --> 00:03:17.401
+ (ringing) 
+
+00:03:17.401 --> 00:03:19.429
+ rings - 
+
+00:03:23.593 --> 00:03:25.769
+ Voice mail: You have 100 messages. 
+
+00:03:25.769 --> 00:03:27.586
+ Palbos Holman: Oh, oh! 
+
+00:03:27.586 --> 00:03:29.744
+ VM: First unheard message - 
+
+00:03:29.744 --> 00:03:31.086
+ PH: Where should I press - 
+
+00:03:31.086 --> 00:03:33.687
+ VM: Message skipped. First skipped message. 
+
+00:03:33.687 --> 00:03:34.603
+ PH: Oh, oh! 
+
+00:03:34.603 --> 00:03:38.133
+ VM: Main menu: to listen - You pressed the wrong key - 
+
+00:03:38.133 --> 00:03:41.463
+ You have two skipped messages. Three saved messages. 
+
+00:03:41.463 --> 00:03:42.583
+ Farewell. 
+
+00:03:42.583 --> 00:03:46.264
+ PH: Oh, oh! We are in Brad's voicemail. 
+
+00:03:46.543 --> 00:03:47.994
+ (Laughter) 
+
+00:03:47.994 --> 00:03:50.240
+ I wanted to record a new message for him, 
+
+00:03:50.240 --> 00:03:52.953
+ but I seem to have pressed an invalid key, 
+
+00:03:52.953 --> 00:03:54.323
+ so we continue. 
+
+00:03:54.323 --> 00:03:57.963
+ I'll explain later because we don't have much time. 
+
+00:03:57.963 --> 00:04:00.114
+ Does anyone here use MySpace? 
+
+00:04:00.114 --> 00:04:01.745
+ MySpace users? Oh! 
+
+00:04:01.745 --> 00:04:05.111
+ Was popular once. It's kind of like Facebook. 
+
+00:04:05.111 --> 00:04:08.663
+ Our friend Samy tried to meet sweethearts on MySpace 
+
+00:04:08.663 --> 00:04:10.824
+ - I think it used to be before. 
+
+00:04:10.824 --> 00:04:15.514
+ He created a page on MySpace for himself. 
+
+00:04:16.241 --> 00:04:19.075
+ It made a list of all your friends, and you knew that 
+
+00:04:19.075 --> 00:04:22.031
+ if someone was cool because they had a lot of friends on MySpace. 
+
+00:04:22.031 --> 00:04:23.852
+ Samy had no friends. 
+
+00:04:23.852 --> 00:04:27.743
+ He wrote a little Javascript code that he put in his page, 
+
+00:04:27.743 --> 00:04:29.585
+ so that when you looked at his page 
+
+00:04:29.585 --> 00:04:32.028
+ you were simply added 'automagically' as a friend. 
+
+00:04:32.028 --> 00:04:35.369
+ And it skipped the entire recognition protocol 
+
+00:04:35.369 --> 00:04:37.703
+ that asked, "Is Samy really your friend?" 
+
+00:04:37.703 --> 00:04:40.939
+ But then it copied that code to your page, 
+
+00:04:40.939 --> 00:04:43.045
+ so that when someone looked at your page 
+
+00:04:43.045 --> 00:04:45.856
+ who automatically also became Samy's friend. 
+
+00:04:45.856 --> 00:04:46.925
+ (Laughter) 
+
+00:04:46.925 --> 00:04:50.514
+ And it customized your page by saying, "Samy is your hero." 
+
+00:04:50.514 --> 00:04:52.023
+ (Laughter) 
+
+00:04:52.023 --> 00:04:56.442
+ In less than 24 hours, Samy had over a million friends on MySpace. 
+
+00:04:56.442 --> 00:04:58.615
+ (Laughter) 
+
+00:04:58.615 --> 00:05:03.415
+ His three years of probation have just ended. 
+
+00:05:03.553 --> 00:05:05.446
+ (Laughter) 
+
+00:05:05.446 --> 00:05:09.209
+ Even better, Christopher Abad, this guy, another hacker, did even better. 
+
+00:05:09.209 --> 00:05:12.319
+ He also tried to get sweethearts through MySpace, 
+
+00:05:12.319 --> 00:05:13.782
+ but with uneven results. 
+
+00:05:13.782 --> 00:05:15.653
+ Sometimes these dates were disappointing, 
+
+00:05:15.653 --> 00:05:19.678
+ so Abad wrote a little piece of code 
+
+00:05:19.678 --> 00:05:25.602
+ to connect MySpace to SpamAssassin, an open source spam filter. 
+
+00:05:25.602 --> 00:05:28.045
+ It works just like the spam filter in your email. 
+
+00:05:28.045 --> 00:05:30.280
+ You train it by giving up some spam, 
+
+00:05:30.280 --> 00:05:32.722
+ also some legitimate email, 
+
+00:05:32.722 --> 00:05:35.149
+ and it tries to deal with artificial intelligence 
+
+00:05:35.149 --> 00:05:37.270
+ work out the difference. Yes? 
+
+00:05:37.270 --> 00:05:39.280
+ Well, he dropped girls' profiles 
+
+00:05:39.280 --> 00:05:41.262
+ who he met and liked, 
+
+00:05:41.262 --> 00:05:43.088
+ treat it as legitimate email. 
+
+00:05:43.088 --> 00:05:45.478
+ Profiles of girls he didn't like, 
+
+00:05:45.478 --> 00:05:46.745
+ were considered spam. 
+
+00:05:46.745 --> 00:05:50.347
+ And he applied that to every profile on MySpace. 
+
+00:05:50.347 --> 00:05:52.923
+ (Laughter) 
+
+00:05:52.923 --> 00:05:56.818
+ Girls you might like to meet up with come out. 
+
+00:05:56.818 --> 00:05:59.326
+ Three things can be said about Abad. 
+
+00:05:59.326 --> 00:06:02.531
+ Why do we need Match.com when we can have spam dating? 
+
+00:06:02.531 --> 00:06:05.105
+ You know this is innovation. 
+
+00:06:05.105 --> 00:06:07.461
+ He had a problem and found a solution. 
+
+00:06:07.461 --> 00:06:08.623
+ Is someone using 
+
+00:06:08.623 --> 00:06:09.483
+ - bleep - 
+
+00:06:09.483 --> 00:06:12.053
+ this kind of key to open his car remotely? 
+
+00:06:12.053 --> 00:06:16.421
+ They're popular in, well, maybe not Chicago, okay. 
+
+00:06:16.779 --> 00:06:19.929
+ Today, young people drive past a Walmart parking lot 
+
+00:06:19.929 --> 00:06:22.183
+ and click open, open, open, bloep. 
+
+00:06:22.183 --> 00:06:25.690
+ In the end you will find another Jetta or whatever just like yours, 
+
+00:06:25.690 --> 00:06:29.555
+ maybe a different color, which has the same key code. 
+
+00:06:29.714 --> 00:06:31.321
+ And they run away with it. 
+
+00:06:31.321 --> 00:06:34.182
+ Your insurance company will shift the debt on you, 
+
+00:06:34.182 --> 00:06:35.854
+ because there is no evidence of burglary. 
+
+00:06:35.854 --> 00:06:39.626
+ For a manufacturer, we figured out how to manipulate that key 
+
+00:06:39.626 --> 00:06:43.373
+ so that he got every car from that manufacturer open. 
+
+00:06:43.373 --> 00:06:44.659
+ (Laughter) 
+
+00:06:44.659 --> 00:06:48.510
+ I could tell you more about this, but I hardly have time, 
+
+00:06:48.510 --> 00:06:52.184
+ because your car or phone are now also PCs, 
+
+00:06:52.184 --> 00:06:55.723
+ and maybe your toaster soon. 
+
+00:06:55.723 --> 00:06:57.757
+ I'm not joking. 
+
+00:06:57.757 --> 00:07:00.192
+ When that happens, 
+
+00:07:00.192 --> 00:07:04.342
+ you have to deal with all the security problems of PCs. 
+
+00:07:04.342 --> 00:07:06.462
+ And there are many. 
+
+00:07:06.462 --> 00:07:09.262
+ Keep that in mind, we'll get to it. 
+
+00:07:09.262 --> 00:07:12.575
+ Does anyone have such a lock on their front door? 
+
+00:07:12.575 --> 00:07:14.528
+ Okay. 
+
+00:07:14.528 --> 00:07:15.895
+ Me too. 
+
+00:07:15.895 --> 00:07:17.205
+ This is a Schlage lock. 
+
+00:07:17.205 --> 00:07:19.800
+ It sits on half of the front doors in America. 
+
+00:07:19.800 --> 00:07:23.240
+ I brought one. 
+
+00:07:23.240 --> 00:07:25.437
+ This is my Schlage lock. 
+
+00:07:25.437 --> 00:07:30.413
+ This is a key that fits in the lock but is filed incorrectly, so it does not turn. 
+
+00:07:30.413 --> 00:07:34.702
+ Has anyone here ever tried to open locks with something like this? 
+
+00:07:34.702 --> 00:07:39.207
+ Okay, some nasty slot toddlers. 
+
+00:07:39.893 --> 00:07:41.994
+ Well it is for children with OCD. 
+
+00:07:41.994 --> 00:07:44.615
+ You have to put them in and pick them out. 
+
+00:07:44.615 --> 00:07:48.193
+ It takes hours to be handy enough to manipulate the pins. 
+
+00:07:48.193 --> 00:07:51.177
+ There is an easier way for ADD children at home. 
+
+00:07:51.177 --> 00:07:53.376
+ I put my little magic key here, 
+
+00:07:53.376 --> 00:07:55.126
+ With a little pressure I turn it over, 
+
+00:07:55.126 --> 00:07:55.917
+ (to knock) 
+
+00:07:55.917 --> 00:07:59.253
+ tap it a few times with this special mallet 
+
+00:07:59.253 --> 00:08:02.322
+ and just opened the lock. We're in there. 
+
+00:08:03.312 --> 00:08:05.094
+ It's easy. 
+
+00:08:05.094 --> 00:08:08.309
+ In fact, I don't really know much more about it than you do. 
+
+00:08:08.309 --> 00:08:09.897
+ It's really, really easy. 
+
+00:08:09.897 --> 00:08:12.748
+ I made a key ring with the same type of key 
+
+00:08:12.748 --> 00:08:14.508
+ for every lock in America. 
+
+00:08:14.508 --> 00:08:19.442
+ And for those interested I bought a key machine 
+
+00:08:19.442 --> 00:08:22.510
+ to make such a key for all of you. 
+
+00:08:22.510 --> 00:08:23.710
+ (Laughter) 
+
+00:08:23.710 --> 00:08:25.134
+ (Applause) 
+
+00:08:25.134 --> 00:08:28.256
+ As a gift for you. Come later and I'll show you 
+
+00:08:28.256 --> 00:08:30.609
+ how to force a lock and give you such a key 
+
+00:08:30.609 --> 00:08:32.628
+ to test it at your door at home. 
+
+00:08:32.628 --> 00:08:35.663
+ Does anyone use these USB drives? 
+
+00:08:35.663 --> 00:08:39.378
+ Yes, print my Word document, yes! 
+
+00:08:39.378 --> 00:08:41.703
+ They are very popular. 
+
+00:08:41.703 --> 00:08:43.833
+ Mine works a bit like yours. 
+
+00:08:43.833 --> 00:08:46.259
+ You can print my Word document for me. 
+
+00:08:46.259 --> 00:08:47.859
+ But while you do that, 
+
+00:08:47.859 --> 00:08:50.935
+ makes it invisible and magically in the background 
+
+00:08:50.935 --> 00:08:54.056
+ just a handy backup of your 'My Documents' folder, 
+
+00:08:54.056 --> 00:08:58.132
+ your browser history, cookies, your registration and password database 
+
+00:08:58.132 --> 00:09:00.782
+ and all the things you could ever need 
+
+00:09:00.782 --> 00:09:01.986
+ if you have a problem. 
+
+00:09:01.986 --> 00:09:03.936
+ We enjoy making such things 
+
+00:09:03.936 --> 00:09:06.183
+ and leave them lying around at conferences. 
+
+00:09:06.183 --> 00:09:09.758
+ (Laughter) 
+
+00:09:09.758 --> 00:09:11.977
+ Does anyone here use credit cards? 
+
+00:09:11.977 --> 00:09:13.145
+ (Laughter) 
+
+00:09:13.145 --> 00:09:14.435
+ Oh well! 
+
+00:09:14.435 --> 00:09:17.956
+ Yes, they are popular and extremely safe. 
+
+00:09:17.956 --> 00:09:19.210
+ (Laughter) 
+
+00:09:19.210 --> 00:09:21.996
+ New credit cards have been sent 
+
+00:09:21.996 --> 00:09:25.768
+ with a letter explaining that it is your new "Secure credit card". 
+
+00:09:25.768 --> 00:09:27.004
+ Does anyone already have them? 
+
+00:09:27.004 --> 00:09:31.593
+ You know she's safe because it contains a chip, an RFID tag. 
+
+00:09:31.593 --> 00:09:34.792
+ You can use them for Taxicabs and at Starbucks, 
+
+00:09:34.792 --> 00:09:35.792
+ I brought one, 
+
+00:09:35.792 --> 00:09:37.956
+ you just have to touch the reader. 
+
+00:09:37.956 --> 00:09:39.969
+ Has anyone ever seen it? 
+
+00:09:39.969 --> 00:09:42.451
+ Okay, who has one? 
+
+00:09:44.151 --> 00:09:45.960
+ Bring them here. 
+
+00:09:45.960 --> 00:09:47.910
+ (Laughter) 
+
+00:09:47.910 --> 00:09:50.616
+ There is a price for you. 
+
+00:09:50.616 --> 00:09:53.772
+ I just want to show what we found out about it. 
+
+00:09:53.772 --> 00:09:55.663
+ I received this credit card by post. 
+
+00:09:55.663 --> 00:09:57.709
+ I really need some volunteers. 
+
+00:09:57.709 --> 00:10:01.517
+ I need one, two, three, four, five volunteers because the winners 
+
+00:10:01.517 --> 00:10:04.181
+ get this amazing stainless steel wallet 
+
+00:10:04.181 --> 00:10:08.270
+ that protects you from the problem, you guessed it, I'm going to show. 
+
+00:10:08.270 --> 00:10:10.670
+ Bring your credit card and I'll show you. 
+
+00:10:10.670 --> 00:10:14.158
+ I want to try it with one of these great new credit cards. 
+
+00:10:14.158 --> 00:10:15.670
+ Okay. 
+
+00:10:18.796 --> 00:10:21.258
+ We have a conference organizer, 
+
+00:10:21.258 --> 00:10:23.872
+ someone who can force people to cooperate? 
+
+00:10:23.872 --> 00:10:24.825
+ (Laughter) 
+
+00:10:24.825 --> 00:10:28.583
+ It's because you want it yourself, because - 
+
+00:10:29.573 --> 00:10:32.708
+ now the demo is going to be really great. 
+
+00:10:32.708 --> 00:10:34.490
+ You've never seen this - 
+
+00:10:34.490 --> 00:10:35.564
+ (Inaudible question) 
+
+00:10:35.564 --> 00:10:37.092
+ What? 
+
+00:10:37.092 --> 00:10:40.626
+ They are really cool stainless steel wallets. 
+
+00:10:41.133 --> 00:10:44.867
+ Ever seen code on the screen at TED? 
+
+00:10:44.867 --> 00:10:47.001
+ Yes, this is quite special. 
+
+00:10:47.001 --> 00:10:49.808
+ (Laughter) 
+
+00:10:51.528 --> 00:10:53.432
+ Great, I have volunteers. 
+
+00:10:53.432 --> 00:10:56.590
+ Who has such a great credit card? 
+
+00:10:57.790 --> 00:10:59.282
+ Okay, here we go. 
+
+00:10:59.282 --> 00:11:01.506
+ I'm going to communicate your credit card number 
+
+00:11:01.506 --> 00:11:03.890
+ to only 350 close friends. 
+
+00:11:03.890 --> 00:11:06.194
+ Do you hear the beep? 
+
+00:11:06.194 --> 00:11:08.780
+ That means someone is hacking your credit card. 
+
+00:11:08.780 --> 00:11:10.107
+ Okay, what do we have now? 
+
+00:11:10.107 --> 00:11:14.623
+ Valued customer, card number and expiration date. 
+
+00:11:14.623 --> 00:11:18.916
+ It turns out that your safe new credit card is not that safe. 
+
+00:11:19.332 --> 00:11:21.664
+ Anyone else wanting to try it while you're here? 
+
+00:11:21.664 --> 00:11:24.053
+ Man: Can you install overdraft protection? 
+
+00:11:24.053 --> 00:11:26.172
+ PH: Beep, let's see what we have? 
+
+00:11:26.172 --> 00:11:28.842
+ We objected and AMEX changed it. 
+
+00:11:28.842 --> 00:11:31.146
+ so that the name is no longer visible. 
+
+00:11:31.146 --> 00:11:33.353
+ That is progress. 
+
+00:11:33.353 --> 00:11:37.043
+ You can see mine when it is shown. 
+
+00:11:37.043 --> 00:11:40.702
+ Yes, my name can be seen on it. That's what my mom calls me. 
+
+00:11:40.702 --> 00:11:43.395
+ Yours doesn't have it. 
+
+00:11:44.365 --> 00:11:48.530
+ Either way, next time you get something in the mail 
+
+00:11:48.530 --> 00:11:51.957
+ that says it's safe, send it to me. 
+
+00:11:51.957 --> 00:11:54.582
+ (Laughter) 
+
+00:11:55.754 --> 00:11:59.046
+ Oh wait, one of these is empty, hold on. 
+
+00:12:00.856 --> 00:12:03.459
+ I think it's this, yep, here it goes. 
+
+00:12:03.459 --> 00:12:05.422
+ You get the disassembled. 
+
+00:12:05.422 --> 00:12:06.829
+ Okay, cool. 
+
+00:12:06.829 --> 00:12:10.351
+ (Applause) 
+
+00:12:10.351 --> 00:12:14.094
+ I have a few minutes left, I'm going to tell you something. 
+
+00:12:14.094 --> 00:12:15.025
+ (Laughter) 
+
+00:12:15.025 --> 00:12:15.926
+ Oh shit. 
+
+00:12:15.926 --> 00:12:17.670
+ [I'm crazy] 
+
+00:12:17.670 --> 00:12:19.289
+ That's my secret message. 
+
+00:12:19.289 --> 00:12:20.719
+ It should have been much faster. 
+
+00:12:20.749 --> 00:12:25.209
+ Here is the most exciting slide ever shown at TED. 
+
+00:12:25.209 --> 00:12:27.502
+ This is the protocol diagram for SSL, 
+
+00:12:27.502 --> 00:12:29.613
+ the encryption system in your web browser. 
+
+00:12:29.613 --> 00:12:33.704
+ It protects your credit card when you send them to Amazon and so on. 
+
+00:12:33.704 --> 00:12:35.871
+ Very exciting, I know, but the point is 
+
+00:12:35.871 --> 00:12:39.173
+ that hackers will attack every point in this protocol, right? 
+
+00:12:39.173 --> 00:12:42.795
+ I'm going to send two responses when the server expects one. 
+
+00:12:42.795 --> 00:12:45.664
+ I'm going to send a zero when he expects a one. 
+
+00:12:45.664 --> 00:12:48.506
+ I'm going to send twice as much data as expected. 
+
+00:12:48.506 --> 00:12:51.384
+ I'm going to answer twice as long as expected. 
+
+00:12:51.384 --> 00:12:54.406
+ Try a lot of things and see where it breaks 
+
+00:12:54.406 --> 00:12:56.218
+ and wait to see what falls into my lap. 
+
+00:12:56.218 --> 00:13:00.872
+ If I find such a hole, I can look for a vulnerability. 
+
+00:13:00.872 --> 00:13:03.240
+ This is a bit more as SSL looks 
+
+00:13:03.240 --> 00:13:04.990
+ very boring for hackers. 
+
+00:13:06.110 --> 00:13:10.747
+ This little guy kills a million Africans every year. 
+
+00:13:11.031 --> 00:13:14.791
+ It is the Anopheles stephensi mosquito, carrier of malaria. 
+
+00:13:15.738 --> 00:13:17.788
+ Is this the wrong talk? 
+
+00:13:17.788 --> 00:13:19.403
+ (Laughter) 
+
+00:13:19.403 --> 00:13:23.258
+ This is a protocol diagram for malaria. 
+
+00:13:23.892 --> 00:13:27.477
+ We attack this protocol in our lab 
+
+00:13:27.477 --> 00:13:29.241
+ at every possible point. 
+
+00:13:29.241 --> 00:13:32.878
+ It has a very complicated life cycle that I will not go into right now, 
+
+00:13:32.878 --> 00:13:36.227
+ but it spends some time in humans and some time in mosquitoes. 
+
+00:13:36.227 --> 00:13:39.467
+ For that I need hackers. 
+
+00:13:39.467 --> 00:13:43.508
+ Because hackers have a mind out to explore, 
+
+00:13:43.614 --> 00:13:47.407
+ that is optimized to look for opportunities. 
+
+00:13:47.407 --> 00:13:49.805
+ I often illustrate this as follows. 
+
+00:13:49.805 --> 00:13:54.676
+ You have a new gadget and show it to your mother. 
+
+00:13:55.455 --> 00:13:59.245
+ Maybe she says, "What's this doing?" And you, "Mom, it's a phone." 
+
+00:13:59.245 --> 00:14:02.566
+ And she immediately knows exactly what it is for. 
+
+00:14:02.566 --> 00:14:05.085
+ But a hacker asks other questions. 
+
+00:14:05.085 --> 00:14:08.909
+ "What can I get this thing to do?" 
+
+00:14:09.102 --> 00:14:12.029
+ I take out all the screws, take the back off 
+
+00:14:12.029 --> 00:14:13.984
+ and break it into many small pieces 
+
+00:14:13.984 --> 00:14:17.343
+ and then figure out what I can make with that mess. 
+
+00:14:17.343 --> 00:14:21.299
+ That is discovery. We need that in science and technology 
+
+00:14:21.299 --> 00:14:23.439
+ to find the possibilities. 
+
+00:14:23.439 --> 00:14:26.818
+ In the lab I try to apply that way of thinking 
+
+00:14:26.818 --> 00:14:29.843
+ on some of the biggest problems people have. 
+
+00:14:29.843 --> 00:14:34.152
+ We are working on malaria at the request of Bill Gates. 
+
+00:14:34.152 --> 00:14:36.863
+ That is how we tried to solve malaria. 
+
+00:14:36.863 --> 00:14:39.070
+ This is a real 1940s ad. 
+
+00:14:39.070 --> 00:14:43.205
+ We eradicated malaria in the US by spraying DDT everywhere. 
+
+00:14:44.455 --> 00:14:48.505
+ In the lab, we work hard to understand the problem. 
+
+00:14:48.505 --> 00:14:53.658
+ This is a high-speed video, we have a boulder from a video camera 
+
+00:14:53.658 --> 00:14:56.293
+ to learn how mosquitoes fly. 
+
+00:14:56.293 --> 00:14:58.931
+ You can see that they swim in the air earlier. 
+
+00:14:58.931 --> 00:15:01.299
+ We actually have no idea how they fly. 
+
+00:15:01.299 --> 00:15:03.740
+ But we have a nice video camera, so we - 
+
+00:15:03.740 --> 00:15:05.534
+ (Laughter) 
+
+00:15:05.534 --> 00:15:08.535
+ Yes, it costs more than a Ferrari. 
+
+00:15:08.535 --> 00:15:12.395
+ In any case, we found a number of ways to get rid of mosquitoes. 
+
+00:15:12.395 --> 00:15:14.807
+ We fire them with laser beams. 
+
+00:15:14.807 --> 00:15:19.318
+ You get this if you have all kinds of scientists 
+
+00:15:19.318 --> 00:15:21.318
+ and put a laser nerd together in a room. 
+
+00:15:21.318 --> 00:15:25.237
+ At first people thought it was funny, 
+
+00:15:25.237 --> 00:15:30.076
+ but we found out we could build this with regular electronics. 
+
+00:15:30.076 --> 00:15:33.390
+ With the CCD of a webcam, 
+
+00:15:33.390 --> 00:15:36.590
+ the laser of a Blu-ray burner, 
+
+00:15:36.590 --> 00:15:40.212
+ the laser galvo comes from a laser printer. 
+
+00:15:40.212 --> 00:15:43.220
+ We do motion detection on a GPU processor 
+
+00:15:43.220 --> 00:15:45.414
+ as you find it in a video game system. 
+
+00:15:45.414 --> 00:15:47.613
+ All things that follow Moore's law. 
+
+00:15:47.613 --> 00:15:50.228
+ So it is not going to be too expensive. 
+
+00:15:50.228 --> 00:15:52.466
+ We want these laser systems 
+
+00:15:52.466 --> 00:15:56.317
+ around a building or village 
+
+00:15:56.317 --> 00:15:59.507
+ and just shoot all the mosquitoes that come at the people. 
+
+00:15:59.507 --> 00:16:02.800
+ And we would like to do that for your backyard. 
+
+00:16:02.800 --> 00:16:04.763
+ We could also start protecting crops. 
+
+00:16:04.763 --> 00:16:06.489
+ Our team is now investigating 
+
+00:16:06.489 --> 00:16:09.725
+ what they need to do the same 
+
+00:16:09.725 --> 00:16:12.899
+ for the plague that is about two-thirds 
+
+00:16:12.899 --> 00:16:16.477
+ of the orange plantations in Florida. 
+
+00:16:18.102 --> 00:16:20.719
+ People first laughed at it. 
+
+00:16:20.719 --> 00:16:23.441
+ This is a video of our system at work. 
+
+00:16:23.441 --> 00:16:26.119
+ We follow the mosquitoes as they fly around. 
+
+00:16:26.119 --> 00:16:28.622
+ Those visors come from our computer. 
+
+00:16:28.622 --> 00:16:30.713
+ It looks at them, sees them move 
+
+00:16:30.713 --> 00:16:34.217
+ and then point a laser at it to measure their wing beat frequency. 
+
+00:16:34.217 --> 00:16:37.424
+ That reveals which mosquito it is. 
+
+00:16:37.424 --> 00:16:40.325
+ An Anopheles stephensi? A female? 
+
+00:16:40.325 --> 00:16:44.912
+ And if so, she'll get a deadly laser shot. 
+
+00:16:44.912 --> 00:16:46.981
+ (Laughter) 
+
+00:16:46.981 --> 00:16:48.753
+ This works in a lab. 
+
+00:16:48.753 --> 00:16:51.879
+ Now we are going to test it in the field. 
+
+00:16:51.879 --> 00:16:54.735
+ All this is done in the Intellectual Ventures Lab 
+
+00:16:54.735 --> 00:16:56.425
+ in Seattle where I work. 
+
+00:16:56.425 --> 00:16:59.356
+ We try some of the most difficult problems 
+
+00:16:59.356 --> 00:17:01.626
+ that people have to deal with. 
+
+00:17:01.626 --> 00:17:03.468
+ This is the crucial shot. 
+
+00:17:03.468 --> 00:17:07.171
+ We just burn off his wing with a UV laser. 
+
+00:17:07.171 --> 00:17:08.848
+ He's not coming back. 
+
+00:17:08.848 --> 00:17:12.071
+ (Applause) 
+
+00:17:12.071 --> 00:17:15.874
+ His wing just evaporated. 
+
+00:17:15.874 --> 00:17:18.636
+ They love it. I mean, you know. 
+
+00:17:18.636 --> 00:17:20.769
+ Never received a call from PETA or anyone else. 
+
+00:17:20.769 --> 00:17:23.226
+ I mean it's the perfect enemy. 
+
+00:17:23.226 --> 00:17:26.378
+ There is simply no one who comes to the rescue of mosquitoes. 
+
+00:17:26.378 --> 00:17:29.660
+ Sometimes we exaggerate. 
+
+00:17:29.660 --> 00:17:32.093
+ Anyway, I'm leaving now. 
+
+00:17:32.093 --> 00:17:35.141
+ This is the Intellectual Ventures Lab where I work. 
+
+00:17:35.141 --> 00:17:38.565
+ In principle, we use any kind of scientist 
+
+00:17:38.565 --> 00:17:42.185
+ and every tool in the world to develop crazy inventions. 
+
+00:17:42.185 --> 00:17:43.537
+ Thanks. 
+
+00:17:43.537 --> 00:17:47.265
+ (Applause) 
+
