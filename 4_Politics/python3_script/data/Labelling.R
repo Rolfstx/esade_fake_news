@@ -2,10 +2,10 @@ library(data.table)
 
 #load dataset
 #unique video dataset or all videos dataset
-df = fread("~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/videos/20200504-193926_joe_biden_recommendations.csv")
+#df = fread("~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/videos/20200504-193926_joe_biden_recommendations.csv")
 df[, 'V1':=NULL]
 
-#df = fread("~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/videos/20200504-193926_joe_biden.csv")
+df = fread("~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/20200504-193926_joe_biden.csv")
 
 #groupby genre and count number of videos
 genre = df[, .N, by='genre']
@@ -21,10 +21,10 @@ genre_channel = merge(genre,
                       suffixes= c('.video', '.channel'))[order(-N.video)]
 
 #export genre_channel. Then label relevant genres with 1 in excel
-#write.csv(genre_channel, "~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/genre/20200504-193926_joe_biden_genre_channel.csv", row.names=FALSE)
+#write.csv(genre_channel, "~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/genre/20200504-193926_joe_biden_genre_channel2.csv", row.names=FALSE)
 
 #import genre_channel with added relevant column
-genre_relevant = fread("~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/genre/20200504-193926_joe_biden_genre_channel.csv")
+genre_relevant = fread("~/Documents/GitHub/esade_fake_news/4_Politics/python3_script/data/genre/20200504-193926_joe_biden_genre_channel2.csv")
 
 #merge datasets to obtain relevant videos.
 df2 = merge(df, 
