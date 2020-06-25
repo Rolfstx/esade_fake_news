@@ -1,0 +1,1272 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.201 --> 00:00:05.104
+We have a very exciting
+last talk coming up.
+
+00:00:05.205 --> 00:00:08.775
+Dario Gil will take us
+into a quantum world.
+
+00:00:08.875 --> 00:00:11.611
+Dario is the Vice President
+of Science and Solutions
+
+00:00:11.711 --> 00:00:16.182
+at IBM research, where he
+leads over 1,500 engineers that
+
+00:00:16.282 --> 00:00:19.418
+are researching in technologies
+and physics, math, health
+
+00:00:19.518 --> 00:00:22.354
+care, life sciences and others.
+
+00:00:22.454 --> 00:00:24.057
+And while some of
+you will think,
+
+00:00:24.157 --> 00:00:26.525
+a quantum world,
+that's too far out,
+
+00:00:26.625 --> 00:00:28.694
+I'm very sure Dario
+will tell us otherwise.
+
+00:00:28.794 --> 00:00:30.863
+So come up here
+on stage, please.
+
+00:00:30.964 --> 00:00:32.798
+Thank you.
+
+00:00:32.899 --> 00:00:34.767
+Thank you.
+
+00:00:34.867 --> 00:00:37.870
+I was joking with
+Mark that we couldn't
+
+00:00:37.970 --> 00:00:41.608
+pick an easier topic to end
+the day, on quantum computing.
+
+00:00:41.708 --> 00:00:45.344
+But I'll try to make it
+entertaining, and hopefully
+
+00:00:45.444 --> 00:00:48.681
+easy to understand.
+
+00:00:48.781 --> 00:00:52.051
+I'm going to start
+with a reference
+
+00:00:52.151 --> 00:00:54.520
+to this term of beautiful ideas.
+
+00:00:54.621 --> 00:00:58.458
+And it came from hosting
+a filmmaker about a year
+
+00:00:58.558 --> 00:01:01.961
+and a half ago, in the
+laboratory I just showed you.
+
+00:01:02.061 --> 00:01:05.598
+At the TGA Watson Research
+Center in Yorktown Heights.
+
+00:01:05.698 --> 00:01:08.101
+And he was a filmmaker
+that directed
+
+00:01:08.201 --> 00:01:10.770
+this documentary called
+Particle Fever, that I don't
+
+00:01:10.870 --> 00:01:12.871
+know if you've had
+a chance to watch,
+
+00:01:12.971 --> 00:01:15.040
+but I highly recommend it.
+
+00:01:15.140 --> 00:01:17.810
+It's about the team
+that was pursuing
+
+00:01:17.911 --> 00:01:19.345
+the discovery of
+the Higgs boson,
+
+00:01:19.445 --> 00:01:22.515
+in the largest physics
+experiment ever conducted.
+
+00:01:22.615 --> 00:01:24.517
+And a major
+character in the film
+
+00:01:24.617 --> 00:01:27.253
+is a professor from Stanford.
+
+00:01:27.353 --> 00:01:28.620
+And at the beginning
+of the film,
+
+00:01:28.721 --> 00:01:31.191
+he said something that
+really captivated me.
+
+00:01:31.291 --> 00:01:35.461
+He said, "The thing that
+differentiates scientists is
+
+00:01:35.561 --> 00:01:41.133
+a purely artistic ability to
+discern what is a good idea,
+
+00:01:41.233 --> 00:01:44.837
+what is a beautiful idea,
+what is worth spending time
+
+00:01:44.937 --> 00:01:48.774
+on, and most importantly,
+what is a problem that is
+
+00:01:48.874 --> 00:01:53.045
+sufficiently interesting,
+yet sufficiently difficult,
+
+00:01:53.145 --> 00:01:57.617
+that it hasn't yet been solved,
+but the time for solving it has
+
+00:01:57.717 --> 00:01:59.685
+come now." "
+
+00:01:59.785 --> 00:02:04.090
+So I want to tell you about
+this beautiful idea, whose time
+
+00:02:04.190 --> 00:02:06.993
+for solving it has come now.
+
+00:02:07.093 --> 00:02:11.363
+And that is the possibility
+to create quantum computers.
+
+00:02:11.463 --> 00:02:13.366
+If you look at how
+we have created
+
+00:02:13.466 --> 00:02:16.602
+the basis of the
+information revolution,
+
+00:02:16.703 --> 00:02:19.705
+and you trace it back to
+other beautiful ideas,
+
+00:02:19.805 --> 00:02:21.908
+like what Shannon
+taught us, to think
+
+00:02:22.008 --> 00:02:23.943
+about the world of
+information abstractly.
+
+00:02:24.043 --> 00:02:28.380
+If you look at an old
+punch card and DNA,
+
+00:02:28.480 --> 00:02:31.985
+we've come to appreciate that
+both carry something in common.
+
+00:02:32.085 --> 00:02:34.086
+They carry information.
+
+00:02:34.186 --> 00:02:37.390
+And Shannon told us
+that this world of bits
+
+00:02:37.490 --> 00:02:41.694
+could be decoupled from its
+physical implementation.
+
+00:02:41.794 --> 00:02:43.196
+That was really interesting.
+
+00:02:43.296 --> 00:02:47.133
+But in fundamental
+ways, it went too far.
+
+00:02:47.233 --> 00:02:50.235
+Leaving too much physics out.
+
+00:02:50.335 --> 00:02:57.110
+So here is two scientists that
+work at IBM Research, Charlie
+
+00:02:57.210 --> 00:03:00.880
+Bennett on the right, continues
+to work in our laboratory,
+
+00:03:00.980 --> 00:03:02.548
+And is an IBM fellow.
+
+00:03:02.648 --> 00:03:06.652
+And they asked the
+question, at the time,
+
+00:03:06.752 --> 00:03:11.057
+of is there a fundamental
+limit to how efficient
+
+00:03:11.157 --> 00:03:14.893
+number crunching can
+be, computing can be?
+
+00:03:14.994 --> 00:03:17.730
+And when they asked that
+question as physicists,
+
+00:03:17.830 --> 00:03:20.699
+they ended up with a
+very surprising answer.
+
+00:03:20.799 --> 00:03:22.402
+And they found the
+answer to be no.
+
+00:03:22.502 --> 00:03:25.638
+It turns out, that
+number crunching can be
+
+00:03:25.738 --> 00:03:28.074
+thermodynamically reversible.
+
+00:03:28.174 --> 00:03:31.444
+These led to an
+exploration of, what
+
+00:03:31.544 --> 00:03:34.680
+is the relationship between
+physics and information?
+
+00:03:34.780 --> 00:03:36.315
+And there was a
+now-famous conference
+
+00:03:36.415 --> 00:03:39.084
+that was jointly organized
+between IBM research and MIT
+
+00:03:39.184 --> 00:03:42.588
+at Endicott house,
+where this topic was
+
+00:03:42.688 --> 00:03:43.956
+explored in more detail.
+
+00:03:44.056 --> 00:03:48.828
+And the plenary speaker was
+none other than Richard Feynman.
+
+00:03:48.928 --> 00:03:53.198
+And Feynman proposed
+in that conference,
+
+00:03:53.298 --> 00:03:55.601
+that if you wanted
+to simulate nature,
+
+00:03:55.701 --> 00:03:59.171
+we should build a
+quantum computer.
+
+00:03:59.271 --> 00:04:01.640
+And I'm gonna explain
+you what that means,
+
+00:04:01.740 --> 00:04:04.910
+and how it's created, and the
+problems that it will solve.
+
+00:04:05.010 --> 00:04:08.781
+But first I've got to tell you,
+what is a fundamental idea?
+
+00:04:08.881 --> 00:04:10.716
+The fundamental
+idea, just like we
+
+00:04:10.816 --> 00:04:12.618
+have bits in the
+classical world, that
+
+00:04:12.718 --> 00:04:15.488
+can be a zero or a one.
+
+00:04:15.588 --> 00:04:19.058
+In a quantum computer,
+you have qubits,
+
+00:04:19.158 --> 00:04:22.962
+which stands for quantum bits.
+
+00:04:23.062 --> 00:04:24.496
+Now, the difference
+is that there
+
+00:04:24.597 --> 00:04:29.568
+can be a zero, a one, or
+both at the same time.
+
+00:04:29.669 --> 00:04:32.405
+That exploits a principle
+of quantum physics
+
+00:04:32.505 --> 00:04:34.239
+called superposition.
+
+00:04:34.340 --> 00:04:39.445
+And it sounds weird and
+crazy, but it's true.
+
+00:04:39.545 --> 00:04:44.350
+Now to give you this unease that
+you should feel when you talk
+
+00:04:44.450 --> 00:04:47.086
+about quantum information,
+and quantum computing,
+
+00:04:47.186 --> 00:04:49.555
+I'm gonna give you a
+very simple example.
+
+00:04:49.655 --> 00:04:52.925
+A thought experiment that
+also happens to be true.
+
+00:04:53.025 --> 00:04:56.028
+So let's imagine that we're
+going to solve this problem.
+
+00:04:56.128 --> 00:04:58.263
+The problem involves,
+you have four cards,
+
+00:04:58.363 --> 00:05:02.034
+three are identical, one is
+different, one is a queen.
+
+00:05:02.134 --> 00:05:06.672
+We shuffle the cards, and
+we put them face down.
+
+00:05:06.773 --> 00:05:09.308
+And the problem we're
+going to solve together,
+
+00:05:09.408 --> 00:05:12.077
+is find the queen.
+
+00:05:12.178 --> 00:05:14.179
+We're going to be
+assisted by two computers.
+
+00:05:14.279 --> 00:05:18.918
+One is a classical computer,
+one is a quantum computer.
+
+00:05:19.018 --> 00:05:21.287
+So what we do, is
+we turn them down,
+
+00:05:21.387 --> 00:05:24.023
+and we load them into memory.
+
+00:05:24.123 --> 00:05:27.560
+So we use four memory slots.
+
+00:05:27.660 --> 00:05:29.995
+The cards are
+identical, we put zeros.
+
+00:05:30.095 --> 00:05:32.164
+The one that has a
+queen, we put a one.
+
+00:05:32.265 --> 00:05:34.233
+So in our four slots, we
+will have three zeros,
+
+00:05:34.333 --> 00:05:36.201
+and one is a one.
+
+00:05:36.301 --> 00:05:38.337
+We load them on
+the two computers.
+
+00:05:38.437 --> 00:05:42.741
+Now we has to write a program
+to find the queen, find the one.
+
+00:05:42.841 --> 00:05:45.945
+How would it be
+done classically?
+
+00:05:46.045 --> 00:05:48.047
+You would go and
+pick a random number,
+
+00:05:48.147 --> 00:05:49.548
+you don't know where it is.
+
+00:05:49.648 --> 00:05:52.384
+You go look under that memory
+slot, see if it's a one,
+
+00:05:52.484 --> 00:05:54.887
+if not, you go to the next
+slot, and so on, and so on.
+
+00:05:54.987 --> 00:05:57.757
+On average, it would take you
+the equivalent of 2 and 1/2
+
+00:05:57.857 --> 00:06:00.659
+turns to find it.
+
+00:06:00.759 --> 00:06:03.362
+It turns out, that with
+a two-qubit quantum
+
+00:06:03.462 --> 00:06:05.898
+computer for this
+problem, you can always
+
+00:06:05.998 --> 00:06:07.567
+solve it in one shot.
+
+00:06:11.070 --> 00:06:14.473
+So that uneasy feeling
+that you have now,
+
+00:06:14.573 --> 00:06:19.344
+should be an explanation that
+quantum computer is not just
+
+00:06:19.445 --> 00:06:21.580
+about building a
+faster computer.
+
+00:06:21.681 --> 00:06:24.217
+It is building something
+that is fundamentally
+
+00:06:24.317 --> 00:06:26.352
+different than a
+classical computer.
+
+00:06:29.822 --> 00:06:33.926
+Now, a way to think about
+it, an abstraction of it,
+
+00:06:34.026 --> 00:06:36.562
+is that a quantum
+computer is always
+
+00:06:36.662 --> 00:06:40.265
+going to have a classical
+computer next to it.
+
+00:06:40.365 --> 00:06:42.501
+They have to go together.
+
+00:06:42.601 --> 00:06:46.372
+So you have a classical
+set of bits, right?
+
+00:06:46.472 --> 00:06:48.974
+The problem that you're
+trying to explore.
+
+00:06:49.074 --> 00:06:51.577
+And what that quantum computer's
+gonna allow you to do,
+
+00:06:51.677 --> 00:06:54.646
+is to explore these
+exponential number of states.
+
+00:06:54.746 --> 00:06:59.218
+These 2 to the n, where n is a
+number of qubits that you have.
+
+00:06:59.318 --> 00:07:01.987
+So now, we have relatively
+small quantum computers,
+
+00:07:02.087 --> 00:07:03.288
+with few qubits.
+
+00:07:03.389 --> 00:07:05.490
+But just think of the
+number, that by the time
+
+00:07:05.591 --> 00:07:09.862
+you have 50 qubits, you
+have 2 to the 50 states.
+
+00:07:09.962 --> 00:07:12.732
+That's a phenomenally
+large number.
+
+00:07:12.832 --> 00:07:15.567
+But in the end, after you
+explore these number of states,
+
+00:07:15.667 --> 00:07:18.437
+you go back to a
+classical output.
+
+00:07:18.538 --> 00:07:21.207
+A string of zeros and
+ones, that you interpret
+
+00:07:21.307 --> 00:07:23.943
+with a normal computer.
+
+00:07:24.043 --> 00:07:25.777
+So why is this interesting?
+
+00:07:25.877 --> 00:07:27.713
+And I think in this
+audience, I don't
+
+00:07:27.813 --> 00:07:31.150
+need to explain in
+great detail, you know,
+
+00:07:31.250 --> 00:07:33.185
+what exponentials mean,
+and why 2 to the 50
+
+00:07:33.285 --> 00:07:34.920
+is a very large number.
+
+00:07:35.021 --> 00:07:37.289
+But it's still, I think
+it's an interesting way
+
+00:07:37.389 --> 00:07:39.391
+to communicate
+the power of this,
+
+00:07:39.491 --> 00:07:41.827
+and I like to map
+it to some problems.
+
+00:07:41.928 --> 00:07:44.697
+But I like to go after
+this apocryphal story
+
+00:07:44.797 --> 00:07:46.832
+that actually, IBM
+used in the 1960s
+
+00:07:46.933 --> 00:07:49.402
+to explain to people the
+power of exponentials.
+
+00:07:49.502 --> 00:07:51.770
+And it had to do
+with the person who
+
+00:07:51.870 --> 00:07:55.140
+invented chess, that goes
+to the emperor, and says,
+
+00:07:55.240 --> 00:07:57.276
+well here's his wonderful game.
+
+00:07:57.376 --> 00:08:00.713
+And asks, what do
+you want in return?
+
+00:08:00.813 --> 00:08:03.516
+And the person who
+invented it says,
+
+00:08:03.616 --> 00:08:05.651
+give me a grain of
+rice on the first day,
+
+00:08:05.751 --> 00:08:08.153
+for the first square,
+and the second day
+
+00:08:08.253 --> 00:08:09.855
+you give me twice as much.
+
+00:08:09.955 --> 00:08:14.059
+And on the third square, third
+day, you give me twice as much
+
+00:08:14.159 --> 00:08:15.428
+as the day before.
+
+00:08:15.528 --> 00:08:17.997
+And the emperor agrees
+promptly that that
+
+00:08:18.097 --> 00:08:19.732
+seems quite reasonable.
+
+00:08:19.832 --> 00:08:24.670
+And after a week you
+only have 127 grains.
+
+00:08:24.770 --> 00:08:27.439
+After a month,
+you have more rice
+
+00:08:27.539 --> 00:08:29.908
+then you'll eat in your
+lifetime, for sure.
+
+00:08:30.008 --> 00:08:33.545
+But just by the time you get
+to the end of the chessboard,
+
+00:08:33.645 --> 00:08:37.516
+you have more rice
+than Mount Everest.
+
+00:08:37.616 --> 00:08:42.688
+So there are a large
+number of problems
+
+00:08:42.788 --> 00:08:45.558
+in the world that have this
+characteristic, that they
+
+00:08:45.658 --> 00:08:47.926
+blow up exponentially.
+
+00:08:48.027 --> 00:08:50.296
+And a dirty secret in
+the world of computing
+
+00:08:50.396 --> 00:08:52.665
+is that we obviously talk
+a lot about all the things
+
+00:08:52.765 --> 00:08:56.268
+that computers can solve, and
+can solve a lot of things.
+
+00:08:56.368 --> 00:08:58.070
+But then, there's
+a lot of things
+
+00:08:58.170 --> 00:09:00.205
+that computers can not solve.
+
+00:09:00.305 --> 00:09:05.711
+And very interestingly, they
+cannot solve it now, nor ever.
+
+00:09:05.811 --> 00:09:09.414
+And the reason is because they
+have this exponential built
+
+00:09:09.515 --> 00:09:11.217
+into them.
+
+00:09:11.317 --> 00:09:16.988
+So take as an example, this
+fairly simple equation.
+
+00:09:17.089 --> 00:09:19.191
+Factoring.
+
+00:09:19.291 --> 00:09:22.627
+So if I have a number,
+M, that is made out
+
+00:09:22.728 --> 00:09:26.865
+of the multiplication of
+two large prime numbers.
+
+00:09:26.965 --> 00:09:31.870
+And I only give you M, and
+I ask you find me p and q.
+
+00:09:31.970 --> 00:09:34.873
+It turns out, that that
+is phenomenally difficult
+
+00:09:34.974 --> 00:09:36.241
+to solve.
+
+00:09:36.341 --> 00:09:38.077
+There's no other way but to
+divide it sort of sequentially,
+
+00:09:38.177 --> 00:09:40.045
+by prime numbers.
+
+00:09:40.146 --> 00:09:42.347
+So in fact, it's
+so difficult, we
+
+00:09:42.447 --> 00:09:46.185
+use it as the basis
+of all encryption.
+
+00:09:46.285 --> 00:09:49.988
+But, if you had a very large
+universal fault-tolerant
+
+00:09:50.088 --> 00:09:52.792
+quantum computer, which
+is many, many years away,
+
+00:09:52.892 --> 00:09:55.094
+you could solve that
+problem in seconds,
+
+00:09:55.194 --> 00:09:58.830
+what would take billions of
+years in a classical computer.
+
+00:09:58.931 --> 00:10:01.767
+That tells you something
+about the power of what
+
+00:10:01.867 --> 00:10:05.070
+is going to be possible.
+
+00:10:05.170 --> 00:10:07.206
+Take chemistry, as a problem.
+
+00:10:07.306 --> 00:10:09.708
+Because it also has
+this characteristic,
+
+00:10:09.808 --> 00:10:13.545
+that it blows up exponentially,
+if you try to calculate it.
+
+00:10:13.645 --> 00:10:16.348
+This equation that you see
+here is very interesting,
+
+00:10:16.449 --> 00:10:19.585
+because it's predicted
+to occur at the ocean
+
+00:10:19.685 --> 00:10:23.555
+floor near volcanic
+sites, and famously
+
+00:10:23.655 --> 00:10:27.926
+has been hypothesized to be the
+basis of the formation of life
+
+00:10:28.027 --> 00:10:29.761
+on Earth.
+
+00:10:29.862 --> 00:10:33.365
+But if you take a molecule
+like iron sulfide,
+
+00:10:33.465 --> 00:10:36.101
+and you try to do relatively
+simple calculations
+
+00:10:36.201 --> 00:10:39.004
+with a normal
+machine, it turns out,
+
+00:10:39.104 --> 00:10:41.907
+that we're not very accurate.
+
+00:10:42.007 --> 00:10:44.510
+And the reason is
+that molecules form
+
+00:10:44.610 --> 00:10:47.847
+when electron orbitals
+overlap, and the calculation
+
+00:10:47.947 --> 00:10:52.117
+of each orbital requires a
+quantum mechanical calculation.
+
+00:10:52.217 --> 00:10:54.520
+So for that simple
+molecule, you have
+
+00:10:54.620 --> 00:10:59.058
+on the order of 76 orbitals,
+and two to the power of 76,
+
+00:10:59.158 --> 00:11:01.726
+is intractable with a classical
+computer, so we can not
+
+00:11:01.827 --> 00:11:04.129
+solve it.
+
+00:11:04.229 --> 00:11:07.466
+Again, on this theme of our
+assumptions that computers
+
+00:11:07.566 --> 00:11:10.135
+solve everything,
+but they don't.
+
+00:11:10.235 --> 00:11:12.571
+If you look at calculating
+for example, the bond
+
+00:11:12.671 --> 00:11:15.741
+length of a simple molecule
+like calcium monoflouride,
+
+00:11:15.841 --> 00:11:18.411
+we still get it off
+by a factor of two,
+
+00:11:18.511 --> 00:11:22.814
+even using the largest
+supercomputers in the world.
+
+00:11:22.914 --> 00:11:24.517
+To me, this has been
+very interesting,
+
+00:11:24.617 --> 00:11:28.287
+this recognition of all these
+problems we cannot solve.
+
+00:11:28.387 --> 00:11:31.457
+It's also true in
+optimization problems, that
+
+00:11:31.557 --> 00:11:35.060
+are the basis of
+logistics and routing,
+
+00:11:35.160 --> 00:11:36.962
+and you know,
+portfolio optimisation.
+
+00:11:37.062 --> 00:11:40.465
+There's tons and tons of
+problems in which at best we
+
+00:11:40.566 --> 00:11:43.102
+do approximations, but
+we're far from optimal,
+
+00:11:43.202 --> 00:11:45.304
+because a number of
+possibilities is enormous.
+
+00:11:48.206 --> 00:11:52.044
+So if there's one message I
+want to be able to come across,
+
+00:11:52.144 --> 00:11:54.413
+it's that we have these
+easy problems, which
+
+00:11:54.513 --> 00:11:56.915
+is the world where
+classical computers fit,
+
+00:11:57.015 --> 00:11:58.984
+and the problem it's solved.
+
+00:11:59.084 --> 00:12:02.888
+But then there these other
+hard problems, that go outside.
+
+00:12:02.988 --> 00:12:04.556
+And if you don't
+believe that p equals
+
+00:12:04.656 --> 00:12:06.958
+np, which I would say the
+majority of mathematicians
+
+00:12:07.058 --> 00:12:09.461
+don't believe that that is the
+case, that those problems are
+
+00:12:09.561 --> 00:12:14.099
+hard for a reason, the only
+avenue to go and tackle that,
+
+00:12:14.199 --> 00:12:17.736
+aside from approximations,
+will be to the creation
+
+00:12:17.836 --> 00:12:19.337
+of quantum computers.
+
+00:12:19.437 --> 00:12:22.341
+So where are we?
+
+00:12:22.441 --> 00:12:24.977
+We believe that small
+practical quantum
+
+00:12:25.077 --> 00:12:27.246
+computers are going
+to be possible,
+
+00:12:27.346 --> 00:12:30.415
+and we're building them now.
+
+00:12:30.515 --> 00:12:33.786
+It requires reinventing
+the whole stack.
+
+00:12:33.886 --> 00:12:34.954
+The device is different.
+
+00:12:35.054 --> 00:12:37.088
+It's not the
+traditional transistors.
+
+00:12:37.188 --> 00:12:39.057
+As an example,
+this is the device
+
+00:12:39.157 --> 00:12:40.759
+we use for that
+quantum computers
+
+00:12:40.859 --> 00:12:45.030
+that we create at IBM, based
+on superconducting Josephson
+
+00:12:45.131 --> 00:12:46.265
+junctions.
+
+00:12:46.365 --> 00:12:48.400
+And you're seeing an example
+of one of these device,
+
+00:12:48.500 --> 00:12:50.535
+is superconducting device.
+
+00:12:50.636 --> 00:12:52.637
+And because it's
+superconducting,
+
+00:12:52.737 --> 00:12:54.774
+you have to cool it.
+
+00:12:54.874 --> 00:12:58.076
+So this is what a small
+quantum computer looks like.
+
+00:12:58.176 --> 00:13:00.078
+What you're seeing
+here is something
+
+00:13:00.178 --> 00:13:02.280
+called a dilution refrigerator.
+
+00:13:02.381 --> 00:13:05.116
+And this quantum processor
+sits at the bottom
+
+00:13:05.217 --> 00:13:08.487
+of this refrigerator,
+at the nice temperature
+
+00:13:08.587 --> 00:13:10.822
+of 15 millikelvin.
+
+00:13:10.922 --> 00:13:13.959
+So that is colder
+than outer space,
+
+00:13:14.059 --> 00:13:16.995
+where we have to put this
+quantum processor in.
+
+00:13:17.095 --> 00:13:20.866
+This is what, for example,
+a 16-qubit quantum processor
+
+00:13:20.966 --> 00:13:22.101
+looks like.
+
+00:13:22.201 --> 00:13:24.936
+And you know, inside,
+you see the square
+
+00:13:25.036 --> 00:13:27.806
+where the qubits are, and you
+see these squiggly lines, which
+
+00:13:27.906 --> 00:13:29.408
+is these coupling
+resonators that
+
+00:13:29.508 --> 00:13:32.444
+allow you to send information
+uncoupled to the qubits,
+
+00:13:32.544 --> 00:13:34.579
+To send the information.
+
+00:13:34.679 --> 00:13:37.282
+This is what the
+wiring looks like,
+
+00:13:37.382 --> 00:13:40.585
+into the refrigerator going
+into a quantum processor.
+
+00:13:40.686 --> 00:13:44.589
+There's these coaxial
+cables, because the way
+
+00:13:44.689 --> 00:13:47.226
+you send information
+to a quantum processor,
+
+00:13:47.326 --> 00:13:51.130
+is through a series of
+microwave pulses, that go in,
+
+00:13:51.230 --> 00:13:54.833
+and then you're
+able to take it out.
+
+00:13:54.933 --> 00:13:58.537
+Now, if you look at pictures
+of what computers were like,
+
+00:13:58.637 --> 00:14:00.538
+right, in the '40s
+and the '50s, it's
+
+00:14:00.638 --> 00:14:03.241
+kind of like where
+we are today, right?
+
+00:14:03.342 --> 00:14:05.210
+That's what, you know,
+quantum computer, that's
+
+00:14:05.310 --> 00:14:07.746
+the signal processing
+required to actually send
+
+00:14:07.846 --> 00:14:09.914
+all those signals down
+the coaxial cables,
+
+00:14:10.014 --> 00:14:12.517
+it looks like that.
+
+00:14:12.617 --> 00:14:14.686
+But we've also seen
+this movie before,
+
+00:14:14.786 --> 00:14:17.355
+in the sense that we know
+how much progress we have
+
+00:14:17.455 --> 00:14:19.291
+made from those early system.
+
+00:14:19.391 --> 00:14:22.194
+And while we don't anticipate
+that quantum computers will
+
+00:14:22.294 --> 00:14:27.066
+be on your phone, because they
+require cryogenic cooling,
+
+00:14:27.166 --> 00:14:29.467
+we definitely
+believe that access
+
+00:14:29.567 --> 00:14:31.637
+to quantum computers
+in the cloud
+
+00:14:31.737 --> 00:14:35.107
+will be something that people
+will be able to leverage,
+
+00:14:35.207 --> 00:14:37.609
+behind the scenes,
+even not knowing.
+
+00:14:37.709 --> 00:14:41.714
+Because we believe that,
+we created a small quantum
+
+00:14:41.814 --> 00:14:45.316
+computer last year, and we
+made it available to the world.
+
+00:14:45.417 --> 00:14:48.020
+In something called the
+IBM Quantum Experience.
+
+00:14:48.120 --> 00:14:50.923
+And all of you can go and log
+in and have access to this.
+
+00:14:51.023 --> 00:14:51.924
+It's available for free.
+
+00:14:52.024 --> 00:14:54.059
+It's a 5-qubit machine.
+
+00:14:54.159 --> 00:14:57.095
+And since we launched it,
+we have over 36,000 users
+
+00:14:57.196 --> 00:14:59.965
+from over 100 countries
+that have been doing it.
+
+00:15:00.065 --> 00:15:03.602
+And 15 scientific
+publications have gone on it,
+
+00:15:03.702 --> 00:15:06.271
+and people are learning how
+to program, and to learn
+
+00:15:06.371 --> 00:15:09.575
+about this new world, and
+what is being created.
+
+00:15:09.675 --> 00:15:11.843
+And you can actually
+run things on this.
+
+00:15:11.943 --> 00:15:14.779
+So I was telling you about
+these chemistry problems.
+
+00:15:14.880 --> 00:15:18.617
+So this is an example of
+the expected theoretical
+
+00:15:18.717 --> 00:15:21.687
+calculation, and the actual
+calculation, on a small quantum
+
+00:15:21.787 --> 00:15:25.424
+machine, of hydrogen.
+So we're starting
+
+00:15:25.524 --> 00:15:27.292
+to solve small problems.
+
+00:15:27.392 --> 00:15:30.995
+And what is coming in the years
+ahead, in the next few years,
+
+00:15:31.096 --> 00:15:34.299
+will be machines that
+no classical computer
+
+00:15:34.399 --> 00:15:37.101
+will be able to emulate.
+
+00:15:37.202 --> 00:15:41.673
+Because by the time you
+have order of 50 qubits,
+
+00:15:41.773 --> 00:15:44.676
+think about that, that's
+2 to the 50 states.
+
+00:15:44.777 --> 00:15:47.713
+And no classical machine
+will be able to emulate
+
+00:15:47.813 --> 00:15:49.013
+what that can do.
+
+00:15:49.113 --> 00:15:50.548
+And that is new territory.
+
+00:15:50.648 --> 00:15:53.451
+And that's the territory
+we're all going to enter.
+
+00:15:53.551 --> 00:15:55.621
+And now is the most
+interesting part,
+
+00:15:55.721 --> 00:15:58.690
+because it'll be the path of
+discovery of what we can do,
+
+00:15:58.790 --> 00:16:00.959
+and what value we can
+create, on problems
+
+00:16:01.059 --> 00:16:03.295
+we couldn't solve before.
+
+00:16:03.395 --> 00:16:06.665
+So I'll close with
+Feynman, who proposed
+
+00:16:06.765 --> 00:16:10.468
+this original idea of creating
+these quantum machines.
+
+00:16:10.568 --> 00:16:13.972
+In his inimitable
+style, he said,
+
+00:16:14.072 --> 00:16:16.875
+"Nature isn't classical,
+dammit, and if you
+
+00:16:16.975 --> 00:16:19.177
+want to make a
+simulation of nature,
+
+00:16:19.277 --> 00:16:21.513
+you better make it
+quantum mechanical,
+
+00:16:21.613 --> 00:16:24.082
+and by golly, it is a
+wonderful problem, because it
+
+00:16:24.182 --> 00:16:25.984
+doesn't look so easy."
+
+00:16:26.085 --> 00:16:27.886
+Thank you.
+

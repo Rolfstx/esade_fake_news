@@ -1,0 +1,1149 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.040 --> 00:00:04.010
+Quantum computers use the natural
+world to produce machines
+
+00:00:04.010 --> 00:00:06.530
+with staggeringly powerful
+processing potential.
+
+00:00:07.010 --> 00:00:09.050
+I think it's gonna be
+the most important computing
+
+00:00:09.050 --> 00:00:13.190
+technology of this century, which
+we are really just about
+
+00:00:13.190 --> 00:00:14.200
+one fifth into.
+
+00:00:14.690 --> 00:00:17.540
+We could use quantum computers
+to simulate molecules, to
+
+00:00:17.540 --> 00:00:20.930
+build new drugs and new
+materials and to solve problems
+
+00:00:20.930 --> 00:00:22.820
+plaguing physicists
+for decades.
+
+00:00:23.330 --> 00:00:26.450
+Wall Street could use them
+to optimize portfolios, simulate
+
+00:00:26.510 --> 00:00:29.690
+economic forecasts and for
+complex risk analysis.
+
+00:00:30.290 --> 00:00:32.510
+Quantum computing could also
+help scientists speed up
+
+00:00:32.510 --> 00:00:35.630
+discoveries in adjacent fields
+like machine learning and
+
+00:00:35.660 --> 00:00:37.010
+artificial intelligence.
+
+00:00:37.550 --> 00:00:41.180
+Amazon, Google, IBM and Microsoft,
+plus a host of smaller
+
+00:00:41.180 --> 00:00:44.450
+companies such as Rigetti and
+D-Wave, are all betting big
+
+00:00:44.480 --> 00:00:47.960
+on Quantum. If you were a
+billionaire, how many of your
+
+00:00:47.960 --> 00:00:50.410
+billion would you give over for
+an extra 10 years of life?
+
+00:00:51.360 --> 00:00:54.060
+There are some simply
+astonishing financial opportunities
+
+00:00:54.060 --> 00:00:58.520
+in quantum computing. This is
+why there's so much interest.
+
+00:00:58.580 --> 00:01:00.570
+Even though it's so
+far down the road.
+
+00:01:01.370 --> 00:01:02.930
+But nothing is ever
+a sure thing.
+
+00:01:03.200 --> 00:01:05.390
+And dealing with the quirky
+nature of quantum physics
+
+00:01:05.650 --> 00:01:08.480
+creates some big hurdles
+for this nascent technology.
+
+00:01:08.990 --> 00:01:13.280
+From the very beginning, it
+was understood that building a
+
+00:01:13.280 --> 00:01:17.270
+useful quantum computer was going
+to be a staggeringly hard
+
+00:01:17.300 --> 00:01:20.540
+engineering problem if it was
+even possible at all.
+
+00:01:20.900 --> 00:01:24.620
+And there were even distinguished
+physicists in the 90s who
+
+00:01:24.620 --> 00:01:26.000
+said this will never work.
+
+00:01:26.450 --> 00:01:29.780
+Is Quantum truly the next big
+thing in computing, or is it
+
+00:01:29.780 --> 00:01:32.570
+destined to become something
+more like nuclear fusion?
+
+00:01:32.900 --> 00:01:35.720
+Destined to always be the
+technology of the future, never
+
+00:01:35.720 --> 00:01:42.230
+the present. In October 2019,
+Google made a big
+
+00:01:42.230 --> 00:01:46.380
+announcement. Google said it
+had achieved quantum
+
+00:01:46.380 --> 00:01:49.740
+supremacy. That's the moment
+when quantum computers can
+
+00:01:49.740 --> 00:01:52.380
+beat out the world's
+most powerful supercomputers for
+
+00:01:52.380 --> 00:01:53.430
+certain tasks.
+
+00:01:53.750 --> 00:01:57.090
+They have demonstrated with a
+quantum computer that it can
+
+00:01:57.090 --> 00:01:59.760
+perform a computation
+in seconds.
+
+00:02:00.210 --> 00:02:02.700
+What would take the
+world's fastest supercomputer?
+
+00:02:03.950 --> 00:02:06.830
+Years, thousands of years to
+do that same calculation.
+
+00:02:08.080 --> 00:02:10.420
+And in the field, this is
+known as quantum supremacy and
+
+00:02:10.420 --> 00:02:12.400
+it's a really
+important milestone.
+
+00:02:12.820 --> 00:02:16.750
+Google used a 53 qubit
+processor named Sycamore to complete
+
+00:02:16.750 --> 00:02:19.750
+the computation, a
+completely arbitrary mathematical
+
+00:02:19.750 --> 00:02:22.120
+problem with no
+real world application.
+
+00:02:22.660 --> 00:02:25.870
+The Google Quantum computer spit out
+an answer in about 200
+
+00:02:25.870 --> 00:02:29.020
+seconds. It would have taken
+the world's fastest computer
+
+00:02:29.110 --> 00:02:32.230
+around 10000 years to come up
+with a solution, according to
+
+00:02:32.230 --> 00:02:33.250
+Google scientists.
+
+00:02:33.490 --> 00:02:36.040
+With that, Google claimed it had
+won the race to quantum
+
+00:02:36.040 --> 00:02:39.490
+supremacy. But IBM had an
+issue with the findings.
+
+00:02:39.760 --> 00:02:43.930
+Yes, IBM, the storied tech
+company that helped usher in
+
+00:02:43.930 --> 00:02:50.770
+giant mainframes and
+personal computing.
+
+00:02:50.770 --> 00:02:54.520
+It's a major player
+in quantum computing.
+
+00:02:55.150 --> 00:02:58.450
+IBM said one of its
+massive supercomputer networks, this
+
+00:02:58.450 --> 00:03:01.090
+one at the Oak Ridge
+National Laboratories in Tennessee,
+
+00:03:01.450 --> 00:03:04.330
+could simulate a quantum
+computer and theoretically solve
+
+00:03:04.330 --> 00:03:07.930
+the same problem in a matter
+of days, not the 10000 years
+
+00:03:07.930 --> 00:03:10.960
+that Google had claimed. Either
+way, it was a huge
+
+00:03:10.960 --> 00:03:14.140
+milestone for quantum computers,
+and Silicon Valley is
+
+00:03:14.140 --> 00:03:17.410
+taking notice. Venture capital
+investors are pouring
+
+00:03:17.410 --> 00:03:20.080
+hundreds of millions of
+dollars into quantum computing
+
+00:03:20.080 --> 00:03:23.620
+startups, even though practical
+applications are years or
+
+00:03:23.620 --> 00:03:26.200
+even decades away by 2019.
+
+00:03:26.260 --> 00:03:28.870
+Private investors have backed
+at least 52 quantum
+
+00:03:28.870 --> 00:03:32.650
+technology companies around the
+world since 2012, according
+
+00:03:32.650 --> 00:03:34.330
+to an analysis by nature.
+
+00:03:34.930 --> 00:03:37.150
+Many of them were spun
+out of research teams at
+
+00:03:37.150 --> 00:03:40.150
+universities in 2017 and 2018.
+
+00:03:40.450 --> 00:03:44.110
+Companies received at least $450
+million in private funding
+
+00:03:44.500 --> 00:03:46.780
+more than four times the
+funding from the previous two
+
+00:03:46.780 --> 00:03:50.320
+years. That's nowhere near the
+amount of funding going into
+
+00:03:50.320 --> 00:03:52.270
+a field like
+artificial intelligence.
+
+00:03:52.840 --> 00:03:54.070
+About $9.3
+
+00:03:54.070 --> 00:03:56.830
+billion with a venture capital
+money poured into AI firms
+
+00:03:56.830 --> 00:04:00.400
+in 2018. But the growth
+in quantum computing funding is
+
+00:04:00.400 --> 00:04:02.500
+happening quickly for an
+industry without a real
+
+00:04:02.500 --> 00:04:06.790
+application. Yet it is not easy
+to figure out how to
+
+00:04:06.790 --> 00:04:10.120
+actually use a quantum computer
+to do something useful.
+
+00:04:10.660 --> 00:04:14.530
+So nature gives you this very,
+very bizarre hammer in the
+
+00:04:14.530 --> 00:04:17.830
+form of these this interference
+effect among all of these
+
+00:04:17.830 --> 00:04:19.170
+amplitudes. Right.
+
+00:04:19.180 --> 00:04:23.410
+And it's up to us as
+quantum computer scientists to figure
+
+00:04:23.410 --> 00:04:25.870
+out what nails that
+hammer can hit.
+
+00:04:26.560 --> 00:04:29.050
+That's leading to some backlash
+against the hype and
+
+00:04:29.050 --> 00:04:31.600
+concern that quantum computing could
+soon become a bubble
+
+00:04:31.930 --> 00:04:34.600
+and then dry up just
+as fast if progress stalls.
+
+00:04:35.110 --> 00:04:37.660
+Quantum computers are
+also notoriously fickle.
+
+00:04:37.960 --> 00:04:40.510
+They need tightly controlled
+environments to operate in.
+
+00:04:40.930 --> 00:04:43.900
+Changes in nearby temperatures
+and electromagnetic waves
+
+00:04:43.900 --> 00:04:45.250
+can cause them to mess up.
+
+00:04:45.820 --> 00:04:47.740
+And then there's the temperature
+of the quantum chips
+
+00:04:47.740 --> 00:04:50.500
+themselves. They need to be
+kept at temperatures colder
+
+00:04:50.500 --> 00:04:53.700
+than interstellar space, close
+to absolute zero.
+
+00:05:00.430 --> 00:05:02.890
+One of the central tenets
+of quantum physics is called
+
+00:05:02.890 --> 00:05:06.280
+superposition. That means a
+subatomic particle like an
+
+00:05:06.280 --> 00:05:09.130
+electron can exist in two
+different states at the same
+
+00:05:09.130 --> 00:05:13.390
+time. It was and still is
+super hard for normal computers
+
+00:05:13.390 --> 00:05:16.540
+to simulate quantum mechanics
+because of superposition.
+
+00:05:17.020 --> 00:05:19.840
+No, it was only in the
+early eighties that a few
+
+00:05:19.840 --> 00:05:23.920
+physicists, such as Richard
+Feynman had the amazing
+
+00:05:23.920 --> 00:05:28.000
+suggestion that if nature is
+giving us that computational
+
+00:05:28.000 --> 00:05:30.400
+lemon, well, why not
+make it into lemonade?
+
+00:05:30.910 --> 00:05:33.460
+You've probably heard or read
+this explanation of how a
+
+00:05:33.460 --> 00:05:34.810
+quantum computer works.
+
+00:05:35.260 --> 00:05:38.200
+Regular or classical computers
+run on bits.
+
+00:05:38.590 --> 00:05:40.430
+Bits can either be a
+1 or a zero.
+
+00:05:41.230 --> 00:05:44.320
+Quantum computers, on the other
+hand, run on quantum bits
+
+00:05:44.410 --> 00:05:48.550
+or cubits. Cubits can be either 1
+or zero or both or a
+
+00:05:48.550 --> 00:05:50.530
+combination of the two
+at the same time.
+
+00:05:51.100 --> 00:05:53.860
+That's not wrong per say,
+but it only scratches the
+
+00:05:53.860 --> 00:05:56.650
+surface. According to Scott
+Aaronson, who teaches computer
+
+00:05:56.650 --> 00:05:59.530
+science and quantum computing at
+the University of Texas in
+
+00:05:59.530 --> 00:06:02.620
+Austin. We asked him to
+explain how quantum computing
+
+00:06:02.680 --> 00:06:04.990
+actually works. Well, let
+me start with this.
+
+00:06:05.020 --> 00:06:08.460
+You never hear your weather
+forecaster say we know there's
+
+00:06:08.470 --> 00:06:11.040
+a negative 30 percent
+chance of rain tomorrow.
+
+00:06:11.310 --> 00:06:13.400
+Right. That would just
+be non-sense, right?
+
+00:06:13.480 --> 00:06:16.480
+Did the chance of something
+happening, as always, between 0
+
+00:06:16.480 --> 00:06:17.950
+percent and 100 percent.
+
+00:06:18.610 --> 00:06:22.900
+But now quantum mechanics is
+based on numbers called
+
+00:06:22.900 --> 00:06:26.680
+amplitudes. Amplitudes can be
+positive or negative.
+
+00:06:27.130 --> 00:06:30.340
+In fact, they can even
+be complex numbers involving the
+
+00:06:30.340 --> 00:06:31.960
+square root of negative one.
+
+00:06:32.260 --> 00:06:36.970
+So so a qubit is a bit
+that has an amplitude for being zero
+
+00:06:37.270 --> 00:06:39.310
+and another amplitude
+for being one.
+
+00:06:40.300 --> 00:06:42.460
+The goal for quantum computers
+is to make sure the
+
+00:06:42.460 --> 00:06:45.670
+amplitudes leading to wrong answers
+cancel each other out.
+
+00:06:46.040 --> 00:06:48.100
+And it scientists reading the
+output of the quantum
+
+00:06:48.100 --> 00:06:51.040
+computers are left with amplitudes
+leading to the right
+
+00:06:51.070 --> 00:06:53.500
+answer of whatever problem
+they're trying to solve.
+
+00:06:53.950 --> 00:06:56.350
+So what does a quantum computer
+look like in the real
+
+00:06:56.350 --> 00:06:59.350
+world? The quantum computers developed
+by companies such as
+
+00:06:59.350 --> 00:07:02.800
+Google, IBM and Rigetti were
+all made using a process
+
+00:07:02.800 --> 00:07:04.480
+called superconducting
+
+00:07:04.720 --> 00:07:08.710
+And this is where you have a
+chip the size of an ordinary
+
+00:07:08.710 --> 00:07:13.720
+computer chip and you have little
+coils of wire in the
+
+00:07:13.720 --> 00:07:16.720
+chip, you know, which are
+actually quite enormous by the
+
+00:07:16.720 --> 00:07:17.830
+standards of cubits.
+
+00:07:17.910 --> 00:07:19.960
+There are, you know, nearly big
+enough to see with the
+
+00:07:19.960 --> 00:07:24.760
+naked eye. But you can have
+two different quantum states of
+
+00:07:24.760 --> 00:07:27.640
+current that are flowing
+through these coils that
+
+00:07:27.640 --> 00:07:30.010
+correspond to a zero or a one.
+
+00:07:30.460 --> 00:07:33.070
+And of course, you can also
+have super positions of the
+
+00:07:33.070 --> 00:07:37.240
+two. Now the coil can
+interact with each other via
+
+00:07:37.240 --> 00:07:39.070
+something called
+Josef's injunctions.
+
+00:07:39.550 --> 00:07:43.510
+So they're laid out in roughly
+a rectangular array and the
+
+00:07:43.510 --> 00:07:48.130
+nearby ones can talk to
+each other and thereby generate
+
+00:07:48.130 --> 00:07:50.820
+these very complicated states,
+what we call entangled
+
+00:07:50.830 --> 00:07:54.850
+states, which is one of
+the essentials of quantum computing
+
+00:07:55.240 --> 00:07:58.000
+and the way that the cubists
+interact with each other is
+
+00:07:58.000 --> 00:07:59.320
+fully programmable.
+
+00:07:59.510 --> 00:08:04.030
+OK. So you can send electrical
+signals to the chip to say
+
+00:08:04.030 --> 00:08:07.330
+which cube it should interact with
+each other ones at which
+
+00:08:07.330 --> 00:08:12.280
+time. Now the order for this
+to work, the whole chip is
+
+00:08:12.280 --> 00:08:14.770
+placed in that
+evolution refrigerator.
+
+00:08:14.800 --> 00:08:16.780
+That's the size of
+a closet roughly.
+
+00:08:17.020 --> 00:08:19.600
+And the calls it do about
+one hundredth of a degree above
+
+00:08:19.600 --> 00:08:22.750
+absolute zero. That's where
+you get the superconductivity
+
+00:08:22.990 --> 00:08:26.800
+that allows these bits to
+briefly behave as cubits.
+
+00:08:32.510 --> 00:08:35.470
+And IBM's research lab in
+Yorktown Heights, New York, the
+
+00:08:35.470 --> 00:08:38.470
+big tech company, houses
+several quantum computers already
+
+00:08:38.470 --> 00:08:41.350
+hooked up to the cloud.
+Corporate clients such as Goldman
+
+00:08:41.350 --> 00:08:45.130
+Sachs and JP Morgan are part
+of IBM's Q Network, where they
+
+00:08:45.130 --> 00:08:47.170
+can experiment with the
+quantum machines and their
+
+00:08:47.170 --> 00:08:48.250
+programming language.
+
+00:08:49.090 --> 00:08:51.520
+So far, it's a way for
+companies to get used to quantum
+
+00:08:51.520 --> 00:08:53.530
+computing rather than make
+money from it.
+
+00:08:53.860 --> 00:08:56.500
+Quantum computers need exponentially
+more cubits before
+
+00:08:56.500 --> 00:08:58.090
+they start doing
+anything useful.
+
+00:08:58.630 --> 00:09:01.840
+IBM recently unveiled a fifty
+three cubic computer the same
+
+00:09:01.840 --> 00:09:03.700
+size as Google's
+sycamore processor.
+
+00:09:03.880 --> 00:09:07.570
+We think we're actually going
+to need tens of thousands,
+
+00:09:07.870 --> 00:09:10.540
+hundreds of thousands of qubits
+to get to real business
+
+00:09:10.540 --> 00:09:13.550
+problems. So you can see quite
+a lot of advances and
+
+00:09:13.570 --> 00:09:16.510
+doubling every year or perhaps even
+a little faster is what
+
+00:09:16.510 --> 00:09:19.150
+we need to get us there. That's
+why it's 10 years out, at
+
+00:09:19.150 --> 00:09:21.060
+least.
+
+00:09:21.070 --> 00:09:22.630
+Quantum computing would need to
+see some big advances
+
+00:09:22.630 --> 00:09:25.390
+between then and now, bigger
+advances than what occurred
+
+00:09:25.390 --> 00:09:28.220
+during the timeline of classical
+computing and Moore's Law.
+
+00:09:29.020 --> 00:09:30.400
+Oh, we need better
+than Moore's Law.
+
+00:09:30.430 --> 00:09:32.230
+Moore's Law is doubling
+every two years.
+
+00:09:32.590 --> 00:09:34.160
+We're talking doubling
+every year.
+
+00:09:34.270 --> 00:09:36.310
+And occasionally some
+really big jumps.
+
+00:09:36.460 --> 00:09:38.710
+So what's quantum
+computers become useful?
+
+00:09:38.890 --> 00:09:41.890
+What can they do? Scientists first
+came up with the idea
+
+00:09:41.890 --> 00:09:44.950
+for quantum computers as a
+way to better simulate quantum
+
+00:09:44.950 --> 00:09:47.560
+mechanics. That's still the
+main purpose for them.
+
+00:09:47.680 --> 00:09:49.900
+And it also holds
+the most moneymaking potential.
+
+00:09:49.930 --> 00:09:52.840
+So one example is
+the caffeine molecule.
+
+00:09:53.770 --> 00:09:58.000
+Now, if you're like me,
+you've probably ingested billions
+
+00:09:58.000 --> 00:10:00.530
+or trillions of. Caffeine
+molecules so far today.
+
+00:10:01.640 --> 00:10:05.060
+Now, if computers are really
+that good, really that
+
+00:10:05.060 --> 00:10:08.000
+powerful. We have these
+these tremendous supercomputers
+
+00:10:08.030 --> 00:10:11.150
+that are out there. We should
+be able to really take a
+
+00:10:11.150 --> 00:10:15.080
+molecule and represented exactly
+in a computer.
+
+00:10:15.860 --> 00:10:18.020
+And this would be great
+for many fields, health care,
+
+00:10:18.020 --> 00:10:21.170
+pharmaceuticals, creating new
+materials, creating new
+
+00:10:21.170 --> 00:10:24.920
+flavorings anywhere where molecules
+are in play.
+
+00:10:25.130 --> 00:10:28.520
+So if we just start with
+this basic idea of caffeine, it
+
+00:10:28.520 --> 00:10:32.540
+turns out it's absolutely
+impossible to represent one
+
+00:10:32.720 --> 00:10:36.200
+simple little caffeine molecule
+in a classical computer
+
+00:10:36.680 --> 00:10:39.440
+because the amount of information
+you would need to
+
+00:10:39.440 --> 00:10:42.620
+represent it, the number of zeros
+and ones you would need
+
+00:10:43.280 --> 00:10:45.560
+is around ten to forty eight.
+
+00:10:46.190 --> 00:10:49.520
+Now, that's a big number. That's
+one with forty eight zeros
+
+00:10:49.550 --> 00:10:55.250
+following it. The number of atoms
+in the earth are about 10
+
+00:10:55.250 --> 00:10:56.690
+to 100 times that number.
+
+00:10:57.020 --> 00:11:02.210
+So in the worst case, one
+caffeine molecule could use 10
+
+00:11:02.210 --> 00:11:06.260
+percent of all the atoms in
+the earth just for storage.
+
+00:11:06.650 --> 00:11:08.120
+That's never going to happen.
+
+00:11:08.900 --> 00:11:11.680
+However, if we have a quantum
+computer with one hundred and
+
+00:11:11.680 --> 00:11:15.980
+sixty cubits and this is a
+model of a 50 kubert machine
+
+00:11:15.980 --> 00:11:18.770
+behind me, you can kind of
+figure, well, if we make good
+
+00:11:18.770 --> 00:11:22.730
+progress, eventually we'll get up
+to 160 good cubits.
+
+00:11:23.780 --> 00:11:26.960
+It looks like we'll be able
+to do something with caffeine,
+
+00:11:27.150 --> 00:11:30.170
+a quantum computer, and it's
+never going to be possible.
+
+00:11:30.260 --> 00:11:33.200
+Classical computer and other potential
+use comes from Wall
+
+00:11:33.200 --> 00:11:36.710
+Street. Complex risk analysis
+and economic forecasting.
+
+00:11:37.040 --> 00:11:39.770
+Quantum computing also has
+big potential for portfolio
+
+00:11:39.800 --> 00:11:43.220
+optimization. Perhaps the biggest
+business opportunity out
+
+00:11:43.220 --> 00:11:45.980
+of quantum computing in the
+short term is simply preparing
+
+00:11:45.980 --> 00:11:47.330
+for the widespread
+use of them.
+
+00:11:47.990 --> 00:11:50.930
+Companies and governments are
+already attempting to quantum
+
+00:11:50.930 --> 00:11:53.390
+proof their most sensitive
+data and secrets.
+
+00:11:53.960 --> 00:11:57.890
+In 1994, a scientist at Bell
+Labs named Peter Shaw came up
+
+00:11:57.890 --> 00:12:00.170
+with an algorithm that
+proved quantum computers could
+
+00:12:00.170 --> 00:12:03.020
+factor huge numbers much more
+quickly than their classical
+
+00:12:03.020 --> 00:12:06.710
+counterparts. That also means
+quantum computers is powerful
+
+00:12:06.740 --> 00:12:09.530
+and efficient enough could
+theoretically break RSA
+
+00:12:09.530 --> 00:12:12.740
+encryption. RSA is the type
+of encryption that underpins
+
+00:12:12.740 --> 00:12:14.000
+the entire internet.
+
+00:12:14.390 --> 00:12:16.730
+Quantum computers, the way they're
+built now, would need
+
+00:12:16.730 --> 00:12:19.430
+millions of cubits to
+crack RSA cryptography.
+
+00:12:19.940 --> 00:12:22.910
+But that milestone could be 20
+or 30 years away and
+
+00:12:22.910 --> 00:12:25.070
+governments and companies are beginning
+to get ready for
+
+00:12:25.070 --> 00:12:27.170
+it. For a lot of
+people, that doesn't matter.
+
+00:12:27.710 --> 00:12:30.170
+But for example, for health
+records, if health records to
+
+00:12:30.170 --> 00:12:32.630
+be opened up that could
+compromise all kinds of things.
+
+00:12:32.630 --> 00:12:34.180
+Government communications.
+Banking records.
+
+00:12:34.180 --> 00:12:36.050
+Sometimes even banking records
+from decades ago contain
+
+00:12:36.050 --> 00:12:37.750
+important information that you
+don't want exposed.
+
+00:12:40.280 --> 00:12:43.280
+But the problem we've got is
+we don't really know when
+
+00:12:43.790 --> 00:12:46.730
+we'll be able to do this or
+even if we'll ever build one
+
+00:12:46.760 --> 00:12:48.110
+big enough to do this.
+
+00:12:48.110 --> 00:12:50.380
+But what we do now, is
+that if you don't update your
+
+00:12:50.380 --> 00:12:53.720
+cryptography now, all the messages
+you send over the next
+
+00:12:53.720 --> 00:12:57.210
+few years and the ones
+in history could potentially be
+
+00:12:57.210 --> 00:13:02.050
+read. What this means, for example,
+is if you're a Cisco
+
+00:13:02.600 --> 00:13:04.730
+selling networking equipment, you're
+going to offer
+
+00:13:04.730 --> 00:13:08.120
+quantum-safe encryption as an option
+in the very near
+
+00:13:08.120 --> 00:13:10.820
+future. Becayse even though it
+doesn't look like you need
+
+00:13:10.820 --> 00:13:13.770
+it right away. If your product
+doesn't have it and a
+
+00:13:13.770 --> 00:13:16.130
+competitor does, guess which
+product gets bought?
+
+00:13:23.160 --> 00:13:25.590
+One big issue facing
+quantum computing, other than
+
+00:13:25.590 --> 00:13:27.570
+increasing the number of
+cubits while keeping things
+
+00:13:27.570 --> 00:13:30.630
+stable, is that no one actually
+knows the best way to build
+
+00:13:30.630 --> 00:13:33.710
+a quantum computer. Yet the
+Quantum computers, a Google of
+
+00:13:33.780 --> 00:13:37.110
+IBM and other companies show
+off are very much still
+
+00:13:37.140 --> 00:13:39.990
+experiments. There's also a
+big education gap.
+
+00:13:40.320 --> 00:13:42.680
+Not many people are
+studying quantum computing yet.
+
+00:13:42.870 --> 00:13:45.690
+China is pouring billions
+into quantum computing education,
+
+00:13:46.050 --> 00:13:48.660
+and the U.S. Congress passed a
+law in 2018 called the
+
+00:13:48.660 --> 00:13:51.900
+National Quantum Initiative Act in
+order to help catch up
+
+00:13:52.140 --> 00:13:55.590
+watching people get
+rid of him.
+
+00:13:56.370 --> 00:13:57.680
+Which means that you want
+to invest in them now.
+
+00:13:58.380 --> 00:14:00.980
+You want to be hiring
+people with quantum computing
+
+00:14:00.980 --> 00:14:03.860
+knowledge. Not necessarily to
+do quantum computing, but
+
+00:14:03.860 --> 00:14:07.520
+because you want that intelligence
+in your organisation so
+
+00:14:07.520 --> 00:14:10.150
+you can take advantage of
+it when it shows up.
+
+00:14:10.200 --> 00:14:12.490
+Now China, with its promised $10
+billion in it, is really
+
+00:14:13.290 --> 00:14:16.750
+upping stakes in terms of
+the number of Chinese quantum
+
+00:14:16.750 --> 00:14:19.420
+physics PhDs that are
+going to start appearing.
+
+00:14:19.420 --> 00:14:22.490
+And you know if that
+hair restoration or life extension
+
+00:14:22.490 --> 00:14:25.820
+drug happens to be property
+of the Chinese government, what
+
+00:14:25.820 --> 00:14:27.650
+does that do to
+the world economy?
+
+00:14:27.650 --> 00:14:34.290
+That's much more powerful than
+making war Other experts
+
+00:14:34.290 --> 00:14:37.050
+have compared Google's announcement
+to Sputnik, the Soviet
+
+00:14:37.050 --> 00:14:39.540
+satellite launched into
+orbit in 1957.
+
+00:14:40.850 --> 00:14:43.730
+The beach ball sized satellite
+was the first manmade object
+
+00:14:43.730 --> 00:14:47.530
+to orbit the Earth. But
+Sputnik didn't really do anything
+
+00:14:47.530 --> 00:14:50.260
+useful other than prove launching
+something into space was
+
+00:14:50.260 --> 00:14:56.620
+possible. Many people are surprised
+that where exactly we
+
+00:14:56.620 --> 00:15:00.580
+are. For those who are just
+getting started, they like to
+
+00:15:00.880 --> 00:15:04.360
+make noise about vacuum tubes
+and Sputnik and things like
+
+00:15:04.360 --> 00:15:07.540
+this. But let me
+give you some numbers.
+
+00:15:08.020 --> 00:15:11.770
+IBM has had quantum computers on
+the cloud for three and a
+
+00:15:11.770 --> 00:15:14.860
+half years since May of 2016.
+
+00:15:15.190 --> 00:15:18.460
+We're not in any
+sort of Sputnik error.
+
+00:15:18.760 --> 00:15:20.320
+We're not landing on the moon.
+
+00:15:21.040 --> 00:15:23.620
+But for those of you who
+like space history, I think we're
+
+00:15:23.620 --> 00:15:26.800
+probably well into
+Mercury or Gemini.
+

@@ -1,0 +1,3214 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.380 --> 00:00:09.540
+With our knowledge of torque...
+calm down.
+
+00:00:09.540 --> 00:00:12.560
+With our knowledge of torque
+and angular momentum,
+
+00:00:12.560 --> 00:00:19.300
+we can now attack rolling
+objects which roll down a slope.
+
+00:00:19.300 --> 00:00:25.300
+For instance, the following...
+I have here a cylinder
+
+00:00:25.300 --> 00:00:28.320
+or it could be a sphere,
+for that matter,
+
+00:00:28.320 --> 00:00:32.740
+and this angle is beta.
+
+00:00:32.740 --> 00:00:34.620
+I prefer not to use alpha
+
+00:00:34.620 --> 00:00:37.460
+because that's angular
+acceleration,
+
+00:00:37.460 --> 00:00:39.440
+and there is
+this friction coefficient
+
+00:00:39.440 --> 00:00:41.500
+with the surface, mu,
+
+00:00:41.500 --> 00:00:45.360
+and this object
+is going to roll down
+
+00:00:45.360 --> 00:00:46.700
+and you're going to get
+an acceleration
+
+00:00:46.700 --> 00:00:48.840
+in this direction, a.
+
+00:00:48.840 --> 00:00:52.260
+And I will evaluate
+the situation
+
+00:00:52.260 --> 00:00:54.000
+when we have pure roll.
+
+00:00:54.000 --> 00:00:58.080
+That means the object is not
+skidding and is not slipping.
+
+00:00:58.080 --> 00:01:01.000
+What is pure roll?
+
+00:01:03.320 --> 00:01:11.480
+If here is an object, the
+cylinder is here with radius R,
+
+00:01:11.480 --> 00:01:14.660
+and I'm going to rotate it
+like this
+
+00:01:14.660 --> 00:01:20.600
+and roll it in this direction,
+the center is called point Q.
+
+00:01:20.600 --> 00:01:24.140
+Once it has made a complete
+rotation,
+
+00:01:24.140 --> 00:01:29.780
+if then the point Q has moved
+over a distance 2pi R,
+
+00:01:29.780 --> 00:01:36.180
+then we call that pure roll.
+
+00:01:36.180 --> 00:01:42.820
+When we have pure roll,
+the velocity of this point Q,
+
+00:01:42.820 --> 00:01:47.620
+and the velocity of
+the circumference,
+
+00:01:47.620 --> 00:01:49.780
+if you can read that--
+I'll just put a c there--
+
+00:01:49.780 --> 00:01:51.380
+are the same.
+
+00:01:51.380 --> 00:01:57.000
+In other words, vQ is then
+exactly the same
+
+00:01:57.000 --> 00:02:01.860
+as v circumference, and v
+circumference is always omega R.
+
+00:02:01.860 --> 00:02:08.040
+This part always holds,
+but for pure roll, this holds.
+
+00:02:08.040 --> 00:02:12.240
+You can easily imagine that
+if there is no friction here,
+
+00:02:12.240 --> 00:02:14.560
+that the object could be
+standing still,
+
+00:02:14.560 --> 00:02:17.900
+rotating like crazy,
+but Q would not go anywhere.
+
+00:02:17.900 --> 00:02:20.240
+So then we have skidding
+and we have slipping
+
+00:02:20.240 --> 00:02:24.280
+and then we don't have
+the pure roll situation.
+
+00:02:24.280 --> 00:02:26.780
+If the object is skidding
+or slipping,
+
+00:02:26.780 --> 00:02:29.760
+then the friction must always
+be a maximum here.
+
+00:02:29.760 --> 00:02:31.760
+If the object is in pure roll,
+
+00:02:31.760 --> 00:02:33.940
+the friction could be
+substantially less
+
+00:02:33.940 --> 00:02:37.700
+than the maximum
+friction possible.
+
+00:02:37.700 --> 00:02:41.900
+Now I would like to calculate
+with you the acceleration
+
+00:02:41.900 --> 00:02:43.920
+that a cylinder would obtain.
+
+00:02:43.920 --> 00:02:46.100
+When it pure rolls
+down that slope,
+
+00:02:46.100 --> 00:02:52.800
+it has mass M, it has length l
+and it has radius R.
+
+00:02:52.800 --> 00:02:54.920
+And I would like you to use
+your intuition
+
+00:02:54.920 --> 00:02:58.140
+and don't be afraid
+that it's wrong.
+
+00:02:58.140 --> 00:03:01.540
+I'm going to roll down
+this incline two cylinders.
+
+00:03:01.540 --> 00:03:05.320
+They're both solid,
+they have the same mass,
+
+00:03:05.320 --> 00:03:08.860
+they have the same length but
+they're very different in radii
+
+00:03:08.860 --> 00:03:11.560
+and I'm going to have a race
+between these two.
+
+00:03:11.560 --> 00:03:14.500
+Which one will reach
+the bottom first?
+
+00:03:14.500 --> 00:03:16.000
+So I repeat the problem.
+
+00:03:16.000 --> 00:03:20.220
+Two cylinders, both solid,
+same length, same mass,
+
+00:03:20.220 --> 00:03:22.800
+but one has a larger radius
+than the other.
+
+00:03:22.800 --> 00:03:23.940
+There's going to be a race.
+
+00:03:23.940 --> 00:03:26.160
+We're going to roll them down,
+pure roll.
+
+00:03:26.160 --> 00:03:27.240
+Which one will will?
+
+00:03:27.240 --> 00:03:27.920
+Win win?
+
+00:03:27.920 --> 00:03:29.000
+Will win?
+
+00:03:29.000 --> 00:03:33.480
+Who thinks that the one with
+the largest radius will win?
+
+00:03:33.480 --> 00:03:36.800
+Who thinks the large with the
+smallest radius will win?
+
+00:03:36.800 --> 00:03:40.120
+Who thinks there will be
+no winner, no loser?
+
+00:03:40.120 --> 00:03:42.180
+Wow, your intuition is
+better than mine was.
+
+00:03:42.180 --> 00:03:44.340
+We'll see how it goes.
+
+00:03:44.340 --> 00:03:46.480
+Keep in mind what your vote was
+
+00:03:46.480 --> 00:03:50.200
+and you will see it come out
+very shortly.
+
+00:03:50.200 --> 00:03:53.800
+Okay, let's put all the forces
+on this object that we know.
+
+00:03:53.800 --> 00:03:56.620
+This one is Mg.
+
+00:03:56.620 --> 00:04:02.880
+And we're going to decompose
+that into one a longer slope,
+
+00:04:02.880 --> 00:04:09.780
+which is Mg sine beta, and one
+perpendicular to the slope.
+
+00:04:09.780 --> 00:04:12.860
+We have done that
+a zill... zillion times now.
+
+00:04:12.860 --> 00:04:18.500
+And this one
+equals Mg cosine beta.
+
+00:04:18.500 --> 00:04:23.100
+Then there is right here
+a normal force,
+
+00:04:23.100 --> 00:04:26.260
+and the magnitude of that normal
+force is Mg cosine beta,
+
+00:04:26.260 --> 00:04:29.340
+so there is no acceleration
+in this direction
+
+00:04:29.340 --> 00:04:32.540
+and then we have a frictional
+force here
+
+00:04:32.540 --> 00:04:35.760
+for which I will write F of f.
+
+00:04:35.760 --> 00:04:40.560
+There is an angular velocity
+at any moment in time, omega,
+
+00:04:40.560 --> 00:04:42.980
+which will change
+with time, no doubt.
+
+00:04:42.980 --> 00:04:49.000
+And then this center point Q,
+which is the center of mass,
+
+00:04:49.000 --> 00:04:52.700
+is going to get a velocity v
+
+00:04:52.700 --> 00:04:56.220
+and that v will also change
+with time.
+
+00:04:56.220 --> 00:05:02.560
+And the v of the point Q
+which changes with time
+
+00:05:02.560 --> 00:05:05.580
+is v of the circumference,
+
+00:05:05.580 --> 00:05:08.200
+because that is the condition
+of pure roll.
+
+00:05:08.200 --> 00:05:10.420
+That equals omega R.
+
+00:05:10.420 --> 00:05:14.000
+This is always true, but this is
+only true when it is pure roll.
+
+00:05:14.000 --> 00:05:15.920
+I take the time derivative.
+
+00:05:15.920 --> 00:05:18.760
+The derivative of the velocity
+of that point Q
+
+00:05:18.760 --> 00:05:21.000
+is, per definition,
+its acceleration,
+
+00:05:21.000 --> 00:05:25.500
+so I get a equals omega dot
+times R,
+
+00:05:25.500 --> 00:05:27.240
+and that equals alpha R,
+
+00:05:27.240 --> 00:05:30.440
+alpha being the angular
+acceleration.
+
+00:05:30.440 --> 00:05:36.100
+So this is the condition
+for pure roll.
+
+00:05:36.100 --> 00:05:41.960
+Now I'm going to take the torque
+about point Q.
+
+00:05:41.960 --> 00:05:43.960
+When I take the torque
+about point Q,
+
+00:05:43.960 --> 00:05:46.200
+N has no effect because it goes
+through Q,
+
+00:05:46.200 --> 00:05:48.740
+and g has no effect
+because it goes through Q,
+
+00:05:48.740 --> 00:05:51.720
+so there's only one force
+that adds to the torque.
+
+00:05:51.720 --> 00:05:55.360
+If this radius is R,
+the magnitude is RF
+
+00:05:55.360 --> 00:05:57.580
+and the direction is
+in the blackboard.
+
+00:05:57.580 --> 00:06:00.000
+But I'm only interested
+in the magnitude for now,
+
+00:06:00.000 --> 00:06:04.860
+so I get R times
+the frictional force.
+
+00:06:04.860 --> 00:06:08.160
+This must be I alpha,
+
+00:06:08.160 --> 00:06:11.920
+I being the moment of inertia
+for rotation about this axis
+
+00:06:11.920 --> 00:06:19.860
+through point Q, times alpha,
+but I can replace alpha by a/R.
+
+00:06:19.860 --> 00:06:24.720
+So I get the moment of inertia
+about Q times a/R.
+
+00:06:24.720 --> 00:06:27.420
+And this is my first equation,
+
+00:06:27.420 --> 00:06:30.780
+and I have as an unknown
+the frictional force,
+
+00:06:30.780 --> 00:06:34.160
+and I have as an unknown a,
+and so I cannot solve for both.
+
+00:06:34.160 --> 00:06:36.840
+I need another equation.
+
+00:06:36.840 --> 00:06:38.960
+The next equation that I have
+is an obvious one,
+
+00:06:38.960 --> 00:06:42.840
+that is Newton's second law:
+f = MA.
+
+00:06:42.840 --> 00:06:44.520
+For the center of mass,
+
+00:06:44.520 --> 00:06:48.000
+I can consider all the mass
+right here at Q.
+
+00:06:48.000 --> 00:06:50.240
+We must have f = MA.
+
+00:06:50.240 --> 00:06:54.480
+And so M times the acceleration
+of that point Q,
+
+00:06:54.480 --> 00:06:56.700
+which is our goal, by the way,
+
+00:06:56.700 --> 00:07:05.160
+equals this component,
+equals Mg sine beta.
+
+00:07:05.160 --> 00:07:07.460
+That is the component downhill.
+
+00:07:07.460 --> 00:07:11.420
+And minus Ff,
+the frictional force,
+
+00:07:11.420 --> 00:07:13.140
+which is the component uphill,
+
+00:07:13.140 --> 00:07:15.560
+and this is
+my equation number two.
+
+00:07:15.560 --> 00:07:19.260
+Now I have two equations
+with two unknowns.
+
+00:07:19.260 --> 00:07:20.220
+So I can solve now.
+
+00:07:20.220 --> 00:07:26.000
+I can eliminate Ff and I will
+substitute for Ff in here
+
+00:07:26.000 --> 00:07:29.160
+this quantity divided by R.
+
+00:07:29.160 --> 00:07:35.720
+And so I get Ma equals
+Mg sine beta
+
+00:07:35.720 --> 00:07:40.120
+minus moment of inertia
+about point Q,
+
+00:07:40.120 --> 00:07:43.060
+times a divided by R squared.
+
+00:07:43.060 --> 00:07:46.060
+And now notice that
+I've eliminated F of f,
+
+00:07:46.060 --> 00:07:48.740
+and so now I can solve for a.
+
+00:07:48.740 --> 00:07:52.060
+So I'm going to get...
+I bring the a's to one side.
+
+00:07:52.060 --> 00:08:01.040
+So I get a times M plus moment
+of inertia divided by R squared
+
+00:08:01.040 --> 00:08:11.000
+equals Mg sine beta,
+and a now we have.
+
+00:08:11.000 --> 00:08:14.260
+I multiply both sides
+with R squared.
+
+00:08:14.260 --> 00:08:21.500
+I get MR squared g sine beta
+upstairs,
+
+00:08:21.500 --> 00:08:27.500
+and downstairs I get MR squared
+plus the moment of inertia
+
+00:08:27.500 --> 00:08:29.420
+about that point Q.
+
+00:08:29.420 --> 00:08:32.920
+This is my result, and
+all I have to put in now
+
+00:08:32.920 --> 00:08:37.440
+is the moment of inertia
+of rotation about that axis.
+
+00:08:37.440 --> 00:08:38.880
+I want to remind you, though,
+
+00:08:38.880 --> 00:08:45.340
+that it is only true if we have
+a situation of pure roll.
+
+00:08:45.340 --> 00:08:47.940
+So we can now substitute
+in there
+
+00:08:47.940 --> 00:08:53.740
+the values that we have
+for a solid cylinder.
+
+00:08:53.740 --> 00:08:58.840
+If we have a solid cylinder,
+
+00:08:58.840 --> 00:09:02.120
+then the moment of inertia
+about this axis
+
+00:09:02.120 --> 00:09:04.720
+through the center of mass,
+which I've called Q,
+
+00:09:04.720 --> 00:09:09.920
+equals 1/2 MR squared.
+
+00:09:09.920 --> 00:09:12.240
+And if I substitute that
+in here,
+
+00:09:12.240 --> 00:09:15.720
+notice that all my M's...
+MR squares go away.
+
+00:09:15.720 --> 00:09:19.000
+I get 1 + 1/2, which is 1 1/2.
+
+00:09:19.000 --> 00:09:21.160
+Upside down becomes 2/3.
+
+00:09:21.160 --> 00:09:28.360
+So a = 2/3 times g
+times the sine of beta.
+
+00:09:28.360 --> 00:09:32.960
+There is no M, there is no l
+and there is no R.
+
+00:09:32.960 --> 00:09:34.860
+So if I have two cylinders,
+
+00:09:34.860 --> 00:09:37.500
+solid cylinders
+with totally different mass,
+
+00:09:37.500 --> 00:09:40.060
+totally different radii,
+totally different length
+
+00:09:40.060 --> 00:09:42.760
+and they have a race,
+neither one wins.
+
+00:09:42.760 --> 00:09:44.740
+Very nonintuitive.
+
+00:09:44.740 --> 00:09:47.480
+Every time that I see it
+I find it kind of amazing.
+
+00:09:47.480 --> 00:09:49.420
+Notice that everything
+disappears.
+
+00:09:49.420 --> 00:09:52.580
+M, R and l disappear.
+
+00:09:52.580 --> 00:09:55.660
+So those of you who said
+that if I take two cylinders
+
+00:09:55.660 --> 00:09:58.180
+with the same mass,
+different radii,
+
+00:09:58.180 --> 00:10:00.580
+those of you who said that there
+is no winner, there is no loser,
+
+00:10:00.580 --> 00:10:01.480
+they were correct.
+
+00:10:01.480 --> 00:10:05.220
+But even more amazing is that
+even the mass you can change.
+
+00:10:05.220 --> 00:10:09.000
+You can change anything as long
+as the two cylinders are solid.
+
+00:10:09.000 --> 00:10:10.700
+That's what matters.
+
+00:10:10.700 --> 00:10:16.400
+So if we take a hollow cylinder,
+
+00:10:16.400 --> 00:10:19.240
+then the moment of inertia
+about this axis
+
+00:10:19.240 --> 00:10:22.000
+through the center of mass,
+through Q, if this...
+
+00:10:22.000 --> 00:10:25.880
+if really most of the mass
+is really at the surface,
+
+00:10:25.880 --> 00:10:30.060
+then it's very close
+to MR squared,
+
+00:10:30.060 --> 00:10:31.800
+and then the acceleration--
+
+00:10:31.800 --> 00:10:34.200
+if I substitute in here
+MR squared,
+
+00:10:34.200 --> 00:10:39.780
+I get a 2 there-- equals
+1/2 times g times sine beta.
+
+00:10:39.780 --> 00:10:43.320
+So this acceleration
+is less than this one.
+
+00:10:43.320 --> 00:10:45.880
+So the hollow cylinder will lose
+
+00:10:45.880 --> 00:10:50.560
+in any race against a solid
+cylinder regardless of mass,
+
+00:10:50.560 --> 00:10:54.820
+regardless of radius,
+regardless of length.
+
+00:10:54.820 --> 00:10:57.440
+And I want to show that to you.
+
+00:10:57.440 --> 00:11:04.340
+We have a setup here and I'll
+try to show that to you also
+
+00:11:04.340 --> 00:11:07.120
+on the screen there,
+
+00:11:07.120 --> 00:11:10.060
+but for those of you
+who are sitting close,
+
+00:11:10.060 --> 00:11:11.760
+it's probably much better
+
+00:11:11.760 --> 00:11:15.700
+that you just look at the
+demonstration right here.
+
+00:11:18.080 --> 00:11:22.780
+I have here... ooh.
+
+00:11:22.780 --> 00:11:23.620
+Uh-uh.
+
+00:11:23.620 --> 00:11:28.140
+I have here to start with a very
+heavy cylinder made of brass
+
+00:11:28.140 --> 00:11:30.180
+and this one is made
+of aluminum.
+
+00:11:30.180 --> 00:11:33.540
+They have very different masses,
+same radii, same length.
+
+00:11:33.540 --> 00:11:34.880
+Should make no difference.
+
+00:11:34.880 --> 00:11:38.300
+There should be no winner,
+there should be no loser.
+
+00:11:38.300 --> 00:11:42.000
+I'm going to start them off
+at the same time.
+
+00:11:42.000 --> 00:11:43.260
+I hope you can see that there.
+
+00:11:43.260 --> 00:11:45.660
+This is... this is
+the starting point.
+
+00:11:45.660 --> 00:11:47.220
+Can lower it a little.
+
+00:11:47.220 --> 00:11:49.680
+I will count down three to zero,
+
+00:11:49.680 --> 00:11:52.480
+and then you can see
+that they reach the bottom
+
+00:11:52.480 --> 00:11:54.200
+almost at the same time.
+
+00:11:54.200 --> 00:11:55.580
+So very different in mass.
+
+00:11:55.580 --> 00:11:58.300
+The mass difference is
+at least a factor of three.
+
+00:11:58.300 --> 00:12:00.000
+All other dimensions
+are the same.
+
+00:12:00.000 --> 00:12:02.300
+Three, two, one, zero.
+
+00:12:03.880 --> 00:12:06.160
+Completely in unison.
+
+00:12:06.160 --> 00:12:08.800
+Not intuitive for me.
+
+00:12:08.800 --> 00:12:13.000
+Now I have one that has
+a very small radius
+
+00:12:13.000 --> 00:12:13.860
+compared to this one.
+
+00:12:13.860 --> 00:12:16.000
+This is a sm... small
+aluminum rod.
+
+00:12:16.000 --> 00:12:18.480
+Maybe you can see it here,
+television.
+
+00:12:18.480 --> 00:12:21.260
+This is way more heavy,
+almost 30 times heavier.
+
+00:12:21.260 --> 00:12:22.280
+Should make no difference.
+
+00:12:22.280 --> 00:12:24.820
+As long as it's solid,
+should make no difference.
+
+00:12:24.820 --> 00:12:26.000
+No winner, no loser.
+
+00:12:26.000 --> 00:12:28.460
+Radii are different,
+masses are different.
+
+00:12:28.460 --> 00:12:31.060
+Should make no difference.
+
+00:12:33.780 --> 00:12:35.440
+Okay?
+
+00:12:35.440 --> 00:12:36.900
+Here we start the race.
+
+00:12:36.900 --> 00:12:39.320
+Three, two, one, zero.
+
+00:12:40.260 --> 00:12:42.940
+And they hit the bottom
+at the same time.
+
+00:12:42.940 --> 00:12:46.140
+But now here I have
+a hollow one,
+
+00:12:46.140 --> 00:12:48.140
+and you better believe it,
+that it's hollow.
+
+00:12:48.140 --> 00:12:51.280
+So now all the mass is
+at the circumference,
+
+00:12:51.280 --> 00:12:53.680
+and now it takes more time.
+
+00:12:53.680 --> 00:12:57.740
+Now the acceleration as you w...
+as you will see,
+
+00:12:57.740 --> 00:13:02.280
+is half times g sine beta; 
+in the other case it was 2/3.
+
+00:13:02.280 --> 00:13:04.100
+And you may want to think
+about it tonight,
+
+00:13:04.100 --> 00:13:05.600
+why this one takes more.
+
+00:13:05.600 --> 00:13:09.600
+It has to do, of course,
+with the moment of inertia,
+
+00:13:09.600 --> 00:13:12.740
+but again, it's independent
+of mass, radius and length.
+
+00:13:12.740 --> 00:13:14.840
+So it's purely a matter
+of geometry.
+
+00:13:14.840 --> 00:13:17.620
+This one is going to be
+the loser,
+
+00:13:17.620 --> 00:13:19.680
+and this one, regardless
+of mass or length,
+
+00:13:19.680 --> 00:13:21.600
+is going to be the winner.
+
+00:13:21.600 --> 00:13:22.420
+So you see them.
+
+00:13:22.420 --> 00:13:23.840
+One is hollow, one is not.
+
+00:13:23.840 --> 00:13:26.940
+This is very light; 
+this is very heavy.
+
+00:13:26.940 --> 00:13:31.260
+I'll put the hollow one
+on your side.
+
+00:13:33.520 --> 00:13:36.000
+Three, two, one, zero.
+
+00:13:38.600 --> 00:13:45.500
+The hollow one lost
+and even fell on the floor.
+
+00:13:45.500 --> 00:13:48.780
+Yeah, I find these things
+always quite amazing,
+
+00:13:48.780 --> 00:13:52.600
+that nature works this way,
+
+00:13:52.600 --> 00:13:55.000
+and I'm impressed
+that most of you
+
+00:13:55.000 --> 00:13:57.440
+or many of you had
+the right intuition
+
+00:13:57.440 --> 00:14:00.080
+when they said it would make
+no difference
+
+00:14:00.080 --> 00:14:03.000
+for the two solid cylinders.
+
+00:14:06.540 --> 00:14:12.140
+We now come to the most
+nonintuitive part of all of 8.01
+
+00:14:12.140 --> 00:14:16.300
+and arguably perhaps the most
+difficult part in all of physics
+
+00:14:16.300 --> 00:14:19.660
+and that has to do
+with gyroscopes.
+
+00:14:19.660 --> 00:14:22.860
+And I really urge you to pay
+a lot of attention
+
+00:14:22.860 --> 00:14:25.300
+and not even
+to miss ten seconds,
+
+00:14:25.300 --> 00:14:28.740
+because you're going to see some
+mind-boggling demonstrations
+
+00:14:28.740 --> 00:14:31.340
+which are so incredibly
+nonintuitive
+
+00:14:31.340 --> 00:14:34.260
+that unless you have followed
+the steps that lead up to it,
+
+00:14:34.260 --> 00:14:36.440
+you won't have any idea
+what you're looking at.
+
+00:14:36.440 --> 00:14:38.520
+It will be fun, it will be cute,
+
+00:14:38.520 --> 00:14:43.820
+but it won't do anything
+for you.
+
+00:14:43.820 --> 00:14:46.820
+Imagine that you and I
+go in outer space.
+
+00:14:46.820 --> 00:14:47.740
+No gravity.
+
+00:14:47.740 --> 00:14:49.480
+We're somewhere in outer space
+
+00:14:49.480 --> 00:14:52.200
+and we have
+this bicycle wheel there.
+
+00:14:52.200 --> 00:14:55.860
+And I'm going to put a torque
+on this bicycle wheel
+
+00:14:55.860 --> 00:14:59.140
+in this direction, so I'm going
+to put my right hand towards you
+
+00:14:59.140 --> 00:15:01.360
+and my left hand away from you.
+
+00:15:01.360 --> 00:15:02.800
+And I'll do that
+for a short amount of time
+
+00:15:02.800 --> 00:15:05.320
+and I'll let it go.
+
+00:15:05.320 --> 00:15:07.060
+It's obvious
+what's going to happen.
+
+00:15:07.060 --> 00:15:12.000
+This wheel is going to spin like
+this forever and ever and ever.
+
+00:15:12.000 --> 00:15:13.860
+I've given it a little torque.
+
+00:15:13.860 --> 00:15:15.480
+That means if there's torque,
+
+00:15:15.480 --> 00:15:17.540
+there's a change
+of angular momentum.
+
+00:15:17.540 --> 00:15:20.660
+The angular momentum change
+must be torque times delta t.
+
+00:15:20.660 --> 00:15:22.960
+And so I do this and let it go
+
+00:15:22.960 --> 00:15:26.220
+and it will rotate about this
+axis forever and ever and ever.
+
+00:15:26.220 --> 00:15:27.520
+Simple, right?
+
+00:15:27.520 --> 00:15:28.800
+Okay.
+
+00:15:28.800 --> 00:15:31.920
+Now I'm going to torque it
+in this direction.
+
+00:15:31.920 --> 00:15:34.840
+So we're in outer space,
+wheel is standing still
+
+00:15:34.840 --> 00:15:37.600
+and all I do is do this
+and I let it go.
+
+00:15:37.600 --> 00:15:41.620
+Then it will rotate forever
+and ever and ever and ever
+
+00:15:41.620 --> 00:15:42.880
+in this direction.
+
+00:15:42.880 --> 00:15:44.440
+That's clear.
+
+00:15:44.440 --> 00:15:47.340
+Now comes
+the very nonintuitive part.
+
+00:15:47.340 --> 00:15:52.680
+Now I'm going to give it
+a spin in your direction
+
+00:15:52.680 --> 00:15:56.260
+and now again I'm going
+to torque like this.
+
+00:15:56.260 --> 00:15:58.340
+What will now happen?
+
+00:15:58.340 --> 00:16:00.000
+You will say...
+or you might say.
+
+00:16:00.000 --> 00:16:02.200
+I'm not accusing you
+of anything.
+
+00:16:02.200 --> 00:16:06.960
+You might say, well, you give
+the wheel a spin
+
+00:16:06.960 --> 00:16:10.800
+so this... the wheel will
+probably continue to spin
+
+00:16:10.800 --> 00:16:14.360
+and you do this, so maybe
+what you're going to see is
+
+00:16:14.360 --> 00:16:17.880
+that it will rotate like this
+as it did before
+
+00:16:17.880 --> 00:16:21.660
+and in the same time
+the wheel will be spinning.
+
+00:16:21.660 --> 00:16:23.160
+But that cannot be
+
+00:16:23.160 --> 00:16:26.920
+because if the wheel would be
+spinning like this,
+
+00:16:26.920 --> 00:16:29.000
+then the angular momentum
+of the spinning wheel is
+
+00:16:29.000 --> 00:16:30.480
+in this direction.
+
+00:16:30.480 --> 00:16:32.280
+And if I would give it a twist
+
+00:16:32.280 --> 00:16:36.340
+and if it would continue to spin
+and it would rotate like this,
+
+00:16:36.340 --> 00:16:40.300
+then this spin angular momentum
+would go around like this
+
+00:16:40.300 --> 00:16:42.640
+and that cannot be because
+there's no torque on the system,
+
+00:16:42.640 --> 00:16:45.360
+because once I let go,
+there is no longer any torque.
+
+00:16:45.360 --> 00:16:48.680
+So it is not possible
+for the wheel to keep rotating,
+
+00:16:48.680 --> 00:16:51.380
+and as a result of this torque
+that I give it,
+
+00:16:51.380 --> 00:16:52.880
+that it simply goes around.
+
+00:16:52.880 --> 00:16:54.560
+That is not possible.
+
+00:16:54.560 --> 00:16:59.440
+How is nature going to deal
+with that?
+
+00:16:59.440 --> 00:17:03.080
+I'll show you that
+on a view graph.
+
+00:17:03.080 --> 00:17:05.800
+It's very nonintuitive
+what will happen.
+
+00:17:05.800 --> 00:17:12.000
+And we will then also... I
+will also demonstrate it to you.
+
+00:17:12.000 --> 00:17:13.260
+So here is the situation
+
+00:17:13.260 --> 00:17:16.360
+precisely as I described it
+to you.
+
+00:17:16.360 --> 00:17:19.540
+You are, as an observer,
+in this direction.
+
+00:17:19.540 --> 00:17:21.960
+This is the direction of 26.100.
+
+00:17:21.960 --> 00:17:24.560
+So you are viewing the wheels
+like this.
+
+00:17:24.560 --> 00:17:26.300
+They're spinning towards you.
+
+00:17:26.300 --> 00:17:30.420
+That's what I will do shortly
+and that's what I implied now.
+
+00:17:30.420 --> 00:17:33.220
+This is my right hand
+and this is my left hand.
+
+00:17:33.220 --> 00:17:35.780
+The separation between
+my height... right and left hand
+
+00:17:35.780 --> 00:17:37.320
+is little "b."
+
+00:17:37.320 --> 00:17:41.800
+So the torque that I apply
+is bF,
+
+00:17:41.800 --> 00:17:44.740
+is this arm, so to speak,
+times this force.
+
+00:17:44.740 --> 00:17:47.140
+And the force is perpendicular
+to the arm.
+
+00:17:47.140 --> 00:17:50.640
+I apply a torque for a certain
+amount of time-- delta t.
+
+00:17:50.640 --> 00:17:53.720
+When I do that, I apply,
+I add angular momentum
+
+00:17:53.720 --> 00:17:55.620
+in this direction.
+
+00:17:55.620 --> 00:17:58.300
+But the wheel was spinning in...
+in... in this direction.
+
+00:17:58.300 --> 00:17:59.440
+You see it.
+
+00:17:59.440 --> 00:18:02.000
+And so the angular momentum
+of spin of the wheel
+
+00:18:02.000 --> 00:18:03.940
+is in this direction.
+
+00:18:03.940 --> 00:18:08.880
+I add angular momentum in this
+direction and you see that here.
+
+00:18:08.880 --> 00:18:12.900
+So this was originally the spin
+angular momentum of the wheel.
+
+00:18:12.900 --> 00:18:15.900
+I torque for time delta t,
+
+00:18:15.900 --> 00:18:18.100
+and so I add angular momentum
+like this.
+
+00:18:18.100 --> 00:18:20.000
+And then I stop.
+
+00:18:20.000 --> 00:18:23.400
+I only torque for a short amount
+of time and I stop.
+
+00:18:23.400 --> 00:18:25.880
+That means after I have stopped,
+
+00:18:25.880 --> 00:18:28.000
+the angular momentum
+of the system as a whole
+
+00:18:28.000 --> 00:18:29.000
+can no longer change
+
+00:18:29.000 --> 00:18:30.840
+because there's no torque
+on the system,
+
+00:18:30.840 --> 00:18:33.620
+and the only way that nature now
+can solve that problem is
+
+00:18:33.620 --> 00:18:37.760
+to tilt this wheel in the way
+I've indicated here,
+
+00:18:37.760 --> 00:18:40.000
+and to make it spin
+in this direction
+
+00:18:40.000 --> 00:18:41.880
+and it will stand still.
+
+00:18:41.880 --> 00:18:45.180
+In other words, I hold it
+in my hand, the wheel--
+
+00:18:45.180 --> 00:18:51.580
+I will get it--
+I give it a spin.
+
+00:18:51.580 --> 00:18:57.860
+I hold it in my hand,
+I spin it towards you...
+
+00:18:57.860 --> 00:19:00.000
+and I'm going to put
+my right hand towards you
+
+00:19:00.000 --> 00:19:02.700
+and my left hand away from you.
+
+00:19:02.700 --> 00:19:05.800
+The spin angular momentum
+is now in this direction,
+
+00:19:05.800 --> 00:19:07.800
+so I'm going to give
+it a torque like so.
+
+00:19:07.800 --> 00:19:08.820
+That means up.
+
+00:19:08.820 --> 00:19:09.920
+And what will the wheel do?
+
+00:19:09.920 --> 00:19:12.120
+The wheel will do this.
+
+00:19:12.120 --> 00:19:13.160
+Very nonintuitive.
+
+00:19:13.160 --> 00:19:15.180
+Watch it.
+
+00:19:15.180 --> 00:19:16.620
+Isn't that strange?
+
+00:19:16.620 --> 00:19:17.620
+You wouldn't expect that.
+
+00:19:17.620 --> 00:19:18.760
+I will do it again.
+
+00:19:18.760 --> 00:19:22.360
+I'm going to torque by pushing
+my hand towards you,
+
+00:19:22.360 --> 00:19:25.080
+and the wheel does something
+completely unexpected.
+
+00:19:25.080 --> 00:19:26.680
+It simply tilts.
+
+00:19:26.680 --> 00:19:28.400
+If I torque
+the other way around,
+
+00:19:28.400 --> 00:19:31.220
+then the torque, of course,
+will make it flip like this.
+
+00:19:31.220 --> 00:19:35.480
+I'll give it a little bit more
+spin angular momentum,
+
+00:19:35.480 --> 00:19:37.740
+so now I move my left hand
+towards you,
+
+00:19:37.740 --> 00:19:39.680
+and my right hand towards me,
+
+00:19:39.680 --> 00:19:43.000
+and then I expect that the wheel
+will do this.
+
+00:19:43.000 --> 00:19:45.000
+And that's what it does.
+
+00:19:45.000 --> 00:19:47.860
+Extremely nonintuitive.
+
+00:19:47.860 --> 00:19:50.800
+These torques applied
+to a spinning wheel
+
+00:19:50.800 --> 00:19:53.900
+always do something
+that you don't expect.
+
+00:19:53.900 --> 00:19:57.340
+However, there is one thing
+that always helps me
+
+00:19:57.340 --> 00:20:00.220
+in terms of guiding me
+
+00:20:00.220 --> 00:20:03.220
+and that is
+you can always predict
+
+00:20:03.220 --> 00:20:10.120
+that the spin angular momentum
+will always move
+
+00:20:10.120 --> 00:20:16.920
+in the direction of the torque,
+
+00:20:16.920 --> 00:20:19.700
+which is this external torque
+that I applied.
+
+00:20:19.700 --> 00:20:22.340
+Let's go over that again.
+
+00:20:22.340 --> 00:20:26.700
+We have here the spin angular
+momentum that you saw.
+
+00:20:26.700 --> 00:20:28.780
+It was pointing
+in this direction.
+
+00:20:28.780 --> 00:20:33.580
+And I applied the torque
+in this direction, the vector.
+
+00:20:33.580 --> 00:20:35.660
+And what does
+the spin angular momentum do?
+
+00:20:35.660 --> 00:20:39.760
+It goes in the direction
+of the torque.
+
+00:20:39.760 --> 00:20:42.020
+And then when I stop
+with my torque,
+
+00:20:42.020 --> 00:20:43.760
+then of course nothing
+changes anymore,
+
+00:20:43.760 --> 00:20:47.340
+and so what happens is
+this wheel tilts.
+
+00:20:47.340 --> 00:20:52.120
+But notice that L, the spin
+angular momentum, has moved
+
+00:20:52.120 --> 00:20:54.240
+from here to here.
+
+00:20:54.240 --> 00:20:56.040
+And I was torqueing
+in this direction,
+
+00:20:56.040 --> 00:20:59.200
+so it moved towards the torque.
+
+00:20:59.200 --> 00:21:04.980
+If you have digested this,
+then you can test yourself now.
+
+00:21:04.980 --> 00:21:07.060
+Now we have the same wheel.
+
+00:21:07.060 --> 00:21:10.340
+I'm going to rotate it
+in exactly the same direction,
+
+00:21:10.340 --> 00:21:14.700
+but now I'm not going to torque
+like this, in the Z direction,
+
+00:21:14.700 --> 00:21:17.040
+or like this,
+in the minus-Z direction.
+
+00:21:17.040 --> 00:21:19.480
+Now I'm going to do this.
+
+00:21:19.480 --> 00:21:23.100
+Or I'm going to do this.
+
+00:21:23.100 --> 00:21:27.680
+Try now to really concentrate
+on what I just taught you.
+
+00:21:27.680 --> 00:21:29.720
+And try to give an answer
+to the following question.
+
+00:21:29.720 --> 00:21:32.260
+The wheel is rotating.
+
+00:21:32.260 --> 00:21:35.480
+I hold it in my hand and I'm
+going to torque it like this
+
+00:21:35.480 --> 00:21:38.900
+so that the torque factor is
+in your direction.
+
+00:21:38.900 --> 00:21:42.920
+Angular momentum goes like this,
+torque is like this.
+
+00:21:42.920 --> 00:21:46.100
+What will the angular momentum
+vector do?
+
+00:21:46.100 --> 00:21:52.460
+Move in the direction
+of... of the torque.
+
+00:21:52.460 --> 00:21:53.460
+What will the angular...
+
+00:21:53.460 --> 00:21:55.900
+what will the spin angular
+momentum vector then do
+
+00:21:55.900 --> 00:21:58.700
+if the torque is
+in this direction?
+
+00:21:58.700 --> 00:22:00.260
+It will do this.
+
+00:22:00.260 --> 00:22:03.580
+It's going to move
+in the horizontal plane.
+
+00:22:03.580 --> 00:22:06.720
+Very nonintuitive,
+but that's what it will do.
+
+00:22:06.720 --> 00:22:08.840
+And I will show that to you.
+
+00:22:08.840 --> 00:22:14.460
+I'm going to spin this wheel.
+
+00:22:14.460 --> 00:22:16.500
+I'm going to spin it with
+a high angular momentum,
+
+00:22:16.500 --> 00:22:19.420
+high spin angular momentum.
+
+00:22:19.420 --> 00:22:21.820
+And then I'm going to sit
+on this stool
+
+00:22:21.820 --> 00:22:23.540
+and I'm going to torque
+exactly as you see
+
+00:22:23.540 --> 00:22:24.700
+on the picture on the right.
+
+00:22:24.700 --> 00:22:26.880
+I'm going to torque like this.
+
+00:22:26.880 --> 00:22:29.220
+And as long as I torque it
+like this,
+
+00:22:29.220 --> 00:22:32.040
+that spin angular momentum
+wants to go around
+
+00:22:32.040 --> 00:22:33.880
+in the horizontal plane.
+
+00:22:33.880 --> 00:22:35.820
+And when I torque
+the other way around,
+
+00:22:35.820 --> 00:22:39.760
+it will go back
+in the horizontal plane.
+
+00:23:02.160 --> 00:23:04.360
+I'm going to torque exactly
+as you see on the picture there.
+
+00:23:04.360 --> 00:23:06.460
+Are you ready?
+
+00:23:08.180 --> 00:23:10.300
+I stop the torque; 
+nothing happens.
+
+00:23:10.300 --> 00:23:12.480
+I torque backwards; 
+I keep torqueing.
+
+00:23:12.480 --> 00:23:13.120
+I keep torqueing.
+
+00:23:13.120 --> 00:23:13.920
+I feel it in my hand.
+
+00:23:13.920 --> 00:23:15.080
+I really have to push.
+
+00:23:15.080 --> 00:23:16.280
+I keep torqueing.
+
+00:23:16.280 --> 00:23:18.000
+And I stop torqueing
+and it stops.
+
+00:23:18.000 --> 00:23:19.900
+The angular momentum vector
+
+00:23:19.900 --> 00:23:23.000
+is chasing, so to speak,
+the torque.
+
+00:23:23.000 --> 00:23:24.720
+Is that nonintuitive?
+
+00:23:24.720 --> 00:23:28.840
+Very nonintuitive?
+
+00:23:28.840 --> 00:23:33.380
+It's also dangerous sometimes.
+
+00:23:35.700 --> 00:23:38.960
+We call this motion of the
+stool, and in this case,
+
+00:23:38.960 --> 00:23:44.440
+the motion of the spinning
+wheel, we call that precession.
+
+00:23:44.440 --> 00:23:48.240
+So you apply a torque
+to a spinning wheel.
+
+00:23:48.240 --> 00:23:54.940
+Then what you obtain
+is a precession.
+
+00:23:54.940 --> 00:23:58.540
+I can show you the precession
+in another way
+
+00:23:58.540 --> 00:24:03.320
+which is, in fact,
+very intriguing.
+
+00:24:03.320 --> 00:24:10.740
+Suppose I have here a string,
+a rope, like we have there.
+
+00:24:10.740 --> 00:24:16.840
+And I stick into that rope,
+I attach to the rope this wheel,
+
+00:24:16.840 --> 00:24:20.020
+just like so.
+
+00:24:22.480 --> 00:24:23.760
+And I let it go.
+
+00:24:23.760 --> 00:24:25.280
+Well, we all know
+what will happen.
+
+00:24:25.280 --> 00:24:26.960
+Pffft, clunk.
+
+00:24:26.960 --> 00:24:28.460
+It's clear.
+
+00:24:28.460 --> 00:24:29.540
+All right.
+
+00:24:29.540 --> 00:24:33.200
+But now I'm going to spin it
+before I let it go.
+
+00:24:33.200 --> 00:24:38.960
+So here at the bottom, at this
+point P, there is a loop.
+
+00:24:38.960 --> 00:24:44.400
+And here is the... the axis of
+rotation of the bicycle wheel
+
+00:24:44.400 --> 00:24:48.020
+which is solid brass,
+it's a solid piece,
+
+00:24:48.020 --> 00:24:49.840
+and I give that a length
+little "r,"
+
+00:24:49.840 --> 00:24:52.560
+not to be confused
+with capital "R,"
+
+00:24:52.560 --> 00:24:57.740
+which is the radius
+of the bicycle wheel.
+
+00:24:59.060 --> 00:25:04.320
+So this is capital R.
+
+00:25:04.320 --> 00:25:08.320
+And it can rotate about this
+here reasonably freely.
+
+00:25:08.320 --> 00:25:11.900
+I call that center point Q
+
+00:25:11.900 --> 00:25:17.540
+and let this be the part of
+the wheel that is on your side.
+
+00:25:17.540 --> 00:25:21.960
+I'm trying to make you see it a
+little bit three-dimensionally.
+
+00:25:21.960 --> 00:25:26.040
+Suppose now I give it a spin
+in this direction.
+
+00:25:26.040 --> 00:25:26.940
+Omega s.
+
+00:25:26.940 --> 00:25:29.800
+"S" stands for "spin."
+
+00:25:29.800 --> 00:25:33.260
+In what direction is now
+the spin angular momentum?
+
+00:25:33.260 --> 00:25:35.480
+Use your hands, your thumbs.
+
+00:25:35.480 --> 00:25:36.960
+Spinning in this direction.
+
+00:25:36.960 --> 00:25:38.500
+Yeah.
+
+00:25:38.500 --> 00:25:41.820
+Spinning this direction, angular
+momentum is in this direction.
+
+00:25:41.820 --> 00:25:45.760
+That's a spin angular momentum.
+
+00:25:45.760 --> 00:25:49.920
+L spin.
+
+00:25:49.920 --> 00:25:55.380
+Well, there is a force
+on this system, Mg,
+
+00:25:55.380 --> 00:25:58.980
+and that force is
+in this direction.
+
+00:25:58.980 --> 00:26:03.180
+It has a mass M,
+the bicycle wheel,
+
+00:26:03.180 --> 00:26:05.380
+and it has a radius,
+capital "R,"
+
+00:26:05.380 --> 00:26:09.200
+and this part is little "r."
+
+00:26:09.200 --> 00:26:15.620
+So relative to point P,
+there is a torque
+
+00:26:15.620 --> 00:26:17.800
+and the torque is R times Mg.
+
+00:26:17.800 --> 00:26:21.380
+This is 90 degrees
+so the cross product is nice.
+
+00:26:21.380 --> 00:26:23.240
+The sine of the angle is one.
+
+00:26:23.240 --> 00:26:28.760
+So the torque relative to point
+P is r times M times g.
+
+00:26:28.760 --> 00:26:32.760
+In what direction
+is that torque?
+
+00:26:32.760 --> 00:26:34.260
+R cross F.
+
+00:26:34.260 --> 00:26:37.660
+In what direction
+is that torque?
+
+00:26:37.660 --> 00:26:41.140
+Use your hands, thumbs,
+whatever you want.
+
+00:26:41.140 --> 00:26:42.660
+You think in this direction?
+
+00:26:42.660 --> 00:26:44.780
+I disagree.
+
+00:26:44.780 --> 00:26:45.340
+I disagree.
+
+00:26:45.340 --> 00:26:51.820
+R cross F is...
+you must be kidding.
+
+00:26:51.820 --> 00:26:53.720
+In the blackboard.
+
+00:26:53.720 --> 00:26:55.260
+It's not out of the blackboard; 
+it's in the blackboard.
+
+00:26:55.260 --> 00:26:59.600
+R cross F is in the blackboard.
+
+00:26:59.600 --> 00:27:02.720
+There is a torque
+in this direction.
+
+00:27:02.720 --> 00:27:06.680
+Nature, gravity
+provides that torque.
+
+00:27:06.680 --> 00:27:09.900
+What will the spin angular
+momentum do?
+
+00:27:09.900 --> 00:27:13.140
+It's going to move in the
+direction of the torque.
+
+00:27:13.140 --> 00:27:15.080
+It's going to chase the torque.
+
+00:27:15.080 --> 00:27:18.960
+So what will it do if the
+angular momentum is here?
+
+00:27:18.960 --> 00:27:19.800
+What will it do?
+
+00:27:19.800 --> 00:27:21.300
+It will do this.
+
+00:27:21.300 --> 00:27:27.320
+And as it moves, the torque
+will always be perpendicular
+
+00:27:27.320 --> 00:27:30.920
+to the plane
+through the string and r.
+
+00:27:30.920 --> 00:27:33.320
+You can just see that
+for yourself why that is.
+
+00:27:33.320 --> 00:27:35.920
+At this very moment when angular
+momentum is like this,
+
+00:27:35.920 --> 00:27:39.600
+the torque is in the blackboard
+because it's r cross F.
+
+00:27:39.600 --> 00:27:43.160
+But when I'm here, this r
+has changed position,
+
+00:27:43.160 --> 00:27:46.920
+and always remains perpendicular
+to the wheel.
+
+00:27:46.920 --> 00:27:49.460
+So the torque
+will also change direction
+
+00:27:49.460 --> 00:27:52.200
+and so this angular momentum,
+
+00:27:52.200 --> 00:27:55.000
+spin angular momentum
+will keep chasing the torque
+
+00:27:55.000 --> 00:27:57.220
+and start to rotate freely.
+
+00:27:57.220 --> 00:28:00.540
+That is exactly what I was doing
+when I was sitting on the stool,
+
+00:28:00.540 --> 00:28:04.540
+except that I had to apply that
+torque in my hands like this.
+
+00:28:04.540 --> 00:28:06.080
+It's exactly the same direction.
+
+00:28:06.080 --> 00:28:07.840
+I had to apply it all the time,
+
+00:28:07.840 --> 00:28:11.580
+and when I stopped,
+the precession stopped.
+
+00:28:11.580 --> 00:28:14.160
+Here, however, the torque
+will never stop
+
+00:28:14.160 --> 00:28:16.960
+because this Mg
+will always be there,
+
+00:28:16.960 --> 00:28:20.300
+and I will show that
+to you shortly.
+
+00:28:20.300 --> 00:28:23.600
+You may say, "You must be crazy
+
+00:28:23.600 --> 00:28:30.700
+"because you're violating
+Newton's second law, f = MA.
+
+00:28:30.700 --> 00:28:33.120
+"This object got to fall.
+
+00:28:33.120 --> 00:28:35.640
+"There's only one force
+on that object.
+
+00:28:35.640 --> 00:28:36.460
+"f = MA.
+
+00:28:36.460 --> 00:28:37.200
+"How can it not?
+
+00:28:37.200 --> 00:28:40.100
+The center of mass must fall
+with acceleration g."
+
+00:28:40.100 --> 00:28:41.100
+Aha.
+
+00:28:41.100 --> 00:28:43.460
+There is not just one force
+on that object.
+
+00:28:43.460 --> 00:28:45.260
+What do you think is here?
+
+00:28:45.260 --> 00:28:50.460
+The tension in this cable, T,
+will be exactly Mg.
+
+00:28:50.460 --> 00:28:57.740
+And so the net, the sum of all
+forces on that object is zero.
+
+00:28:57.740 --> 00:29:02.160
+There is no net force on that
+wheel but there is a net torque,
+
+00:29:02.160 --> 00:29:03.880
+and that's why
+it's going to precess.
+
+00:29:03.880 --> 00:29:05.580
+If there had been a net force,
+
+00:29:05.580 --> 00:29:08.280
+then indeed
+it would also go down,
+
+00:29:08.280 --> 00:29:10.300
+if this force
+were larger than this.
+
+00:29:10.300 --> 00:29:12.020
+So nature is very clever,
+
+00:29:12.020 --> 00:29:16.420
+the way that it deals with these
+rather difficult problems.
+
+00:29:16.420 --> 00:29:19.140
+Before I will show you
+this demonstration
+
+00:29:19.140 --> 00:29:23.580
+by spinning this wheel and then
+hanging it there in that rope,
+
+00:29:23.580 --> 00:29:25.280
+um, I want to mention
+
+00:29:25.280 --> 00:29:29.740
+that the angular frequency
+of the precession,
+
+00:29:29.740 --> 00:29:31.240
+which should never be confused
+
+00:29:31.240 --> 00:29:34.980
+with the angular frequency
+of spinning,
+
+00:29:34.980 --> 00:29:38.860
+is derived for you... it's only
+a three- or four-minute job,
+
+00:29:38.860 --> 00:29:43.220
+on page 344 in your book.
+
+00:29:43.220 --> 00:29:47.220
+Now, I will not derive it here
+but what comes out of it,
+
+00:29:47.220 --> 00:29:48.860
+that it is the torque
+
+00:29:48.860 --> 00:29:52.500
+which is the one that we have
+here in this case,
+
+00:29:52.500 --> 00:29:56.160
+divided by
+the spin angular momentum.
+
+00:29:56.160 --> 00:30:01.460
+That gives you the frequency
+of the precession.
+
+00:30:01.460 --> 00:30:07.580
+In our case, for our bicycle
+wheel, it is rMg
+
+00:30:07.580 --> 00:30:10.680
+and the spin angular momentum
+of this wheel,
+
+00:30:10.680 --> 00:30:15.560
+if it is rotating with angular
+velocity omega of s,
+
+00:30:15.560 --> 00:30:17.400
+would be I times omega.
+
+00:30:17.400 --> 00:30:20.280
+Remember, l is I times omega
+of a spinning wheel.
+
+00:30:20.280 --> 00:30:24.780
+So I have here I
+rotating about point Q--
+
+00:30:24.780 --> 00:30:29.400
+this is the axis of rotation--
+times omega of the spin.
+
+00:30:29.400 --> 00:30:32.260
+This is the spin
+and this is the precession.
+
+00:30:32.260 --> 00:30:34.800
+And then the period
+of precession
+
+00:30:34.800 --> 00:30:39.720
+would be 2pi divided
+by omega precession.
+
+00:30:39.720 --> 00:30:41.520
+Let's take a look
+at that equation
+
+00:30:41.520 --> 00:30:45.800
+and see whether that sort
+of intuitively makes sense.
+
+00:30:45.800 --> 00:30:51.160
+First of all, if you increase
+the torque, the upstairs,
+
+00:30:51.160 --> 00:30:54.140
+then it says that the precession
+frequency will increase.
+
+00:30:54.140 --> 00:30:55.860
+That makes sense to me
+
+00:30:55.860 --> 00:31:00.240
+because the torque is persuading
+the angular momentum
+
+00:31:00.240 --> 00:31:01.440
+to follow it.
+
+00:31:01.440 --> 00:31:05.100
+So the torque is persuading the
+spin angular momentum to change.
+
+00:31:05.100 --> 00:31:08.720
+Well, if the torque is stronger
+then it is more powerful,
+
+00:31:08.720 --> 00:31:11.140
+so you expect
+that the precession frequency
+
+00:31:11.140 --> 00:31:13.000
+will be higher.
+
+00:31:13.000 --> 00:31:18.540
+However, if the spin angular
+momentum is very powerful,
+
+00:31:18.540 --> 00:31:22.720
+then the spin angular momentum
+says, "Sorry, torque,
+
+00:31:22.720 --> 00:31:25.660
+I'm not going to go as fast
+as you want me to go."
+
+00:31:25.660 --> 00:31:28.800
+So when you increase that spin
+angular momentum in the wheel,
+
+00:31:28.800 --> 00:31:30.300
+it is also intuitive
+
+00:31:30.300 --> 00:31:35.980
+that the precession frequency
+will go down.
+
+00:31:35.980 --> 00:31:40.300
+As the wheel spins,
+it has spin angular momentum,
+
+00:31:40.300 --> 00:31:43.040
+but as it precesses around
+like this,
+
+00:31:43.040 --> 00:31:46.380
+there will also be angular
+momentum in this direction
+
+00:31:46.380 --> 00:31:49.380
+because it's rotating like this.
+
+00:31:49.380 --> 00:31:51.680
+Therefore there is
+a total angular momentum
+
+00:31:51.680 --> 00:31:56.980
+which is
+the vectorial sum of the two.
+
+00:31:56.980 --> 00:32:00.060
+This equation will only hold
+
+00:32:00.060 --> 00:32:03.960
+as long as the spin angular
+momentum is really dominating
+
+00:32:03.960 --> 00:32:06.700
+the total angular momentum
+
+00:32:06.700 --> 00:32:08.140
+and you can see that
+immediately,
+
+00:32:08.140 --> 00:32:11.560
+because suppose you make
+the spin angular momentum zero,
+
+00:32:11.560 --> 00:32:13.320
+that it is not spinning at all.
+
+00:32:13.320 --> 00:32:14.220
+Do you really think
+
+00:32:14.220 --> 00:32:16.380
+that the precession frequency
+will be infinitely high?
+
+00:32:16.380 --> 00:32:17.960
+Of course not.
+
+00:32:17.960 --> 00:32:20.400
+So this only holds in situations
+
+00:32:20.400 --> 00:32:24.100
+where the spin angular momentum
+is way, way larger
+
+00:32:24.100 --> 00:32:30.020
+than the angular momentum that
+you get due to the precession.
+
+00:32:30.020 --> 00:32:31.340
+So there are restrictions.
+
+00:32:31.340 --> 00:32:33.840
+When the... when the wheel
+comes to a halt,
+
+00:32:33.840 --> 00:32:36.700
+when it's no longer rotating,
+you better believe it,
+
+00:32:36.700 --> 00:32:39.120
+then the thing will go clunk.
+
+00:32:39.120 --> 00:32:44.600
+There's no longer
+the precession mode.
+
+00:32:44.600 --> 00:32:47.140
+For our bicycle wheel,
+
+00:32:47.140 --> 00:32:50.920
+to get a feeling for how long
+the precession will take,
+
+00:32:50.920 --> 00:32:55.820
+uh, we can substitute
+the numbers in there,
+
+00:32:55.820 --> 00:32:56.800
+our bicycle wheel,
+
+00:32:56.800 --> 00:33:00.100
+the... the... the rod,
+the brass rod, little r
+
+00:33:00.100 --> 00:33:04.340
+has a length of 17 centimeters,
+
+00:33:04.340 --> 00:33:08.920
+and the... the radius
+of the bicycle wheel
+
+00:33:08.920 --> 00:33:15.000
+is about 29 centimeters.
+
+00:33:15.000 --> 00:33:17.440
+And let me make the assumption
+
+00:33:17.440 --> 00:33:21.940
+that all the mass of the bicycle
+wheel is at the circumference,
+
+00:33:21.940 --> 00:33:24.140
+which is not very accurate,
+but it's close to that.
+
+00:33:24.140 --> 00:33:25.980
+I mean, there are
+some spokes here,
+
+00:33:25.980 --> 00:33:27.980
+but let's assume
+that everything is here,
+
+00:33:27.980 --> 00:33:32.420
+so then the moment of inertia is
+MR squared.
+
+00:33:32.420 --> 00:33:39.440
+Well, if now you take
+a frequency of five hertz,
+
+00:33:39.440 --> 00:33:41.740
+spin frequency,
+
+00:33:41.740 --> 00:33:46.920
+you can calculate now omega
+of the spin frequency.
+
+00:33:46.920 --> 00:33:51.780
+Omega equals 2pi
+times the spin frequency.
+
+00:33:51.780 --> 00:33:55.700
+And so I know now I can
+substitute that in there,
+
+00:33:55.700 --> 00:33:58.700
+so I get an omega precession
+
+00:33:58.700 --> 00:34:03.860
+now equals rMg
+times the moment of inertia.
+
+00:34:03.860 --> 00:34:07.280
+I assume that all the mass is
+at the circumference,
+
+00:34:07.280 --> 00:34:10.260
+an approximation,
+so we get MR squared
+
+00:34:10.260 --> 00:34:14.740
+and then we get omega S,
+which we have here.
+
+00:34:14.740 --> 00:34:17.120
+We lose the M, and so we get
+
+00:34:17.120 --> 00:34:23.040
+rg divided by omega s
+times R squared.
+
+00:34:23.040 --> 00:34:29.120
+That is the angular frequency
+of the precession,
+
+00:34:29.120 --> 00:34:35.120
+and the period of the precession
+is 2pi divided by omega
+
+00:34:35.120 --> 00:34:38.400
+and you find then for the period
+of the precession
+
+00:34:38.400 --> 00:34:41.100
+about ten seconds.
+
+00:34:41.100 --> 00:34:45.440
+So if I gave it a spin frequency
+of five hertz
+
+00:34:45.440 --> 00:34:47.880
+with these dimensions
+and with this approximation
+
+00:34:47.880 --> 00:34:50.180
+that all the mass is
+at the circumference,
+
+00:34:50.180 --> 00:34:54.360
+you would expect that it would
+precess around very gently
+
+00:34:54.360 --> 00:34:55.760
+in about ten seconds.
+
+00:34:55.760 --> 00:34:59.020
+But I have very little control
+over that frequency,
+
+00:34:59.020 --> 00:35:01.160
+so it is possible
+I gave it seven hertz,
+
+00:35:01.160 --> 00:35:03.580
+it's possible
+I gave it three hertz.
+
+00:35:03.580 --> 00:35:05.740
+But I will do what I can.
+
+00:35:05.740 --> 00:35:08.040
+I'll actually give it
+the maximum one that I can.
+
+00:35:08.040 --> 00:35:12.580
+That is always guaranteed
+success.
+
+00:35:12.580 --> 00:35:13.580
+Where is the wheel?
+
+00:35:13.580 --> 00:35:17.580
+The wheel is here.
+
+00:35:17.580 --> 00:35:23.000
+So we'll spin it up
+and then we'll put it in here.
+
+00:35:26.400 --> 00:35:28.400
+Notice the way I'm spinning it.
+
+00:35:28.400 --> 00:35:31.000
+I'm holding it away from me now
+and going to change it
+
+00:35:31.000 --> 00:35:34.260
+and do it differently next.
+
+00:35:53.900 --> 00:35:56.240
+And there it goes.
+
+00:35:56.240 --> 00:36:00.480
+About ten seconds.
+
+00:36:00.480 --> 00:36:02.240
+Isn't that amazing?
+
+00:36:02.240 --> 00:36:08.080
+And it rotates,
+seen from below, clockwise.
+
+00:36:08.080 --> 00:36:11.000
+Now it's going this way and I'm
+going to redo the experiment,
+
+00:36:11.000 --> 00:36:12.820
+changing the direction
+of rotation,
+
+00:36:12.820 --> 00:36:15.040
+and then it will go
+the other way around.
+
+00:36:15.040 --> 00:36:17.500
+And now the angular momentum
+is rotating like this,
+
+00:36:17.500 --> 00:36:20.020
+is pointing here.
+
+00:36:20.020 --> 00:36:23.260
+Spin angular momentum
+is pointing like this,
+
+00:36:23.260 --> 00:36:26.000
+torque is like this,
+
+00:36:26.000 --> 00:36:28.140
+and so the spin angular momentum
+is changing that...
+
+00:36:28.140 --> 00:36:28.980
+chasing that torque.
+
+00:36:28.980 --> 00:36:29.980
+I am the spin angular momentum.
+
+00:36:29.980 --> 00:36:31.080
+I am the torque.
+
+00:36:31.080 --> 00:36:31.960
+This is the torque.
+
+00:36:31.960 --> 00:36:34.800
+It's chasing it.
+
+00:36:38.480 --> 00:36:38.980
+All right.
+
+00:36:38.980 --> 00:36:41.800
+So I have this in my right hand.
+
+00:36:41.800 --> 00:36:43.080
+That's all right.
+
+00:36:43.080 --> 00:36:51.420
+And now I will... so
+when I spin it up, that's right.
+
+00:36:51.420 --> 00:36:54.560
+So let me now change
+the direction.
+
+00:36:54.560 --> 00:37:00.660
+I'm turning it over and
+I'm going to spin it up again.
+
+00:37:22.600 --> 00:37:27.360
+Angular momentum is now
+in this direction.
+
+00:37:27.360 --> 00:37:28.600
+See, it's turning
+the other way around.
+
+00:37:28.600 --> 00:37:30.440
+Angular momentum is
+in this direction.
+
+00:37:30.440 --> 00:37:33.980
+Torque is now towards me.
+
+00:37:33.980 --> 00:37:36.180
+Angular momentum is chasing
+the torque.
+
+00:37:36.180 --> 00:37:38.900
+I've changed the direction
+of the spin angular momentum.
+
+00:37:38.900 --> 00:37:40.940
+I've not changed the direction
+of the torque,
+
+00:37:40.940 --> 00:37:44.600
+and now it is rotating, as seen
+from below, counterclockwise.
+
+00:37:44.600 --> 00:37:47.740
+Before,
+it was rotating clockwise.
+
+00:37:47.740 --> 00:37:49.960
+If I can increase the torque
+
+00:37:49.960 --> 00:37:53.580
+by putting some weight here
+on the axle, I have this...
+
+00:37:53.580 --> 00:37:56.820
+this actually extends,
+in our case,
+
+00:37:56.820 --> 00:37:59.120
+and I can put some weight
+on here,
+
+00:37:59.120 --> 00:38:01.680
+then I actually add
+to the torque
+
+00:38:01.680 --> 00:38:04.960
+and then you will see
+that it's... it goes faster.
+
+00:38:04.960 --> 00:38:07.040
+The precession frequency
+goes up.
+
+00:38:07.040 --> 00:38:11.600
+So I will put some weight
+on there.
+
+00:38:31.180 --> 00:38:35.880
+So let it first go around,
+which was roughly ten seconds,
+
+00:38:35.880 --> 00:38:39.300
+roughly calculated,
+
+00:38:39.300 --> 00:38:43.260
+and now I'm going to put
+two kilograms here at the end.
+
+00:38:43.260 --> 00:38:45.320
+And now you will see
+an instantaneous increase
+
+00:38:45.320 --> 00:38:47.140
+in the precession frequency.
+
+00:38:47.140 --> 00:38:49.900
+You see it goes much faster now.
+
+00:38:49.900 --> 00:38:53.340
+I take it off and then it goes
+back to its roughly ten seconds.
+
+00:38:53.340 --> 00:38:56.340
+So what I have done is
+I have increased this torque
+
+00:38:56.340 --> 00:38:58.280
+but not at the expense of M,
+
+00:38:58.280 --> 00:39:00.120
+because the reason why
+the M cancels is
+
+00:39:00.120 --> 00:39:02.280
+because the moment of inertia
+has an M in it,
+
+00:39:02.280 --> 00:39:04.200
+but if I just hang
+this object on it,
+
+00:39:04.200 --> 00:39:05.560
+that doesn't change
+the moment of inertia
+
+00:39:05.560 --> 00:39:09.720
+of the spinning wheel.
+
+00:39:09.720 --> 00:39:12.540
+None of this is intuitive.
+
+00:39:12.540 --> 00:39:16.440
+None of this
+is intuitive.
+
+00:39:16.440 --> 00:39:26.240
+You can do all of this
+with a $5 toy gyro.
+
+00:39:26.240 --> 00:39:27.240
+And I want to show this to you.
+
+00:39:27.240 --> 00:39:28.060
+This is my toy gyro.
+
+00:39:28.060 --> 00:39:28.860
+I have it in my office.
+
+00:39:28.860 --> 00:39:30.600
+It's great fun.
+
+00:39:30.600 --> 00:39:34.660
+And this toy gyro is doing
+exactly the same thing
+
+00:39:34.660 --> 00:39:37.200
+that this is doing.
+
+00:39:37.200 --> 00:39:44.380
+Let me show you
+the toy gyro first.
+
+00:39:44.380 --> 00:39:47.820
+Toy gyro.
+
+00:39:47.820 --> 00:39:49.560
+Oh, yeah.
+
+00:39:49.560 --> 00:39:50.440
+Here is a toy gyro.
+
+00:39:50.440 --> 00:39:52.440
+Can you see it?
+
+00:39:52.440 --> 00:39:58.700
+Maybe I should make it
+a little darker here.
+
+00:39:58.700 --> 00:40:02.020
+Can you see my toy gyro?
+
+00:40:02.020 --> 00:40:04.520
+Yeah?
+
+00:40:04.520 --> 00:40:07.120
+I'm going to spin it
+
+00:40:07.120 --> 00:40:09.120
+and then I'm going to hang it
+exactly the same way
+
+00:40:09.120 --> 00:40:10.360
+that that was hanging.
+
+00:40:10.360 --> 00:40:11.200
+I'm going to spin it,
+
+00:40:11.200 --> 00:40:13.420
+for those who are
+sitting close-- whoosh--
+
+00:40:13.420 --> 00:40:16.460
+and then putting it horizontally
+and hanging it in a string,
+
+00:40:16.460 --> 00:40:20.840
+and you'll see exactly
+the same thing is happening.
+
+00:40:42.960 --> 00:40:45.780
+And now through friction,
+of course,
+
+00:40:45.780 --> 00:40:51.540
+all this fun ultimately
+comes to a halt.
+
+00:40:51.540 --> 00:40:53.760
+I have something
+very special for you,
+
+00:40:53.760 --> 00:40:56.620
+or I may have something
+very special for you.
+
+00:40:56.620 --> 00:41:04.120
+That depends on my helper
+who is here behind the scenes.
+
+00:41:04.120 --> 00:41:04.940
+I hear him.
+
+00:41:04.940 --> 00:41:07.280
+He's there.
+
+00:41:10.780 --> 00:41:11.280
+Great.
+
+00:41:11.280 --> 00:41:13.900
+Did you get full speed?
+
+00:41:17.900 --> 00:41:22.040
+I'm going to the airport
+and get a little tired
+
+00:41:22.040 --> 00:41:24.580
+and ask one of my friends
+to help me.
+
+00:41:24.580 --> 00:41:28.280
+Would you please help me
+and...
+
+00:41:28.280 --> 00:41:31.240
+just carry this suitcase
+for me around?
+
+00:41:31.240 --> 00:41:36.240
+Pick it up, walk around
+a little, make some turns.
+
+00:41:36.240 --> 00:41:39.820
+Turn the other way around,
+please.
+
+00:41:39.820 --> 00:41:41.780
+(laughter)
+
+00:41:41.780 --> 00:41:43.140
+STUDENT:
+What the hell?
+
+00:41:43.140 --> 00:41:45.060
+LEWIN:
+What the hell, yeah.
+
+00:41:45.060 --> 00:41:45.780
+Exactly.
+
+00:41:45.780 --> 00:41:48.160
+What are you doing, man?
+
+00:41:48.160 --> 00:41:50.940
+You're behaving so strangely.
+
+00:41:50.940 --> 00:41:51.940
+Make some more turns, man.
+
+00:41:51.940 --> 00:41:57.300
+We've got to go the...
+we've got to catch the plane.
+
+00:41:58.800 --> 00:42:01.800
+It doesn't quite do what you
+think it will be doing, right?
+
+00:42:01.800 --> 00:42:04.500
+So in here, you've guessed it.
+
+00:42:04.500 --> 00:42:05.760
+STUDENT:
+Big spinning wheel or something.
+
+00:42:05.760 --> 00:42:06.860
+LEWIN:
+Spinning wheel.
+
+00:42:06.860 --> 00:42:09.500
+And when you do this,
+you put a torque on it
+
+00:42:09.500 --> 00:42:13.120
+and it does exactly what
+you least expect: it flips up.
+
+00:42:13.120 --> 00:42:14.820
+Isn't that fun?
+
+00:42:14.820 --> 00:42:15.320
+Yeah.
+
+00:42:15.320 --> 00:42:16.100
+You may get arrested
+
+00:42:16.100 --> 00:42:19.560
+when you go to Logan Airport
+with this suitcase.
+
+00:42:19.560 --> 00:42:20.560
+Thank you very much.
+
+00:42:20.560 --> 00:42:22.680
+It's great.
+
+00:42:31.360 --> 00:42:35.360
+Spinning objects have
+a stabilizing effect.
+
+00:42:35.360 --> 00:42:41.600
+If you take a bicycle wheel,
+and we have one,
+
+00:42:41.600 --> 00:42:47.540
+and I put it here and I do
+nothing, it will fall.
+
+00:42:47.540 --> 00:42:49.540
+No one is surprised.
+
+00:42:49.540 --> 00:42:55.460
+However, if I give it a little
+spin, then it doesn't fall.
+
+00:42:55.460 --> 00:42:56.460
+Why?
+
+00:42:56.460 --> 00:42:58.460
+Because it has angular momentum.
+
+00:42:58.460 --> 00:43:02.640
+It has spin angular momentum.
+
+00:43:02.640 --> 00:43:04.100
+And so it doesn't fall.
+
+00:43:04.100 --> 00:43:06.200
+And it is not only
+a bicycle wheel.
+
+00:43:06.200 --> 00:43:07.260
+Look.
+
+00:43:07.260 --> 00:43:08.960
+Nicely stable.
+
+00:43:08.960 --> 00:43:10.300
+Not only with a bicycle wheel.
+
+00:43:10.300 --> 00:43:13.860
+You take... you take a quarter
+and you put a quarter like this
+
+00:43:13.860 --> 00:43:15.160
+on your desk.
+
+00:43:15.160 --> 00:43:17.880
+You bet your life it will fall.
+
+00:43:17.880 --> 00:43:20.200
+Roll it; it becomes stable.
+
+00:43:20.200 --> 00:43:24.760
+You give it spin angular
+momentum, it becomes stable.
+
+00:43:24.760 --> 00:43:27.760
+Take a top.
+
+00:43:27.760 --> 00:43:31.380
+You put a top on the table,
+falls over.
+
+00:43:31.380 --> 00:43:36.520
+You twist it, you give it spin,
+and the top is stable.
+
+00:43:36.520 --> 00:43:43.500
+So spin angular momentum has the
+property of stabilizing things.
+
+00:43:43.500 --> 00:43:45.440
+And you will see that addressed
+in one of your assignments,
+
+00:43:45.440 --> 00:43:51.960
+when I want you to address that
+quantitatively.
+
+00:43:51.960 --> 00:43:56.060
+This is the basic idea behind
+inertial guidance systems.
+
+00:43:56.060 --> 00:44:00.100
+In inertial guidance systems,
+you have a spinning wheel,
+
+00:44:00.100 --> 00:44:00.940
+at least in the days
+
+00:44:00.940 --> 00:44:04.720
+that the guidance systems
+had mechanical wheels.
+
+00:44:04.720 --> 00:44:09.860
+but that spinning wheel is
+mounted in such a way
+
+00:44:09.860 --> 00:44:15.220
+that you cannot put a torque
+on the axis of rotation
+
+00:44:15.220 --> 00:44:16.340
+of the spinning wheel.
+
+00:44:16.340 --> 00:44:17.340
+That's the way it's mounted.
+
+00:44:17.340 --> 00:44:23.080
+We call that
+three-axle-gimbaled gyros.
+
+00:44:23.080 --> 00:44:26.800
+So the moment that you put
+a torque on it,
+
+00:44:26.800 --> 00:44:30.360
+the housings-- in this case, the
+yellow and the black housing--
+
+00:44:30.360 --> 00:44:31.360
+will start to rotate,
+
+00:44:31.360 --> 00:44:33.400
+and you never managed
+to get that torque
+
+00:44:33.400 --> 00:44:35.900
+on the spinning wheel.
+
+00:44:35.900 --> 00:44:38.840
+You never get it
+on... on this axis.
+
+00:44:38.840 --> 00:44:42.440
+And therefore,
+if now you put it on your boat
+
+00:44:42.440 --> 00:44:46.180
+or you put it in a plane,
+or a missile for that matter,
+
+00:44:46.180 --> 00:44:48.960
+if you can never put a torque
+on the spinning wheel
+
+00:44:48.960 --> 00:44:52.220
+and if the angular momentum
+for spin is in this direction,
+
+00:44:52.220 --> 00:44:54.720
+it will stay there forever
+and ever,
+
+00:44:54.720 --> 00:44:58.200
+assuming that we have
+no frictional losses.
+
+00:44:58.200 --> 00:45:02.340
+And if then the plane turns,
+
+00:45:02.340 --> 00:45:03.940
+the direction of the spin
+angular momentum
+
+00:45:03.940 --> 00:45:05.600
+will not change,
+
+00:45:05.600 --> 00:45:07.460
+but what will happen
+of course is
+
+00:45:07.460 --> 00:45:10.860
+that this yellow frame
+will rotate
+
+00:45:10.860 --> 00:45:13.000
+or this black frame will rotate.
+
+00:45:13.000 --> 00:45:16.700
+And in these bearings here
+are shaft encoders,
+
+00:45:16.700 --> 00:45:20.480
+and they sense that the rotation
+that the outer housing makes
+
+00:45:20.480 --> 00:45:24.360
+in order to keep this thing
+pointing at the same direction.
+
+00:45:24.360 --> 00:45:27.920
+And that signal is being fed
+back to the automatic pilot
+
+00:45:27.920 --> 00:45:29.680
+and that keeps the plane flying
+
+00:45:29.680 --> 00:45:31.180
+in the direction
+that you want to.
+
+00:45:31.180 --> 00:45:33.920
+So you use, as a reference
+all the time,
+
+00:45:33.920 --> 00:45:37.480
+the spin angular momentum
+of your gyro,
+
+00:45:37.480 --> 00:45:39.800
+which is now mounted
+in such a way
+
+00:45:39.800 --> 00:45:41.540
+that you cannot put
+a torque on it,
+
+00:45:41.540 --> 00:45:43.540
+even when the plane changes
+direction,
+
+00:45:43.540 --> 00:45:46.660
+and I want to show that to you.
+
+00:46:23.880 --> 00:46:29.620
+Okay, this is the direction
+of my spin angular momentum
+
+00:46:29.620 --> 00:46:34.840
+and I'm the airplane
+and I'm going to fly.
+
+00:46:34.840 --> 00:46:38.920
+Look at that
+spin angular momentum.
+
+00:46:38.920 --> 00:46:41.700
+It has no respect for me.
+
+00:46:41.700 --> 00:46:47.240
+It stays in the same direction
+no matter how I fly.
+
+00:46:50.180 --> 00:46:53.640
+And the arrow signals
+that come from the bearings
+
+00:46:53.640 --> 00:46:56.880
+of the yellow housing
+and the black housing,
+
+00:46:56.880 --> 00:47:00.300
+those arrow signals are fed back
+to the automatic pilot
+
+00:47:00.300 --> 00:47:06.380
+and so the plane will stay
+on course.
+
+00:47:07.540 --> 00:47:09.740
+Now what I can do for you
+
+00:47:09.740 --> 00:47:14.200
+to come to a final test
+on your thinking,
+
+00:47:14.200 --> 00:47:17.900
+this wheel is suspended
+in such a way
+
+00:47:17.900 --> 00:47:21.260
+that there is
+no gravitational torque on it
+
+00:47:21.260 --> 00:47:23.900
+like there was here.
+
+00:47:23.900 --> 00:47:27.140
+But I can put a torque on it
+
+00:47:27.140 --> 00:47:31.140
+by simply putting some weights
+on the axis.
+
+00:47:31.140 --> 00:47:32.980
+And what do you think
+will happen now
+
+00:47:32.980 --> 00:47:34.820
+if I put some weight here
+on the axis?
+
+00:47:34.820 --> 00:47:38.300
+So the wheel is spinning,
+
+00:47:38.300 --> 00:47:40.700
+but now I'm going to put
+a torque on it here.
+
+00:47:40.700 --> 00:47:42.600
+It is spinning
+in this direction.
+
+00:47:42.600 --> 00:47:47.540
+Angular momentum is pointing
+straight at me, away from you.
+
+00:47:47.540 --> 00:47:50.060
+I'm going to put a torque
+on like this,
+
+00:47:50.060 --> 00:47:51.280
+put a little weight there.
+
+00:47:51.280 --> 00:47:52.960
+Torque will be
+in this direction.
+
+00:47:52.960 --> 00:47:55.820
+What will the spin
+angular momentum do?
+
+00:47:55.820 --> 00:47:57.180
+Torque is in this direction;
+
+00:47:57.180 --> 00:47:59.460
+spin angular momentum's
+in this direction.
+
+00:47:59.460 --> 00:48:03.200
+Spin angular momentum
+will start to chase the torque.
+
+00:48:03.200 --> 00:48:06.880
+Watch it.
+
+00:48:06.880 --> 00:48:09.600
+There it goes.
+
+00:48:09.600 --> 00:48:13.040
+The spin angular momentum
+is chasing the torque.
+
+00:48:13.040 --> 00:48:16.720
+You see exactly the same thing
+that I've shown you before.
+
+00:48:16.720 --> 00:48:22.360
+And if I make the torque higher,
+
+00:48:22.360 --> 00:48:25.520
+then the precession frequency
+will go up.
+
+00:48:25.520 --> 00:48:29.000
+See, it stops now immediately
+when I take it off.
+
+00:48:29.000 --> 00:48:31.140
+Put it back on again.
+
+00:48:31.140 --> 00:48:33.200
+Continues.
+
+00:48:33.200 --> 00:48:34.960
+Put more on it.
+
+00:48:34.960 --> 00:48:38.680
+Goes way faster.
+
+00:48:38.680 --> 00:48:42.640
+What happens now if I put
+the weight on this side?
+
+00:48:42.640 --> 00:48:45.460
+So I change the direction
+of the torque.
+
+00:48:45.460 --> 00:48:49.280
+If I put it on this side,
+torque is now in this direction,
+
+00:48:49.280 --> 00:48:51.780
+spin angular momentum is
+in this direction.
+
+00:48:51.780 --> 00:48:53.300
+It's going to reverse direction.
+
+00:48:53.300 --> 00:48:55.920
+There we go.
+
+00:48:55.920 --> 00:48:58.100
+And you see it does.
+
+00:48:58.100 --> 00:49:01.080
+Amazingly nonintuitive.
+
+00:49:01.080 --> 00:49:04.460
+If you have problems with this,
+you're not alone.
+
+00:49:04.460 --> 00:49:07.220
+See you Wednesday.
+
