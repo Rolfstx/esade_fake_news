@@ -1,0 +1,201 @@
+[
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/EzNrSRuBEynHjZDC9kBumovz6zw\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/lMvne2UyKmIYsNpz3S58ZTELE0E\"",
+                "id": "UCA6QuBRyyf4J61OLD_hALJg",
+                "snippet": {
+                    "title": "BBC Travel Show",
+                    "description": "The BBC's essential travel programme, bringing you the best travel journalism from around the world. Publishing a new programme every Tuesday, Wednesday, Thursday at 10AM.",
+                    "customUrl": "bbctravelshow",
+                    "publishedAt": "2011-02-02T11:01:40.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzi95LJzNp7BymOMT-jX7OMiAMYwQziJsPh2w=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzi95LJzNp7BymOMT-jX7OMiAMYwQziJsPh2w=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzi95LJzNp7BymOMT-jX7OMiAMYwQziJsPh2w=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "BBC Travel Show",
+                        "description": "The BBC's essential travel programme, bringing you the best travel journalism from around the world. Publishing a new programme every Tuesday, Wednesday, Thursday at 10AM."
+                    },
+                    "country": "GB"
+                },
+                "statistics": {
+                    "viewCount": "2156168",
+                    "commentCount": "0",
+                    "subscriberCount": "33600",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "602"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/IBBX0Ffm5Ywb3s7tavhSF-KC2rc\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/bh8eAn_N_XnJ3thx_qAfSIirVQc\"",
+                "id": "UCCj956IF62FbT7Gouszaj9w",
+                "snippet": {
+                    "title": "BBC",
+                    "description": "The BBC is the world\u2019s leading public service broadcaster.\n\nWe\u2019re impartial and independent, and every day we create distinctive, world-class programmes and content which inform, educate and entertain millions of people in the UK and around the world.\n\nSUBSCRIBE to our YouTube channel to get the best of BBC entertainment and comedy programmes, stories from science and nature documentaries, and much more! \ud83d\udc49 https://bit.ly/2IXqEIn\n\nGet ALL your fresh TV, and sofa-hugging box sets on BBC iPlayer \ud83d\udc49 https://bbc.in/2J18jYJ",
+                    "publishedAt": "2005-11-12T02:36:31.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzXDQ3hvrzeftE9WFIEmEeYzE_ua3N7nwMeMQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzXDQ3hvrzeftE9WFIEmEeYzE_ua3N7nwMeMQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzXDQ3hvrzeftE9WFIEmEeYzE_ua3N7nwMeMQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "BBC",
+                        "description": "The BBC is the world\u2019s leading public service broadcaster.\n\nWe\u2019re impartial and independent, and every day we create distinctive, world-class programmes and content which inform, educate and entertain millions of people in the UK and around the world.\n\nSUBSCRIBE to our YouTube channel to get the best of BBC entertainment and comedy programmes, stories from science and nature documentaries, and much more! \ud83d\udc49 https://bit.ly/2IXqEIn\n\nGet ALL your fresh TV, and sofa-hugging box sets on BBC iPlayer \ud83d\udc49 https://bbc.in/2J18jYJ"
+                    },
+                    "country": "GB"
+                },
+                "statistics": {
+                    "viewCount": "6642727145",
+                    "commentCount": "0",
+                    "subscriberCount": "8640000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "12167"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "gGo0hc-o7VoQ6SHOwoGiCQ_QM8g",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "9JzS_HbasG_BKz_elycQZEMaQZI",
+                "id": "UC16niRr50-MSBwiO3YDb3RA",
+                "snippet": {
+                    "title": "BBC News",
+                    "description": "Welcome to the official BBC News YouTube channel. \n\nInterested in global news with an impartial perspective? Want to see behind-the-scenes clips and footage directly from the front-line? Our YouTube channel has all this and more, bringing you specially selected clips from the world's most trusted news source.\n\nTune into BBC World News for 24 hour news on TV. Check out BBC News on mobile and download our app for iPhone, Android and Kindle Fire. \n\nThe official BBC News YouTube channel is operated by BBC Global News Ltd which comprises BBC World News the 24hr TV channel and bbc.com/news, the international news website.",
+                    "customUrl": "bbcnews",
+                    "publishedAt": "2006-04-08T05:51:05Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwNzMorrQSVGUO-yZGchUu4EBlZHsYCm0pHEQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwNzMorrQSVGUO-yZGchUu4EBlZHsYCm0pHEQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwNzMorrQSVGUO-yZGchUu4EBlZHsYCm0pHEQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en-GB",
+                    "localized": {
+                        "title": "BBC News",
+                        "description": "Welcome to the official BBC News YouTube channel. \n\nInterested in global news with an impartial perspective? Want to see behind-the-scenes clips and footage directly from the front-line? Our YouTube channel has all this and more, bringing you specially selected clips from the world's most trusted news source.\n\nTune into BBC World News for 24 hour news on TV. Check out BBC News on mobile and download our app for iPhone, Android and Kindle Fire. \n\nThe official BBC News YouTube channel is operated by BBC Global News Ltd which comprises BBC World News the 24hr TV channel and bbc.com/news, the international news website."
+                    },
+                    "country": "GB"
+                },
+                "statistics": {
+                    "viewCount": "1805770266",
+                    "commentCount": "0",
+                    "subscriberCount": "7450000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "11426"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/piDFBetrFdqTXeCX8pFX7TMX2a0\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/OBLtKEAnLk0Ybz4Jmerl0C0_Me8\"",
+                "id": "UCeY0bbntWzzVIaj2z3QigXg",
+                "snippet": {
+                    "title": "NBC News",
+                    "description": "\u00bb Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n\u00bb Watch more NBC video: http://bit.ly/MoreNBCNews\n\nNBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.\n\n\nConnect with NBC News:\nNBC News App: https://smart.link/5d0cd9df61b80\nBreaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621\nVisit NBCNews.Com: http://nbcnews.to/ReadNBC\nFind NBC News on Facebook: http://nbcnews.to/LikeNBC\nFollow NBC News on Twitter: http://nbcnews.to/FollowNBC\nFollow NBC News on Instagram: http://nbcnews.to/InstaNBC",
+                    "customUrl": "nbcnews",
+                    "publishedAt": "2006-07-19T20:46:03.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJw7sCgTchsLPRZprROiWyklMTYvnYtx1REtxg=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJw7sCgTchsLPRZprROiWyklMTYvnYtx1REtxg=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJw7sCgTchsLPRZprROiWyklMTYvnYtx1REtxg=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "NBC News",
+                        "description": "\u00bb Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n\u00bb Watch more NBC video: http://bit.ly/MoreNBCNews\n\nNBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.\n\n\nConnect with NBC News:\nNBC News App: https://smart.link/5d0cd9df61b80\nBreaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621\nVisit NBCNews.Com: http://nbcnews.to/ReadNBC\nFind NBC News on Facebook: http://nbcnews.to/LikeNBC\nFollow NBC News on Twitter: http://nbcnews.to/FollowNBC\nFollow NBC News on Instagram: http://nbcnews.to/InstaNBC"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "1380142603",
+                    "commentCount": "0",
+                    "subscriberCount": "2950000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "23368"
+                }
+            }
+        ]
+    }
+]

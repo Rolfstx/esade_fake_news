@@ -1,0 +1,2727 @@
+[
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/SK756nKgBPVkCLNyNO8fmRaHqlY\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/RIDJNmSe1MEsoO7g2efbGDrRWOw\"",
+                "id": "UCC_0vyFTKk1Nlodo4QsiQkw",
+                "snippet": {
+                    "title": "Dr. Todd Grande",
+                    "description": "Dr. Todd L. Grande covers topics related to Counselor Education and Supervision including but not limited to mental health, human behavior, psychopathology, personality theory, research, statistics, SPSS, Excel, APA style, appraisal, and group counseling.\n\nDisclaimer:\n\nThe channel is for informational purposes only. Nothing on this channel is intended to substitute for the treatment provided by a mental health professional.",
+                    "customUrl": "toddgrande",
+                    "publishedAt": "2007-12-17T03:32:18.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyO7aQI-m4O-0CsmGMS799h6yKS4LnlSSnABg=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyO7aQI-m4O-0CsmGMS799h6yKS4LnlSSnABg=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyO7aQI-m4O-0CsmGMS799h6yKS4LnlSSnABg=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Dr. Todd Grande",
+                        "description": "Dr. Todd L. Grande covers topics related to Counselor Education and Supervision including but not limited to mental health, human behavior, psychopathology, personality theory, research, statistics, SPSS, Excel, APA style, appraisal, and group counseling.\n\nDisclaimer:\n\nThe channel is for informational purposes only. Nothing on this channel is intended to substitute for the treatment provided by a mental health professional."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "42710442",
+                    "commentCount": "0",
+                    "subscriberCount": "269000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1483"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gEJ8LgGO3FK7W-xSLrtUi32pf2k\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Wiojt2g6aiEGcfPTXt-ulN3xYF0\"",
+                "id": "UC5ru-94c8paYKOKJYAeAeAA",
+                "snippet": {
+                    "title": "Miss Lou",
+                    "description": "Support home-grown music and make this channel sustainable by getting exclusive perks: http://hellomisslou.com/inner-circle\n\nClassic vintage songbird from sunny Singapore.\n\nEnquiries: info@loudanclear.com",
+                    "publishedAt": "2012-02-28T13:55:21.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyw95QjTPjXC0O4ikoCw_gKtel5ZivffGLGLg=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyw95QjTPjXC0O4ikoCw_gKtel5ZivffGLGLg=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyw95QjTPjXC0O4ikoCw_gKtel5ZivffGLGLg=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Miss Lou",
+                        "description": "Support home-grown music and make this channel sustainable by getting exclusive perks: http://hellomisslou.com/inner-circle\n\nClassic vintage songbird from sunny Singapore.\n\nEnquiries: info@loudanclear.com"
+                    },
+                    "country": "SG"
+                },
+                "statistics": {
+                    "viewCount": "376597",
+                    "commentCount": "0",
+                    "subscriberCount": "3120",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "49"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "V42kBeDxiBi_gEzVQLJScgdANIA",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "KlgcNQAEn0VlcPFvA21KN6Rxcs0",
+                "id": "UCJASBOyF4Fkd26SIwRhLuZw",
+                "snippet": {
+                    "title": "Tone and Tighten",
+                    "description": "Hi - I'm Jared! I am a physical therapist and doctor of physical therapy who specializes in rehabilitating orthopedic (back pain, neck pain, shoulder pain, knee pain, etc) and postpartum (diastasis recti) conditions. I love being fit, healthy, strong, and active, and hope to be able to help you accomplish your fitness goals. On this channel you'll learn how to treat common injuries through exercising and stretching, rehabilitate your post-pregnancy core, and become a fitter, healthier version of yourself. Make sure you click subscribe and turn on your notifications so you never miss a new video from Tone and Tighten!",
+                    "customUrl": "toneandtighten",
+                    "publishedAt": "2013-06-13T04:51:29Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJw0vRLZFG8Kio44j7Ek_BAbucCvbe34hrYR8Q=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJw0vRLZFG8Kio44j7Ek_BAbucCvbe34hrYR8Q=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJw0vRLZFG8Kio44j7Ek_BAbucCvbe34hrYR8Q=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Tone and Tighten",
+                        "description": "Hi - I'm Jared! I am a physical therapist and doctor of physical therapy who specializes in rehabilitating orthopedic (back pain, neck pain, shoulder pain, knee pain, etc) and postpartum (diastasis recti) conditions. I love being fit, healthy, strong, and active, and hope to be able to help you accomplish your fitness goals. On this channel you'll learn how to treat common injuries through exercising and stretching, rehabilitate your post-pregnancy core, and become a fitter, healthier version of yourself. Make sure you click subscribe and turn on your notifications so you never miss a new video from Tone and Tighten!"
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "25659406",
+                    "commentCount": "0",
+                    "subscriberCount": "423000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "224"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/XNoXGadJ8ENgPKeIH-1ArDwS2Sw\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/kSjPSMnSRclDC9txo0i9YOPPbCY\"",
+                "id": "UCvgbMOLnfLpgTL4M6eDNzjw",
+                "snippet": {
+                    "title": "Impeccable Skillz",
+                    "description": "The official channel of Impeccable Skillz\n\nOfficial website ImpeccableNation.com",
+                    "customUrl": "impeccableskillz",
+                    "publishedAt": "2007-07-30T11:04:57.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJydouN4bX341x7i0ZbCg6rgOri8FM303WNNaA=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJydouN4bX341x7i0ZbCg6rgOri8FM303WNNaA=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJydouN4bX341x7i0ZbCg6rgOri8FM303WNNaA=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Impeccable Skillz",
+                        "description": "The official channel of Impeccable Skillz\n\nOfficial website ImpeccableNation.com"
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "240312",
+                    "commentCount": "0",
+                    "subscriberCount": "2270",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "70"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/IOoQzHuQ2DKfLq4s-vkD0F5lBZE\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/3QFiIRmvH8F1SuN20kHtn0yYhzc\"",
+                "id": "UCbwPfpnXsfmVRKpyrdnCahQ",
+                "snippet": {
+                    "title": "globalvoodoo",
+                    "description": "Thanks for stopping by I'm a Full Time Reseller / Entrepreneur that makes a living selling online from Amazon FBA to Ebay. This channel is dedicated to help others make money online and I also offer a paid education based website (pick4profit.com) that has helped hundreds make more money with this incredible lifestyle. I'm here to help as much as I can if you need to contact me please visit my facebook",
+                    "customUrl": "globalvoodoo",
+                    "publishedAt": "2006-10-18T18:09:00.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyjQaeSMfGE9BEEp_1XDzHeccKM2XAKXUdEEQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyjQaeSMfGE9BEEp_1XDzHeccKM2XAKXUdEEQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyjQaeSMfGE9BEEp_1XDzHeccKM2XAKXUdEEQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "globalvoodoo",
+                        "description": "Thanks for stopping by I'm a Full Time Reseller / Entrepreneur that makes a living selling online from Amazon FBA to Ebay. This channel is dedicated to help others make money online and I also offer a paid education based website (pick4profit.com) that has helped hundreds make more money with this incredible lifestyle. I'm here to help as much as I can if you need to contact me please visit my facebook"
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "8553571",
+                    "commentCount": "0",
+                    "subscriberCount": "45800",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "814"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/j2Htnp_zSUORNCmPKSc3Br59bT4\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/u5gS92JdbTcb721KfoehJ3iegh8\"",
+                "id": "UCXIJgqnII2ZOINSWNOGFThA",
+                "snippet": {
+                    "title": "Fox News",
+                    "description": "FOX News Channel (FNC) is a 24-hour all-encompassing news service dedicated to delivering breaking news as well as political and business news. A top cable network in both total viewers and Adults 25-54, FNC has been the most-watched news channel in the country for almost two decades and according to Public Policy Polling is the most trusted television news source in the country. FNC is available in more than 89 million homes and dominates the cable news landscape, routinely notching 12 of the top 15 programs in the genre.",
+                    "customUrl": "foxnews",
+                    "publishedAt": "2006-09-19T01:48:52.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwUuk48hzCcCsQa_ZBznOcFBMA007wbRmujkg=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwUuk48hzCcCsQa_ZBznOcFBMA007wbRmujkg=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwUuk48hzCcCsQa_ZBznOcFBMA007wbRmujkg=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Fox News",
+                        "description": "FOX News Channel (FNC) is a 24-hour all-encompassing news service dedicated to delivering breaking news as well as political and business news. A top cable network in both total viewers and Adults 25-54, FNC has been the most-watched news channel in the country for almost two decades and according to Public Policy Polling is the most trusted television news source in the country. FNC is available in more than 89 million homes and dominates the cable news landscape, routinely notching 12 of the top 15 programs in the genre."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "4264293809",
+                    "commentCount": "0",
+                    "subscriberCount": "4990000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "64210"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/VowJnCcikrxB2RzauuuAzEabglA\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/KSoJdunk7H8pa8iwAT86EH81EIA\"",
+                "id": "UCAuUUnT6oDeKwE6v1NGQxug",
+                "snippet": {
+                    "title": "TED",
+                    "description": "The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: https://media-requests.ted.com. We also encourage you to join our online community at TED.com. Any other questions? Email contact@ted.com.",
+                    "customUrl": "ted",
+                    "publishedAt": "2006-12-06T23:27:08.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyC68-XD1Vg565GWaL-PHbsFIrEO3eQk_b2aA=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyC68-XD1Vg565GWaL-PHbsFIrEO3eQk_b2aA=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyC68-XD1Vg565GWaL-PHbsFIrEO3eQk_b2aA=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "TED",
+                        "description": "The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: https://media-requests.ted.com. We also encourage you to join our online community at TED.com. Any other questions? Email contact@ted.com."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "1834898455",
+                    "commentCount": "0",
+                    "subscriberCount": "17000000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "3346"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "-rShzN7AM7cFEDAOTS-JzJyLnCM",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "LuIo9aBT7Z4XjmjnypEp0c-gUPg",
+                "id": "UC8xdGJLVAdbQLrUFCCEZjKA",
+                "snippet": {
+                    "title": "Vitality Medical Wellness Institute",
+                    "description": "https://www.vitalitymwi.com\nhttps://www.facebook.com/vitalitymwi\nhttps://www.instagram.com/vitalitymwi",
+                    "customUrl": "vitalitymedicalwellnessinstitute",
+                    "publishedAt": "2019-09-25T14:21:29Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwt4JvOQi-LRARvnqx_XQDPjE5zrbq_Id_mjQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwt4JvOQi-LRARvnqx_XQDPjE5zrbq_Id_mjQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwt4JvOQi-LRARvnqx_XQDPjE5zrbq_Id_mjQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Vitality Medical Wellness Institute",
+                        "description": "https://www.vitalitymwi.com\nhttps://www.facebook.com/vitalitymwi\nhttps://www.instagram.com/vitalitymwi"
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "229986",
+                    "commentCount": "0",
+                    "subscriberCount": "4460",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "49"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/DSivEuqOyLscg9RBShkobbgCnoU\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/udyMCfexiqOMTSsctjfF8hkMjyE\"",
+                "id": "UCiPW7OlzTfQjR_vLlkYPZCg",
+                "snippet": {
+                    "title": "Dr. Cellini",
+                    "description": "Hey Everyone!  I am currently a Senior Diagnostic & Interventional Radiology Resident (PGY-5).  I post mostly radiology stuff, medical stuff, some other random videos, and some Hospital VLOGs here and there.  So go SUBSCRIBE!\n\n-Michael",
+                    "customUrl": "drcellini",
+                    "publishedAt": "2017-09-22T02:06:27.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyfP9xkKRjOFZHbW4R1XMCzwKWa8sDj2c1QhQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyfP9xkKRjOFZHbW4R1XMCzwKWa8sDj2c1QhQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyfP9xkKRjOFZHbW4R1XMCzwKWa8sDj2c1QhQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Dr. Cellini",
+                        "description": "Hey Everyone!  I am currently a Senior Diagnostic & Interventional Radiology Resident (PGY-5).  I post mostly radiology stuff, medical stuff, some other random videos, and some Hospital VLOGs here and there.  So go SUBSCRIBE!\n\n-Michael"
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "5823083",
+                    "commentCount": "0",
+                    "subscriberCount": "110000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "75"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "lbRN67Z6QCt7htSC3l2oG5aXb4w",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "6hifA6a2BRftrnlgpJO8khbv-GA",
+                "id": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+                "snippet": {
+                    "title": "PowerfulJRE",
+                    "description": "The Joe Rogan Experience podcast",
+                    "customUrl": "joerogan",
+                    "publishedAt": "2013-01-12T01:40:14Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzDO2W7yWrDalft2CtyJRWqaHNUp3cVDKaUQQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzDO2W7yWrDalft2CtyJRWqaHNUp3cVDKaUQQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzDO2W7yWrDalft2CtyJRWqaHNUp3cVDKaUQQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "PowerfulJRE",
+                        "description": "The Joe Rogan Experience podcast"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "2149927582",
+                    "commentCount": "0",
+                    "subscriberCount": "8270000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "2378"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "1ZSwUbJozWaCzZS-Ei5lJm9Vhvk",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "qZTG-y5yYin438XwnZY71UrWwos",
+                "id": "UCdxHqOuwyRky8lHsG0MK5iA",
+                "snippet": {
+                    "title": "LemonadeMom",
+                    "description": "Hey guys! My name is Vanessa, I am a mom of 4 beautiful and energetic kids and an extremely funny husband. I love cooking so I have many videos on meal prep, using my Instant Pot and Crockpot, and the food I buy and how we use it with my weekly grocery hauls. If you like those kinds of videos please hit that subscribe button!\n\nCheck out my vlog channel - https://www.youtube.com/lemonademom\n\nContact Me:\n\nP.O. Box 41\nBoerne, TX 78006\nlemonademomplus5@gmail.com\n\nFollow Me on Social Media:\n\nInstagram - https://www.instagram.com/lemonademom4/?hl=en\nFacebook - https://www.facebook.com/lemonademom/\nTwitter - https://twitter.com/LemonadeMom1",
+                    "customUrl": "lemonademom",
+                    "publishedAt": "2016-02-07T04:43:48Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxw8uzEURYislkjydRYmdVOcyj8QP5GUhEDUA=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxw8uzEURYislkjydRYmdVOcyj8QP5GUhEDUA=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxw8uzEURYislkjydRYmdVOcyj8QP5GUhEDUA=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "LemonadeMom",
+                        "description": "Hey guys! My name is Vanessa, I am a mom of 4 beautiful and energetic kids and an extremely funny husband. I love cooking so I have many videos on meal prep, using my Instant Pot and Crockpot, and the food I buy and how we use it with my weekly grocery hauls. If you like those kinds of videos please hit that subscribe button!\n\nCheck out my vlog channel - https://www.youtube.com/lemonademom\n\nContact Me:\n\nP.O. Box 41\nBoerne, TX 78006\nlemonademomplus5@gmail.com\n\nFollow Me on Social Media:\n\nInstagram - https://www.instagram.com/lemonademom4/?hl=en\nFacebook - https://www.facebook.com/lemonademom/\nTwitter - https://twitter.com/LemonadeMom1"
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "9961972",
+                    "commentCount": "0",
+                    "subscriberCount": "100000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "988"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "zXgZVPs00axuR7-qO9_ee7RauCA",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "RArhOC76cowXF6c4i7ogQdNmi0g",
+                "id": "UCpSgg_ECBj25s9moCDfSTsA",
+                "snippet": {
+                    "title": "Jamie Oliver",
+                    "description": "We are all about beautiful recipes, expert tutorials, fresh talent, wonderful food and funny videos every week plus loads of your other favourite YouTubers dropping by to say hello. \nPLUS this channel is about you too. Tell us what you want to see, what's cool and how we can do better and we'll talk straight back. Get involved and subscribe for the latest!\n\n \nBig Love\n\nJamie O. x\n\n#FOODTUBE",
+                    "customUrl": "jamieoliver",
+                    "publishedAt": "2006-05-21T14:19:07Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJz7VY5_rDk-2k_vrsACPT4gLowXBmrOlvmEQQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJz7VY5_rDk-2k_vrsACPT4gLowXBmrOlvmEQQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJz7VY5_rDk-2k_vrsACPT4gLowXBmrOlvmEQQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en-GB",
+                    "localized": {
+                        "title": "Jamie Oliver",
+                        "description": "We are all about beautiful recipes, expert tutorials, fresh talent, wonderful food and funny videos every week plus loads of your other favourite YouTubers dropping by to say hello. \nPLUS this channel is about you too. Tell us what you want to see, what's cool and how we can do better and we'll talk straight back. Get involved and subscribe for the latest!\n\n \nBig Love\n\nJamie O. x\n\n#FOODTUBE"
+                    },
+                    "country": "GB"
+                },
+                "statistics": {
+                    "viewCount": "654114624",
+                    "commentCount": "0",
+                    "subscriberCount": "4980000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1516"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ZglfYZnXOSG33Y3pwFWiJCinhPk\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9Plehu8jlNBO8nETBTQm2UHFoMw\"",
+                "id": "UCbmNph6atAoGfqLoCL_duAg",
+                "snippet": {
+                    "title": "Talks at Google",
+                    "description": "The Talks at Google program brings authors, musicians, innovators, and speakers of all stripes to Google for talks centering on their recently published books and capturing the popular and intellectual zeitgeist of the day.\n\nSubscribe to our audio-only \"Talks at Google\" podcast everywhere podcasts are found, listen on the web via talksatgoogle.libsyn.com, or add the rss feed directly to your player via talksatgoogle.libsyn.com/rss. \n\nDISCLAIMER: The views or opinions expressed by the guest speakers are solely their own and do not necessarily represent the views or opinions of Google, Inc. The comments on this channel belong only to the person who posted them. We do, however, reserve the right to remove off-topic or inappropriate comments.",
+                    "customUrl": "talksatgoogle",
+                    "publishedAt": "2006-12-19T19:49:14.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwYgu3_9fjHMssbTXb7QNUy721cAGggNghTbw=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwYgu3_9fjHMssbTXb7QNUy721cAGggNghTbw=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwYgu3_9fjHMssbTXb7QNUy721cAGggNghTbw=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Talks at Google",
+                        "description": "The Talks at Google program brings authors, musicians, innovators, and speakers of all stripes to Google for talks centering on their recently published books and capturing the popular and intellectual zeitgeist of the day.\n\nSubscribe to our audio-only \"Talks at Google\" podcast everywhere podcasts are found, listen on the web via talksatgoogle.libsyn.com, or add the rss feed directly to your player via talksatgoogle.libsyn.com/rss. \n\nDISCLAIMER: The views or opinions expressed by the guest speakers are solely their own and do not necessarily represent the views or opinions of Google, Inc. The comments on this channel belong only to the person who posted them. We do, however, reserve the right to remove off-topic or inappropriate comments."
+                    }
+                },
+                "statistics": {
+                    "viewCount": "179791266",
+                    "commentCount": "0",
+                    "subscriberCount": "1190000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "4831"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gm4EnDwGqUDngG2m5nhfVvgZ0iA\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9b7vIBR6hGrtx80mL4yQNSYODmk\"",
+                "id": "UCgVsyPeGaIbPLX7EdtsuxaQ",
+                "snippet": {
+                    "title": "Ian Vins",
+                    "description": "Life of photographer based in Jakarta, Indonesia. Filming about his little family, photography, videography tutorial, gadget & camera. \nPlease enjoy!",
+                    "publishedAt": "2017-09-06T08:20:13.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzSFOXwiRSrc71FQmuuMsOXmmcCbMR3sCv7Zg=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzSFOXwiRSrc71FQmuuMsOXmmcCbMR3sCv7Zg=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzSFOXwiRSrc71FQmuuMsOXmmcCbMR3sCv7Zg=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Ian Vins",
+                        "description": "Life of photographer based in Jakarta, Indonesia. Filming about his little family, photography, videography tutorial, gadget & camera. \nPlease enjoy!"
+                    },
+                    "country": "ID"
+                },
+                "statistics": {
+                    "viewCount": "229470",
+                    "commentCount": "0",
+                    "subscriberCount": "0",
+                    "hiddenSubscriberCount": true,
+                    "videoCount": "47"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jWsIZU6fb3CcBcUGCBSuppkny5M\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/y6tlH8s70pj5rFPlApUM-qlzEVE\"",
+                "id": "UCIALMKvObZNtJ6AmdCLP7Lg",
+                "snippet": {
+                    "title": "Bloomberg Markets and Finance",
+                    "description": "The latest financial news and market analysis, direct from Bloomberg TV.\n\nVisit our other YouTube channels:\n\nBloomberg Digital https://www.youtube.com/user/Bloomberg\nBloomberg Politics https://www.youtube.com/c/BloombergPolitics\nBloomberg Technology https://www.youtube.com/c/BloombergTech\n\nFor more coverage on news, markets and more: http://www.bloomberg.com/video",
+                    "publishedAt": "2017-05-03T19:57:47.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzhKSvzvmg6XiVoCumx5sjt8KOlvMSkaD4gmA=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzhKSvzvmg6XiVoCumx5sjt8KOlvMSkaD4gmA=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzhKSvzvmg6XiVoCumx5sjt8KOlvMSkaD4gmA=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Bloomberg Markets and Finance",
+                        "description": "The latest financial news and market analysis, direct from Bloomberg TV.\n\nVisit our other YouTube channels:\n\nBloomberg Digital https://www.youtube.com/user/Bloomberg\nBloomberg Politics https://www.youtube.com/c/BloombergPolitics\nBloomberg Technology https://www.youtube.com/c/BloombergTech\n\nFor more coverage on news, markets and more: http://www.bloomberg.com/video"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "126337083",
+                    "commentCount": "0",
+                    "subscriberCount": "666000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "19882"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/RZ0SCNVTWSk5hOp2IVCnb6qq2Ug\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/rO8COvI9GJdNFdQSdq7JA4f2hFM\"",
+                "id": "UCnvgtzmvlb6d58d9BbOKuMA",
+                "snippet": {
+                    "title": "Fstoppers",
+                    "description": "Fstoppers is a community of photographers, videographers, and other creative professionals focused on sharing reviews, photo tricks and tips, tutorials, and news.",
+                    "publishedAt": "2010-01-19T22:16:03.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJytDG9wtqf4mohN9IBR156xNrV4X3fsrSWTgQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJytDG9wtqf4mohN9IBR156xNrV4X3fsrSWTgQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJytDG9wtqf4mohN9IBR156xNrV4X3fsrSWTgQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Fstoppers",
+                        "description": "Fstoppers is a community of photographers, videographers, and other creative professionals focused on sharing reviews, photo tricks and tips, tutorials, and news."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "88822599",
+                    "commentCount": "0",
+                    "subscriberCount": "850000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "613"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/HTMhSrY7WseFEfGUASKnQMoJKyc\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/s3HojFzKMnfr5SpHDrweNXnBR_4\"",
+                "id": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+                "snippet": {
+                    "title": "Jordan B Peterson",
+                    "description": "Support this channel at jordanbpeterson.com/donate/\n\nInstead of emailing Dr. Peterson, please consider posting your letter to his subreddit: https://www.reddit.com/r/JordanPeterson/\n\nDr. Jordan B Peterson is a professor and clinical psychologist. The videos are derived from two sources: \n1. His UToronto courses Maps of Meaning (which describes how values, including beliefs about good and evil, regulate emotion and motivation); and Personality & Its Transformations (which describes psychological theories from Eliade, Jung, Freud, Rogers, Gray, Luria, Sokolov, Vinogradova, Panksepp, Nietzsche, Kierkegaard, and Solzhenitsyn as well as psychometric models such as the Big Five). \n2. His public lectures on topics of general psychological relevance, including the meaning of music, the significance of hero mythology, and the structure of the world as represented in religion.\n\nClips Channel for shorter videos - https://www.youtube.com/c/JordanBPetersonClips",
+                    "customUrl": "jordanpetersonvideos",
+                    "publishedAt": "2013-03-30T02:56:38.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwvog1utgi6b92TxnypKo1nKoYnVZ_9gCV0QQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwvog1utgi6b92TxnypKo1nKoYnVZ_9gCV0QQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwvog1utgi6b92TxnypKo1nKoYnVZ_9gCV0QQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Jordan B Peterson",
+                        "description": "Support this channel at jordanbpeterson.com/donate/\n\nInstead of emailing Dr. Peterson, please consider posting your letter to his subreddit: https://www.reddit.com/r/JordanPeterson/\n\nDr. Jordan B Peterson is a professor and clinical psychologist. The videos are derived from two sources: \n1. His UToronto courses Maps of Meaning (which describes how values, including beliefs about good and evil, regulate emotion and motivation); and Personality & Its Transformations (which describes psychological theories from Eliade, Jung, Freud, Rogers, Gray, Luria, Sokolov, Vinogradova, Panksepp, Nietzsche, Kierkegaard, and Solzhenitsyn as well as psychometric models such as the Big Five). \n2. His public lectures on topics of general psychological relevance, including the meaning of music, the significance of hero mythology, and the structure of the world as represented in religion.\n\nClips Channel for shorter videos - https://www.youtube.com/c/JordanBPetersonClips"
+                    },
+                    "country": "CA"
+                },
+                "statistics": {
+                    "viewCount": "146369769",
+                    "commentCount": "0",
+                    "subscriberCount": "2680000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "402"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "_y3aAHswBPzgv1AKxoeIgoIV0tc",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "QA3jc8MIaYWSRiyaWKpxdndBtNs",
+                "id": "UCPjp41qeXe1o_lp1US9TpWA",
+                "snippet": {
+                    "title": "iPad Rehab",
+                    "description": "Practical troubleshooting, board-level repair and microsoldering support for everyone working with mobile devices.\n\nVisit us online to get a quote for mail-in board repair, or to learn more about our Practical Board Repair School where you can learn to do what we do yourself, or check out our tools and supplies.   http://ipadrehab.com",
+                    "customUrl": "mendonipadrehab",
+                    "publishedAt": "2014-12-31T01:22:16Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwQMEGTFepDCCcjUTEbxlTeyxwXJXF9NjvYng=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwQMEGTFepDCCcjUTEbxlTeyxwXJXF9NjvYng=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwQMEGTFepDCCcjUTEbxlTeyxwXJXF9NjvYng=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "iPad Rehab",
+                        "description": "Practical troubleshooting, board-level repair and microsoldering support for everyone working with mobile devices.\n\nVisit us online to get a quote for mail-in board repair, or to learn more about our Practical Board Repair School where you can learn to do what we do yourself, or check out our tools and supplies.   http://ipadrehab.com"
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "9172359",
+                    "commentCount": "0",
+                    "subscriberCount": "148000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "411"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "Qp3x_AF5hWjyqE8kBg1xRSaoXik",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "yfCJMdscYZZdGPHV3zozQQ3fD2Y",
+                "id": "UCvO9Xk3bheuxEemvknCj72g",
+                "snippet": {
+                    "title": "WhatCulture Gaming",
+                    "description": "",
+                    "customUrl": "whatculturegaming",
+                    "publishedAt": "2015-09-22T11:05:15Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxx_EzWC5pLUmD_5UNUMhUJucUwUURJEJdUyQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxx_EzWC5pLUmD_5UNUMhUJucUwUURJEJdUyQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxx_EzWC5pLUmD_5UNUMhUJucUwUURJEJdUyQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "WhatCulture Gaming",
+                        "description": ""
+                    }
+                },
+                "statistics": {
+                    "viewCount": "547494343",
+                    "commentCount": "0",
+                    "subscriberCount": "1450000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "2281"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "4HWnHHRWklYDSfDLTXF0efhN79o",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "kamjNhLgK9yQjvxnxwzKZ3RW_88",
+                "id": "UCaWd5_7JhbQBe4dknZhsHJg",
+                "snippet": {
+                    "title": "WatchMojo.com",
+                    "description": "Top 10 lists on Music, TV, Film and Video Games. We publish 4 or more Top 10s daily. Subscribe for new top 10 lists every day, and binge watch on Top 10s covering Pop Culture, Celebrity, Movies, Music, TV, Film, Video Games, Politics, News, Comics and Superheroes. WatchMojo\u2019s back catalogue has ten thousand videos on Top 10 lists, Origins, Biographies, Tips, How To\u2019s, Reviews, Commentary and more  Your trusted authority on ranking Pop Culture. \n\nSubscribe Now http://goo.gl/Q2kKrD - Ranking Pop Culture Since 2006!",
+                    "publishedAt": "2007-01-25T16:19:35Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxDr8tqrB0Q69_WSW8MmRtUVXr9wpSbkaA4iQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxDr8tqrB0Q69_WSW8MmRtUVXr9wpSbkaA4iQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxDr8tqrB0Q69_WSW8MmRtUVXr9wpSbkaA4iQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "WatchMojo.com",
+                        "description": "Top 10 lists on Music, TV, Film and Video Games. We publish 4 or more Top 10s daily. Subscribe for new top 10 lists every day, and binge watch on Top 10s covering Pop Culture, Celebrity, Movies, Music, TV, Film, Video Games, Politics, News, Comics and Superheroes. WatchMojo\u2019s back catalogue has ten thousand videos on Top 10 lists, Origins, Biographies, Tips, How To\u2019s, Reviews, Commentary and more  Your trusted authority on ranking Pop Culture. \n\nSubscribe Now http://goo.gl/Q2kKrD - Ranking Pop Culture Since 2006!"
+                    },
+                    "country": "CA"
+                },
+                "statistics": {
+                    "viewCount": "13448466725",
+                    "commentCount": "0",
+                    "subscriberCount": "22400000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "18074"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "MmFtg93XMJSftzaG5xjaiPoNJrw",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "hSEXW86yzCbgQOAnnd1EPMvSw8w",
+                "id": "UCeY0bbntWzzVIaj2z3QigXg",
+                "snippet": {
+                    "title": "NBC News",
+                    "description": "\u00bb Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n\u00bb Watch more NBC video: http://bit.ly/MoreNBCNews\n\nNBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.\n\n\nConnect with NBC News:\nNBC News App: https://smart.link/5d0cd9df61b80\nBreaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621\nVisit NBCNews.Com: http://nbcnews.to/ReadNBC\nFind NBC News on Facebook: http://nbcnews.to/LikeNBC\nFollow NBC News on Twitter: http://nbcnews.to/FollowNBC\nFollow NBC News on Instagram: http://nbcnews.to/InstaNBC",
+                    "customUrl": "nbcnews",
+                    "publishedAt": "2006-07-19T20:46:03Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJw7sCgTchsLPRZprROiWyklMTYvnYtx1REtxg=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJw7sCgTchsLPRZprROiWyklMTYvnYtx1REtxg=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJw7sCgTchsLPRZprROiWyklMTYvnYtx1REtxg=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "NBC News",
+                        "description": "\u00bb Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n\u00bb Watch more NBC video: http://bit.ly/MoreNBCNews\n\nNBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.\n\n\nConnect with NBC News:\nNBC News App: https://smart.link/5d0cd9df61b80\nBreaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621\nVisit NBCNews.Com: http://nbcnews.to/ReadNBC\nFind NBC News on Facebook: http://nbcnews.to/LikeNBC\nFollow NBC News on Twitter: http://nbcnews.to/FollowNBC\nFollow NBC News on Instagram: http://nbcnews.to/InstaNBC"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "1414611175",
+                    "commentCount": "0",
+                    "subscriberCount": "3000000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "23486"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "cN0rOEc4ZAFOfWMeYZe9JIS_vao",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "P8kDdO__zOrU684velDRlP5S5Ms",
+                "id": "UCrp_UI8XtuYfpiqluWLD7Lw",
+                "snippet": {
+                    "title": "CNBC Television",
+                    "description": "",
+                    "customUrl": "cnbctelevision",
+                    "publishedAt": "2018-05-29T15:09:14Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJw7vt-Y1AvAVI5aUx7JGZFGm16nKbFrnT8JEA=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJw7vt-Y1AvAVI5aUx7JGZFGm16nKbFrnT8JEA=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJw7vt-Y1AvAVI5aUx7JGZFGm16nKbFrnT8JEA=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "CNBC Television",
+                        "description": ""
+                    }
+                },
+                "statistics": {
+                    "viewCount": "274010318",
+                    "commentCount": "0",
+                    "subscriberCount": "573000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "41811"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "m-N34Qv4rq23R1UGEBlihNl3irw",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "Lbuq-jgNTTBumuSZVYIFwaJuQKY",
+                "id": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "snippet": {
+                    "title": "TEDx Talks",
+                    "description": "TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage. TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.\n\nFor more information on using TED for commercial purposes (e.g. employee learning, in a film, or in an online course), please submit a media request using the link below.",
+                    "publishedAt": "2009-06-23T16:00:48Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwQDH97C3-TPSYgFqhZx-SyLzcpBmH7Z0qPwA=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwQDH97C3-TPSYgFqhZx-SyLzcpBmH7Z0qPwA=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwQDH97C3-TPSYgFqhZx-SyLzcpBmH7Z0qPwA=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "TEDx Talks",
+                        "description": "TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage. TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.\n\nFor more information on using TED for commercial purposes (e.g. employee learning, in a film, or in an online course), please submit a media request using the link below."
+                    }
+                },
+                "statistics": {
+                    "viewCount": "4466836864",
+                    "commentCount": "0",
+                    "subscriberCount": "24500000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "154209"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "TTe7LfZSzd5L-Lq_MhXyDFV3S7Q",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "BJWBq7p4WwrUxjZL4HpcPZdT_7A",
+                "id": "UCJ7dtuZhjFSJvb_CZjWJkng",
+                "snippet": {
+                    "title": "The List",
+                    "description": "The List is a women\u2019s lifestyle site, with a twist. We pride ourselves on being original, well-researched, and without sugar-coating, but no topic is beneath us. We tackle everything from reality TV (we\u2019re a bit obsessed!), to finding love, to living a healthy and happy life. Every video you watch is either a personal experience, advice from an expert, or meticulously sourced, so you know you\u2019re getting info you can trust, from women who get it.",
+                    "customUrl": "thelistdaily",
+                    "publishedAt": "2016-07-13T15:05:34Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyGbX82kUsrKIb1XsGMtCGLgAa4jhGspYvlQw=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyGbX82kUsrKIb1XsGMtCGLgAa4jhGspYvlQw=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyGbX82kUsrKIb1XsGMtCGLgAa4jhGspYvlQw=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "The List",
+                        "description": "The List is a women\u2019s lifestyle site, with a twist. We pride ourselves on being original, well-researched, and without sugar-coating, but no topic is beneath us. We tackle everything from reality TV (we\u2019re a bit obsessed!), to finding love, to living a healthy and happy life. Every video you watch is either a personal experience, advice from an expert, or meticulously sourced, so you know you\u2019re getting info you can trust, from women who get it."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "475492079",
+                    "commentCount": "0",
+                    "subscriberCount": "953000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1107"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "UjyEeD7imFYVKa3DAaznkuC7JJE",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "Wb0lZVymyA2Q--cBBlCJOHkxha0",
+                "id": "UCh6KFtW4a4Ozr81GI1cxaBQ",
+                "snippet": {
+                    "title": "University of California Television (UCTV)",
+                    "description": "University of California Television (UCTV) shares educational and enrichment programming from the campuses, national laboratories, and affiliated institutions of the University of California. Subscribe to your favorites playlists to receive the latest research and information on topics that range from opera to oceanography, autism to artist profiles, global warming to global health. Arts, music, science, public affairs, health, business - if you're talking about it, you'll find it on UCTV.\n\nTo learn more, visit out web site: http://www.uctv.tv",
+                    "customUrl": "uctv",
+                    "publishedAt": "2007-02-13T04:22:51Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJybrmujjeDK9_wF3zPgIBrWJNsYmQlBoQ7YDw=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJybrmujjeDK9_wF3zPgIBrWJNsYmQlBoQ7YDw=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJybrmujjeDK9_wF3zPgIBrWJNsYmQlBoQ7YDw=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "University of California Television (UCTV)",
+                        "description": "University of California Television (UCTV) shares educational and enrichment programming from the campuses, national laboratories, and affiliated institutions of the University of California. Subscribe to your favorites playlists to receive the latest research and information on topics that range from opera to oceanography, autism to artist profiles, global warming to global health. Arts, music, science, public affairs, health, business - if you're talking about it, you'll find it on UCTV.\n\nTo learn more, visit out web site: http://www.uctv.tv"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "138807655",
+                    "commentCount": "0",
+                    "subscriberCount": "571000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "8650"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/HfGl83ngM1ZqL55itlu_GywWjy4\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ZJzGOPPNqYll_t9DkHRUQO52w3w\"",
+                "id": "UCl_mlar6gQ3z94OLr7YPkbA",
+                "snippet": {
+                    "title": "Stanford Health Care",
+                    "description": "Stanford Hospital & Clinics is known worldwide for advanced treatment of complex disorders in areas such as cardiac care, cancer treatment, neurosciences, surgery and organ transplants. Consistently ranked among the nation's top hospitals, Stanford Hospital & Clinics is internationally recognized for translating medical breakthroughs into patient care.",
+                    "publishedAt": "2008-06-18T17:17:50.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyOr1TMEhqd1uKtQu3tk0GEGWLGMTFn3NEctA=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyOr1TMEhqd1uKtQu3tk0GEGWLGMTFn3NEctA=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyOr1TMEhqd1uKtQu3tk0GEGWLGMTFn3NEctA=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Stanford Health Care",
+                        "description": "Stanford Hospital & Clinics is known worldwide for advanced treatment of complex disorders in areas such as cardiac care, cancer treatment, neurosciences, surgery and organ transplants. Consistently ranked among the nation's top hospitals, Stanford Hospital & Clinics is internationally recognized for translating medical breakthroughs into patient care."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "8655905",
+                    "commentCount": "0",
+                    "subscriberCount": "43700",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "796"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/kr-97HHHW_0cmELdYAgc3tkylSw\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/PUu3ij0RYvME-QE7NDvphGZdtfg\"",
+                "id": "UCM2YmsRUeIbRkqjgNm0eTGQ",
+                "snippet": {
+                    "title": "Journeyman Pictures",
+                    "description": "Do you want to know more? For over 20 years Journeyman Pictures have independently distributed the world's most provocative, incisive factual TV. Working with the top players in the industry, our award-winning stories put us at the spearhead of the factual agenda. We're your independent source for the world's most powerful films, exploring the burning issues of today. We represent stories from the world's top producers, with brand new content coming in all the time. On our channel you'll find outstanding and controversial journalism covering any global subject you can imagine wanting to know about, as well as trailers for groundbreaking and incisive documentaries on a breathtaking variety of subjects.",
+                    "customUrl": "journeyman",
+                    "publishedAt": "2007-03-21T18:41:41.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJznfrlXoqR_Kji6itCFZpMLq4XsKhfiYbZg1Q=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJznfrlXoqR_Kji6itCFZpMLq4XsKhfiYbZg1Q=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJznfrlXoqR_Kji6itCFZpMLq4XsKhfiYbZg1Q=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Journeyman Pictures",
+                        "description": "Do you want to know more? For over 20 years Journeyman Pictures have independently distributed the world's most provocative, incisive factual TV. Working with the top players in the industry, our award-winning stories put us at the spearhead of the factual agenda. We're your independent source for the world's most powerful films, exploring the burning issues of today. We represent stories from the world's top producers, with brand new content coming in all the time. On our channel you'll find outstanding and controversial journalism covering any global subject you can imagine wanting to know about, as well as trailers for groundbreaking and incisive documentaries on a breathtaking variety of subjects."
+                    },
+                    "country": "GB"
+                },
+                "statistics": {
+                    "viewCount": "644116906",
+                    "commentCount": "0",
+                    "subscriberCount": "1450000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "7780"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gSwz1rwtB2-gVbp8smRiD-ohtyA\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/fvefuoTTsVQr1BMeteNEVsaCklo\"",
+                "id": "UCZaT_X_mc0BI-djXOlfhqWQ",
+                "snippet": {
+                    "title": "VICE News",
+                    "description": "VICE News is the breaking, break-through news you need. VICE on SHOWTIME airs Sundays at 8PM and VICE News Tonight is coming back soon to VICE TV. \n\nSign up for the VICE News Daily Brief http://bit.ly/2NnkJOD\n\nAll video licensing inquiries should be directed to licensing @ vice.com.",
+                    "customUrl": "vicenews",
+                    "publishedAt": "2013-11-20T15:11:51.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJy5RJV4Rcg8sXRsSWmI-Pg1J9IyjNavvDgvYA=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJy5RJV4Rcg8sXRsSWmI-Pg1J9IyjNavvDgvYA=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJy5RJV4Rcg8sXRsSWmI-Pg1J9IyjNavvDgvYA=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "VICE News",
+                        "description": "VICE News is the breaking, break-through news you need. VICE on SHOWTIME airs Sundays at 8PM and VICE News Tonight is coming back soon to VICE TV. \n\nSign up for the VICE News Daily Brief http://bit.ly/2NnkJOD\n\nAll video licensing inquiries should be directed to licensing @ vice.com."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "1512071450",
+                    "commentCount": "0",
+                    "subscriberCount": "5360000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "4634"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/J_ftMzWowXP43j9RzeRvQIIVgfU\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/7YqDZpUq6pPeYmh4vkK8I8rtDBg\"",
+                "id": "UCdrYtfEI3e4ZhmFs04DDWtA",
+                "snippet": {
+                    "title": "Isiajno",
+                    "description": "When you want to broaden your music knowledge, know interesting music facts and you are looking for music thematic compilations or just some good music I think you're gonna enjoy my videos. I want to promote both classical and popular music and I hope that you're not only going to enjoy my videos but also getting intersting by music more and more. Watch my videos, rate them and comment.\nNow you can also follow me on Spotify where you can find my playlists. To do this you have to enter \"spotify:user:1190084485\" into your Spotify's search bar. If you do it, the pleasure, the privilege is mine (as Morrissey says) ;)",
+                    "customUrl": "isiajno",
+                    "publishedAt": "2008-10-17T18:00:27.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxTc98KOidwZDeyAJXNc0rP6SVv8u4jsPeMCQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxTc98KOidwZDeyAJXNc0rP6SVv8u4jsPeMCQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxTc98KOidwZDeyAJXNc0rP6SVv8u4jsPeMCQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Isiajno",
+                        "description": "When you want to broaden your music knowledge, know interesting music facts and you are looking for music thematic compilations or just some good music I think you're gonna enjoy my videos. I want to promote both classical and popular music and I hope that you're not only going to enjoy my videos but also getting intersting by music more and more. Watch my videos, rate them and comment.\nNow you can also follow me on Spotify where you can find my playlists. To do this you have to enter \"spotify:user:1190084485\" into your Spotify's search bar. If you do it, the pleasure, the privilege is mine (as Morrissey says) ;)"
+                    },
+                    "country": "PL"
+                },
+                "statistics": {
+                    "viewCount": "23617461",
+                    "commentCount": "0",
+                    "subscriberCount": "90500",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "10"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/sW-ea4LQ5dcNCP-jnDNkpG-eJLA\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/MRot1qjVp_HkQb-MP5ux6BOStaQ\"",
+                "id": "UCUuIQgNLG3xkqftlUtuFosw",
+                "snippet": {
+                    "title": "How To Academy",
+                    "description": "How To: Academy is an organisation for people who think big. We host artists and thinkers in an unrivalled programme of talks, masterclasses and conferences \u2013 from Yuval Noah Harari to Natalie Portman, Malala Yousafzai to Werner Herzog. We also help businesses inspire clients and staff, and make books, podcasts and films to share insight and innovation around the world.",
+                    "customUrl": "howtoacademylondon",
+                    "publishedAt": "2016-11-03T07:46:43.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJySMCqf5G_7Aq9epqaFIWL3jPd5uzCxYEaWfQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJySMCqf5G_7Aq9epqaFIWL3jPd5uzCxYEaWfQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJySMCqf5G_7Aq9epqaFIWL3jPd5uzCxYEaWfQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "How To Academy",
+                        "description": "How To: Academy is an organisation for people who think big. We host artists and thinkers in an unrivalled programme of talks, masterclasses and conferences \u2013 from Yuval Noah Harari to Natalie Portman, Malala Yousafzai to Werner Herzog. We also help businesses inspire clients and staff, and make books, podcasts and films to share insight and innovation around the world."
+                    },
+                    "country": "GB"
+                },
+                "statistics": {
+                    "viewCount": "10712137",
+                    "commentCount": "0",
+                    "subscriberCount": "108000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "82"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/O8jhyWpU63hRrUzxyYUy8E3YPLI\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/3s_JgVxaLRcCmxl1K6727N54VBg\"",
+                "id": "UCOfx0OFE-uMTmJXGPpP7elQ",
+                "snippet": {
+                    "title": "Anthony OnAir",
+                    "description": "Daily Music News from Anthony!  Plus long-form interviews with some of the most legendary musicians and upcoming artists!",
+                    "customUrl": "anthonyonair",
+                    "publishedAt": "2009-11-04T22:23:51.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxLclK8VDeob_5OL6tqQjFlKBFClb-R3GhsMg=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxLclK8VDeob_5OL6tqQjFlKBFClb-R3GhsMg=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxLclK8VDeob_5OL6tqQjFlKBFClb-R3GhsMg=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Anthony OnAir",
+                        "description": "Daily Music News from Anthony!  Plus long-form interviews with some of the most legendary musicians and upcoming artists!"
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "1328808",
+                    "commentCount": "0",
+                    "subscriberCount": "0",
+                    "hiddenSubscriberCount": true,
+                    "videoCount": "471"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "66IxTp8ODYBU9zjfwF4UslOCpBA",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "Wzt6om0HXJ0sfSmT7v5qmTayAcU",
+                "id": "UCl2mFZoRqjw_ELax4Yisf6w",
+                "snippet": {
+                    "title": "Louis Rossmann",
+                    "description": "I teach Macbook component level logic board repair from a common sense, everyman's perspective. I try to make it seem viable, and entertaining. \n\nI also go over business concepts & philosophy that will be important to running & maintaining a sustainable, profitable business. \n\nYou can read more about our company here & inquire about service. https://www.rossmanngroup.com\n\nWe have a paid forum to provide support to component level technicians https://www.rossmanngroup.com/boards\n\nIf you want a Macbook repair, check us out at https://www.sendyourmacbook.com\n\nIF YOU ARE A PR PERSON THAT WANTS TO SPAM US WITH SPONSORSHIP OFFERS FOR A PRODUCT OR SERVICE THAT HAS NOTHING TO DO WITH BOARD REPAIR: GTFO.",
+                    "publishedAt": "2011-10-12T03:40:50Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwaxE0nOWJviTyjNG-tjzryyOoCjXhwoPv4Lg=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwaxE0nOWJviTyjNG-tjzryyOoCjXhwoPv4Lg=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwaxE0nOWJviTyjNG-tjzryyOoCjXhwoPv4Lg=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Louis Rossmann",
+                        "description": "I teach Macbook component level logic board repair from a common sense, everyman's perspective. I try to make it seem viable, and entertaining. \n\nI also go over business concepts & philosophy that will be important to running & maintaining a sustainable, profitable business. \n\nYou can read more about our company here & inquire about service. https://www.rossmanngroup.com\n\nWe have a paid forum to provide support to component level technicians https://www.rossmanngroup.com/boards\n\nIf you want a Macbook repair, check us out at https://www.sendyourmacbook.com\n\nIF YOU ARE A PR PERSON THAT WANTS TO SPAM US WITH SPONSORSHIP OFFERS FOR A PRODUCT OR SERVICE THAT HAS NOTHING TO DO WITH BOARD REPAIR: GTFO."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "186836167",
+                    "commentCount": "0",
+                    "subscriberCount": "1160000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1668"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "UVeEWBXcS--RZIdr0eJxM2Q55Ag",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "jfsn5kdQ81Jyb5jNweqWAgtrC5s",
+                "id": "UCg4BS_rAR3uba4cN9xfrQUw",
+                "snippet": {
+                    "title": "\u0427\u0435\u0439\u043d [\u0421\u0422\u0420\u0418\u041c\u042b \u041d\u0410 \u0412\u0422\u041e\u0420\u041e\u041c \u041a\u0410\u041d\u0410\u041b\u0415]",
+                    "description": "\u041f\u0440\u0438\u0432\u0435\u0442, \u044f \u0427\u0435\u0439\u043d =) \u041d\u0430 \u043c\u043e\u0451\u043c \u043a\u0430\u043d\u0430\u043b\u0435 \u0442\u044b \u0443\u0432\u0438\u0434\u0438\u0448\u044c \u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u044b\u0435 \u0441\u0442\u0440\u0438\u043c\u044b \u0438 \u043c\u043d\u043e\u0433\u043e \u043a\u043b\u0430\u0441\u0441\u043d\u044b\u0445 \u0432\u0438\u0434\u043e\u0441\u0438\u043a\u043e\u0432 =D\n\u041f\u043e\u0434\u043f\u0438\u0448\u0438\u0441\u044c \u0438 \u043f\u043e\u043b\u0443\u0447\u0438\u0448\u044c \u043f\u0435\u0447\u0435\u043d\u044e\u0445\u0443 xD",
+                    "customUrl": "\u0447\u0435\u0438\u043d\u044e\u0442\u0443\u0431",
+                    "publishedAt": "2017-03-25T18:46:25Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJysdIiAnzgUz9OY76jtmuWBKMMqTI1lrwmx9Q=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJysdIiAnzgUz9OY76jtmuWBKMMqTI1lrwmx9Q=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJysdIiAnzgUz9OY76jtmuWBKMMqTI1lrwmx9Q=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "\u0427\u0435\u0439\u043d [\u0421\u0422\u0420\u0418\u041c\u042b \u041d\u0410 \u0412\u0422\u041e\u0420\u041e\u041c \u041a\u0410\u041d\u0410\u041b\u0415]",
+                        "description": "\u041f\u0440\u0438\u0432\u0435\u0442, \u044f \u0427\u0435\u0439\u043d =) \u041d\u0430 \u043c\u043e\u0451\u043c \u043a\u0430\u043d\u0430\u043b\u0435 \u0442\u044b \u0443\u0432\u0438\u0434\u0438\u0448\u044c \u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u044b\u0435 \u0441\u0442\u0440\u0438\u043c\u044b \u0438 \u043c\u043d\u043e\u0433\u043e \u043a\u043b\u0430\u0441\u0441\u043d\u044b\u0445 \u0432\u0438\u0434\u043e\u0441\u0438\u043a\u043e\u0432 =D\n\u041f\u043e\u0434\u043f\u0438\u0448\u0438\u0441\u044c \u0438 \u043f\u043e\u043b\u0443\u0447\u0438\u0448\u044c \u043f\u0435\u0447\u0435\u043d\u044e\u0445\u0443 xD"
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "93915",
+                    "commentCount": "0",
+                    "subscriberCount": "30900",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "32"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "IfronTiRmSkl9G-D-WFnR0lnHvs",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "8aaJEq2cK8tGgGgvREGmK_lb2Hc",
+                "id": "UCLpPdayeUfDyh6jg3oN-GIg",
+                "snippet": {
+                    "title": "Dr. Jen Caudle",
+                    "description": "Dr. Jennifer Caudle, D.O., is a board-certified Family Medicine physician and Associate Professor in the department of Family Medicine at Rowan University-School of Osteopathic Medicine. Dr. Jen graduated with Honors from Princeton University and earned her medical degree from UMDNJ - School of Osteopathic Medicine.  She is a regular on-air health expert for local and national news networks. She has appears on NBC Nightly News, TODAY Show, HLN, CNN, The Dr. Oz Show, FOX News, Mel Robbins Show, Tamron Hall Show and many others. Follow her on Instagram and Twitter @drjencaudle, Facebook at FB/drjencaudle and visit www.drjencaudle.com.",
+                    "customUrl": "drjencaudle",
+                    "publishedAt": "2014-10-09T23:09:33Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJx-1betpQN66qfTENh31XLIPKsmEjGnmkKh-Q=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJx-1betpQN66qfTENh31XLIPKsmEjGnmkKh-Q=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJx-1betpQN66qfTENh31XLIPKsmEjGnmkKh-Q=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Dr. Jen Caudle",
+                        "description": "Dr. Jennifer Caudle, D.O., is a board-certified Family Medicine physician and Associate Professor in the department of Family Medicine at Rowan University-School of Osteopathic Medicine. Dr. Jen graduated with Honors from Princeton University and earned her medical degree from UMDNJ - School of Osteopathic Medicine.  She is a regular on-air health expert for local and national news networks. She has appears on NBC Nightly News, TODAY Show, HLN, CNN, The Dr. Oz Show, FOX News, Mel Robbins Show, Tamron Hall Show and many others. Follow her on Instagram and Twitter @drjencaudle, Facebook at FB/drjencaudle and visit www.drjencaudle.com."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "2212519",
+                    "commentCount": "0",
+                    "subscriberCount": "25800",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "503"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_vCMqHMAi-jPpu1VR-FetO2Lw28\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6P-TJtJA_ZeruWm_6W811iOVLb0\"",
+                "id": "UCjbeFvVNUvKrdwvolP6LuKw",
+                "snippet": {
+                    "title": "Doctor Giancarlo",
+                    "description": "Dr. Giancarlo McEvenue is a Board Certified Plastic Surgeon working at Top Aesthetics Miami. He believes in giving his patients natural and long lasting results that enhance natural beauty. He has special expertise in High Definition Body Contouring (Liposuction), Brazilian Butt Lift (BBL), Female to Male Transgender Surgery, and Breast Augmentation. \n\nSubscribe to Dr. G's channel and follow along on social media!\n@real.plasticsurgery\n@doctor.giancarlo\n@topaestheticsofficial\n\n\ud83d\udcde(888) 867-8288\n\u2709\ufe0finfo@topaesthetics.com",
+                    "customUrl": "doctorgiancarlo",
+                    "publishedAt": "2013-09-06T15:52:09.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxY0B9HS-K1n6wgVRCPmz4M6WS-1cVttplJ_w=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxY0B9HS-K1n6wgVRCPmz4M6WS-1cVttplJ_w=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxY0B9HS-K1n6wgVRCPmz4M6WS-1cVttplJ_w=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Doctor Giancarlo",
+                        "description": "Dr. Giancarlo McEvenue is a Board Certified Plastic Surgeon working at Top Aesthetics Miami. He believes in giving his patients natural and long lasting results that enhance natural beauty. He has special expertise in High Definition Body Contouring (Liposuction), Brazilian Butt Lift (BBL), Female to Male Transgender Surgery, and Breast Augmentation. \n\nSubscribe to Dr. G's channel and follow along on social media!\n@real.plasticsurgery\n@doctor.giancarlo\n@topaestheticsofficial\n\n\ud83d\udcde(888) 867-8288\n\u2709\ufe0finfo@topaesthetics.com"
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "345827",
+                    "commentCount": "0",
+                    "subscriberCount": "1660",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "46"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "Q-cp8EyuZgMMo4fc0EAtBrJuMdM",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "MPi2JWX3MllPSxcvOdo--72q1kw",
+                "id": "UCF9IOB2TExg3QIBupFtBDxg",
+                "snippet": {
+                    "title": "Dr. John Campbell",
+                    "description": "Hello Everyone,\nMy name is John Campbell and I am a retired Nurse Teacher and A and E nurse based in England. I also do some teaching in Asia and Africa when time permits. These videos are to help students to learn the background to all forms of health care. My PhD focused on the development of open learning resources for nurses nationally and internationally. \n\nYou can also download my books in high resolution PDF format, many videos, a 64 gig stick with the current range of videos, talking PowerPoints and podcasts preloaded from my website, campbellteaching.co.uk\n\nMy books, 'Campbell`s Physiology Notes' and 'Campbell's Pathophysiology Notes' can also be ordered or downloaded via my website.  They are also available as Kindle editions from Amazon.co.uk or from amazon.com \n\nLinkedIn profile, https://uk.linkedin.com/in/dr-john-campbell-5256223b",
+                    "customUrl": "campbellteaching",
+                    "publishedAt": "2007-05-10T15:05:05Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJy04GiiAXxtgiiZoD3v0kTdLx1xuFWY2-6mlw=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJy04GiiAXxtgiiZoD3v0kTdLx1xuFWY2-6mlw=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJy04GiiAXxtgiiZoD3v0kTdLx1xuFWY2-6mlw=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Dr. John Campbell",
+                        "description": "Hello Everyone,\nMy name is John Campbell and I am a retired Nurse Teacher and A and E nurse based in England. I also do some teaching in Asia and Africa when time permits. These videos are to help students to learn the background to all forms of health care. My PhD focused on the development of open learning resources for nurses nationally and internationally. \n\nYou can also download my books in high resolution PDF format, many videos, a 64 gig stick with the current range of videos, talking PowerPoints and podcasts preloaded from my website, campbellteaching.co.uk\n\nMy books, 'Campbell`s Physiology Notes' and 'Campbell's Pathophysiology Notes' can also be ordered or downloaded via my website.  They are also available as Kindle editions from Amazon.co.uk or from amazon.com \n\nLinkedIn profile, https://uk.linkedin.com/in/dr-john-campbell-5256223b"
+                    },
+                    "country": "GB"
+                },
+                "statistics": {
+                    "viewCount": "71682725",
+                    "commentCount": "0",
+                    "subscriberCount": "663000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1223"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/xHYXzs7apQ0MPqh28g5bbPYoDgw\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/OnWV3VE-iEfcEjOf91Bh1jcI-34\"",
+                "id": "UCTrQ7HXWRRxr7OsOtodr2_w",
+                "snippet": {
+                    "title": "Channel 4 News",
+                    "description": "News that's committed to challenging expectations with stories that reveal and inspire, innovatively produced - with just a touch of mischief.",
+                    "customUrl": "channel4news",
+                    "publishedAt": "2006-07-05T23:18:56.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzHF7YKY9vOsnyWVDdGXN9nkxGIOx4_fH9_Iw=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzHF7YKY9vOsnyWVDdGXN9nkxGIOx4_fH9_Iw=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzHF7YKY9vOsnyWVDdGXN9nkxGIOx4_fH9_Iw=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Channel 4 News",
+                        "description": "News that's committed to challenging expectations with stories that reveal and inspire, innovatively produced - with just a touch of mischief."
+                    },
+                    "country": "GB"
+                },
+                "statistics": {
+                    "viewCount": "680184059",
+                    "commentCount": "0",
+                    "subscriberCount": "1320000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "10627"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/iFlCnXu9L83Ewt7fXoO0WfCCh00\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-Ph2lTZgo6p_W_tM-ZLsbYjG1gs\"",
+                "id": "UCetr7LZbLFZbznSsPMw2ssw",
+                "snippet": {
+                    "title": "Digiday",
+                    "description": "Digiday is a leading modern media publication and events company, a daily must-read among influencers obsessed with the bleeding edge of media and marketing. Visit us at: http://www.digiday.com\n\nIn our daily coverage, Digiday\u2019s high-quality journalism mixes deep industry knowledge and experience with an emphasis on honesty over spin and quality over quantity. Our growing international staff of reporters covers the publishing, advertising and digital platform industries with an expertise, depth and a wry tone unparallaled in their beats. \n\n-Our events bring together the top tier elite in the publishing, branding, agency and retail industries for multi-day summits at some of the world\u2019s most beautiful places.\n-Our awards programs honor overall excellence and breakthrough achievement in publishing, video, content marketing and mobile.",
+                    "customUrl": "digidayvideo",
+                    "publishedAt": "2013-01-03T16:57:27.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwHcYRv2uYb5THBA1AsFNV_-lqpN_fIlxdujQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwHcYRv2uYb5THBA1AsFNV_-lqpN_fIlxdujQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwHcYRv2uYb5THBA1AsFNV_-lqpN_fIlxdujQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Digiday",
+                        "description": "Digiday is a leading modern media publication and events company, a daily must-read among influencers obsessed with the bleeding edge of media and marketing. Visit us at: http://www.digiday.com\n\nIn our daily coverage, Digiday\u2019s high-quality journalism mixes deep industry knowledge and experience with an emphasis on honesty over spin and quality over quantity. Our growing international staff of reporters covers the publishing, advertising and digital platform industries with an expertise, depth and a wry tone unparallaled in their beats. \n\n-Our events bring together the top tier elite in the publishing, branding, agency and retail industries for multi-day summits at some of the world\u2019s most beautiful places.\n-Our awards programs honor overall excellence and breakthrough achievement in publishing, video, content marketing and mobile."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "8259294",
+                    "commentCount": "0",
+                    "subscriberCount": "42100",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "634"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "Xb1uDKxtKSB2gyKdPWCwdV6magY",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "pMCla_h0GmUPVebGopBrLBgXXvI",
+                "id": "UCjf6YzmyaKi8880IXMJ5kGA",
+                "snippet": {
+                    "title": "Outside Xtra",
+                    "description": "A companion channel to Outside Xbox! PS4, Nintendo, PC, virtual reality and more with your exquisite Outside Xtra hosts Ellen and Luke, plus guest appearances by Outside Xboxers Andy, Jane and Mike. \n\nRunning in tandem with Outside Xbox, Outside Xtra covers the wider world of gaming and related culture, including games that don\u2019t have Master Chief in. Look for regular appearances by OG Outside Xbox folks Andy, Jane and Mike, and generally more of the videos you love, about more of the platforms you enjoy, from a team now two people larger overall.",
+                    "customUrl": "outsidextra",
+                    "publishedAt": "2016-09-20T13:21:41Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxzZEaxTLF90583_LAuHZlC1pNW-fxMEh73Wg=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxzZEaxTLF90583_LAuHZlC1pNW-fxMEh73Wg=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxzZEaxTLF90583_LAuHZlC1pNW-fxMEh73Wg=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Outside Xtra",
+                        "description": "A companion channel to Outside Xbox! PS4, Nintendo, PC, virtual reality and more with your exquisite Outside Xtra hosts Ellen and Luke, plus guest appearances by Outside Xboxers Andy, Jane and Mike. \n\nRunning in tandem with Outside Xbox, Outside Xtra covers the wider world of gaming and related culture, including games that don\u2019t have Master Chief in. Look for regular appearances by OG Outside Xbox folks Andy, Jane and Mike, and generally more of the videos you love, about more of the platforms you enjoy, from a team now two people larger overall."
+                    },
+                    "country": "GB"
+                },
+                "statistics": {
+                    "viewCount": "223615028",
+                    "commentCount": "0",
+                    "subscriberCount": "811000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "768"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "VTmpzDdie36IwmwlAADPPLEKP7E",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "raxQVqJMF139U4ZeR4C59q-ac9g",
+                "id": "UCclbeGw9IqdJoTwsKV3kEbA",
+                "snippet": {
+                    "title": "RockBridgeIsland",
+                    "description": "A lot of people call me CDT, but you can also call me Christopher :).  As an Enneagram 5, my wish for you is that you will feel safe in the world, without losing your excitement.\n\nCONTACT:\nemailmeCDT@gmail.com",
+                    "customUrl": "rockbridgeisland",
+                    "publishedAt": "2019-01-03T05:22:28Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyBlunCTS_6yL36K7i4qaK5TjKy3f4UjHla8A=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyBlunCTS_6yL36K7i4qaK5TjKy3f4UjHla8A=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyBlunCTS_6yL36K7i4qaK5TjKy3f4UjHla8A=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "RockBridgeIsland",
+                        "description": "A lot of people call me CDT, but you can also call me Christopher :).  As an Enneagram 5, my wish for you is that you will feel safe in the world, without losing your excitement.\n\nCONTACT:\nemailmeCDT@gmail.com"
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "226859",
+                    "commentCount": "0",
+                    "subscriberCount": "2070",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "23"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "lKvxyf0JWCszd5HllPfm3E_GqcY",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "gO6wlbXiFhsnQjhLlSBMTwEGUb8",
+                "id": "UCwFplYvhHks5TV3bWxUrU9A",
+                "snippet": {
+                    "title": "Back Intelligence",
+                    "description": "Posture Exercises, Ergonomics, and Natural Treatment methods for the back, neck and shoulders.\n\nNothing posted on this channel is medical advice or a substitute for advice from your physician or healthcare provider.\u00a0 Always contact your physician or other healthcare provider with any questions about a medical condition or your personal health.\u00a0 You may read the full disclaimer here: [insert link].",
+                    "customUrl": "backintelligence",
+                    "publishedAt": "2016-10-24T13:23:49Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzcECgKukiPsNWnltBz0ZnonGt6RvEf_HirmA=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzcECgKukiPsNWnltBz0ZnonGt6RvEf_HirmA=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzcECgKukiPsNWnltBz0ZnonGt6RvEf_HirmA=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Back Intelligence",
+                        "description": "Posture Exercises, Ergonomics, and Natural Treatment methods for the back, neck and shoulders.\n\nNothing posted on this channel is medical advice or a substitute for advice from your physician or healthcare provider.\u00a0 Always contact your physician or other healthcare provider with any questions about a medical condition or your personal health.\u00a0 You may read the full disclaimer here: [insert link]."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "4670657",
+                    "commentCount": "0",
+                    "subscriberCount": "57800",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "56"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/qlI9myDp_mKmcCBV4-Qo-6pnVtM\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/d-WUO2RXQKvLiuN5L93sTo4NJzg\"",
+                "id": "UCO3MOvbjKe6Kr-6z9-_3wIQ",
+                "snippet": {
+                    "title": "Raising Good Parents",
+                    "description": "There\u2019s a thousand parenting books. There are so many approaches. Attachment, barefoot, tiger, helicopter, free-range\u2026. It used to be you felt the need to keep up with your neighbors and friends\u2026now it\u2019s all of Facebook. You see the beautifully framed and filtered shots of happy children and parents on Instagram.\n\nHousehold peace, even momentary, is more difficult than you thought. The tug of work (do those emails ever quit?), keeping house (didn\u2019t we just pick up this room?), giving your children positive attention, making sure they are being stimulated with outings, lessons, athletics\u2026.\n\nI\u2019d like to share my experiences, knowledge, and expertise with you. To help you be a better parent. To enjoy your children, spouse, and family more. To grow closer to each other and God. You already have most of what you need. I can give you the confidence and reassurance that you can do this.",
+                    "publishedAt": "2018-04-08T21:45:57.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwKfC3Na2JPm6ZVBofiZfAx2DyFFU1_AIjAOw=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwKfC3Na2JPm6ZVBofiZfAx2DyFFU1_AIjAOw=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwKfC3Na2JPm6ZVBofiZfAx2DyFFU1_AIjAOw=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Raising Good Parents",
+                        "description": "There\u2019s a thousand parenting books. There are so many approaches. Attachment, barefoot, tiger, helicopter, free-range\u2026. It used to be you felt the need to keep up with your neighbors and friends\u2026now it\u2019s all of Facebook. You see the beautifully framed and filtered shots of happy children and parents on Instagram.\n\nHousehold peace, even momentary, is more difficult than you thought. The tug of work (do those emails ever quit?), keeping house (didn\u2019t we just pick up this room?), giving your children positive attention, making sure they are being stimulated with outings, lessons, athletics\u2026.\n\nI\u2019d like to share my experiences, knowledge, and expertise with you. To help you be a better parent. To enjoy your children, spouse, and family more. To grow closer to each other and God. You already have most of what you need. I can give you the confidence and reassurance that you can do this."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "23117",
+                    "commentCount": "0",
+                    "subscriberCount": "199",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "38"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nRNpuA_YBjgPg4FuG_tapp5awPs\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/de0qQ8Houhw7_4sgGwRxywYShgY\"",
+                "id": "UCsEukrAd64fqA7FjwkmZ_Dw",
+                "snippet": {
+                    "title": "GQ",
+                    "description": "For more than 50 years, GQ has been the premier men\u2019s magazine, providing definitive coverage of style, culture, politics and more. In that tradition, GQ\u2019s video channel covers every part of a man\u2019s life, from entertainment and sports to fashion and grooming advice. So join celebrities from 2 Chainz, Stephen Curry and Channing Tatum to Amy Schumer, Kendall Jenner and Kate Upton for a look at the best in pop culture. Welcome to the modern man\u2019s guide to style advice, dating tips, celebrity videos, music, sports and more.\nSubscribe to GQ magazine and get rare swag: https://bit.ly/2xNBH3i",
+                    "customUrl": "gq",
+                    "publishedAt": "2008-01-16T16:12:23.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwzDyU3MtqcvqlGnkkaxyXQnRwq64Fbo7-v9w=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwzDyU3MtqcvqlGnkkaxyXQnRwq64Fbo7-v9w=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwzDyU3MtqcvqlGnkkaxyXQnRwq64Fbo7-v9w=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "GQ",
+                        "description": "For more than 50 years, GQ has been the premier men\u2019s magazine, providing definitive coverage of style, culture, politics and more. In that tradition, GQ\u2019s video channel covers every part of a man\u2019s life, from entertainment and sports to fashion and grooming advice. So join celebrities from 2 Chainz, Stephen Curry and Channing Tatum to Amy Schumer, Kendall Jenner and Kate Upton for a look at the best in pop culture. Welcome to the modern man\u2019s guide to style advice, dating tips, celebrity videos, music, sports and more.\nSubscribe to GQ magazine and get rare swag: https://bit.ly/2xNBH3i"
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "1787092980",
+                    "commentCount": "0",
+                    "subscriberCount": "5060000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "2345"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/sZ1-X6SOLQ0lKbltfE1RzDZoluk\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Z25HARnkDVaSqG1O_LnfqJ1FpIw\"",
+                "id": "UCWrBgaGjj6k5ZrTxbZzd0Og",
+                "snippet": {
+                    "title": "Chatham House",
+                    "description": "Chatham House has been the home of the Royal Institute of International Affairs for 90 years. Our mission is to be a world-leading source of independent analysis, informed debate and influential ideas on how to build a prosperous and secure world.",
+                    "publishedAt": "2009-06-29T09:25:07.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwukh19kvBPDuRzW9m3AHwNQRzuCwHQwdGgPA=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwukh19kvBPDuRzW9m3AHwNQRzuCwHQwdGgPA=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwukh19kvBPDuRzW9m3AHwNQRzuCwHQwdGgPA=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Chatham House",
+                        "description": "Chatham House has been the home of the Royal Institute of International Affairs for 90 years. Our mission is to be a world-leading source of independent analysis, informed debate and influential ideas on how to build a prosperous and secure world."
+                    },
+                    "country": "GB"
+                },
+                "statistics": {
+                    "viewCount": "3363519",
+                    "commentCount": "0",
+                    "subscriberCount": "23500",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1208"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "h_wC-LiYY_1lfmY3m4xChxh87xY",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "zL_cJ06P8T-jH3Cu6PywsPezIuk",
+                "id": "UC4BOzQel6tvJm7OEDd3vZlw",
+                "snippet": {
+                    "title": "Prairie Public",
+                    "description": "Discover the history, culture, and interests of people in the prairie region through our award-winning documentaries and short films.\n\nSubscribe today to explore the surprising corners of our history; examine our rich blend of arts, music, and culture; learn about the challenges we face and the victories we have achieved.",
+                    "customUrl": "prairiepublic",
+                    "publishedAt": "2008-10-02T15:10:46Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwurTFJoP6s0pr4z-xiGajeqN9ITKlXNsPYrg=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwurTFJoP6s0pr4z-xiGajeqN9ITKlXNsPYrg=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwurTFJoP6s0pr4z-xiGajeqN9ITKlXNsPYrg=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Prairie Public",
+                        "description": "Discover the history, culture, and interests of people in the prairie region through our award-winning documentaries and short films.\n\nSubscribe today to explore the surprising corners of our history; examine our rich blend of arts, music, and culture; learn about the challenges we face and the victories we have achieved."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "3862535",
+                    "commentCount": "0",
+                    "subscriberCount": "12300",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1461"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/tAbIqX9JyKlNmHzNyJo5DpzumLg\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6pLutBRpN5Myl4GPaDBUMdYQbwQ\"",
+                "id": "UCXFmd22FdhPeSGZg-jZEW8Q",
+                "snippet": {
+                    "title": "Beau Davidson",
+                    "description": "Hey everybody, I am Beau Davidson, a singer, songwriter, and actor living in Nashville, TN. I hope you enjoy what you see and hear! Buy me on iTunes!",
+                    "publishedAt": "2006-11-11T19:21:19.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyVKHneg-qUIWhg2F_R8fpNjoqt-p4LCQJcLw=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyVKHneg-qUIWhg2F_R8fpNjoqt-p4LCQJcLw=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyVKHneg-qUIWhg2F_R8fpNjoqt-p4LCQJcLw=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Beau Davidson",
+                        "description": "Hey everybody, I am Beau Davidson, a singer, songwriter, and actor living in Nashville, TN. I hope you enjoy what you see and hear! Buy me on iTunes!"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "854212",
+                    "commentCount": "0",
+                    "subscriberCount": "1150",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "306"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/04BIIBtKfD5D8kPWqPYGZKSPfZo\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/JpCPgc9lpHDKxS3ksdAl31CTqcI\"",
+                "id": "UCMIZ1PU9g27a-dEwCUxWC4A",
+                "snippet": {
+                    "title": "John Kirkwood",
+                    "description": "",
+                    "customUrl": "johnkirkwoodprofoodhomemade",
+                    "publishedAt": "2011-01-28T17:51:01.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJx8QminkWyc7WpiTVL4pcR4vZgItGW4Hus6eQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJx8QminkWyc7WpiTVL4pcR4vZgItGW4Hus6eQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJx8QminkWyc7WpiTVL4pcR4vZgItGW4Hus6eQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "John Kirkwood",
+                        "description": ""
+                    }
+                },
+                "statistics": {
+                    "viewCount": "19162520",
+                    "commentCount": "0",
+                    "subscriberCount": "254000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "132"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "HkRoLs3UGsnJyUv-cMK9OpIyBnc",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "l790y51ut7pnBx-gCc1oc6Fm618",
+                "id": "UC74U1KDtashP19m2U9eTshw",
+                "snippet": {
+                    "title": "Our Tribe of Many",
+                    "description": "Welcome to Our Tribe of Many!! We are an interracial and international family of eleven and here you will find videos on a wide variety of topics including...\n\nHomeschooling\nLarge Family Logistics\nGrocery Hauls\nFamily Finances\nand more!  \n\nNew videos every Tuesday, Thursday, and Saturday!\n\nOur Tribe of Many\nP.O. Box 22053\nLincoln, NE  68542",
+                    "customUrl": "ourtribeofmany",
+                    "publishedAt": "2013-10-31T12:57:47Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwm4ruEcP5TqoMMkeZkDkHIJopnZI-wa0rvWg=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwm4ruEcP5TqoMMkeZkDkHIJopnZI-wa0rvWg=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJwm4ruEcP5TqoMMkeZkDkHIJopnZI-wa0rvWg=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Our Tribe of Many",
+                        "description": "Welcome to Our Tribe of Many!! We are an interracial and international family of eleven and here you will find videos on a wide variety of topics including...\n\nHomeschooling\nLarge Family Logistics\nGrocery Hauls\nFamily Finances\nand more!  \n\nNew videos every Tuesday, Thursday, and Saturday!\n\nOur Tribe of Many\nP.O. Box 22053\nLincoln, NE  68542"
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "45054643",
+                    "commentCount": "0",
+                    "subscriberCount": "284000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "498"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "I-fs9GuCuh0s41u8GnCRstSQam8",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "I2ruuR5y3EL9t8Rc_KFzjNLQiMQ",
+                "id": "UC-SJ6nODDmufqBzPBwCvYvQ",
+                "snippet": {
+                    "title": "CBS This Morning",
+                    "description": "Welcome to the official YouTube channel for CBS This Morning! \n\nEach weekday morning, Gayle King, Anthony Mason and Tony Dokoupil deliver two hours of original reporting, breaking news and top-level newsmaker interviews in an engaging and informative format that challenges the norm in network morning news programs. The broadcast has earned a prestigious Peabody Award, a Polk Award, four News & Documentary Emmys, three Daytime Emmys and the 2017 Edward R. Murrow Award for Best Newscast. The broadcast was also honored with an Alfred I. duPont-Columbia Award as part of CBS News division-wide coverage of the shootings at Sandy Hook Elementary School in Newtown, Conn. \n\n\"CBS This Morning\" airs weekdays at 7 a.m. on the CBS Television Network.",
+                    "publishedAt": "2013-05-23T10:59:52Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyYFzgL9GRN1fR3Ol9DHKQ7fdhkvF7Kkn9e7A=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyYFzgL9GRN1fR3Ol9DHKQ7fdhkvF7Kkn9e7A=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyYFzgL9GRN1fR3Ol9DHKQ7fdhkvF7Kkn9e7A=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "CBS This Morning",
+                        "description": "Welcome to the official YouTube channel for CBS This Morning! \n\nEach weekday morning, Gayle King, Anthony Mason and Tony Dokoupil deliver two hours of original reporting, breaking news and top-level newsmaker interviews in an engaging and informative format that challenges the norm in network morning news programs. The broadcast has earned a prestigious Peabody Award, a Polk Award, four News & Documentary Emmys, three Daytime Emmys and the 2017 Edward R. Murrow Award for Best Newscast. The broadcast was also honored with an Alfred I. duPont-Columbia Award as part of CBS News division-wide coverage of the shootings at Sandy Hook Elementary School in Newtown, Conn. \n\n\"CBS This Morning\" airs weekdays at 7 a.m. on the CBS Television Network."
+                    }
+                },
+                "statistics": {
+                    "viewCount": "1069232368",
+                    "commentCount": "0",
+                    "subscriberCount": "1400000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "26795"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "OGSPqcWzhfIHTqqZToxvjU5Za2U",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "W7lH47BxSCGQjp5ma0uf64z9QCM",
+                "id": "UCAqrkZ5w-I45q40eZSFC_-w",
+                "snippet": {
+                    "title": "Paul Lynch",
+                    "description": "",
+                    "publishedAt": "2010-04-02T06:34:45Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzXAvOBlFvd-2wDksdPquRJHnuwyL-RVXcLTQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzXAvOBlFvd-2wDksdPquRJHnuwyL-RVXcLTQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzXAvOBlFvd-2wDksdPquRJHnuwyL-RVXcLTQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Paul Lynch",
+                        "description": ""
+                    }
+                },
+                "statistics": {
+                    "viewCount": "371421",
+                    "commentCount": "0",
+                    "subscriberCount": "1460",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "36"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/-VWNuwlZYF4bYrFcxoQ-89VfALQ\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/lYrpGPTDMgdIgkr_iB4naNYTiIA\"",
+                "id": "UC6skZv88M7S_TtOd6Kxopcg",
+                "snippet": {
+                    "title": "Pastor West",
+                    "description": "Pastor West is a new definition of leadership for this generation, and the next generation of leaders. He is the leader of social media\u2019s world of inspiring content. Helping people discover, follow, and share Jesus Christ.",
+                    "customUrl": "pastorwest",
+                    "publishedAt": "2014-06-16T16:48:06.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyd5ZsBAyZeNGhnabHz1EPscN4W8HNjx7NecQ=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyd5ZsBAyZeNGhnabHz1EPscN4W8HNjx7NecQ=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyd5ZsBAyZeNGhnabHz1EPscN4W8HNjx7NecQ=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Pastor West",
+                        "description": "Pastor West is a new definition of leadership for this generation, and the next generation of leaders. He is the leader of social media\u2019s world of inspiring content. Helping people discover, follow, and share Jesus Christ."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "81769",
+                    "commentCount": "0",
+                    "subscriberCount": "1830",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "34"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/X0QEyP4V3ns5eXuqluzRczPQ4CM\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/U4AkU827CAe2FrKvyOOz1itMi6g\"",
+                "id": "UC61Ms-qN_-mdtF_Dw5hsRYw",
+                "snippet": {
+                    "title": "KUSI News",
+                    "description": "#KUSINews is the rarest of the rare, a true independent television station. If you see news happening call (858) 505-5014 or email news@kusi.com",
+                    "publishedAt": "2010-02-05T23:27:37.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyJZD94Dmgy3QXxs16_9kA0bJOgSoADyE41=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyJZD94Dmgy3QXxs16_9kA0bJOgSoADyE41=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJyJZD94Dmgy3QXxs16_9kA0bJOgSoADyE41=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "KUSI News",
+                        "description": "#KUSINews is the rarest of the rare, a true independent television station. If you see news happening call (858) 505-5014 or email news@kusi.com"
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "4180460",
+                    "commentCount": "0",
+                    "subscriberCount": "12300",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1472"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "ISadNAOYa_aO_yuKBqlqwoBPBqk",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "q18DjlaskEhztSTOKk5xAFGl7wE",
+                "id": "UCFyRz1N_T-rnSkbaAH_TFAw",
+                "snippet": {
+                    "title": "ZDoggMD",
+                    "description": "Zubin Damania, MD. Stanford-trained doctor, entertainer, and host of The ZDoggMD Show.\n\nWe're fixing medicine, together. \n\nMusic videos, rants, and in-depth interviews that go way beyond healthcare. Join us.",
+                    "customUrl": "zdoggmd",
+                    "publishedAt": "2010-03-17T07:35:54Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxpTQj73L3sfRpEOAQLqYts1VDzeO1IXs-6Eg=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxpTQj73L3sfRpEOAQLqYts1VDzeO1IXs-6Eg=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxpTQj73L3sfRpEOAQLqYts1VDzeO1IXs-6Eg=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "ZDoggMD",
+                        "description": "Zubin Damania, MD. Stanford-trained doctor, entertainer, and host of The ZDoggMD Show.\n\nWe're fixing medicine, together. \n\nMusic videos, rants, and in-depth interviews that go way beyond healthcare. Join us."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "51372269",
+                    "commentCount": "0",
+                    "subscriberCount": "226000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "910"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "BqAq6yNjwVCyrolTGcVcxoBZ8jE",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "GAJoxROloEiFYOojet79BnDnxp4",
+                "id": "UCdG0Vc-8dGBvbt-PHA-FPIg",
+                "snippet": {
+                    "title": "Biblical Genetics",
+                    "description": "Genetics, history, genealogy, geography, and the Bible.",
+                    "publishedAt": "2019-05-10T01:36:46Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxaPZGjRQTBRw20pi4J5fPba2becDDalNgiSw=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxaPZGjRQTBRw20pi4J5fPba2becDDalNgiSw=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJxaPZGjRQTBRw20pi4J5fPba2becDDalNgiSw=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Biblical Genetics",
+                        "description": "Genetics, history, genealogy, geography, and the Bible."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "65014",
+                    "commentCount": "0",
+                    "subscriberCount": "778",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "14"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gM5mXUFZZq2_ma9PbnYJc2yeJDA\"",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/bIt1qqhyoJkbUDnNp0oYBVIGmGQ\"",
+                "id": "UCo2PFcQtK9Q5lOwpV6WUuZg",
+                "snippet": {
+                    "title": "JustALazyGamer",
+                    "description": "This is my Youtube channel where I periodically upload clips relating to games I am streaming or I am interested in.",
+                    "customUrl": "justalazygamervideos",
+                    "publishedAt": "2011-08-02T03:44:46.000Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzqjjcSnm2h4LKkhKEhxwhDYTXXD0LNhusTfw=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzqjjcSnm2h4LKkhKEhxwhDYTXXD0LNhusTfw=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzqjjcSnm2h4LKkhKEhxwhDYTXXD0LNhusTfw=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "JustALazyGamer",
+                        "description": "This is my Youtube channel where I periodically upload clips relating to games I am streaming or I am interested in."
+                    },
+                    "country": "US"
+                },
+                "statistics": {
+                    "viewCount": "762960",
+                    "commentCount": "0",
+                    "subscriberCount": "1220",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "46"
+                }
+            }
+        ]
+    }
+]

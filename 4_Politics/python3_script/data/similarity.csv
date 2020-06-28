@@ -1,0 +1,543 @@
+,channel,media,bias,similarity
+0,MSNBC,MSNBC,Left,1.0
+1,Fox News,Fox News,Right,1.0
+2,ITV News,ITV News,Right-Center,1.0
+3,LastWeekTonight,Global Risk Insights,Left-Center,0.45714285714285713
+4,Yahoo Finance,Yahoo News,Left-Center,0.6086956521739131
+5,NBC News,NBC News,Left-Center,1.0
+6,CNN,CNN,Left,1.0
+7,PBS NewsHour,PBS News Hour,Left-Center,0.96
+8,CNBC Television,USA Television,Questionable,0.7586206896551724
+9,TheEllenShow,TheEllenShow,Left-Center,1.0
+10,The Late Show with Stephen Colbert,The Truth Seeker,Conspiracy-Pseudoscience,0.48
+11,Valuetainment,Valuetainment,Right-Center,1.0
+12,Guitarist,Grist,Left-Center,0.7142857142857143
+13,Global News,Global News,Left-Center,1.0
+14,Matt Estlea,Rantt Media,Left,0.5454545454545454
+15,The Daily Show with Trevor Noah,The Daily Wire,Right,0.5777777777777777
+16,Klepper,Red Pepper,Left,0.5882352941176471
+17,CBS This Morning,The Morning Star,Left,0.625
+18,Fox Business,Fox Business,Right-Center,1.0
+19,Guardian News,Taiwan News,Left-Center,0.75
+20,The Sun,The Sun,Right,1.0
+21,CBC News,CBC News,Left-Center,1.0
+22,USA TODAY,USA Today,Left-Center,0.5555555555555556
+23,TIME,TED,Left-Center,0.5714285714285714
+24,The Eric Metaxas Radio Show,The Eric Metaxas Radio Show,Right,1.0
+25,FOX 10 Phoenix,Saskatoon StarPhoenix,Right-Center,0.45714285714285713
+26,Washington Week,Washington Blade,Left-Center,0.7741935483870968
+27,Kirsten Dirksen,Science Direct,Pro Science,0.5517241379310345
+28,Principles by Ray Dalio,Minnesota Public Radio,Left-Center,0.4888888888888889
+29,CNA Insider,Insider,Left-Center,0.7777777777777778
+30,Danielle DiMartino Booth,Daily Dot,Left,0.48484848484848486
+31,Thom Hartmann Program,Human Progress,Right-Center,0.5714285714285714
+32,Mark Knopfler Russia,Popular Resistance,Left,0.47368421052631576
+33,JamPlay,HealthyWay,Left-Center,0.47058823529411764
+34,James Taylor,Japan Today,Left-Center,0.5217391304347826
+35,Peghead Nation,The Nation,Left,0.75
+36,Normans Rare Guitars,Humans are Free,Conspiracy-Pseudoscience,0.5714285714285714
+37,CNBC,CNBC,Left-Center,1.0
+38,Click On Detroit | Local 4 | WDIV,Public Interest Legal Foundation,Right,0.4
+39,OxfordUnion,OxfordUnion,Left-Center,1.0
+40,Late Night with Seth Meyers,Watts Up with that,Conspiracy-Pseudoscience,0.4888888888888889
+41,Brian Tyler Cohen,Guardian Liberty Voice,Left,0.5128205128205128
+42,VICE News,ABC News,Left-Center,0.7058823529411765
+43,John Di Domenico,Canadian Dimension,Left,0.5294117647058824
+44,Bloomberg,Bloomberg,Left-Center,1.0
+45,C-SPAN,C-Span,Least Biased,0.5
+46,CBS News,CBS News,Left-Center,1.0
+47,Reagan Library,Reagan Library,Right-Center,1.0
+48,Dartmouth,MarketWatch,Right-Center,0.5
+49,The Obama White House,The Obama White House,Left-Center,1.0
+50,NBC New York,AM New York,Left-Center,0.782608695652174
+51,Real Time with Bill Maher,Real Time Politics,Questionable,0.6046511627906976
+52,Talks at Google,Takiís Magazine,Questionable,0.5333333333333333
+53,Town Hall Seattle,Neon Nettle,Conspiracy-Pseudoscience,0.5714285714285714
+54,HooverInstitution,Hoover Institution,Right-Center,0.9714285714285714
+55,VICE,MIC,Left-Center,0.5714285714285714
+56,NowThis News,NowThisNews,Questionable,0.9565217391304348
+57,PowerfulJRE,Powerline,Right,0.6
+58,The Intercept,The Intercept,Left-Center,1.0
+59,vpro documentary,Worldometer,Least Biased,0.5185185185185185
+60,CBC News: The National,The National,Right-Center,0.7058823529411765
+61,thechesswebsite,Health Sciences Institute,Conspiracy-Pseudoscience,0.5
+62,David Rubenstein,David Rubenstein,Right-Center,1.0
+63,Top Speed Golf - Clay Ballard,Moon of Alabama,Left,0.4090909090909091
+64,Yad Vashem,Yad Vashem,Left-Center,1.0
+65,The Telegraph,The Free Telegraph,Questionable,0.8387096774193549
+66,Good Morning Britain,The Morning Star,Left,0.6111111111111112
+67,BePure - Ben Warren,The Press-Enterprise,Right-Center,0.46153846153846156
+68,Washington Post,Washington Post,Left-Center,1.0
+69,CTV News,CTV News,Least Biased,1.0
+70,Wild Confluence,American Consequences,Right,0.5555555555555556
+71,ChessNetwork,GoodNewsNetwork,Least Biased,0.6666666666666666
+72,Coach Dat,Clash Daily,Questionable,0.6
+73,Stanford Graduate School of Business,International Business Times,Left-Center,0.46875
+74,Y Combinator,Columbia Reports,Left-Center,0.5714285714285714
+75,The Masters,The Chaser,Satire,0.7619047619047619
+76,ChrisRyanGolf,Christian Post,Right,0.5925925925925926
+77,Eyewitness News ABC7NY,ABC11 Eyewitness News,Left-Center,0.6976744186046512
+78,MassGovernor,MoveOn,Questionable,0.5555555555555556
+79,London,London Web News,Questionable,0.5714285714285714
+80,Back Intelligence,I Heart Intelligence,Conspiracy-Pseudoscience,0.7567567567567568
+81,Al Jazeera English,Al Jazeera,Left-Center,0.7142857142857143
+82,The University of Melbourne,University Business,Left-Center,0.6086956521739131
+83,60 Minutes Australia,ABC News Australia,Left-Center,0.6842105263157895
+84,92nd Street Y,Burrard Street,Satire,0.5925925925925926
+85,NYS Executive Chamber,Government Executive,Left-Center,0.4878048780487805
+86,blacktreetv,Heat Street,Right,0.5454545454545454
+87,Jimmy Kimmel Live,Daily Buzz Live,Questionable,0.5
+88,Tifo Football,Little Green Footballs,Left,0.5714285714285714
+89,Stevie Richards,Statesville Record & Landmark,Least Biased,0.5
+90,LCFC,CCTV,Left-Center,0.5
+91,talkSPORT,Kotaku,Left-Center,0.4
+92,Liberty University,Liberty Videos,Conspiracy-Pseudoscience,0.6875
+93,ReasonTV,Reason,Right-Center,0.8571428571428571
+94,KUSI News,USSA News,Right,0.7777777777777778
+95,Calvary Chapel St George,Daily Stormer,Questionable,0.4864864864864865
+96,socratesinthecity,Focus on the Family,Questionable,0.5
+97,Saddleback Church,Zebra Fact Check,Right-Center,0.48484848484848486
+98,Mashable,Mashable,Left,1.0
+99,BBC News,BBC News,Left-Center,1.0
+100,CBSN,CBS News,Left-Center,0.6666666666666666
+101,Business Insider,Business Insider,Left-Center,1.0
+102,Top 10 Talent,The Establishment,Left,0.4666666666666667
+103,Channel 4 News,Channel 4 News,Left-Center,1.0
+104,Governor Larry Hogan,Governing Magazine,Left-Center,0.5789473684210527
+105,PBS,TBS,Left-Center,0.6666666666666666
+106,Advoko MAKES,Edmonton Sun,Right-Center,0.4166666666666667
+107,Healthy Homes,Healthy Food House,Conspiracy-Pseudoscience,0.7096774193548387
+108,TA Outdoors,The Outlook,Least Biased,0.6363636363636364
+109,Sydney Living Museums,The Sydney Morning Herald,Left-Center,0.5217391304347826
+110,The Modern Home Project,The Federalist Papers Project,Questionable,0.6538461538461539
+111,james hiroshi,News biscuit,Satire,0.48
+112,Great Indoor Ideas,Northwest Indiana Times,Least Biased,0.4878048780487805
+113,Wild North Design Company,People for the American Way,Left,0.5
+114,Tom McElroy-Wild Survival,Offgrid Survival,Right,0.5853658536585366
+115,Sunflare Solar,Sunday Sport,Satire,0.6153846153846154
+116,Ontario Lakeside,Ontario Proud,Right,0.6206896551724138
+117,Tiny House Expedition,Inside Edition,Left-Center,0.5714285714285714
+118,USA,GOPUSA,Right,0.6666666666666666
+119,Urban Farmer Curtis Stone,Urban Institute,Left-Center,0.5
+120,ReaganFoundation,Heritage Foundation,Right,0.7428571428571429
+121,BBC Newsnight,BBC News,Left-Center,0.7619047619047619
+122,The Art Assignment,The Resurgent,Right,0.5806451612903226
+123,Business Casual,Business Insider,Left-Center,0.6451612903225806
+124,Financial Times,Financal Times,Least Biased,0.9655172413793104
+125,Prairie Public,Free Republic,Right,0.5925925925925926
+126,atlanticphil,Atlantic,Left-Center,0.7
+127,Stanford,Stanford,Left-Center,1.0
+128,The Black Swan Group,The Bulwark,Right-Center,0.5806451612903226
+129,Politics and Prose,Politics and Prose,Left-Center,1.0
+130,Davidson College,David Wolfe,Conspiracy-Pseudoscience,0.6666666666666666
+131,Commonwealth Club,CommonWealth fund,Left-Center,0.7647058823529411
+132,The University of Chicago,The Times of America,Questionable,0.6222222222222222
+133,UCD - University College Dublin,University Business,Left-Center,0.56
+134,CBS Evening News,Bing News,Left-Center,0.72
+135,TEDx Talks,The Hill Talk,Left-Center,0.5217391304347826
+136,David Pakman Show,David Icke,Conspiracy-Pseudoscience,0.5185185185185185
+137,KONCRETE Podcast,KONCRETE Podcast,Right,1.0
+138,JARED LETO,LA Times,Left-Center,0.3333333333333333
+139,WIRED UK,KIRO 7,Least Biased,0.42857142857142855
+140,Democracy Now!,Democracy Now,Left,0.9629629629629629
+141,Hot Ones,Nottnews,Satire,0.625
+142,TODAY,TED,Left-Center,0.5
+143,The Hill,The Hill,Least Biased,1.0
+144,UNRISD,NPR,Left-Center,0.4444444444444444
+145,DAI Heidelberg,Insider,Left-Center,0.47619047619047616
+146,Rebel HQ,Reveal,Left-Center,0.5714285714285714
+147,The Agenda with Steve Paikin,The Red Shtick,Satire,0.5238095238095238
+148,Richard Nixon Foundation,Tax Foundation,Right-Center,0.6842105263157895
+149,St Petersburg College,St. Pete for Peace,Left,0.5641025641025641
+150,PacificJustice,Pacific Pundit,Questionable,0.6428571428571429
+151,Yahoo,Yahoo News,Left-Center,0.6666666666666666
+152,Hillsdale College,The College Fix,Right,0.5625
+153,Pepperdine School of Public Policy,Mackinac Center for Public Policy,Right-Center,0.5671641791044776
+154,How To Academy,Heterodox Academy,Right-Center,0.7096774193548387
+155,EdChoice,US Chronicle,Questionable,0.6
+156,The Institute of Art and Ideas,Institute for Humane Studies,Right-Center,0.5862068965517241
+157,Discovery Science,Live Science,Pro Science,0.7586206896551724
+158,John Anderson,The Advertiser,Right,0.5185185185185185
+159,Dig And Delve,Nikkei Asian Review,Right-Center,0.5
+160,criticofgames,Patriotic Millionaires,Left-Center,0.5142857142857142
+161,Passion City Church,Rapid City Journal,Least Biased,0.5405405405405406
+162,YOUR LIVING MANNA,IRIN News,Left-Center,0.38461538461538464
+163,FOCLOnline,WalesOnline,Left-Center,0.5714285714285714
+164,Alan Howard / JW3 Speaker Series,In Homeland Security,Right-Center,0.4230769230769231
+165,The Rubin Report,The Rubin Report,Right,1.0
+166,Jordan B Peterson,The Jordan Times,Least Biased,0.5454545454545454
+167,Skavlan,Salon,Left,0.6666666666666666
+168,Studio 10,Studio News Network,Questionable,0.5
+169,Fringes,Bing News,Left-Center,0.625
+170,Russell Brand,Gulag Bound,Conspiracy-Pseudoscience,0.5
+171,Eric Weinstein,David Rubenstein,Right-Center,0.6
+172,Lewis Howes,News Heist,Right-Center,0.6666666666666666
+173,"PHP Agency, Inc.",Anadolu Agency,Right,0.4666666666666667
+174,Sean Kim,Seattle Times,Left-Center,0.5714285714285714
+175,Bloomberg Markets and Finance,Globe Magazine,Questionable,0.5116279069767442
+176,Real Vision Finance,Resilience,Left,0.5517241379310345
+177,The Brave Ones,The Beaverton,Satire,0.6666666666666666
+178,CNA,CNN,Left,0.6666666666666666
+179,FRONTLINE PBS | Official,KONCRETE Podcast,Right,0.4
+180,Trevor Noah,Prop or Not,Conspiracy-Pseudoscience,0.5454545454545454
+181,TED,TED,Left-Center,1.0
+182,Web3 Foundation,Edge Foundation,Pro Science,0.8
+183,Koncrete KLIPS,Wonkette,Left,0.45454545454545453
+184,Inside True Crime,Insider,Left-Center,0.5833333333333334
+185,Anthony Pompliano,Against Crony Capitalism,Right-Center,0.4878048780487805
+186,Sky News Australia,ABC News Australia,Left-Center,0.8333333333333334
+187,Cooking with Shotgun Red,Brookings Institute,Left-Center,0.5116279069767442
+188,mediasanctuary,Americas Quarterly,Right-Center,0.5625
+189,Independent Institute,The Independent Institute,Right-Center,0.9130434782608695
+190,Serious Science,Skeptical Science,Pro Science,0.6875
+191,Buon-A-Petitti,Connecticut Post,Left-Center,0.4666666666666667
+192,Cooking with Pina,Brookings Institute,Left-Center,0.5
+193,Carmelas Kitchen54,Dallas Voice,Left,0.5333333333333333
+194,lil Piece of Hart * LOW CARB Cooking *,National Conference of State Legislatures,Least Biased,0.379746835443038
+195,Maangchi,GMWatch,Conspiracy-Pseudoscience,0.5333333333333333
+196,Exploring Alternatives,Modern Alternative Mama,Conspiracy-Pseudoscience,0.6666666666666666
+197,Sailing SV Delos,Filming Cops,Left,0.5714285714285714
+198,Miami,Mediaite,Left,0.6153846153846154
+199,Our Journey In Myles,Our World In Data,Left-Center,0.5405405405405406
+200,ABC News,ABC News,Left-Center,1.0
+201,Roots and Refuge Farm,Crooks and Liars,Left,0.5405405405405406
+202,California Garden TV,California Globe,Right-Center,0.7222222222222222
+203,Nature's Always Right,Yes Iím Right,Questionable,0.5294117647058824
+204,Sam Chui,Smirking Chimp,Left,0.5454545454545454
+205,Wendover Productions,Wendover Productions,Left-Center,1.0
+206,Women Behind Bars: Life And Death In Indiana,Science Based Medicine,Pro Science,0.42424242424242425
+207,truly,truly,Left-Center,1.0
+208,Loudwire,Louder with Crowder,Right,0.5925925925925926
+209,TheNOFAVT,The Age,Left-Center,0.5
+210,Rebel Wisdom,Republic World,Right-Center,0.5384615384615384
+211,Tilo Jung,Daily Journal,Least Biased,0.5454545454545454
+212,DurhamUniversity,DiversityInc,Left-Center,0.6428571428571429
+213,ShirleyFilms,Viral Devil,Satire,0.5217391304347826
+214,MIT Center for International Studies,Center for Immigration Studies,Questionable,0.7878787878787878
+215,Canberra,Change.org,Left,0.5555555555555556
+216,Charisma on Command,Christian Today,Right,0.5882352941176471
+217,Jeremy Vine on 5 - Official Channel,Canadian Public Affairs Channel,Least Biased,0.45454545454545453
+218,Centre for International Governance Innovation,Center for International Policy,Left-Center,0.6753246753246753
+219,Extinction Rebellion,Washington Babylon,Left,0.5263157894736842
+220,Toronto Public Library,Public Library of Science,Pro Science,0.5957446808510638
+221,FRANCE 24 English,Now The End Begins,Conspiracy-Pseudoscience,0.45714285714285713
+222,Vox,Vox,Left,1.0
+223,Southern California,The Southern Illinoisan,Least Biased,0.6190476190476191
+224,Aviation World,National Journal,Least Biased,0.6
+225,Micah Muzio,Medical Medium,Conspiracy-Pseudoscience,0.56
+226,Z88,TMZ,Left-Center,0.3333333333333333
+227,Jerry White,Angry White Men,Left,0.6153846153846154
+228,Pilot Bambi,Patriot Beat,Questionable,0.6086956521739131
+229,Bermuda,Brampton Guardian,Left-Center,0.5
+230,Air-Clips.com,Apost.com,Conspiracy-Pseudoscience,0.6363636363636364
+231,ProducerMichael,Pro-America News,Questionable,0.5806451612903226
+232,Hashiroyaa,Washingtonian,Left,0.5217391304347826
+233,Dj's Aviation,The Nation,Left,0.5217391304347826
+234,World Top ONE,World News,Least Biased,0.6086956521739131
+235,AviationHub,iPatriot,Right,0.5263157894736842
+236,The B1M,The BMJ,Pro Science,0.8571428571428571
+237,The Daily Conversation,The Conversation,Least Biased,0.8421052631578947
+238,the Luxury Travel Expert,The Saturday Paper,Left-Center,0.5238095238095238
+239,Eddie Khoo,Edge Foundation,Pro Science,0.48
+240,JOALI Maldives,Open Magazines,Questionable,0.5
+241,Mr. Luxury,Dr. Axe,Conspiracy-Pseudoscience,0.47058823529411764
+242,RealLifeLore,Healio,Pro Science,0.5555555555555556
+243,ABC Science,ZME Science,Pro Science,0.7272727272727273
+244,TinHatRanch,Twitchy,Right,0.5555555555555556
+245,Duet Justus,Left Justified,Left-Center,0.56
+246,Undecided with Matt Ferrell,Media Matters,Left,0.5
+247,Subject Zero Science,Society for Science,Pro Science,0.6666666666666666
+248,Warren Redlich,Free Republic,Right,0.5925925925925926
+249,Spacex,Space.com,Pro Science,0.6666666666666666
+250,Lectures by Walter Lewin. They will make you ♥ Physics.,National Institute on Money in State Politics,Least Biased,0.38
+251,Pask Makes,Paste Magazine,Left,0.5833333333333334
+252,King's Fine Woodworking,Big News Network,Least Biased,0.46153846153846156
+253,WOOD magazine,Out Magazine,Left,0.72
+254,Aspiring Craftsman,Austin American-Statesman,Left-Center,0.5581395348837209
+255,Rex Krueger,Red Pepper,Left,0.5714285714285714
+256,5 Levels,No Labels,Least Biased,0.5882352941176471
+257,DW Documentary,Law Enforcement Today,Right,0.5142857142857142
+258,MIT Venture Capital & Innovation,The Century Foundation,Left-Center,0.5185185185185185
+259,Real Engineering,GeoEngineering Watch,Conspiracy-Pseudoscience,0.6666666666666666
+260,fullychargedshow,Bullshido,Least Biased,0.48
+261,Naked Science,Live Science,Pro Science,0.72
+262,Dalibor Farný,Baltimore Sun,Left-Center,0.5384615384615384
+263,Perimeter Institute for Theoretical Physics,Peterson Institute for International Economics,Least Biased,0.6741573033707865
+264,Food Insider,Insider,Left-Center,0.7368421052631579
+265,Khaleej Times,The Times,Satire,0.7272727272727273
+266,Chris Flaten,Charisma News,Conspiracy-Pseudoscience,0.56
+267,Wall Street Journal,Wall Street Journal,Right-Center,1.0
+268,MLive,MLive,Least Biased,1.0
+269,The View,The News,Least Biased,0.75
+270,OWN,WNYC,Left-Center,0.5714285714285714
+271,The New York Times,New York Times,Left-Center,0.875
+272,WXYZ-TV Detroit | Channel 7,WSAZ News Channel,Least Biased,0.5454545454545454
+273,criminals and crime fighters,Journal Politics and Society,Left-Center,0.5
+274,Death Row: Inside Indiana State Prison,National Institute on Money in State Politics,Least Biased,0.5542168674698795
+275,SecretWhispersOfCrime,DC Whispers,Right,0.5
+276,Nicolas Lepage,Nova Magazine,Left,0.5185185185185185
+277,True Crime Daily,The Courier Mail,Right-Center,0.6875
+278,Merc,Mercola,Conspiracy-Pseudoscience,0.7272727272727273
+279,depisicableboy676,Medical News Today,Pro Science,0.45714285714285713
+280,Real Stories,Lead Stories,Least Biased,0.8333333333333334
+281,Real Families,Vera Files,Least Biased,0.6956521739130435
+282,NBC Left Field,Deep Left Field,Questionable,0.7586206896551724
+283,NETNebraska,NTK Network,Right,0.5454545454545454
+284,Curious,Curiosity.com,Least Biased,0.6
+285,Origin,Highline,Left-Center,0.5714285714285714
+286,Attitude,ACNLatitudes,Conspiracy-Pseudoscience,0.7
+287,ICallsEmLikeISeesEm,InsideSources,Right-Center,0.4375
+288,darkdocumentaries,Frontiers,Pro Science,0.5384615384615384
+289,Christopher Johnson,Mother Jones,Left-Center,0.5806451612903226
+290,Jesusmalaark11,Jesus Daily,Conspiracy-Pseudoscience,0.56
+291,MsMojo,Ms.,Left,0.4444444444444444
+292,Karol Andy,Anadolu Agency,Right,0.5833333333333334
+293,judgejudyhighlights7,FivethirtyEight,Left-Center,0.4
+294,Mow 1567,Moscow Times,Left-Center,0.4
+295,Spencer Lent,Science Debate,Least Biased,0.6153846153846154
+296,Viral Now,Viral Cords,Satire,0.7
+297,Dr. Phil,Dr. Axe,Conspiracy-Pseudoscience,0.5333333333333333
+298,MTV Catfish,Climatism,Conspiracy-Pseudoscience,0.5
+299,WatchMojo.com,CalWatchdog.com,Left-Center,0.7142857142857143
+300,WinFail Compilations,American Family Association,Questionable,0.5957446808510638
+301,43Kouta,Kotaku,Left-Center,0.6153846153846154
+302,FactFaction,FactsCan,Least Biased,0.631578947368421
+303,Comedy Central,Comedy Central,Left-Center,1.0
+304,Nicki Swift,MediaShift,Least Biased,0.47619047619047616
+305,Reelmen Films,Vera Files,Least Biased,0.5217391304347826
+306,WORLD Channel,WSAZ News Channel,Least Biased,0.6
+307,American Diabetes Association,American Family Association,Questionable,0.7857142857142857
+308,Sonnie Veldhuis,Stone Cold Truth,Questionable,0.5161290322580645
+309,Alamo YTC Germany,Brampton Guardian,Left-Center,0.47058823529411764
+310,MDA Telethon,USA Television,Questionable,0.6153846153846154
+311,TeeVees Greatest,The Greanville Post,Conspiracy-Pseudoscience,0.5714285714285714
+312,Anand Naidoo,Amandla,Left,0.5263157894736842
+313,FiveGames,Firearms News,Right-Center,0.6363636363636364
+314,Tom Gameplay,La Stampa,Left-Center,0.47619047619047616
+315,Android Gameplay,One Angry Gamer,Right,0.5161290322580645
+316,FandangoNOW Extras,Financal Express,Least Biased,0.5294117647058824
+317,TouchTapGameplay,The Epoch Times,Right,0.45161290322580644
+318,Daylins Funhouse,Breaking News House,Questionable,0.5142857142857142
+319,New York City,New York Post,Right-Center,0.7692307692307693
+320,Nik Rijavec,Daily Maverick,Least Biased,0.48
+321,Tod's Workshop,How Stuff Works,Pro Science,0.4827586206896552
+322,Nicole Michael,No Labels,Least Biased,0.5217391304347826
+323,mylittlehomestead,Seattle Times,Left-Center,0.4666666666666667
+324,relaxshacksDOTcom,CrossCut.com,Left-Center,0.41379310344827586
+325,Living Big In A Tiny House,Living Whole,Conspiracy-Pseudoscience,0.47368421052631576
+326,My Self Reliance,Resilience,Left,0.5384615384615384
+327,Greenbrier Bushcraft,Greenville Gazette,Left,0.5263157894736842
+328,Off Grid Athlete,One Green Planet,Left,0.5
+329,KCETOnline,WalesOnline,Left-Center,0.5714285714285714
+330,Cherzo,Cerno,Questionable,0.7272727272727273
+331,dreamlivingLA,Feministing,Left,0.5
+332,Lumnah Acres,La Presse,Left-Center,0.5714285714285714
+333,dekor20,Adweek,Least Biased,0.46153846153846156
+334,James Bruno,Jackson Sun,Least Biased,0.5454545454545454
+335,Theodosis Roussos,The Root,Left,0.56
+336,ShelterMode,Alternet,Left,0.5263157894736842
+337,Penniac Wilderness,The Wilderness Society,Left-Center,0.6
+338,Full Send Alaskan Overland,Wings Over Scotland,Left-Center,0.4888888888888889
+339,Marshall Remodel,Mashable,Left,0.5833333333333334
+340,Michigan Backwoods,Maine Beacon,Left-Center,0.5333333333333333
+341,Tofua,TooFab,Questionable,0.5454545454545454
+342,Taras Kul,Tarbell,Left-Center,0.5
+343,Reallybigmonkey1,RealClimate,Pro Science,0.5925925925925926
+344,The Outsider,The Outline,Left,0.782608695652174
+345,Southern Indiana Living and Sawmill,Northwest Indiana Times,Least Biased,0.5172413793103449
+346,Red Poppy Ranch,Red Pepper,Left,0.56
+347,Gone with the Wynns,News with Views,Questionable,0.5294117647058824
+348,The O'Kelly's,The Delorables,Questionable,0.5925925925925926
+349,Bocas del Toro,Politics and Prose,Left-Center,0.5
+350,USA TODAY Life,USA Public Life,Questionable,0.6206896551724138
+351,Tikki O.,Timeline,Left-Center,0.375
+352,patchtoplate,Patriot Update,Questionable,0.5384615384615384
+353,LANDiO,LADbible,Questionable,0.5714285714285714
+354,cmdealernet,Alternet,Left,0.631578947368421
+355,UAFExtension,Fusion,Left-Center,0.5555555555555556
+356,Pete Kanaris GreenDreamsFL,Chattanooga Times Free Press,Least Biased,0.48148148148148145
+357,Justin Rhodes,Just the News,Right,0.6153846153846154
+358,BuzzFeed Multiplayer,Buzzfeed,Left-Center,0.5
+359,JFK Assassination History,Assassination Science,Conspiracy-Pseudoscience,0.6521739130434783
+360,CBS Sunday Morning,Sunday Sport,Satire,0.6
+361,Chromosome8,Common Cause,Left-Center,0.5217391304347826
+362,Cambridge University,Cambridge Analytica,Right,0.6153846153846154
+363,The First World War,The World Canít Wait,Left,0.6153846153846154
+364,Timeline - World History Documentaries,Science History Institute,Pro Science,0.47619047619047616
+365,YouTube Originals,Ancient Origins,Conspiracy-Pseudoscience,0.5625
+366,Sky News,Sky News,Least Biased,1.0
+367,ARD,Al DIA,Left,0.4444444444444444
+368,euronews (in English),Answers in Genesis,Conspiracy-Pseudoscience,0.5128205128205128
+369,China in Focus - NTD,Foreign Policy in Focus,Left-Center,0.5116279069767442
+370,Learn English with Gill (engVid),News with Views,Questionable,0.425531914893617
+371,Vincent Racaniello,Voice of San Diego,Least Biased,0.5555555555555556
+372,10 Downing Street,The Morning Star,Left,0.6060606060606061
+373,HuffPost UK,Huffington Post,Left,0.6153846153846154
+374,Saint Louis Chess Club,The Laugh Club,Questionable,0.5
+375,Школа Шахмат ChessMaster,The Chaser,Satire,0.4117647058823529
+376,Balkan chess,Balkan Insight,Left-Center,0.6153846153846154
+377,Libya,Liberty Nation,Right,0.5263157894736842
+378,Insider,Insider,Left-Center,1.0
+379,True Stories,Lead Stories,Least Biased,0.75
+380,Mark Shaw,Hard Dawn,Satire,0.5555555555555556
+381,Experience Egypt,Experience Awareness,Questionable,0.6111111111111112
+382,History Buffs,History News Network,Left-Center,0.5454545454545454
+383,vito iacopelli,Egberto Willies,Left,0.4827586206896552
+384,Italia Squisita,Inquisitr,Left-Center,0.5833333333333334
+385,The Pizza Show,The Shovel,Satire,0.5833333333333334
+386,American Masters PBS,American News X,Left,0.6857142857142857
+387,Rockin Robin Cooks,Talking Points Memo,Left,0.4864864864864865
+388,HomeyCircle,Comedy Central,Left-Center,0.56
+389,Timothy Schweitzer,The Scientist,Pro Science,0.5161290322580645
+390,Ahlulbayt TV,Al-Hayat,Left-Center,0.5
+391,SpicesNFlavors,Skeptical Raptor,Pro Science,0.5333333333333333
+392,California,California Globe,Right-Center,0.7692307692307693
+393,Latifs Inspired,Autism Investigated,Conspiracy-Pseudoscience,0.5882352941176471
+394,My Name Is Andong,Mehr News Agency,Questionable,0.48484848484848486
+395,OrsaraRecipes,Stars and Stripes,Least Biased,0.5333333333333333
+396,Aashpazi.com,SwampDrain.com,Questionable,0.6153846153846154
+397,Handy cook,Hannity.com,Questionable,0.5714285714285714
+398,Dot2Trot's Low Carb Living,Front Page Live,Left,0.43902439024390244
+399,Cooking with Mitisha,Exposing the Truth,Left-Center,0.5263157894736842
+400,Sailing Nahoa,Filming Cops,Left,0.56
+401,Monday Never,Monthly Review,Left-Center,0.6153846153846154
+402,ideacity,Federalist Society,Right,0.5384615384615384
+403,Erik Aanderaa,Amandla,Left,0.5
+404,Minds Eye Design,MindBodyGreen,Conspiracy-Pseudoscience,0.5517241379310345
+405,AQUAHOLIC,AOL,Left-Center,0.5
+406,TheYachtGuy Official,The Sociable,Least Biased,0.5
+407,Yachts For Sale,Places Journal,Least Biased,0.5517241379310345
+408,Drivin' and Vibin',Enduring Vision,Satire,0.48484848484848486
+409,"You, Me & the RV",Youth Radio,Left-Center,0.5185185185185185
+410,Changing Lanes,The Waking Times,Conspiracy-Pseudoscience,0.5333333333333333
+411,Moving Forward Adventures,Moving Left,Questionable,0.5
+412,SB Nation,LGBTQ Nation,Left,0.7619047619047619
+413,IV Organic,Organic Facts,Conspiracy-Pseudoscience,0.6086956521739131
+414,Arms Family Homestead,Austin Daily Herald,Left-Center,0.6
+415,San Diego,San Diego Reader,Left-Center,0.72
+416,Mike Kincaid,Malaysiakini,Left-Center,0.5
+417,MIgardener,Z Magazine,Left,0.5
+418,Gardener Scott,Awareness Act,Conspiracy-Pseudoscience,0.5925925925925926
+419,Self Sufficient Me,Skeptical Science,Pro Science,0.5714285714285714
+420,Scott Head,Boston Herald,Right-Center,0.6086956521739131
+421,The Gardening Channel With James Prigioni,The Palestine Chronicle,Left,0.46875
+422,Movieclips,Mothership,Left-Center,0.5
+423,BBC,CNBC,Left-Center,0.5714285714285714
+424,Los Angeles Times,Los Angeles Daily News,Right-Center,0.7692307692307693
+425,SixthFloorMuseum,Healthy Food House,Conspiracy-Pseudoscience,0.47058823529411764
+426,The City of Irving,The Citizen,Left-Center,0.6206896551724138
+427,BuzzFeedVideo,Buzzfeed,Left-Center,0.6666666666666666
+428,djvlad,Canadaland,Left-Center,0.5
+429,Technique Critique,The Citizen,Left-Center,0.6206896551724138
+430,JCS - Criminal Psychology,Frontiers in Psychology,Pro Science,0.5833333333333334
+431,Newshub,Newsbud,Conspiracy-Pseudoscience,0.7142857142857143
+432,Grace John,Places Journal,Least Biased,0.5833333333333334
+433,Roman Green,American Greatness,Right,0.5517241379310345
+434,Inc.,InfoScum,Questionable,0.5
+435,TheFlightChannel,The Militant,Left,0.5714285714285714
+436,Real Royalty,HealthyWay,Left-Center,0.5454545454545454
+437,Darkness to Light,We are the Mighty,Least Biased,0.5882352941176471
+438,Conversations with Bill Kristol,Conservative Daily Post,Questionable,0.5185185185185185
+439,Bloggingheads.tv,Blingnews.com,Questionable,0.5517241379310345
+440,Jamie Gos,Daily Kos,Left,0.5555555555555556
+441,Prey Productions,Godlike Productions,Conspiracy-Pseudoscience,0.7428571428571429
+442,The Why,The Whim,Least Biased,0.8
+443,Fox5NY,Fox News,Right,0.5714285714285714
+444,Seattle Channel,Seattle Times,Left-Center,0.6428571428571429
+445,Tristanio,Christian Post,Right,0.6086956521739131
+446,Strombo,Stratfor,Least Biased,0.5333333333333333
+447,uDiscover Music,Discover Magazine,Pro Science,0.6875
+448,Al Jazeera America,Al Jazeera,Left-Center,0.7142857142857143
+449,Larry King,Larry King,Left-Center,1.0
+450,University of California Television (UCTV),Alternative Media Television,Conspiracy-Pseudoscience,0.5142857142857142
+451,The Paley Center for Media,The Daily Centrist,Least Biased,0.6363636363636364
+452,Face the Nation,Fash the Nation,Questionable,0.8666666666666667
+453,National Constitution Center,National Institutes of Health,Pro Science,0.7017543859649122
+454,OSSA,GOPUSA,Right,0.6
+455,Middle Ground,Middle East Forum,Questionable,0.6
+456,SWAY'S UNIVERSE,KUOW NPR,Left-Center,0.34782608695652173
+457,TEDMED,TED,Left-Center,0.6666666666666666
+458,metaRising,America Rising PAC,Right,0.6428571428571429
+459,VegSource,InsideSources,Right-Center,0.6363636363636364
+460,CBS,TBS,Left-Center,0.6666666666666666
+461,Gresham College,The College Fix,Right,0.6
+462,CBN News,CBC News,Left-Center,0.875
+463,Breakfast Club Power 105.1 FM,Breaking News House,Questionable,0.375
+464,Nick Cannon,BackChannel,Left-Center,0.5454545454545454
+465,SkillsUSA,Stock News USA,Least Biased,0.5217391304347826
+466,The Dave Ramsey Show,The Common Sense Show,Conspiracy-Pseudoscience,0.5853658536585366
+467,CenturaHealth,Natural Health 365,Conspiracy-Pseudoscience,0.6451612903225806
+468,PTReviewer,BizPac Review,Right,0.6086956521739131
+469,Turnah81,TheJournal.ie,Least Biased,0.47619047619047616
+470,VATA,STAT,Least Biased,0.5
+471,Adam Fields DC,Army Times,Least Biased,0.5
+472,SMHCS,MIC,Left-Center,0.5
+473,Out of the Doldrums,Our Land of the Free,Satire,0.5641025641025641
+474,Hippo Education,Inside Edition,Left-Center,0.5517241379310345
+475,Henry Schein Dental,Psych Central,Pro Science,0.5625
+476,Canada,Canadaland,Left-Center,0.75
+477,USC,MSNBC,Left,0.5
+478,JoshuaG,Mosaic,Pro Science,0.46153846153846156
+479,Team Coco,The Dodo,Left,0.5882352941176471
+480,Fire Films,Vera Files,Least Biased,0.6
+481,WGN RADIO VIDEO,WGN News,Left-Center,0.34782608695652173
+482,Payments Canada,FactsCan,Least Biased,0.5217391304347826
+483,TradingCoachUK,Trending Politics,Questionable,0.5161290322580645
+484,TEAM APHRODITE,Al DIA,Left,0.4
+485,16x9onglobal,Mongabay,Left-Center,0.5
+486,PierceCollegeDist11,The College Fix,Right,0.5294117647058824
+487,Understood,Universe Today,Pro Science,0.5833333333333334
+488,Quantum Gravity Research,Institute for Creation Research,Conspiracy-Pseudoscience,0.5818181818181818
+489,Olivier BOSSARD,Gainesville Sun,Least Biased,0.4
+490,WIRED,TED,Left-Center,0.5
+491,Performance Coaching,HermanCain.com,Right,0.5294117647058824
+492,CMX,CT Mirror,Left-Center,0.3333333333333333
+493,THE JORDAN HARBINGER SHOW,The Next Web,Left-Center,0.2702702702702703
+494,WORLD.MINDS,WION,Least Biased,0.4
+495,NBC,CNBC,Left-Center,0.8571428571428571
+496,CinemaNewsGR,Charisma News,Conspiracy-Pseudoscience,0.64
+497,LaughPlanet,Highline,Left-Center,0.5263157894736842
+498,J.D. Funari,B.T. Denmark,Right-Center,0.5217391304347826
+499,Harvard University,Harvard Gazette,Least Biased,0.6060606060606061
+500,asj584,News24,Least Biased,0.3333333333333333
+501,Watch What Happens Live with Andy Cohen,Watts Up with that,Conspiracy-Pseudoscience,0.45614035087719296
+502,Bobblehead Conan,Cold Dead Hands,Right,0.5161290322580645
+503,What The Fit,The City,Left-Center,0.6
+504,NFL,WOFL,Least Biased,0.5714285714285714
+505,Oscars,NewsWars,Questionable,0.5714285714285714
+506,FanboyFilms,Freakonomics,Left-Center,0.5217391304347826
+507,cocksandballs123,Crooks and Liars,Left,0.5
+508,Top Se7en,Above Top Secret,Conspiracy-Pseudoscience,0.56
+509,James Thomas,News Thump,Satire,0.5454545454545454
+510,Full Frontal with Samantha Bee,We Hunted the Mammoth,Left,0.43137254901960786
+511,Andrew DC TV,Press TV,Questionable,0.5
+512,University of Houston,University Business,Left-Center,0.7
+513,Grow Successful,Got Questions,Conspiracy-Pseudoscience,0.5
+514,MulliganBrothers,Mothership,Left-Center,0.5384615384615384
+515,MotivationHub,Live Action,Conspiracy-Pseudoscience,0.5
+516,Goalcast,Global Post,Left-Center,0.631578947368421
+517,The University of Texas at Austin,University Business,Left-Center,0.5769230769230769
+518,The Democrats,The Star Democrat,Least Biased,0.8
+519,The University of Edinburgh,The Times of India,Right-Center,0.5777777777777777
+520,Pax Aeterna,Aleteia,Right-Center,0.5555555555555556
+521,Harvard Magazine,Nova Magazine,Left,0.7586206896551724
+522,Maharishi International University,New Internationalist,Left,0.6296296296296297
+523,John Schroter,The Frontier,Left-Center,0.56
+524,Leandro Borges,Lead Stories,Least Biased,0.6923076923076923
+525,ColdFusion,Fusion,Left-Center,0.75
+526,mgnfi,Humanium,Left-Center,0.46153846153846156
+527,ritm 1,Grist,Left-Center,0.5454545454545454
+528,Ashish Pandey,This Magazine,Left,0.5384615384615384
+529,Conando Russia,Crooks and Liars,Left,0.5333333333333333
+530,Top 30 Youtubers,The Blue Route,Left,0.4666666666666667
+531,Gervais Junkie,Conservative Tribune,Questionable,0.5294117647058824
+532,SportsGamingCubing,BoingBoing,Left,0.5
+533,The Trigger Mechanism,The Courier Mail,Right-Center,0.6486486486486487
+534,Crescendo,GreenMedInfo,Conspiracy-Pseudoscience,0.5714285714285714
+535,Hilly Dee,Hill Reporter,Left,0.6363636363636364
+536,Leo Mak,Henry Makow,Conspiracy-Pseudoscience,0.5555555555555556
+537,Universal Comedy,Universe Today,Pro Science,0.6
+538,Television Academy,Heterodox Academy,Right-Center,0.6285714285714286
+539,pilkipediaTV,Wikipedia,Least Biased,0.7619047619047619
+540,Channel 4,Channel 4 News,Left-Center,0.782608695652174
+541,Eva Collins Alonso,Rolling Stone,Left,0.5161290322580645

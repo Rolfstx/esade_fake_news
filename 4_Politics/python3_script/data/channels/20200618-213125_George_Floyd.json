@@ -1,0 +1,51 @@
+[
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "rDQY5AqhXlCIdzTcdJ2xHHjGkFk",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "7nv-J9a_MqwztzsPSzH7LikqqlM",
+                "id": "UCqnbDFdCpuN8CMEg0VuEBqA",
+                "snippet": {
+                    "title": "The New York Times",
+                    "description": "The New York Times is the most powerful engine for independent, boots-on-the-ground and deeply reported journalism. We set the standard for the most ambitious and innovative storytelling across features, news and investigations. Because we\u2019re journalists, we\u2019re excited to report the news as quickly as possible, use new technological resources to uncover the truth, and unearth new cultural phenomenons with our critics. The internet didn\u2019t plant these ideas in our heads. We\u2019ve always been this way.  It's all the news that's fit to watch. On YouTube.",
+                    "customUrl": "nytimes",
+                    "publishedAt": "2006-10-13T21:57:36Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzn56cpcGaVMwoSbfws4yNCSPWXWzbuzAtwHg=s88-c-k-c0xffffffff-no-rj-mo",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzn56cpcGaVMwoSbfws4yNCSPWXWzbuzAtwHg=s240-c-k-c0xffffffff-no-rj-mo",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/a/AATXAJzn56cpcGaVMwoSbfws4yNCSPWXWzbuzAtwHg=s800-c-k-c0xffffffff-no-rj-mo",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "The New York Times",
+                        "description": "The New York Times is the most powerful engine for independent, boots-on-the-ground and deeply reported journalism. We set the standard for the most ambitious and innovative storytelling across features, news and investigations. Because we\u2019re journalists, we\u2019re excited to report the news as quickly as possible, use new technological resources to uncover the truth, and unearth new cultural phenomenons with our critics. The internet didn\u2019t plant these ideas in our heads. We\u2019ve always been this way.  It's all the news that's fit to watch. On YouTube."
+                    }
+                },
+                "statistics": {
+                    "viewCount": "1013306636",
+                    "commentCount": "0",
+                    "subscriberCount": "2990000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "9788"
+                }
+            }
+        ]
+    }
+]

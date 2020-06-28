@@ -1,0 +1,46 @@
+#install bs4 for python2.7
+sudo easy_install-2.7 pip
+sudo python2.7 -m pip install bs4
+sudo python2.7 -m pip install lxml
+cd ~/Documents/GitHub/esade_fake_news/1_Climate_Change/youtube_query
+
+#v1
+python2.7 follow-youtube-recommendations.py --query="climate change" --searches=1 --branch=4 --depth=4 --name="climate_v1_b4_d4" --gl="US" --language="en" --"loopok"=True
+
+#v2
+python2.7 follow-youtube-recommendations_v3.py --query="climate change" --searches=1 --branch=4 --depth=4 --name="climate_v1_b4_d4" --gl="US" --language="en" --"loopok"=True
+total videos = 69
+unique videos = 67
+
+#youtube.py query
+#v1
+python3 youtube.py --query="climate change" --searches=1 --branch=3 --depth=6 --channels="False" --key='AIzaSyAn8lYgin9KQIOuJYQsxJhELOuXq2w2-9E'
+total videos = 131
+unique videos = 98
+
+#v2
+python3 youtube.py --query="climate change is a lie" --searches=1 --branch=3 --depth=6 --channels="False" --key='AIzaSyAn8lYgin9KQIOuJYQsxJhELOuXq2w2-9E'
+total videos = 364
+unique videos = 221
+
+#v3
+python3 youtube.py --query="climate change a hoax" --searches=3 --branch=3 --depth=6 --channels="False" --key='AIzaSyAn8lYgin9KQIOuJYQsxJhELOuXq2w2-9E'
+total videos = 1080
+unique videos = 271
+
+#v4
+python3 youtube.py --query="climate skeptic" --searches=3 --branch=4 --depth=6 --channels="False" --key='AIzaSyAn8lYgin9KQIOuJYQsxJhELOuXq2w2-9E'
+total videos = 
+unique videos =
+
+#v5
+python3 youtube.py --query="death penalty" --searches=3 --branch=4 --depth=6 --channels="False" --key='AIzaSyAn8lYgin9KQIOuJYQsxJhELOuXq2w2-9E'
+
+#v6
+python3 youtube.py --query="gun control" --searches=3 --branch=3 --depth=6 --channels="False" --key='AIzaSyAn8lYgin9KQIOuJYQsxJhELOuXq2w2-9E'
+
+#query = seed search for youtube
+#searches = after searching for "climate change", for example, it takes the first 4 searches and starts the loop. I put searches = 1 because we want to start with the top result
+#branch = how many recommendations to follow. I put branch = 10 meaning to follow top 10 recommendations of each video.
+#depth = how deep should the scraping go. i.e. how many loops.
+#name = how the file will be saved
